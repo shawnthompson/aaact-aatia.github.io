@@ -240,12 +240,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/how-aaact-help-you/</loc>
+		<lastmod>2024-05-14</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/</loc>
 		<lastmod>2024-05-14</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/</loc>
+		<lastmod>2024-05-14</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/programme-aatia-peut-aider/</loc>
 		<lastmod>2024-05-14</lastmod>
 	</url>
 	
