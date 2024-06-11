@@ -2,6 +2,7 @@ backend:
   name: github
   repo: shawnthompson/aaact-aatia.github.io
   branch: main
+  site_url: https://shawnthompson.github.io/aaact-aatia.github.io
 
 media_folder: "/public/img/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /images/uploads
