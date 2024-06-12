@@ -1,8 +1,9 @@
 backend:
   name: github
-  repo: shawnthompson/aaact-aatia.github.io
+  repo: aaact-aatia/aaact-aatia.github.io
   branch: main
-  site_url: https://shawnthompson.github.io/aaact-aatia.github.io
+
+publish_mode: editorial_workflow
 
 media_folder: "/public/img/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /images/uploads
@@ -22,9 +23,9 @@ i18n:
   default_locale: en
 
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "src/blog"
+  - name: "events"
+    label: "Events"
+    folder: "src/events"
     create: true
     slug: "{{slug}}"
     i18n: true
