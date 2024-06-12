@@ -244,6 +244,16 @@
 	</url>
 	
 	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/</loc>
+		<lastmod>2024-06-12</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/evenements/</loc>
+		<lastmod>2024-06-12</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/</loc>
 		<lastmod>2024-06-12</lastmod>
 	</url>
