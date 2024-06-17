@@ -30,7 +30,7 @@
 	<meta name="dcterms.creator" content="">
 	<meta name="dcterms.language" content="" />
 	<meta name="dcterms.created" content="2023-08-01">
-	<meta name="dcterms.modified" content="2024-06-12" >
+	<meta name="dcterms.modified" content="2024-06-17" >
 	<meta name="dcterms.subject" content="" />
 
 </head>
@@ -225,47 +225,47 @@
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/how-aaact-help-you/</loc>
-		<lastmod>2024-06-12</lastmod>
+		<lastmod>2024-06-17</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/</loc>
-		<lastmod>2024-06-12</lastmod>
+		<lastmod>2024-06-17</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/intake/</loc>
-		<lastmod>2024-06-12</lastmod>
+		<lastmod>2024-06-17</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/intake/intake-form/</loc>
-		<lastmod>2024-06-12</lastmod>
+		<lastmod>2024-06-17</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/</loc>
-		<lastmod>2024-06-12</lastmod>
+		<lastmod>2024-06-17</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/evenements/</loc>
-		<lastmod>2024-06-12</lastmod>
+		<lastmod>2024-06-17</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/</loc>
-		<lastmod>2024-06-12</lastmod>
+		<lastmod>2024-06-17</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/programme-aatia-peut-aider/</loc>
-		<lastmod>2024-06-12</lastmod>
+		<lastmod>2024-06-17</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/</loc>
-		<lastmod>2024-06-12</lastmod>
+		<lastmod>2024-06-17</lastmod>
 	</url>
 </urlset>
 
@@ -279,7 +279,7 @@
 		<div class="col-sm-6 col-md-5 col-lg-4 col-sm-pull-4 col-md-pull-3">
 			<dl id="wb-dtmd">
 				<dt></dt>
-				<dd><time property="dateModified" datetime="2024-06-12">2024-06-12</time></dd>
+				<dd><time property="dateModified" datetime="2024-06-17">2024-06-17</time></dd>
 			</dl>
 		</div>
 	</div>
