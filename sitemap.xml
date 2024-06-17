@@ -244,7 +244,17 @@
 	</url>
 	
 	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/document-accessibility-workshop/</loc>
+		<lastmod>2024-06-17</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/</loc>
+		<lastmod>2024-06-17</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/evenements/atelier-des-documents-accessibles/</loc>
 		<lastmod>2024-06-17</lastmod>
 	</url>
 	
