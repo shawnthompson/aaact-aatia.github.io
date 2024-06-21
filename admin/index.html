@@ -18,37 +18,11 @@
 			if (window.netlifyIdentity) {
 				window.netlifyIdentity.on("init", user => {
 					if (!user) {
-						window.netlifyIdentity.on("login", user => {
-							callCustomAuthFunction(user.token.access_token);
+						window.netlifyIdentity.on("login", () => {
 							document.location.href = "/admin/";
 						});
-					} else {
-						// Custom function call after login
-						callCustomAuthFunction(user.token.access_token);
 					}
 				});
-
-				window.netlifyIdentity.on("login", user => {
-					callCustomAuthFunction(user.token.access_token);
-				});
-
-				function callCustomAuthFunction(accessToken) {
-					// Call the auth function with the correct authorization code
-					fetch('/.netlify/functions/auth?code=' + accessToken, {
-						method: 'GET',
-						headers: {
-							'Content-Type': 'application/json',
-							'Authorization': `Bearer ${accessToken}`
-						}
-					})
-						.then(response => response.json())
-						.then(data => {
-							console.log('Custom auth function response:', data);
-						})
-						.catch(error => {
-							console.error('Error calling custom auth function:', error);
-						});
-				}
 			}
 		</script>
 
