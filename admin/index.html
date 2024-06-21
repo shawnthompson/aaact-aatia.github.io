@@ -21,8 +21,34 @@
 						window.netlifyIdentity.on("login", () => {
 							document.location.href = "/admin/";
 						});
+					} else {
+						// Custom function call after login
+						callCustomAuthFunction(user);
 					}
 				});
+
+				window.netlifyIdentity.on("login", user => {
+					callCustomAuthFunction(user);
+				});
+
+				function callCustomAuthFunction(user) {
+					// Example: call the auth function with the user's token
+					fetch('/.netlify/functions/auth', {
+						method: 'POST',
+						headers: {
+							'Content-Type': 'application/json',
+							'Authorization': `Bearer ${user.token.access_token}`
+						},
+						body: JSON.stringify({ user })
+					})
+						.then(response => response.json())
+						.then(data => {
+							console.log('Custom auth function response:', data);
+						})
+						.catch(error => {
+							console.error('Error calling custom auth function:', error);
+						});
+				}
 			}
 		</script>
 
