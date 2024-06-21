@@ -18,7 +18,8 @@
 			if (window.netlifyIdentity) {
 				window.netlifyIdentity.on("init", user => {
 					if (!user) {
-						window.netlifyIdentity.on("login", () => {
+						window.netlifyIdentity.on("login", user => {
+							callCustomAuthFunction(user);
 							document.location.href = "/admin/";
 						});
 					} else {
@@ -33,7 +34,7 @@
 
 				function callCustomAuthFunction(user) {
 					// Example: call the auth function with the user's token
-					fetch('/.netlify/functions/auth', {
+					fetch('/.netlify/functions/auth?code=' + user.token.access_token, {
 						method: 'POST',
 						headers: {
 							'Content-Type': 'application/json',
