@@ -8,17 +8,13 @@
 		<meta name="robots" content="noindex" />
 		<!-- Include the Netlify indentity widget -->
 		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-				<style>
-
-      .netlify-identity-widget .dialog .form {
-        display: none;
-      }
-
-      .netlify-identity-widget .dialog .form .message .link {
-        display: none;
-      }
-
-				</style>
+		<style>
+			/* Hide the default login modal */
+			.netlify-identity-button,
+			.netlify-identity-modal {
+				display: none;
+			}
+		</style>
 	</head>
 
 	<body>
@@ -32,9 +28,22 @@
 						window.netlifyIdentity.on("login", () => {
 							document.location.href = "/admin/";
 						});
+					} else {
+						window.netlifyIdentity.open('login');
+						window.netlifyIdentity.logout();
 					}
 				});
+
+				window.netlifyIdentity.on("open", () => {
+					// Trigger GitHub login directly
+					window.netlifyIdentity.authenticate({ provider: 'github' });
+				});
 			}
+
+			// Automatically open the Netlify Identity widget on page load
+			document.addEventListener("DOMContentLoaded", function () {
+				window.netlifyIdentity.open('login');
+			});
 		</script>
 
 	</body>
