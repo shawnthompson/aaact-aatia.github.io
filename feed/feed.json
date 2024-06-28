@@ -30,7 +30,7 @@
 	<meta name="dcterms.creator" content="">
 	<meta name="dcterms.language" content="" />
 	<meta name="dcterms.created" content="2023-08-01">
-	<meta name="dcterms.modified" content="2024-06-25" >
+	<meta name="dcterms.modified" content="2024-06-28" >
 	<meta name="dcterms.subject" content="" />
 
 </head>
@@ -158,44 +158,20 @@
 	</div>
 </div>
 
-
-
 <nav id="wb-bc" property="breadcrumb">
 	<h2></h2>
 	<div class="container">
 		<ol class="breadcrumb" typeof="BreadcrumbList">
 			<!-- First breadcrumb: Canada.ca -->
 			<li property="itemListElement" typeof="ListItem">
-				<a property="item" typeof="WebPage" href="">
-					<span property="name">Canada.ca</span>
+				<a property="item" typeof="WebPage" href="/fr/">
+					<span property="name"></span>
 				</a>
 				<meta property="position" content="1">
 			</li>
-
-			<!-- Second breadcrumb: Locale-based home link -->
-			
-			
-				<li property="itemListElement" typeof="ListItem">
-					<a property="item" typeof="WebPage" href="//"></a>
-					<meta property="position" content="2">
-				</li>
-			
-
-			<!-- Additional breadcrumbs based on tags and subjects -->
-			
-				 
-
-				<!-- Breadcrumbs based on 'subject' -->
-				
-
-				<!-- Breadcrumbs based on 'tags' -->
-				
-			
 		</ol>
 	</div>
 </nav>
-
-
 </header>
 
 
@@ -203,7 +179,7 @@
 	<main property="mainContentOfPage" resource="#wb-main" typeof="WebPageElement">
 
 		<div class="home">
-			<div class="container p-0 p-sm-3">
+			<div class="container mrgn-tp-lg p-0 p-sm-3">
 				<div class="well header-rwd brdr-0 brdr-rds-0 text-white bg-gctheme">
 					<span class="siteName">
 						
@@ -249,7 +225,7 @@
 		<div class="col-sm-6 col-md-5 col-lg-4 col-sm-pull-4 col-md-pull-3">
 			<dl id="wb-dtmd">
 				<dt></dt>
-				<dd><time property="dateModified" datetime="2024-06-25">2024-06-25</time></dd>
+				<dd><time property="dateModified" datetime="2024-06-28">2024-06-28</time></dd>
 			</dl>
 		</div>
 	</div>
