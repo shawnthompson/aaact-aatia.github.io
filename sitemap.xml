@@ -30,7 +30,7 @@
 	<meta name="dcterms.creator" content="">
 	<meta name="dcterms.language" content="" />
 	<meta name="dcterms.created" content="2023-08-01">
-	<meta name="dcterms.modified" content="2024-06-28" >
+	<meta name="dcterms.modified" content="2024-07-03" >
 	<meta name="dcterms.subject" content="" />
 
 </head>
@@ -205,77 +205,137 @@
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/intake-form/</loc>
-		<lastmod>2024-06-28</lastmod>
+		<lastmod>2024-07-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/intake-form-information/</loc>
-		<lastmod>2024-06-28</lastmod>
+		<lastmod>2024-07-03</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/document-accessibility-workshop/</loc>
-		<lastmod>2024-06-28</lastmod>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/developing-an-ict-accessibility-procurement-strategy-Tue%20Jun%2018%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/it-s-always-rainy-in-ottawa/</loc>
-		<lastmod>2024-06-28</lastmod>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/developing-an-ict-accessibility-procurement-strategy-Wed%20Jun%2019%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/it-s-always-sunny-in-montreal/</loc>
-		<lastmod>2024-06-28</lastmod>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/document-accessibility-workshop-Wed%20Jun%2005%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/overview-of-accessibility-features-on-smartphones-and-adaptive-technology-in-the-workplace/</loc>
-		<lastmod>2024-06-28</lastmod>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/how-to-consider-and-integrate-accessibility-in-procurement-Tue%20Jun%2011%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/evenements/atelier-des-documents-accessibles/</loc>
-		<lastmod>2024-06-28</lastmod>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/how-to-consider-and-integrate-accessibility-in-procurement-Wed%20Jun%2012%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/evenements/in-ottawa-ist-es-immer-regnerisch/</loc>
-		<lastmod>2024-06-28</lastmod>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/introduction-to-procuring-accessible-information-and-communication-technology-ict-Tue%20Jun%2011%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/evenements/il-fait-toujours-beau-a-montreal/</loc>
-		<lastmod>2024-06-28</lastmod>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/introduction-to-procuring-accessible-information-and-communication-technology-ict-Wed%20Jun%2012%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/evenements/apercu-des-caracteristiques-d-accessibilite-sur-les-telephones-intelligents-et-de-la-technologie-adaptee-en-milieu-de-travail/</loc>
-		<lastmod>2024-06-28</lastmod>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/overview-of-accessibility-features-on-smartphones-and-adaptive-technology-in-the-workplace-Fri%20Jun%2007%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/overview-of-accessibility-features-on-smartphones-and-adaptive-technology-in-the-workplace-Fri%20Jun%2014%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/practical-information-on-understanding-accessibility-conformance-reports-and-accessibility-roadmaps-Tue%20Jun%2025%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/events/elaboration-de-la-strategie-d-approvisionnement-en-tic-accessibles-Tue%20Jun%2018%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/events/elaboration-de-la-strategie-d-approvisionnement-en-tic-accessibles-Wed%20Jun%2019%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/events/atelier-des-documents-accessibles-Wed%20Jun%2005%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/events/comment-tenir-compte-de-l-accessibilite-et-l-integrer-dans-l-approvisionnement-Tue%20Jun%2011%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/events/comment-tenir-compte-de-l-accessibilite-et-l-integrer-dans-l-approvisionnement-Wed%20Jun%2012%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/events/introduction-a-l-approvisionnement-en-technologies-de-l-information-et-des-communications-tic-accessibles-Tue%20Jun%2011%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/events/introduction-a-l-approvisionnement-en-technologies-de-l-information-et-des-communications-tic-accessibles-Wed%20Jun%2012%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/events/apercu-des-caracteristiques-d-accessibilite-sur-les-telephones-intelligents-et-de-la-technologie-adaptee-en-milieu-de-travail-Fri%20Jun%2007%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/events/apercu-des-caracteristiques-d-accessibilite-sur-les-telephones-intelligents-et-de-la-technologie-adaptee-en-milieu-de-travail-Fri%20Jun%2014%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/events/informations-pratiques-pour-comprendre-les-rapports-de-conformite-d-accessibilite-et-les-feuilles-de-route-d-accessibilite-Wed%20Jun%2026%202024%2000:00:00%20GMT+0000%20(Coordinated%20Universal%20Time)/</loc>
+		<lastmod>2024-07-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/</loc>
-		<lastmod>2024-06-28</lastmod>
+		<lastmod>2024-07-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/how-can-aaact-help-you/</loc>
-		<lastmod>2024-06-28</lastmod>
+		<lastmod>2024-07-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/</loc>
-		<lastmod>2024-06-28</lastmod>
+		<lastmod>2024-07-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/comment-le-programme-d-aatia-peut-il-vous-aider/</loc>
-		<lastmod>2024-06-28</lastmod>
+		<lastmod>2024-07-03</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/</loc>
-		<lastmod>2024-06-28</lastmod>
+		<lastmod>2024-07-03</lastmod>
 	</url>
 </urlset>
 
@@ -289,7 +349,7 @@
 		<div class="col-sm-6 col-md-5 col-lg-4 col-sm-pull-4 col-md-pull-3">
 			<dl id="wb-dtmd">
 				<dt></dt>
-				<dd><time property="dateModified" datetime="2024-06-28">2024-06-28</time></dd>
+				<dd><time property="dateModified" datetime="2024-07-03">2024-07-03</time></dd>
 			</dl>
 		</div>
 	</div>
