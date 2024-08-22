@@ -56,7 +56,7 @@ collections:
     label: "Events"
     folder: "content/events"
     create: true
-    slug: "{{slug}}-{{eventDate}}"
+    slug: "{{slug}}"
     i18n: true
     fields:
       - { label: "Title (required)", name: "title", widget: "string", i18n: true }
@@ -68,8 +68,8 @@ collections:
       - { label: "Teams ID", name: "teamsID", widget: "string", i18n: duplicate, required: false }
       - { label: "Audience", name: "audience", widget: "select", options: ["GC Employees and Managers", "All GC employees"], i18n: duplicate, required: false }
       - { label: "Event Date", name: "eventDate", widget: "datetime", date_format: "YYYY-MM-DD", i18n: duplicate, required: false }
-      - { label: "Event Start Time", name: "startTime", widget: "string", i18n: duplicate, required: false }
-      - { label: "Event End Time", name: "endTime", widget: "string", i18n: duplicate, required: false }
+      - { label: "Event Start Time", name: "startTime", widget: "datetime", time_format: "HH:mm", i18n: duplicate, required: false }
+      - { label: "Event End Time", name: "endTime", widget: "datetime", time_format: "HH:mm", i18n: duplicate, required: false }
       - { label: "Location", name: "location", widget: "string", default: "Microsoft Teams", i18n: duplicate, required: false }
       - { label: "File", name: "file", widget: "file", i18n: true, required: false, media_library: { config: { multiple: true } } }
       - { label: "Details (required)", name: "body", widget: "markdown",  i18n: true }
