@@ -9,9 +9,9 @@
 	<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
 		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
 	
-	<title>Document Accessibility Workshop - Accessibility, Accommodation and Adaptive Computer Technology (AAACT)</title>
+	<title>Intake form - Accessibility, Accommodation and Adaptive Computer Technology (AAACT)</title>
 	<meta content="width=device-width,initial-scale=1" name="viewport">
-	<meta name="description" content="">
+	<meta name="description" content="This intake form is to determine what service you require from AAACT.">
 
 	
 
@@ -20,18 +20,18 @@
 	<link href="https://www.canada.ca/etc/designs/canada/wet-boew/assets/favicon.ico" rel="icon" type="image/x-icon">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/wet-boew/css/theme.min.css">
-	<link rel="stylesheet" href="../../../css/styles.css">
+	<link rel="stylesheet" href="../../css/styles.css">
 
 	<!-- Meta tags -->
 
 	<meta name="author" content="Government of Canada">
-	<meta name="dcterms.title" content="Document Accessibility Workshop">
-	<meta name="dcterms.description" content="">
+	<meta name="dcterms.title" content="Intake form">
+	<meta name="dcterms.description" content="This intake form is to determine what service you require from AAACT.">
 	<meta name="dcterms.creator" content="Government of Canada">
 	<meta name="dcterms.language" content="en">
 	<meta name="dcterms.created" content="2023-08-01">
-	<meta name="dcterms.modified" content="2024-10-22">
-	<meta name="dcterms.subject" content="; ">
+	<meta name="dcterms.modified" content="2024-08-22">
+	<meta name="dcterms.subject" content="">
 
 </head>
 
@@ -197,16 +197,114 @@
 
 
 			<div class="container">
-				<h1 property="name" id="wb-cont">Document Accessibility Workshop</h1>
-				<p class="description"></p>
-				<p>Learn how to apply the basic principles of accessibility to produce accessible content in various formats (ex. Word documents, PDF, PowerPoint). Hosted by AAACT program staff, this workshop will:</p>
-<ul>
-<li>highlight the importance of accessibility</li>
-<li>enable participants to identify document accessibility issues</li>
-<li>demonstrate how participants can perform document accessibility checks and fix content</li>
-<li>include a combination of presentations, demonstrations, exercises and facilitated discussion</li>
-<li>how accessible documents are faster and easier to convert into other formats</li>
-</ul>
+				<h1 property="name" id="wb-cont">Intake form</h1>
+				<p class="description">This intake form is to determine what service you require from AAACT.</p>
+				<form id="myForm">
+	<div>
+		<p>Instructions: A series of dropdowns will be presented to you one at a time. As you make selections, the form will dynamically update to show you the next relevant set of options. When you activate the "Submit" button, you will be presented with the information that's relevant to your choices</p>
+	</div>
+	<div class="wb-fieldflow" data-wb-fieldflow='{"noForm": true}' aria-live="polite">
+		<p>What service do you need?</p>
+		<ul>
+			<!-- Documents Remediation 		SSCMember nonSSCMember-->
+			<li>Documents Remediation - making a digital document accessible
+				<div class="wb-fieldflow-sub">
+					<p>Are you a member of Shared Services?</p>
+						<ul>
+							<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#SSCMember","container":"#ajaxContainer", "clean": "#ajaxContainer" ,"type": "replace"}'>Yes</li>
+							<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#nonSSCMember","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>No</li>
+						</ul>
+				</div>
+			</li>
+			<!-- Info Services 		workshops a11y accessibleDocuments accessibleForms virtualEvents COTS a11ySoftwareDev images linkText M365 other-->
+			<li>Information services - workshops and frequently asked questions
+				<div class="wb-fieldflow-sub">
+					<p>What kind of information do you need?</p>
+					<ul>
+						<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#workshops","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>Workshops and Learning sessions</li>
+						<li>General and Specialised questions<div class="wb-fieldflow-sub">
+								<p>You need advice and guidance on what?</p>
+								<ul>
+									<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#a11y","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>I need advice and/or guidance on learning about accessibility</li>
+									<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#accessibleDocuments","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>I need advice and/or guidance on how to make accessible documents</li>
+									<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#accessibleForms","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>I need advice and/or guidance on how to make accessible forms</li>
+									<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#virtualEvents","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>I need advice and/or guidance on holding accessible events and virtual meetings</li>
+									<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#COTS","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>I need advice and/or guidance on Commercial-Off-The-Shelf (COTS) product(s)</li>
+									<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#a11ySoftwareDev","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>I need advice and/or guidance on accessibility in software development (WCAG, ATAG, EN 301 549)</li>
+									<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#altText","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>I need advice and/or guidance on how to handle images (alt text and types of images)</li>
+									<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#linkText","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>I need advice and/or guidance on the proper link text format</li>
+									<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#M365","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>I need advice and/or guidance on an M365 product</li>
+									<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#other","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>Other...</li>
+								</ul>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</li>
+			<!-- Procurement 		procurement-->
+			<li data-wb-fieldflow='[{"action": "ajax", "url": "../fieldflow-logic/index.html#procurement","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}]'>Procurement - support in the acquisition of product and services with ICT components </li>
+			<!-- Software Testing		design assessmentDone assessmentNotDone VPATDone VPATNotDone userTesting-->
+			<li>Testing of software (websites, web apps, desktop apps, mobile apps)
+				<div class="wb-fieldflow-sub">
+					<p>What kind of testing are you looking for?</p>
+					<ul>
+						<li>Accessibility Conformance Testing - testing whether the software adheres to accessibility standards
+							<div class="wb-fieldflow-sub">
+								<p>Which statement better describes your software?</p>
+								<ul>
+									<li>The software is developed internally
+										<div class="wb-fieldflow-sub">
+											<p>At which stage of the software development process are you?</p>
+											<ul>
+												<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#planning","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>Planning</li>
+												<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#design","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>Design</li>
+												<li>Under construction<div class="wb-fieldflow-sub">
+													<p>Have you already conducted the accessibility self assessment?</p>
+													<ul>
+														<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#selfAssessmentDone","container":"#ajaxContainer", "clean": "#ajaxContainer" ,"type": "replace"}'>Yes</li>
+														<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#selfAssessmentNotDone","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>No</li>
+													</ul>
+												</div></li>
+												<li>QA phase<div class="wb-fieldflow-sub">
+													<p>Have you already conducted the accessibility self assessment?</p>
+													<ul>
+														<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#selfAssessmentDone","container":"#ajaxContainer", "clean": "#ajaxContainer" ,"type": "replace"}'>Yes</li>
+														<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#selfAssessmentNotDone","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>No</li>
+													</ul>
+												</div></li>
+												<li>Already launched<div class="wb-fieldflow-sub">
+													<p>Have you already conducted the accessibility self assessment?</p>
+													<ul>
+														<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#selfAssessmentDone","container":"#ajaxContainer", "clean": "#ajaxContainer" ,"type": "replace"}'>Yes</li>
+														<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#selfAssessmentNotDone","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>No</li>
+													</ul>
+												</div></li>
+											<ul>
+										</ul></ul></div>
+									</li>
+									<li>The software is a Commercial-Off-The-Shelf (COTS) product
+										<div class="wb-fieldflow-sub">
+											<p>Did you obtain a Voluntary Product Accessibility Template (VPAT) or an Accessibility Conformance Report (ACR) from the company?</p>
+											<ul>
+												<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#VPATDone","container":"#ajaxContainer", "clean": "#ajaxContainer" ,"type": "replace"}'>Yes</li>
+												<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#VPATNotDone","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>No</li>
+												<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#VPATACR","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>I don't know what a VPAT and an ACR is.</li>
+											</ul>
+										</div>
+									</li>
+									<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#M365","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>The software is an M365 product or was developed using an M365 product.</li>
+								<ul>
+							</ul></ul></div>
+						</li>
+						<li data-wb-fieldflow='{"action": "ajax", "url": "../fieldflow-logic/index.html#userTesting","container":"#ajaxContainer", "clean": "#ajaxContainer" , "type": "replace"}'>User Testing - testing to gather feedback on their experience and identify usability issues</li>
+					</ul>
+				</div>
+			</li>
+		</ul>
+	</div>
+	<input type="submit" id="submitButton">
+</form>
+<div id="ajaxContainer" aria-live="polite" style="margin: 15px"></div>
 
 			</div>
 
@@ -218,7 +316,7 @@
 		<div class="col-sm-6 col-md-5 col-lg-4 col-sm-pull-4 col-md-pull-3">
 			<dl id="wb-dtmd">
 				<dt>Date modified:</dt>
-				<dd><time property="dateModified" datetime="2024-10-22">2024-10-22</time></dd>
+				<dd><time property="dateModified" datetime="2024-08-22">2024-08-22</time></dd>
 			</dl>
 		</div>
 	</div>
@@ -282,5 +380,5 @@
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script>
 	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/wet-boew.min.js"></script>
-	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script></body>
+	<script src="https://www.canada.ca/etc/designs/canada/wet-boew/js/theme.min.js"></script><script src="/eleventy-base-blog/js/intake.js"></script></body>
 </html>
