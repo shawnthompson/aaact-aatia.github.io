@@ -2,8 +2,8 @@
 	"version": "https://jsonfeed.org/version/1.1",
 	"title": "[object Object]",
 	"language": "",
-	"home_page_url": "https://aaact-aatia.github.io/eleventy-base-blog/",
-	"feed_url": "https://aaact-aatia.github.io/eleventy-base-blog/feed/feed.json",
+	"home_page_url": "https://aaact-aatia.github.io/",
+	"feed_url": "https://aaact-aatia.github.io/feed/feed.json",
 	"description": "[object Object]",
 	"author": {
 		"name": "AAACT / AATIA (SSC/SPC)",

@@ -2,82 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/intake-form-software/</loc>
-		<lastmod>2024-08-22</lastmod>
+		<loc>https://aaact-aatia.github.io/en/intake-form-software/</loc>
+		<lastmod>2024-11-28</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/fieldflow-logic/</loc>
-		<lastmod>2024-08-22</lastmod>
+		<loc>https://aaact-aatia.github.io/en/fieldflow-logic/</loc>
+		<lastmod>2024-11-28</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/intake/</loc>
-		<lastmod>2024-08-22</lastmod>
+		<loc>https://aaact-aatia.github.io/en/intake/</loc>
+		<lastmod>2024-11-28</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/how-can-aaact-help-you/</loc>
-		<lastmod>2024-08-22</lastmod>
+		<loc>https://aaact-aatia.github.io/en/how-can-aaact-help-you/</loc>
+		<lastmod>2024-11-28</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/</loc>
-		<lastmod>2024-08-22</lastmod>
+		<loc>https://aaact-aatia.github.io/en/</loc>
+		<lastmod>2024-11-28</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/comment-le-programme-d-aatia-peut-il-vous-aider/</loc>
-		<lastmod>2024-08-22</lastmod>
+		<loc>https://aaact-aatia.github.io/fr/comment-le-programme-d-aatia-peut-il-vous-aider/</loc>
+		<lastmod>2024-11-28</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/</loc>
-		<lastmod>2024-08-22</lastmod>
+		<loc>https://aaact-aatia.github.io/fr/</loc>
+		<lastmod>2024-11-28</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/document-accessibility-workshop/</loc>
-		<lastmod>2024-10-22</lastmod>
+		<loc>https://aaact-aatia.github.io/404.html</loc>
+		<lastmod>2024-12-04</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/it-s-always-rainy-in-ottawa/</loc>
-		<lastmod>2024-10-22</lastmod>
+		<loc>https://aaact-aatia.github.io/en/events/international-day-of-persons-with-disabilities-2024/</loc>
+		<lastmod>2024-12-04</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/it-s-always-sunny-in-montreal/</loc>
-		<lastmod>2024-10-22</lastmod>
+		<loc>https://aaact-aatia.github.io/fr/evenements/journee-internationale-des-personnes-en-situation-de-handicap-2024/</loc>
+		<lastmod>2024-12-04</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/en/events/overview-of-accessibility-features-on-smartphones-and-adaptive-technology-in-the-workplace/</loc>
-		<lastmod>2024-10-22</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/evenements/atelier-des-documents-accessibles/</loc>
-		<lastmod>2024-10-22</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/evenements/in-ottawa-ist-es-immer-regnerisch/</loc>
-		<lastmod>2024-10-22</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/evenements/il-fait-toujours-beau-a-montreal/</loc>
-		<lastmod>2024-10-22</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/fr/evenements/apercu-des-caracteristiques-d-accessibilite-sur-les-telephones-intelligents-et-de-la-technologie-adaptee-en-milieu-de-travail/</loc>
-		<lastmod>2024-10-22</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://aaact-aatia.github.io/eleventy-base-blog/</loc>
-		<lastmod>2024-10-22</lastmod>
+		<loc>https://aaact-aatia.github.io/</loc>
+		<lastmod>2024-12-04</lastmod>
 	</url>
 </urlset>
