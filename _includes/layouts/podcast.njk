@@ -43,22 +43,45 @@
 		<div class="mb-4">
 			{{ longDescription | markdownify | safe }}
 		</div>
-	{% endif %}
-	<figure class="wb-mltmd mrgn-bttm-md">
-		<audio title="{{ title | safe }}">
-			<source src="{{ podcastFiles.mp3.url }}" type="audio/mp3">
-			{%- if podcastFiles.ogg -%}
-			<source src="{{ podcastFiles.ogg.url }}" type="audio/ogg">
-			{%- endif -%}
-		</audio>
-	</figure>
-	<details>
-		<summary>{{ podcasts[locale].transcriptionText }} {{ title | safe }}</summary>
-		{{ content | safe }}
-	</details>
-	<p class="mrgn-tp-lg lead"><a href="{{ podcastFiles.mp3.url }}">{{ podcasts[locale].downloadText }} {{ title | safe }} (MP3, {{ podcastFiles.mp3.sizeInMb }}<abbr title="{{ download[locale].MB }}">MB</abbr>)</a></p>
-	{%- if podcastFiles.ogg -%}
-		<p class="mrgn-tp-lg lead"><a href="{{ podcastFiles.ogg.url }}">{{ podcasts[locale].downloadText }} {{ title | safe }} (OGG, {{ podcastFiles.ogg.sizeInMb }}<abbr title="{{ download[locale].MB }}">MB</abbr>)</a></p>
 	{%- endif -%}
+
+	<p><a href="#transcription">{{ podcasts[locale].skipTranscription }}</a></p>
+
+<section class="mt-5">
+	<h2>{{ podcasts[locale].videoHeading }}</h2>
+	<figure class="wb-mltmd" data-wb-mltmd='{"shareUrl": "{{ podcastFiles.youtube.url }}"}'>
+		<video title="{{ title | safe }}" muted>
+			<source type="video/youtube" src="{{ podcastFiles.youtube.url }}" />
+		</video>
+		<figcaption>
+			<p class="mt-3">Video: {{ title | safe }}</p>
+		</figcaption>
+	</figure>
+</section>
+
+<section class="mt-5">
+	<h2>{{ podcasts[locale].audioHeading }}</h2>
+		<figure class="wb-mltmd mrgn-bttm-md">
+			<audio title="{{ title | safe }}">
+				<source src="{{ podcastFiles.mp3.url }}" type="audio/mp3">
+				{%- if podcastFiles.ogg -%}
+				<source src="{{ podcastFiles.ogg.url }}" type="audio/ogg">
+				{%- endif -%}
+			</audio>
+				<figcaption>
+					<p class="mt-3">Audio: {{ title | safe }}</p>
+				</figcaption>
+		</figure>
+
+		<details class="mt-5">
+			<summary id="transcription">{{ podcasts[locale].transcriptionText }} {{ title | safe }}</summary>
+			{{ content | safe }}
+		</details>
+		<p class="mrgn-tp-lg lead"><a href="{{ podcastFiles.mp3.url }}">{{ podcasts[locale].downloadText }} {{ title | safe }} (MP3, {{ podcastFiles.mp3.sizeInMb }}<abbr title="{{ download[locale].MB }}">MB</abbr>)</a></p>
+		{%- if podcastFiles.ogg -%}
+			<p class="mrgn-tp-lg lead"><a href="{{ podcastFiles.ogg.url }}">{{ podcasts[locale].downloadText }} {{ title | safe }} (OGG, {{ podcastFiles.ogg.sizeInMb }}<abbr title="{{ download[locale].MB }}">MB</abbr>)</a></p>
+		{%- endif -%}
+
+	</section>
 
 {% endblock %}
