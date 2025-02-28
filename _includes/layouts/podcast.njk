@@ -77,9 +77,9 @@
 			<summary id="transcription">{{ podcasts[locale].transcriptionText }} {{ title | safe }}</summary>
 			{{ content | safe }}
 		</details>
-		<p class="mrgn-tp-lg lead"><a href="{{ podcastFiles.mp3.url }}">{{ podcasts[locale].downloadText }} {{ title | safe }} (MP3, {{ podcastFiles.mp3.sizeInMb }}<abbr title="{{ download[locale].MB }}">MB</abbr>)</a></p>
+		<p class="mrgn-tp-lg lead"><a href="{{ podcastFiles.mp3.url }}">{{ podcasts[locale].downloadText }} {{ title | safe }} (MP3, {{ podcastFiles.mp3.sizeInMb }}<abbr title="{{ download[locale].MB }}">{{ download[locale].abbrMB }}</abbr>)</a></p>
 		{%- if podcastFiles.ogg -%}
-			<p class="mrgn-tp-lg lead"><a href="{{ podcastFiles.ogg.url }}">{{ podcasts[locale].downloadText }} {{ title | safe }} (OGG, {{ podcastFiles.ogg.sizeInMb }}<abbr title="{{ download[locale].MB }}">MB</abbr>)</a></p>
+			<p class="mrgn-tp-lg lead"><a href="{{ podcastFiles.ogg.url }}">{{ podcasts[locale].downloadText }} {{ title | safe }} (OGG, {{ podcastFiles.ogg.sizeInMb }}<abbr title="{{ download[locale].MB }}">{{ download[locale].abbrMB }}</abbr>)</a></p>
 		{%- endif -%}
 
 	</section>
