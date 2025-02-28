@@ -33,7 +33,7 @@
 				<dt>{{ podcasts[locale].duration.text }}</dt>
 				<dd>{{ duration.minutes }} {{ podcasts[locale].duration.minutes }} {{ duration.seconds }} {{ podcasts[locale].duration.seconds }}</dd>
 				<dt>{{ podcasts[locale].episodeText }}</dt>
-				<dd>{{ episode }}</dd>
+				<dd>{{ episode | padEpisode }}</dd>
 			</dl>
 	</aside>
 
