@@ -12,7 +12,7 @@ module.exports = {
 	},
 
 	en: {
-		durationText: "Length:",
+		durationText: "Duration:",
 		downloadText: "Download",
 		transcriptionText: "Transcription:",
 		releaseDateText: "Release date:",
