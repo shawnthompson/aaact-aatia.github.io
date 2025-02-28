@@ -2,23 +2,45 @@
 {% extends "layouts/base.njk" %}
 
 {% block content %}
-	<div class="row">
-		<div class="col-sm-2">
-			<figure>
-				<img src="{{ image }}" alt="" class="img-responsive thumbnail" />
-			</figure>
+
+
+<div class="row mt-4 mb-4">
+	<!-- Floating Panel (Right on Large Screens, Full Row on Small Screens) -->
+
+	<!-- Row for Image & Description on Large Screens -->
+	<div class="col-lg-9 col-12">
+		<div class="row">
+			<!-- Image (Smaller Column on Large Screens) -->
+			<div class="col-md-4 col-12">
+				<figure>
+					<img src="{{ image }}" alt="" class="img-fluid img-thumbnail" />
+				</figure>
+			</div>
+			<!-- Description (Larger Column on Large Screens) -->
+			{%- if description -%}
+			<div class="col-md-8 col-12">
+				<p>{{ description | markdownify | safe }}</p>
+			</div>
+			{%- endif -%}
 		</div>
-		{%- if description -%}
-		<div class="col-sm-10">
-			<p>{{ description | markdownify | safe }}</p>
-			<p><strong>{{ podcasts[locale].durationText }}</strong> {{ duration }}</p>
-		</div>
-		{% endif %}
 	</div>
+
+	<aside class="col-lg-3 col-12 well p-2">
+			<h2 class="h3 mt-0">{{ podcasts[locale].detailsHeading }}</h2>
+			<dl class="brdr-0">
+				<dt>{{ podcasts[locale].releaseDateText }}</dt>
+				<dd>{{ podcastDate | fullTextDate(locale) }}</dd>
+				<dt>{{ podcasts[locale].duration.text }}</dt>
+				<dd>{{ duration.minutes }} {{ podcasts[locale].duration.minutes }} {{ duration.seconds }} {{ podcasts[locale].duration.seconds }}</dd>
+				<dt>{{ podcasts[locale].episodeText }}</dt>
+				<dd>{{ episode }}</dd>
+			</dl>
+	</aside>
+
+</div>
+
 	{%- if longDescription -%}
-	<div class="col-sm-10">
-		<p>{{ longDescription | markdownify | safe }}</p>
-	</div>
+		<p class="mb-4">{{ longDescription | markdownify | safe }}</p>
 	{% endif %}
 	<figure class="wb-mltmd mrgn-bttm-md">
 		<audio title="{{ title | safe }}">

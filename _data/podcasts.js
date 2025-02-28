@@ -1,6 +1,12 @@
 module.exports = {
 	fr: {
-		durationText: "Durée :",
+		duration: {
+			text: "Durée :",
+			minutes: "minutes",
+			seconds: "secondes"
+		},
+		detailsHeading: "Détails de l'épisode",
+		episodeText: "Épisode :",
 		downloadText: "Télécharger",
 		transcriptionText: "Transcription :",
 		releaseDateText: "Date de publication :",
@@ -12,7 +18,14 @@ module.exports = {
 	},
 
 	en: {
-		durationText: "Duration:",
+		duration:
+			{
+				text: "Duration:",
+				minutes: "minutes",
+				seconds: "seconds"
+			},
+		detailsHeading: "Episode details",
+		episodeText: "Episode:",
 		downloadText: "Download",
 		transcriptionText: "Transcription:",
 		releaseDateText: "Release date:",
