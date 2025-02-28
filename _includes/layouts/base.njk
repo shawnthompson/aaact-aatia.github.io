@@ -19,7 +19,9 @@
 				{%- if tagline -%}
 					<p class="tagline">{{ tagline | safe }}</p>
 				{%- endif -%}
-				{%- if description -%}<p class="description">{{ description | markdownify | safe }}</p>{%- endif -%}
+				{%- if description and showDescription != false -%}
+					<p class="description">{{ description | markdownify | safe }}</p>
+				{%- endif -%}
 				{%- include "partials/alerts.njk" -%}
 
 				{% block content %}

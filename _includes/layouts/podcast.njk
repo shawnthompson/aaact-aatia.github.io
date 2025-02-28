@@ -1,3 +1,4 @@
+{% set showDescription = false %}
 {% extends "layouts/base.njk" %}
 
 {% block content %}
@@ -7,13 +8,18 @@
 				<img src="{{ image }}" alt="" class="img-responsive thumbnail" />
 			</figure>
 		</div>
-		{%- if longDescription -%}
+		{%- if description -%}
 		<div class="col-sm-10">
-			{{ longDescription | markdownify | safe }}
+			<p>{{ description | markdownify | safe }}</p>
 			<p><strong>{{ podcasts[locale].durationText }}</strong> {{ duration }}</p>
 		</div>
 		{% endif %}
 	</div>
+	{%- if longDescription -%}
+	<div class="col-sm-10">
+		<p>{{ longDescription | markdownify | safe }}</p>
+	</div>
+	{% endif %}
 	<figure class="wb-mltmd mrgn-bttm-md">
 		<audio title="{{ title | safe }}">
 			<source src="{{ podcastFiles.mp3.url }}" type="audio/mp3">
