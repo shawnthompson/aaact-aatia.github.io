@@ -19,7 +19,7 @@
 			<!-- Description (Larger Column on Large Screens) -->
 			{%- if description -%}
 			<div class="col-md-8 col-12">
-				<p>{{ description | markdownify | safe }}</p>
+				{{ description | markdownify | safe }}
 			</div>
 			{%- endif -%}
 		</div>
@@ -40,7 +40,9 @@
 </div>
 
 	{%- if longDescription -%}
-		<p class="mb-4">{{ longDescription | markdownify | safe }}</p>
+		<div class="mb-4">
+			{{ longDescription | markdownify | safe }}
+		</div>
 	{% endif %}
 	<figure class="wb-mltmd mrgn-bttm-md">
 		<audio title="{{ title | safe }}">

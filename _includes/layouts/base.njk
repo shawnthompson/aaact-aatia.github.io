@@ -19,7 +19,9 @@
 				{%- endif -%}
 
 				{%- if description and showDescription != false -%}
-					<p class="description">{{ description | markdownify | safe }}</p>
+					<div class="description">
+						{{ description | markdownify | safe }}
+					</div>
 				{%- endif -%}
 
 				{%- include "partials/alerts.njk" -%}
