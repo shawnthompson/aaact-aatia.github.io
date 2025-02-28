@@ -78,12 +78,6 @@ module.exports = function(eleventyConfig) {
 		return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
 	});
 
-	// Add a filter to format dates in full text
-	eleventyConfig.addFilter("padEpisode", (num) => {
-		if (!num) return "000"; // Default value if empty
-		return String(num).padStart(3, "0"); // Pads to 3 digits
-	});
-
 	// Get the first `n` elements of a collection.
 	eleventyConfig.addFilter("head", (array, n) => {
 		if(!Array.isArray(array) || array.length === 0) {

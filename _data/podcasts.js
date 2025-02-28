@@ -38,7 +38,7 @@ module.exports = {
 		contactUs: "Contact us for more information about Accessible Horizons at our AAACT Learning email: ",
 		emailSubject: "Email about podcast: ",
 		skipTranscription: "Skip to transcription",
-		videoHeading: "Youtube video",
+		videoHeading: "YouTube video",
 		audioHeading: "Audio",
 	},
 	podcastLinks: {
