@@ -1,5 +1,5 @@
 ---
-title: Infolettre de l'AATIA maintenant pour l'accessibilité de novembre 2024
+title: L'AATIA maintenant pour l'accessibilité de novembre 2024
 otherLanguageTitle: November 2024 AAACT Now for Accessibility newsletter
 description: "**Dan cette édition:** Journée internationale des personnes en
   situation de handicap; salon de l'innovation : récapitulation; feuille de
