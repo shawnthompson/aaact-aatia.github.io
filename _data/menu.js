@@ -10,8 +10,8 @@ module.exports = {
 			link: "/balados/"
 		}],
 		events: [{
-			title: "Evenements",
-			link: "/evenements/"
+			title: "Formation",
+			link: "/formation/"
 		}],
 		newsletters: [{
 			title: "Infolettres",
@@ -30,8 +30,8 @@ module.exports = {
 			link: "/podcasts/"
 		}],
 		events: [{
-			title: "Events",
-			link: "/events/"
+			title: "Learning",
+			link: "/learning/"
 		}],
 		newsletters: [{
 			title: "Newsletters",
