@@ -9,7 +9,7 @@ module.exports = {
 			title: "Balados",
 			link: "/balados/"
 		}],
-		events: [{
+		learning: [{
 			title: "Formation",
 			link: "/formation/"
 		}],
@@ -29,7 +29,7 @@ module.exports = {
 			title: "Podcasts",
 			link: "/podcasts/"
 		}],
-		events: [{
+		learning: [{
 			title: "Learning",
 			link: "/learning/"
 		}],

@@ -2,12 +2,12 @@ module.exports = {
 	fr: {
 		podcasts: "Balado",
 		newsletters: "Infolettre",
-		events: "Formation",
+		learning: "Formation",
 	},
 
 	en: {
 		podcasts: "Podcast",
 		newsletters: "Newsletter",
-		events: "Learning",
+		learning: "Learning",
 	}
 };
