@@ -6,13 +6,14 @@
 {% extends "layouts/base.njk" %}
 {% block content %}
 
-{%- if introduction -%}
-	{{ introduction | markdownify | safe }}
-{%- endif -%}
-
 {%- if not eleventyExcludeFromCollections -%}
 
 <h2>{{ learning[locale].eventDetails.headingText }}</h2>
+
+{%- if introduction -%}
+{{ introduction | markdownify | safe }}
+{%- endif -%}
+
 <dl{% if eventDetails[otherLocale] %} class="colcount-md-2"{%- endif -%}>
 	<dt>{{ localeText }}</dt>
 	<dd>
@@ -27,8 +28,10 @@
 				<dt>{{ learning[locale].eventDetails.signLangText }}</dt>
 				<dd class="ml-4">{{ learning[locale].eventDetails.signLangAvailable }}</dd>
 			{%- endif -%}
+			{%- if eventDetails.platform -%}
 			<dt>{{ learning[locale].eventDetails.platformText }}</dt>
 			<dd class="ml-4">{{ eventDetails.platform }}</dd>
+			{%- endif -%}
 		</dl>
 	</dd>
 	{%- if eventDetails[otherLocale] -%}
@@ -36,7 +39,7 @@
 	<dd>
 		<dl class="ml-4 mt-3">
 			<dt>Date:</dt>
-			<dd class="ml-4">{{ eventDetails[locale].date | fullTextDate(locale) }}</dd>
+			<dd class="ml-4">{{ eventDetails[otherLocale].date | fullTextDate(locale) }}</dd>
 			<dt>{{ learning[locale].eventDetails.timeText }}</dt>
 			<dd class="ml-4">{{ eventDetails[otherLocale].startTime }} {% if locale == "en" %}&mdash;{% else %}à{% endif %} {{ eventDetails[otherLocale].endTime }} ({{ timeZone | safe }})</dd>
 			<dt>{{ learning[locale].eventDetails.registrationText }}</dt>
