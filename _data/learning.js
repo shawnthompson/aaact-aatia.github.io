@@ -10,7 +10,12 @@ module.exports = {
 		audience: "Audience",
 		eventLocation: "Lieu de l'événement",
 		contactUs: "Contactez-nous pour plus d'informations sur AATIA Apprentissage à notre adresse courriel&nbsp;: ",
-		emailSubject: "Courriel à propos AATIA Apprentissage : "
+		emailSubject: "Courriel à propos AATIA Apprentissage : ",
+		learningActivitiesHeading: "Occasions d'apprentissage",
+		eventDate: "Date prévue",
+		requestAvailable: "Disponible sur demande",
+		upcomingActivities: "Activités d'apprentissage à venir",
+		scheduledActivities: "Demander une session d'apprentissage privée"
 	},
 	en: {
 		location: "Location:",
@@ -23,6 +28,11 @@ module.exports = {
 		audience: "Audience",
 		eventLocation: "Location",
 		contactUs: "Contact us for more information about AAACT Learning at our email: ",
-		emailSubject: "Email about AAACT Learning: "
+		emailSubject: "Email about AAACT Learning: ",
+		learningActivitiesHeading: "Learning opportunities",
+		eventDate: "Scheduled date",
+		requestAvailable: "Available upon request",
+		upcomingActivities: "Upcoming learning activities",
+		scheduledActivities: "Request a private learning session"
 	},
 };

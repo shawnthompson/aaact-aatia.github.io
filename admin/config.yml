@@ -52,6 +52,15 @@ collections:
       - { label: "Introduction (required)", name: "introduction", widget: "markdown", i18n: true }
       - { label: "Event date (YYYY-MM-DD) (required)", name: "eventDate", widget: "datetime", date_format: "YYYY-MM-DD", i18n: duplicate }
       - { label: "Details (required)", name: "body", widget: "markdown",  i18n: true }
+      - label: "Image"
+        name: "image"
+        widget: "image"
+        i18n: true
+        media_folder: "/public/img/learning"
+        public_folder: "/img/learning"
+        fields:
+          - { label: "Source", name: "source", widget: "string", i18n: true }
+          - { label: "Alt", name: "alt", widget: "string", i18n: true }
 
   - name: "newsletters"
     label: "Newsletters"

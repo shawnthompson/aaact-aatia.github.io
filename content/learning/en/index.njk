@@ -1,0 +1,41 @@
+---
+title: Breaking Down Barriers Through Learning
+description: The Accessibility, Accommodation, and Adaptive Computer Technology (AAACT) Program at Shared Services Canada (SSC) provides free, expert-led training and resources to promote accessibility and inclusion in the Government of Canada. Available in English and French, these flexible learning sessions are designed by accessibility experts with lived experience and can be delivered in-person, online, or in a hybrid format.
+permalink: /learning/
+otherLanguagePermalink: /formation/
+eleventyExcludeFromCollections: true
+---
+
+<p>Welcome to Shared Services Canada's (SSC) Accessibility, Accommodation and Adaptive Computer Technology (AAACT) Program.</p>
+
+<p>We are committed to fostering a diverse, inclusive, and respectful public service. Through a wide range of interactive learning activities and informative workshops, we aim to create an environment where every individual feels valued, supported, and equipped for success in their professional journey.</p>
+
+<p>Join us in building a workplace that celebrates accessibility and inclusion for all.</p>
+
+<p>AAACT’s learning activities are:</p>
+
+<ul>
+	<li>Free for GC organizations</li>
+	<li>Available in English and French</li>
+	<li>Delivered in-person, online or hybrid</li>
+	<li>Designed by accessibility experts with lived experience of disability</li>
+	<li>Flexible and adaptable to meet your organization’s needs</li>
+</ul>
+
+<h2>Contact Us</h2>
+
+<p>AAACT learning and information activities are packed with practical strategies you can apply right away. We can arrange for a private learning session for you or your entire team. Choose the date and time that works best.</p>
+<p>To discuss your organization’s accessibility and inclusion learning or information needs, <a href="#">request a consultation (link to come soon)</a></p>
+
+
+{# List all learning events here #}
+{%- if collections.learning and collections.learning.length > 0 -%}
+  {%- set learninglist = collections.learning | localeMatch(locale) -%}
+  {%- if learninglist and learninglist.length > 0 -%}
+    {%- include "partials/learninglist.njk" -%}
+  {%- else -%}
+    There are no learning events scheduled at the moment.
+  {%- endif -%}
+{%- else -%}
+  There are no learning events scheduled at the moment.
+{%- endif -%}
