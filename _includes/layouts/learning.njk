@@ -1,0 +1,49 @@
+{% set otherLocale = "fr" if locale == "en" else "en" %}
+{% extends "layouts/base.njk" %}
+{% block content %}
+
+{%- if introduction -%}
+	{{ introduction | markdownify | safe }}
+{%- endif -%}
+
+{%- if not eleventyExcludeFromCollections -%}
+
+<h2>Event details</h2>
+<dl class="colcount-md-2">
+
+	<dt>English</dt>
+	<dd>
+		<dl class="ml-4 mt-3">
+			<dt>Date:</dt>
+			<dd class="ml-4">{{ eventDetails[locale].date | fullTextDate(locale) }}</dd>
+			<dt>Time:</dt>
+			<dd class="ml-4">{{ eventDetails[locale].startTime }} &mdash; {{ eventDetails[locale].endTime }} (<abbr title="Eastern Standard Time">EST</abbr>)</dd>
+			<dt>Registration:</dt>
+			<dd class="ml-4"><a href="{{ eventDetails[locale].link }}">{{ eventDetails[locale].text }}</a></dd>
+			<dt>Sign language interpretation:</dt>
+			<dd class="ml-4">Available</dd>
+			<dt>Platform:</dt>
+			<dd class="ml-4">Webinar via Microsoft Teams</dd>
+		</dl>
+	</dd>
+	<dt>French</dt>
+	<dd>
+		<dl class="ml-4 mt-3">
+			<dt>Date:</dt>
+			<dd class="ml-4">{{ eventDetails[otherLocale].date | fullTextDate(locale) }}</dd>
+			<dt>Time:</dt>
+			<dd class="ml-4">{{ eventDetails[otherLocale].startTime }} &mdash; {{ eventDetails[otherLocale].endTime }} (<abbr title="Eastern Standard Time">EST</abbr>)</dd>
+			<dt>Registration:</dt>
+			<dd class="ml-4"><a lang="{{ otherLocale }}" href="{{ eventDetails[otherLocale].link }}">{{ eventDetails[otherLocale].text }}</a></dd>
+			<dt>Sign language interpretation:</dt>
+			<dd class="ml-4">Available</dd>
+			<dt>Platform:</dt>
+			<dd class="ml-4">Webinar via Microsoft Teams</dd>
+		</dl>
+	</dd>
+</dl>
+{%- endif -%}
+
+{{ content | safe }}
+
+{% endblock %}

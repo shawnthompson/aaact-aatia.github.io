@@ -1,5 +1,6 @@
 {
 	"tags": [
 		"learning"
-	]
+	],
+	"layout": "layouts/learning.njk"
 }
