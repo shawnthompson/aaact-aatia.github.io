@@ -1,17 +1,18 @@
+{% set sortedLearninglist = learninglist | sortByEventDate(locale) %}
 
 <section class="gc-features">
 	<h3>{{ learning[locale].upcomingActivities }}</h3>
 	<div class="row wb-eqht-grd mt-4">
 		{% set hasEventDetails = false %}
 
-		{%- for event in learninglist -%}
+		{%- for event in sortedLearninglist -%}
 			{%- if event.data.eventDetails -%}
 				{% set hasEventDetails = true %}
 			{%- endif -%}
 		{%- endfor -%}
 
 		{%- if hasEventDetails -%}
-			{%- for event in learninglist -%}
+			{%- for event in sortedLearninglist -%}
 				{%- if event.data.eventDetails -%}
 					<div class="col-sm-6">
 						<section class="well well-sm">
@@ -50,7 +51,7 @@
 		{%- endfor -%}
 
 		{%- if hasNoEventDetails -%}
-		{%- for event in learninglist -%}
+		{%- for event in learninglist | sort(attribute="data.title") -%}
 		{%- if not event.data.eventDetails -%}
 		<div class="col-sm-6">
 			<section class="well well-sm">

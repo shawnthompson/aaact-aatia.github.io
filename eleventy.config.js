@@ -59,9 +59,9 @@ module.exports = function(eleventyConfig) {
 		let parsedDate;
 
 		if (typeof dateValue === "string") {
-			parsedDate = DateTime.fromFormat(dateValue, "yyyy-MM-dd", { setZone: true });
+			parsedDate = DateTime.fromFormat(dateValue, "yyyy-MM-dd", { zone: "utc" });
 		} else if (dateValue instanceof Date) {
-			parsedDate = DateTime.fromJSDate(dateValue, { setZone: true });
+			parsedDate = DateTime.fromJSDate(dateValue, { zone: "utc" });
 		} else {
 			console.error("Invalid Date Format:", dateValue);
 			return "Invalid Date";
@@ -71,6 +71,9 @@ module.exports = function(eleventyConfig) {
 			console.error("Invalid Date:", dateValue);
 			return "Invalid Date";
 		}
+
+		// Ensure it remains in UTC before formatting
+		parsedDate = parsedDate.toUTC();
 
 		const format = locale === "fr" ? "EEEE d MMMM yyyy" : "EEEE, MMMM d, yyyy";
 		return parsedDate.setLocale(locale).toFormat(format);
@@ -109,6 +112,23 @@ module.exports = function(eleventyConfig) {
 
 	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
+	});
+
+	eleventyConfig.addFilter("sortByEventDate", (events, locale = "en") => {
+		return events
+			.filter(event => event?.data?.eventDetails?.[locale]?.date) // Ensure valid dates exist
+			.map(event => {
+				let dateString = event.data.eventDetails[locale].date;
+				let eventDate = DateTime.fromISO(dateString, { zone: "utc" });
+
+				if (!eventDate.isValid) {
+					eventDate = DateTime.fromJSDate(new Date(dateString), { zone: "utc" });
+				}
+
+				return { ...event, eventDateObj: eventDate.isValid ? eventDate : null };
+			})
+			.filter(event => event.eventDateObj) // Remove invalid dates
+			.sort((a, b) => b.eventDateObj - a.eventDateObj); // Reverse order (newest first)
 	});
 
 	const slugifyFilter = eleventyConfig.javascriptFunctions.slugify;
