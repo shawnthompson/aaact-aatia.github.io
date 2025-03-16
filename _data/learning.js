@@ -17,7 +17,15 @@ module.exports = {
 		upcomingActivities: "Activités d'apprentissage à venir",
 		noUpcomingActivities: "Aucune activité d'apprentissage à venir",
 		scheduledActivities: "Demander une session d'apprentissage privée",
-		noScheduledActivities: "Aucune activité d'apprentissage prévue"
+		noScheduledActivities: "Aucune activité d'apprentissage prévue",
+		eventDetails: {
+			headingText: "Détails de l'événement",
+			timeText: "Heure :",
+			registrationText: "Inscription :",
+			signLangText: "Interprète en langue des signes :",
+			signLangAvailable: "Disponible",
+			platformText: "Plate-forme :",
+		},
 	},
 	en: {
 		location: "Location:",
@@ -37,6 +45,14 @@ module.exports = {
 		upcomingActivities: "Upcoming learning activities",
 		noUpcomingActivities: "No upcoming learning activities",
 		scheduledActivities: "Request a private learning session",
-		noScheduledActivities: "No scheduled learning activities"
+		noScheduledActivities: "No scheduled learning activities",
+		eventDetails: {
+			headingText: "Event Details",
+			timeText: "Time:",
+			registrationText: "Registration:",
+			signLangText: "Sign language interpreter:",
+			signLangAvailable: "Available",
+			platformText: "Platform:",
+		},
 	},
 };
