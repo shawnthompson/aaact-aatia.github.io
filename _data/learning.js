@@ -15,7 +15,9 @@ module.exports = {
 		eventDate: "Date prévue",
 		requestAvailable: "Disponible sur demande",
 		upcomingActivities: "Activités d'apprentissage à venir",
-		scheduledActivities: "Demander une session d'apprentissage privée"
+		noUpcomingActivities: "Aucune activité d'apprentissage à venir",
+		scheduledActivities: "Demander une session d'apprentissage privée",
+		noScheduledActivities: "Aucune activité d'apprentissage prévue"
 	},
 	en: {
 		location: "Location:",
@@ -33,6 +35,8 @@ module.exports = {
 		eventDate: "Scheduled date",
 		requestAvailable: "Available upon request",
 		upcomingActivities: "Upcoming learning activities",
-		scheduledActivities: "Request a private learning session"
+		noUpcomingActivities: "No upcoming learning activities",
+		scheduledActivities: "Request a private learning session",
+		noScheduledActivities: "No scheduled learning activities"
 	},
 };
