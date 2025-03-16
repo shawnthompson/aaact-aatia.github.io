@@ -50,8 +50,6 @@ collections:
       - { label: "Tagline (optional)", name: "tagline", widget: "markdown", i18n: true, required: false }
       - { label: "Description (required)", name: "description", widget: "markdown", i18n: true }
       - { label: "Introduction (required)", name: "introduction", widget: "markdown", i18n: true }
-      - { label: "Event date (YYYY-MM-DD) (required)", name: "eventDate", widget: "datetime", date_format: "YYYY-MM-DD", i18n: duplicate }
-      - { label: "Details (required)", name: "body", widget: "markdown",  i18n: true }
       - label: "Image"
         name: "image"
         widget: "image"
@@ -61,6 +59,8 @@ collections:
         fields:
           - { label: "Source", name: "source", widget: "string", i18n: true }
           - { label: "Alt", name: "alt", widget: "string", i18n: true }
+      - { label: "Event date (YYYY-MM-DD) (required)", name: "eventDate", widget: "datetime", date_format: "YYYY-MM-DD", i18n: duplicate }
+      - { label: "Details (required)", name: "body", widget: "markdown",  i18n: true }
 
   - name: "newsletters"
     label: "Newsletters"
