@@ -54,27 +54,26 @@ module.exports = function(eleventyConfig) {
 
 	// Add a filter to format dates in full text with locale
 	eleventyConfig.addFilter("fullTextDate", (dateValue, locale = "en") => {
-		if (!dateValue) return ""; // Prevent errors if the date is empty
+		if (!dateValue || dateValue === "") return "Invalid Date"; // Handle empty strings
 
 		let parsedDate;
 
 		if (typeof dateValue === "string") {
-			// If it's a string, parse it using Luxon
-			parsedDate = DateTime.fromFormat(dateValue, "yyyy-MM-dd", { zone: "utc" });
+			parsedDate = DateTime.fromFormat(dateValue, "yyyy-MM-dd", { setZone: true });
 		} else if (dateValue instanceof Date) {
-			// If it's already a Date object, convert it to Luxon DateTime
-			parsedDate = DateTime.fromJSDate(dateValue, { zone: "utc" });
+			parsedDate = DateTime.fromJSDate(dateValue, { setZone: true });
 		} else {
 			console.error("Invalid Date Format:", dateValue);
-			return "Invalid Date"; // Return a fallback text
+			return "Invalid Date";
 		}
 
 		if (!parsedDate.isValid) {
 			console.error("Invalid Date:", dateValue);
-			return "Invalid Date"; // Prevent Eleventy from breaking
+			return "Invalid Date";
 		}
 
-		return parsedDate.setLocale(locale).toFormat("EEEE, d MMMM yyyy");
+		const format = locale === "fr" ? "EEEE d MMMM yyyy" : "EEEE, MMMM d, yyyy";
+		return parsedDate.setLocale(locale).toFormat(format);
 	});
 
 	eleventyConfig.addFilter('htmlDateString', (dateObj) => {
