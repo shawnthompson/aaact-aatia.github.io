@@ -22,7 +22,13 @@
 							<h3><a class="stretched-link" href="{{ event.url }}">{{ event.data.title }}</a></h3>
 							<dl>
 								<dt>{{ learning[locale].eventDate }}</dt>
-								<dd>{{ event.data.eventDetails[locale].date | htmlDateString }}</dd>
+								<dd>
+									{%- if event.data.eventDetails.eventDate -%}
+										{{ event.data.eventDetails.eventDate | htmlDateString }}
+									{%- else -%}
+										{{ event.data.eventDetails[locale].date | htmlDateString }}
+									{%- endif -%}
+								</dd>
 							</dl>
 							{%- if event.data.description -%}
 								<p>{{ event.data.description | markdownInline | safe }}</p>

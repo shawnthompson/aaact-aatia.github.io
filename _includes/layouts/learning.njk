@@ -8,12 +8,16 @@
 
 {%- if not eleventyExcludeFromCollections -%}
 
+{%- if eventDetails -%}
+
 <h2>{{ learning[locale].eventDetails.headingText }}</h2>
+{%- endif -%}
 
 {%- if introduction -%}
 {{ introduction | markdownify | safe }}
 {%- endif -%}
 
+{%- if eventDetails -%}
 <dl{% if eventDetails[otherLocale] %} class="colcount-md-2"{%- endif -%}>
 	<dt>{{ localeText }}</dt>
 	<dd>
@@ -52,6 +56,7 @@
 	</dd>
 	{%- endif -%}
 </dl>
+{%- endif -%}
 {%- endif -%}
 
 {{ content | safe }}
