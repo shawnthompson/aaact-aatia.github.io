@@ -1,4 +1,4 @@
 {
 	"locale" : "en",
-	"permalink": "/accessibility-passport/{{ title | slug }}/"
+	"permalink": "/accessibility-passport/{{ title | slugify }}/"
 }
