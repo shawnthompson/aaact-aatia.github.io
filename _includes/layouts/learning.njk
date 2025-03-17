@@ -18,7 +18,7 @@
 {%- endif -%}
 
 {%- if eventDetails -%}
-<dl{% if eventDetails[otherLocale] %} class="colcount-md-2"{%- endif -%}>
+<dl{% if eventDetails[otherLocale].date %} class="colcount-md-2"{%- endif -%}>
 	<dt>{{ localeText }}</dt>
 	<dd>
 		<dl class="ml-4 mt-3">
@@ -38,7 +38,7 @@
 			{%- endif -%}
 		</dl>
 	</dd>
-	{%- if eventDetails[otherLocale] -%}
+	{%- if eventDetails[otherLocale].date -%}
 	<dt>{{ otherLocaleText }}</dt>
 	<dd>
 		<dl class="ml-4 mt-3">
