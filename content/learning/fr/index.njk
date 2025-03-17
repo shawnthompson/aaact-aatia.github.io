@@ -1,0 +1,39 @@
+---
+title: Faire tomber les barrières grâce à l'apprentissage
+description: Le Programme d'accessibilité, d'adaptation et de technologie informatique adaptée (AAACT) de Services partagés Canada (SSC) offre une formation et des ressources gratuites et dirigées par des experts afin de promouvoir l'accessibilité et l'inclusion au sein du gouvernement du Canada. Disponibles en anglais et en français, ces sessions d'apprentissage flexibles sont conçues par des experts en accessibilité ayant une expérience vécue et peuvent être dispensées en personne, en ligne ou dans un format hybride.
+permalink: /formation/
+otherLanguagePermalink: /learning/
+eleventyExcludeFromCollections: true
+---
+<p>Bienvenue au programme d'accessibilité, d'adaptation et de technologie informatique adaptée (AAACT) de Services partagés Canada (PVC).</p>
+
+<p>Nous nous engageons à favoriser une fonction publique diversifiée, inclusive et respectueuse. Grâce à un large éventail d'activités d'apprentissage interactives et d'ateliers informatifs, nous visons à créer un environnement où chaque personne se sent valorisée, soutenue et équipée pour réussir dans son parcours professionnel.</p>
+
+<p>Rejoignez-nous pour construire un lieu de travail qui célèbre l'accessibilité et l'inclusion pour tous.</p>
+
+<p>Les activités d'apprentissage de la AAACT sont</p>
+
+<ul>
+	<li>Gratuites pour les organisations du GC</li>
+	<li>Disponibles en anglais et en français</li>
+	<li>Offertes en personne, en ligne ou de façon hybride</li>
+	<li>Conçues par des experts en accessibilité ayant une expérience vécue du handicap</li>
+	<li>Flexibles et adaptables pour répondre aux besoins de votre organisation</li>
+</ul>
+
+<h2>Nous contacter</h2>
+
+<p>Les activités d'apprentissage et d'information de l'AAACT sont pleines de stratégies pratiques que vous pouvez appliquer immédiatement. Nous pouvons organiser une session d'apprentissage privée pour vous ou toute votre équipe.
+
+{# Liste de tous les événements ici #}
+
+{%- if collections.learning and collections.learning.length > 0 -%}
+  {%- set learninglist = collections.learning | localeMatch(locale) -%}
+  {%- if learninglist and learninglist.length > 0 -%}
+    {%- include "partials/learninglist.njk" -%}
+  {%- else -%}
+    Aucun événement n'est prévu pour le moment.
+  {%- endif -%}
+{%- else -%}
+  Aucun événement n'est prévu pour le moment.
+{%- endif -%}
