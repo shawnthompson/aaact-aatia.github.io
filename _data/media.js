@@ -3,7 +3,7 @@ module.exports = {
 		podcasts: "Balado",
 		newsletters: "Infolettre",
 		learning: "Formation",
-		passport: "Passeport d'accessibilité au lieu de travail du gouvernement du Canada",
+		passport: "Passeport d'accessibilité au lieu de travail du gouvernement du Canada (GC)",
 	},
 
 	en: {

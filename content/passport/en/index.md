@@ -2,7 +2,7 @@
 title: Government of Canada (GC ) Workplace Accessibility Passport
 description: The GC Workplace Accessibility Passport, a tool to build an accessible and inclusive federal public service. Download the Passport and access the full range of Passport resources, such as the Passport newsletter, blog articles, videos, and much more.
 permalink: /accessibility-passport/
-otherLanguagePermalink: /passport-accessibilite/
+otherLanguagePermalink: /passeport-accessibilite/
 eleventyExcludeFromCollections: true
 ---
 

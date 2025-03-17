@@ -1,7 +1,7 @@
 ---
-title: Breaking down barriers through learning
-description: The Accessibility, Accommodation, and Adaptive Computer Technology (AAACT) Program at Shared Services Canada (SSC) provides free, expert-led training and resources to promote accessibility and inclusion in the Government of Canada. Available in English and French, these flexible learning sessions are designed by accessibility experts with lived experience and can be delivered in-person, online, or in a hybrid format.
-permalink: /passport-accessibilite/
+title: Passeport d'accessibilité au travail du gouvernement du Canada (GC)
+description: Le Passeport pour l'accessibilité des lieux de travail du gouvernement du Canada (GC) favorise un accès facile et rapide aux outils et aux mesures de soutien dont les employés handicapés ont besoin pour réussir dans leur travail.
+permalink: /passeport-accessibilite/
 otherLanguagePermalink: /accessibility-passport/
 eleventyExcludeFromCollections: true
 ---
