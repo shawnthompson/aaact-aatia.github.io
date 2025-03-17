@@ -12,11 +12,9 @@ The Accessibility, Accommodation and Adaptive Computer Technology (AAACT) is par
 
 [Download the GC Workplace Accessibility Passport (Word, 73KB)](https://www.canada.ca/content/dam/tbs-sct/documents/accessibility-publi-service/gc-workplace-accessibility-passport-02-2025.docx) - This will open in a new window as an accessible .docx file.
 
-
-
 {# List all learning events here #}
 
-  {%- set passportlist = collections.passport | localeMatch(locale) -%}
+{%- set passportlist = collections.passport | localeMatch(locale) -%}
 
 <div class="row wb-eqht mrgn-tp-lg gc-srvinfo">
 	{%- for item in passportlist -%}

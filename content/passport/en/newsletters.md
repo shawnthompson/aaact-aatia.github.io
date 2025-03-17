@@ -1,20 +1,27 @@
 ---
 title: The Passport Newsletter
 description: Welcome to the GC Workplace Accessibility Passport Newsletter page! Find recent editions of the newsletter. Stay informed with exciting updates about the Passport, exclusive interviews with accessibility leaders, and valuable insights on good practices for workplace accommodation. We're here to share expert tips and actionable strategies to help you foster a more inclusive and accessible federal public service work environment.
-otherLanguageTitle:
+otherLanguageTitle: "L'infolettre du Passeport"
 tags: passport
+internalLinks: true
 ---
 
 Subscribe to the Passport newsletter to receive a direct link as soon as new editions are published.
 
 (Create subscription form in html)
 
-(link) Edition 18 -- March 2025
+{# List all newsletters related to passport here #}
+{%- set newsletterslist = collections.newsletters
+  | localeMatch(locale)
+	| filterByField("passportSection", true)
+-%}
 
-(link) Edition 17 -- December 2024
+{%- if newsletterslist and newsletterslist.length > 0 -%}
+  {%- include "partials/newsletterslist.njk" -%}
+{%- else -%}
+  <p>There are no accessibility passport newsletters at the moment.</p>
+{%- endif -%}
 
-(link) Edition 16 -- October 2024
+<p><a href="">Previous editions on GCpedia<i class="fas fa-user-lock ml-1" aria-hidden="true"></i><span class="wb-inv"> internal link</span></a></p>
 
-(link) Previous editions on GCpedia
-
-Contact the (link) AAACT Passport mailbox for questions, comments, or if you would like to contribute content to the newsletter.
+Contact the <a href="mailto:">AAACT Passport mailbox</a> for questions, comments, or if you would like to contribute content to the newsletter.

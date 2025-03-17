@@ -5,3 +5,14 @@ permalink: /passeport-accessibilite/
 otherLanguagePermalink: /accessibility-passport/
 eleventyExcludeFromCollections: true
 ---
+
+{%- set passportlist = collections.passport | localeMatch(locale) -%}
+
+<div class="row wb-eqht mrgn-tp-lg gc-srvinfo">
+	{%- for item in passportlist -%}
+		<div class="col-md-6">
+			<h2><a href="{{ item.page.url }}">{{ item.data.title }}</a></h2>
+			<p>{{ item.data.description }}</p>
+		</div>
+	{%- endfor -%}
+</div>

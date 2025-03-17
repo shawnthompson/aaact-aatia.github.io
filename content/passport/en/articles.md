@@ -1,7 +1,7 @@
 ---
 title: "A Level Playing Field: Tips and Leading Practices"
 description: People with disabilities bring unique skills, perspectives, and experiences that can drive innovation and creativity.
-otherLanguageTitle:
+otherLanguageTitle: "Des règles du jeu équitables : Conseils et pratiques exemplaires"
 tags: passport
 ---
 
