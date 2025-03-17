@@ -21,6 +21,12 @@ So far, there is one level for the homepage and a second level for tagged pages.
 {%- elif tags and "learning" in tags -%}
 {%- set secondLevel = "Formation" if locale == "fr" else "Learning" -%}
 {%- set secondLevelUrl = "/formation/" if locale == "fr" else "/learning/" -%}
+{%- elif tags and "podcasts" in tags -%}
+{%- set secondLevel = "Balados Horizons Accessibles" if locale == "fr" else "Accessible Horizons Podcast" -%}
+{%- set secondLevelUrl = "/balados/" if locale == "fr" else "/podcasts/" -%}
+{%- elif tags and "passport" in tags -%}
+{%- set secondLevel = "Passeport d'accessibilité au lieu de travail du gouvernement du Canada (GC)" if locale == "fr" else "Government of Canada (GC) Workplace Accessibility Passport" -%}
+{%- set secondLevelUrl = "/passeport-accessibilite/" if locale == "fr" else "/accessibility-passport/" -%}
 {%- endif -%}
 {%- endif -%}
 
