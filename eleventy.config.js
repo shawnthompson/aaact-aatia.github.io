@@ -54,27 +54,29 @@ module.exports = function(eleventyConfig) {
 
 	// Add a filter to format dates in full text with locale
 	eleventyConfig.addFilter("fullTextDate", (dateValue, locale = "en") => {
-		if (!dateValue) return ""; // Prevent errors if the date is empty
+		if (!dateValue || dateValue === "") return "Invalid Date"; // Handle empty strings
 
 		let parsedDate;
 
 		if (typeof dateValue === "string") {
-			// If it's a string, parse it using Luxon
 			parsedDate = DateTime.fromFormat(dateValue, "yyyy-MM-dd", { zone: "utc" });
 		} else if (dateValue instanceof Date) {
-			// If it's already a Date object, convert it to Luxon DateTime
 			parsedDate = DateTime.fromJSDate(dateValue, { zone: "utc" });
 		} else {
 			console.error("Invalid Date Format:", dateValue);
-			return "Invalid Date"; // Return a fallback text
+			return "Invalid Date";
 		}
 
 		if (!parsedDate.isValid) {
 			console.error("Invalid Date:", dateValue);
-			return "Invalid Date"; // Prevent Eleventy from breaking
+			return "Invalid Date";
 		}
 
-		return parsedDate.setLocale(locale).toFormat("EEEE, d MMMM yyyy");
+		// Ensure it remains in UTC before formatting
+		parsedDate = parsedDate.toUTC();
+
+		const format = locale === "fr" ? "EEEE d MMMM yyyy" : "EEEE, MMMM d, yyyy";
+		return parsedDate.setLocale(locale).toFormat(format);
 	});
 
 	eleventyConfig.addFilter('htmlDateString', (dateObj) => {
@@ -110,6 +112,23 @@ module.exports = function(eleventyConfig) {
 
 	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
+	});
+
+	eleventyConfig.addFilter("sortByEventDate", (events, locale = "en") => {
+		return events
+			.filter(event => event?.data?.eventDetails?.[locale]?.date) // Ensure valid dates exist
+			.map(event => {
+				let dateString = event.data.eventDetails[locale].date;
+				let eventDate = DateTime.fromISO(dateString, { zone: "utc" });
+
+				if (!eventDate.isValid) {
+					eventDate = DateTime.fromJSDate(new Date(dateString), { zone: "utc" });
+				}
+
+				return { ...event, eventDateObj: eventDate.isValid ? eventDate : null };
+			})
+			.filter(event => event.eventDateObj) // Remove invalid dates
+			.sort((a, b) => b.eventDateObj - a.eventDateObj); // Reverse order (newest first)
 	});
 
 	const slugifyFilter = eleventyConfig.javascriptFunctions.slugify;

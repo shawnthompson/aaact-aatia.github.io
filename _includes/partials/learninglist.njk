@@ -1,35 +1,69 @@
+{% set sortedLearninglist = learninglist | sortByEventDate(locale) %}
 
 <section class="gc-features">
 	<h3>{{ learning[locale].upcomingActivities }}</h3>
-	<div class="row wb-eqht-grd">
-		{%- for event in learninglist -%}
-		{%- if event.data.eventDate -%}
-		<div class="col-sm-6">
-			<section class="well well-sm">
-				{%- if event.data.image -%}<img src="{{ event.data.image.source }}" alt="{{ event.data.image.alt }}">{%- endif -%}
-				<h3><a class="stretched-link" href="{{ event.url }}">{{ event.data.title }}</a></h3>
-				<dl>
-					<dt>{{ learning[locale].eventDate }}</dt>
-					<dd>{{ event.data.eventDate | htmlDateString }}</dd>
-				</dl>
-				{%- if event.data.description -%}
-				<p>{{ event.data.description | markdownInline | safe }}</p>
+	<div class="row wb-eqht-grd mt-4">
+		{% set hasEventDetails = false %}
+
+		{%- for event in sortedLearninglist -%}
+			{%- if event.data.eventDetails -%}
+				{% set hasEventDetails = true %}
+			{%- endif -%}
+		{%- endfor -%}
+
+		{%- if hasEventDetails -%}
+			{%- for event in sortedLearninglist -%}
+				{%- if event.data.eventDetails -%}
+					<div class="col-sm-6">
+						<section class="well well-sm">
+							{%- if event.data.image -%}
+								<img src="{{ event.data.image.source }}" alt="{{ event.data.image.alt }}">
+							{%- endif -%}
+							<h3><a class="stretched-link" href="{{ event.url }}">{{ event.data.title }}</a></h3>
+							<dl>
+								<dt>{{ learning[locale].eventDate }}</dt>
+								<dd>
+									{%- if event.data.eventDetails.eventDate -%}
+										{{ event.data.eventDetails.eventDate | htmlDateString }}
+									{%- else -%}
+										{{ event.data.eventDetails[locale].date | htmlDateString }}
+									{%- endif -%}
+								</dd>
+							</dl>
+							{%- if event.data.description -%}
+								<p>{{ event.data.description | markdownInline | safe }}</p>
+							{%- endif -%}
+						</section>
+					</div>
 				{%- endif -%}
-			</section>
+			{%- endfor -%}
+		{%- else -%}
+		<div class="col-sm-12">
+			<p>{{ learning[locale].noUpcomingActivities }}</p>
 		</div>
 		{%- endif -%}
-		{%- endfor -%}
 	</div>
 </section>
 
 <section class="gc-features">
 	<h3>{{ learning[locale].scheduledActivities }}</h3>
-	<div class="row wb-eqht-grd">
+	<div class="row wb-eqht-grd mt-4">
+		{% set hasNoEventDetails = false %}
+
 		{%- for event in learninglist -%}
-		{%- if not event.data.eventDate -%}
+		{%- if not event.data.eventDetails -%}
+		{% set hasNoEventDetails = true %}
+		{%- endif -%}
+		{%- endfor -%}
+
+		{%- if hasNoEventDetails -%}
+		{%- for event in learninglist | sort(attribute="data.title") -%}
+		{%- if not event.data.eventDetails -%}
 		<div class="col-sm-6">
 			<section class="well well-sm">
-				{%- if event.data.image -%}<img src="{{ event.data.image.source }}" alt="{{ event.data.image.alt }}">{%- endif -%}
+				{%- if event.data.image -%}
+				<img src="{{ event.data.image.source }}" alt="{{ event.data.image.alt }}">
+				{%- endif -%}
 				<h3><a class="stretched-link" href="{{ event.url }}">{{ event.data.title }}</a></h3>
 				{%- if event.data.description -%}
 				<p>{{ event.data.description | markdownInline | safe }}</p>
@@ -38,5 +72,10 @@
 		</div>
 		{%- endif -%}
 		{%- endfor -%}
+		{%- else -%}
+		<div class="col-sm-12">
+			<p>{{ learning[locale].noScheduledActivities }}</p>
+		</div>
+		{%- endif -%}
 	</div>
 </section>
