@@ -1,4 +1,5 @@
 ---
+passportSection: false
 title: Horizons accessibles
 otherLanguageTitle: Accessible Horizons
 tagline: Une étape importante sur la route vers l’accessibilité

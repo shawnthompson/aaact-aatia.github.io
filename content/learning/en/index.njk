@@ -30,7 +30,10 @@ eleventyExcludeFromCollections: true
 
 {# List all learning events here #}
 {%- if collections.learning and collections.learning.length > 0 -%}
-  {%- set learninglist = collections.learning | localeMatch(locale) -%}
+  {%- set learninglist = collections.learning
+		| localeMatch(locale)
+		| filterByField("passportSection", false)
+	-%}
   {%- if learninglist and learninglist.length > 0 -%}
     {%- include "partials/learninglist.njk" -%}
   {%- else -%}

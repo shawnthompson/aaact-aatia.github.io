@@ -1,4 +1,5 @@
 ---
+passportSection: false
 title: July 2024 AAACT Now for Accessibility
 otherLanguageTitle: L’AATIA maintenant pour l’accessibilité de juillet 2024
 description: "**In this edition:** accessibility requirements for ICT;

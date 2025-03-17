@@ -110,6 +110,29 @@ module.exports = function(eleventyConfig) {
 		return Array.from(tagSet);
 	});
 
+	eleventyConfig.addFilter("filterByField", (items, field, value) => {
+		return items.filter(item => {
+			let fieldValue = item.data[field];
+
+			// Check for exact value match (true/false)
+			if (fieldValue === value) {
+				return true;
+			}
+
+			// If value is false, we also need to check for empty objects
+			if (value === false && typeof fieldValue === "object") {
+				return Object.keys(fieldValue).length === 0 ||
+					Object.values(fieldValue).every(val =>
+						typeof val === "object"
+							? Object.keys(val).length === 0 || Object.values(val).every(subVal => !subVal)
+							: !val
+					);
+			}
+
+			return false;
+		});
+	});
+
 	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});

@@ -13,7 +13,10 @@ layout: layouts/base.njk
 
 {# List all newsletters here #}
 {%- if collections.newsletters and collections.newsletters.length > 0 -%}
-	{%- set newsletterslist = collections.newsletters | localeMatch(locale) -%}
+	{%- set newsletterslist = collections.newsletters
+		| localeMatch(locale)
+		| filterByField("passportSection", false)
+	-%}
 {%- if newsletterslist and newsletterslist.length > 0 -%}
 	{%- include "partials/newsletterslist.njk" -%}
 {%- else -%}

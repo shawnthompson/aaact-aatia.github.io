@@ -45,6 +45,7 @@ collections:
     slug: "{{slug}}"
     i18n: true
     fields:
+      - { label: "Passport related", name: "passportSection", widget: "boolean", default: false, i18n: "duplicate" }
       - { label: "Title (required)", name: "title", widget: "string", i18n: true }
       - { label: "Other language title (required)", name: "otherLanguageTitle", widget: "string", i18n: true }
       - { label: "Tagline", name: "tagline", widget: "string", i18n: true, required: false }
@@ -114,6 +115,7 @@ collections:
     slug: "{{slug}}"
     i18n: true
     fields:
+      - { label: "Passport related", name: "passportSection", widget: "boolean", default: false, i18n: "duplicate" }
       - { label: "Title (required)", name: "title", widget: "string", i18n: true }
       - { label: "Other language title (required)", name: "otherLanguageTitle", widget: "string", i18n: true }
       - { label: "Description (required)", name: "description", widget: "markdown", i18n: true }

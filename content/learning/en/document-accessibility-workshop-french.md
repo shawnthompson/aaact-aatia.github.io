@@ -1,4 +1,5 @@
 ---
+passportSection: false
 title: Document Accessibility Workshop - French
 otherLanguageTitle: Atelier des documents accessibles -  Français
 tagline: "Make Every Word Count: Creating Accessible Documents for All"

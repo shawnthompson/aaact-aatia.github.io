@@ -1,4 +1,5 @@
 ---
+passportSection: false
 title: January 2025 AAACT Now for Accessibility
 otherLanguageTitle: Infolettre de l'AATIA maintenant pour l'accessibilité de janvier 2025
 description: "**In this edition:** 2024 milestones; the socialization of a service dog in our

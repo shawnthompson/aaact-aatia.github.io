@@ -1,4 +1,5 @@
 ---
+passportSection: false
 title: L'AATIA maintenant pour l'accessibilité de janvier 2025
 otherLanguageTitle: January 2025 AAACT Now for Accessibility newsletter
 description: "**Dans cette édition :** les jalons franchis au cours de 2024; la socialisation d’un chien
