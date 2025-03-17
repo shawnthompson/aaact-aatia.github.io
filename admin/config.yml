@@ -47,12 +47,12 @@ collections:
     fields:
       - { label: "Title (required)", name: "title", widget: "string", i18n: true }
       - { label: "Other language title (required)", name: "otherLanguageTitle", widget: "string", i18n: true }
-      - { label: "Tagline (optional)", name: "tagline", widget: "string", i18n: true, required: false }
+      - { label: "Tagline", name: "tagline", widget: "string", i18n: true, required: false }
       - { label: "Description (required)", name: "description", widget: "markdown", i18n: true }
       - { label: "Introduction (required)", name: "introduction", widget: "markdown", i18n: true }
 
       # Image field
-      - label: "Image (optional)"
+      - label: "Image"
         name: "image"
         widget: "object"
         i18n: true
@@ -62,13 +62,13 @@ collections:
           - { label: "Alt text", name: "alt", widget: "string", i18n: true, required: false }
 
       # Event Details
-      - label: "Event Details (optional)"
+      - label: "Event Details"
         name: "eventDetails"
         widget: "object"
         i18n: true
         required: false
         fields:
-          - label: "Event date, if creating an event for each language (optional)"
+          - label: "Event date, if creating an event for each language (YYYY-MM-DD)"
             name: "eventDate"
             widget: "datetime"
             date_format: "YYYY-MM-DD"
@@ -158,7 +158,7 @@ collections:
             i18n: true
             fields:
               - { label: "YouTube URL", name: "url", widget: "string", i18n: true }
-          - label: "OGG (optional)"
+          - label: "OGG"
             collapsed: true
             name: "ogg"
             widget: "object"
