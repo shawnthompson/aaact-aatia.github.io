@@ -1,0 +1,4 @@
+{
+	"locale" : "fr",
+	"permalink": "/passport-accessibilite/{{ title | slug }}/"
+}
