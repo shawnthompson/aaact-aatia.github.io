@@ -15,6 +15,7 @@ module.exports = {
 		noUpcomingActivities: "Aucune activité d'apprentissage à venir",
 		scheduledActivities: "Demander une session d'apprentissage privée",
 		noScheduledActivities: "Aucune activité d'apprentissage prévue",
+		pastActivities: "Activités d'apprentissage passées",
 		eventDetails: {
 			headingText: "Détails de l'événement",
 			timeText: "Heure :",
@@ -40,6 +41,7 @@ module.exports = {
 		noUpcomingActivities: "No upcoming learning activities",
 		scheduledActivities: "Request a private learning session",
 		noScheduledActivities: "No scheduled learning activities",
+		pastActivities: "Past learning activities",
 		eventDetails: {
 			headingText: "Event Details",
 			timeText: "Time:",

@@ -133,6 +133,106 @@ module.exports = function(eleventyConfig) {
 		});
 	});
 
+	// Filter: filterByUpcomingEvents
+	// This filter returns only events that have a valid future date.
+	eleventyConfig.addFilter("filterByUpcomingEvents", (events, locale = "en") => {
+		return events.filter(event => {
+			// Get the event date from either the locale-specific field or the general event date
+			let eventDateStr = event?.data?.eventDetails?.[locale]?.date || event?.data?.eventDetails?.eventDate;
+			if (!eventDateStr) return false; // Skip events without a date
+
+			// Extract only the date part (YYYY-MM-DD) if there's a timestamp
+			if (typeof eventDateStr === "string") {
+				eventDateStr = eventDateStr.split("T")[0];
+			} else if (eventDateStr instanceof Date) {
+				eventDateStr = eventDateStr.toISOString().split("T")[0];
+			}
+
+			// Convert the date string into a DateTime object
+			let eventDate = DateTime.fromISO(eventDateStr, { zone: "utc" });
+
+			// If the date is invalid, try parsing it as a standard JavaScript Date
+			if (!eventDate.isValid) {
+				try {
+					eventDate = DateTime.fromJSDate(new Date(eventDateStr), { zone: "utc" });
+				} catch {
+					return false; // Skip events with unparseable dates
+				}
+			}
+
+			// Return true only if the event date is today or in the future
+			return eventDate.startOf("day") >= DateTime.now().startOf("day");
+		});
+	});
+
+	// Filter: filterByNoDateEvents
+	// This filter returns only events that do not have a valid date.
+	eleventyConfig.addFilter("filterByNoDateEvents", (events, locale = "en") => {
+		return events.filter(event => {
+			// Get the event date from either the locale-specific field or the general event date
+			let eventDateStr = event?.data?.eventDetails?.[locale]?.date || event?.data?.eventDetails?.eventDate;
+
+			// If no date is provided or it's an empty string, consider this a "no date" event
+			if (!eventDateStr || eventDateStr === "") return true;
+
+			// If eventDateStr is already a JavaScript Date object, exclude it
+			if (eventDateStr instanceof Date) return false;
+
+			// Ensure we only extract the date part (YYYY-MM-DD)
+			eventDateStr = String(eventDateStr);
+			if (eventDateStr.includes("T")) {
+				eventDateStr = eventDateStr.split("T")[0];
+			}
+
+			// Convert the extracted date string into a DateTime object
+			let eventDate = DateTime.fromISO(eventDateStr, { zone: "utc" });
+
+			// If the date is invalid, try parsing it as a standard JavaScript Date
+			if (!eventDate.isValid) {
+				try {
+					eventDate = DateTime.fromJSDate(new Date(eventDateStr), { zone: "utc" });
+				} catch {
+					return true; // Include events that fail date parsing
+				}
+			}
+
+			// If a valid date exists, exclude it from the "no date" list
+			return !eventDate.isValid;
+		});
+	});
+
+	// Filter: filterByPastEvents
+	// This filter returns only events that have already occurred (past events).
+	eleventyConfig.addFilter("filterByPastEvents", (events, locale = "en") => {
+		return events.filter(event => {
+			// Get the event date from either the locale-specific field or the general event date
+			let eventDateStr = event?.data?.eventDetails?.[locale]?.date || event?.data?.eventDetails?.eventDate;
+			if (!eventDateStr) return false; // Skip events without a date
+
+			// Extract only the date part (YYYY-MM-DD) if there's a timestamp
+			if (typeof eventDateStr === "string") {
+				eventDateStr = eventDateStr.split("T")[0];
+			} else if (eventDateStr instanceof Date) {
+				eventDateStr = eventDateStr.toISOString().split("T")[0];
+			}
+
+			// Convert the extracted date string into a DateTime object
+			let eventDate = DateTime.fromISO(eventDateStr, { zone: "utc" });
+
+			// If the date is invalid, try parsing it as a standard JavaScript Date
+			if (!eventDate.isValid) {
+				try {
+					eventDate = DateTime.fromJSDate(new Date(eventDateStr), { zone: "utc" });
+				} catch {
+					return false; // Skip events with unparseable dates
+				}
+			}
+
+			// Return true only if the event date is in the past
+			return eventDate.startOf("day") < DateTime.now().startOf("day");
+		});
+	});
+
 	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
@@ -284,7 +384,6 @@ module.exports = function(eleventyConfig) {
 	// https://www.11ty.dev/docs/copy/#emulate-passthrough-copy-during-serve
 
 	// eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
-
 	return {
 		// Control which files Eleventy will process
 		// e.g.: *.md, *.njk, *.html, *.liquid

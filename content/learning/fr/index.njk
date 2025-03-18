@@ -29,18 +29,17 @@ eleventyExcludeFromCollections: true
 
 <p>Demandez une consultation afin de discuter des besoins d’apprentissage ou d’information de votre organisation sur l’accessibilité et l’inclusion. (Lien à venir)</p>
 
-{# Liste de tous les événements ici #}
+{# Capture all events for the current locale #}
+{%- set allEvents = collections.learning | localeMatch(locale) -%}
 
-{%- if collections.learning and collections.learning.length > 0 -%}
-  {%- set learninglist = collections.learning
-		| localeMatch(locale)
-		| filterByField("passportSection", false)
-	-%}
-  {%- if learninglist and learninglist.length > 0 -%}
-    {%- include "partials/learninglist.njk" -%}
-  {%- else -%}
-    Aucun événement n'est prévu pour le moment.
-  {%- endif -%}
-{%- else -%}
-  Aucun événement n'est prévu pour le moment.
-{%- endif -%}
+{# Upcoming Events Section #}
+{% set eventHeading = learning[locale].upcomingActivities %}
+{% set learninglist = allEvents | filterByUpcomingEvents(locale) | sortByEventDate(locale) %}
+{% include "partials/learninglist.njk" %}
+
+{# No-Date Events Section #}
+{% set eventHeading = learning[locale].noScheduledActivities %}
+{% set learninglist = allEvents | filterByNoDateEvents(locale) %}
+{% include "partials/learninglist.njk" %}
+
+<p>Consultez nos <a href="/formation/evenements-passes/">événements passés</a>.</p>
