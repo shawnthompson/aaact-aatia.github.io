@@ -1,4 +1,5 @@
 ---
+passportSection: false
 title: International Day of Persons with Disabilities 2024
 otherLanguageTitle: Journée internationale des personnes en situation de handicap 2024
 tagline: A milestone in the road to accessibility
