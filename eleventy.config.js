@@ -139,19 +139,18 @@ module.exports = function(eleventyConfig) {
 
 	eleventyConfig.addFilter("sortByEventDate", (events, locale = "en") => {
 		return events
-			.filter(event => event?.data?.eventDetails?.[locale]?.date) // Ensure valid dates exist
 			.map(event => {
-				let dateString = event.data.eventDetails[locale].date;
-				let eventDate = DateTime.fromISO(dateString, { zone: "utc" });
+				let dateString = event?.data?.eventDetails?.eventDate || event?.data?.eventDetails?.[locale]?.date;
+				let eventDate = dateString ? DateTime.fromISO(dateString, { zone: "utc" }) : null;
 
-				if (!eventDate.isValid) {
+				if (eventDate && !eventDate.isValid) {
 					eventDate = DateTime.fromJSDate(new Date(dateString), { zone: "utc" });
 				}
 
-				return { ...event, eventDateObj: eventDate.isValid ? eventDate : null };
+				return { ...event, eventDateObj: eventDate?.isValid ? eventDate : null };
 			})
 			.filter(event => event.eventDateObj) // Remove invalid dates
-			.sort((a, b) => b.eventDateObj - a.eventDateObj); // Reverse order (newest first)
+			.sort((a, b) => a.eventDateObj - b.eventDateObj); // Sort ascending (earliest first)
 	});
 
 	const slugifyFilter = eleventyConfig.javascriptFunctions.slugify;
