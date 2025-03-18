@@ -29,8 +29,10 @@ eleventyExcludeFromCollections: true
 
 <p>Demandez une consultation afin de discuter des besoins d’apprentissage ou d’information de votre organisation sur l’accessibilité et l’inclusion. (Lien à venir)</p>
 
+{# When modifying this do not forget about the passport events list #}
+
 {# Capture all events for the current locale #}
-{%- set allEvents = collections.learning | localeMatch(locale) -%}
+{%- set allEvents = collections.learning | localeMatch(locale) | filterByField("passportSection", false) -%}
 
 {# Upcoming Events Section #}
 {% set eventHeading = learning[locale].upcomingActivities %}

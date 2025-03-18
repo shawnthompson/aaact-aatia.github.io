@@ -28,8 +28,10 @@ eleventyExcludeFromCollections: true
 
 <p>To discuss your organization’s accessibility and inclusion learning or information needs, request a consultation (link to come soon)</p>
 
+{# When modifying this do not forget about the passport events list #}
+
 {# Capture all events for the current locale #}
-{%- set allEvents = collections.learning | localeMatch(locale) -%}
+{%- set allEvents = collections.learning | localeMatch(locale) | filterByField("passportSection", false) -%}
 
 {# Upcoming Events Section #}
 {% set eventHeading = learning[locale].upcomingActivities %}
