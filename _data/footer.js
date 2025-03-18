@@ -42,7 +42,7 @@ module.exports = {
 				email: "aaactlearning-aatiaapprentissage@ssc-spc.gc.ca"
 			},
 			passport: {
-				text: "Government of Canada (GC ) Workplace Accessibility Passport",
+				text: "Government of Canada (GC) Workplace Accessibility Passport",
 				email: "gc-accessibility-passport.passeport-accessibilite-gc@ssc-spc.gc.ca"
 			}
 		}
