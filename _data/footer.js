@@ -9,7 +9,7 @@ module.exports = {
 		},
 		en: {
 			heading: {
-				text: "Government of Canada (GC ) Workplace Accessibility Passport",
+				text: "Government of Canada (GC) Workplace Accessibility Passport",
 				link: "/accessibility-passport/"
 			},
 			description: "The GC Workplace Accessibility Passport, a tool to build an accessible and inclusive federal public service. Download the Passport and access the full range of Passport resources, such as the Passport newsletter, blog articles, videos, and much more."
