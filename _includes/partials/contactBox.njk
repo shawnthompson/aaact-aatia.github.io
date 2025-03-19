@@ -1,8 +1,6 @@
-
 {%- set emailAddress = "" -%}
 {%- set emailSubject = "" -%}
 {%- set message = "" -%}
-
 
 {%- if tags and "podcasts" in tags -%}
 {%- set emailAddress = footer.contextualFooterContact[locale].learning.email -%}
@@ -41,7 +39,7 @@
 {%- set message = "Contactez-nous pour plus d'informations sur l'<strong>" ~ footer.contextualFooterContact[locale].learning.text ~ "</strong> à notre adresse courriel&nbsp;: " -%}
 {%- endif -%}
 
-{%- elif tags and "passport" in tags -%}
+{%- elif tags and "passport" in tags or page.url == "/accessibility-passport/" or page.url == "/passeport-accessibilite/" -%}
 {%- set emailAddress = footer.contextualFooterContact[locale].passport.email -%}
 
 {%- if locale == "en" -%}
