@@ -24,13 +24,13 @@ eventDetails:
     text: Horizons accessibles - Soutien, solutions et espaces
     date: 2025-03-28
   eventDate: 2025-03-28
-  platform: Webinar via Microsoft Teams
+platform: Webinar via Microsoft Teams
 ---
 ## Agenda
 
 * Showcasing 219 Laurier
 * <abbr title="Accessibility, Accommodation and Adaptive Computer Technology">AAACT</abbr> Lending Library
-* Nadine and Luna: A conversation between two managers about more complex accommodation situations 
+* Nadine and Luna: A conversation between two managers about more complex accommodation situations
 
 ## How to join
 

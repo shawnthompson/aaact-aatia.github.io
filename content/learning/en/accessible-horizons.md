@@ -22,7 +22,7 @@ eventDetails:
     signLanguage: true
     text: Horizons accessibles — Épisode 2
     link: https://events.teams.microsoft.com/event/473cd859-177c-4f90-abb9-ce8b435439b4@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-  platform: Webinar via Microsoft Teams
+platform: Webinar via Microsoft Teams
 ---
 
 ## Agenda

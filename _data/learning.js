@@ -22,7 +22,7 @@ module.exports = {
 			registrationText: "Inscription :",
 			signLangText: "Interprète en langue des signes :",
 			signLangAvailable: "Disponible",
-			platformText: "Plate-forme :",
+			platformText: "Format :",
 		},
 	},
 	en: {
@@ -48,7 +48,7 @@ module.exports = {
 			registrationText: "Registration:",
 			signLangText: "Sign language interpreter:",
 			signLangAvailable: "Available",
-			platformText: "Platform:",
+			platformText: "Delivery:",
 		},
 	},
 };

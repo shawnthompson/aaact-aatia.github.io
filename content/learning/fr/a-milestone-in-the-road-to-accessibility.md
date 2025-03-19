@@ -25,13 +25,13 @@ eventDetails:
     startTime: 10 h 30
     endTime: 11 h
   eventDate: 2025-03-28
-  platform: Webinaire par le biais de Microsoft Teams
+platform: Webinaire par le biais de Microsoft Teams
 ---
 ## Ordre du jour
 
 * Présentation du 219 Laurier
 * Bibliothèque de prêt du <abbr title="Accessibilité, adaptation et technologie informatique adaptée">AATIA</abbr>
-* Nadine et Luna : une conversation entre deux gestionnaires sur des situations d'hébergement plus complexes 
+* Nadine et Luna : une conversation entre deux gestionnaires sur des situations d'hébergement plus complexes
 
 ## Comment s'inscrire
 
