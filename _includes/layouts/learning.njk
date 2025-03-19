@@ -32,9 +32,9 @@
 				<dt>{{ learning[locale].eventDetails.signLangText }}</dt>
 				<dd class="ml-4">{{ learning[locale].eventDetails.signLangAvailable }}</dd>
 			{%- endif -%}
-			{%- if eventDetails.platform -%}
+			{%- if platform -%}
 			<dt>{{ learning[locale].eventDetails.platformText }}</dt>
-			<dd class="ml-4">{{ eventDetails.platform }}</dd>
+			<dd class="ml-4">{{ platform }}</dd>
 			{%- endif -%}
 		</dl>
 	</dd>
@@ -51,7 +51,7 @@
 			<dt>{{ learning[locale].eventDetails.signLangText }}</dt>
 			<dd class="ml-4">{{ learning[locale].eventDetails.signLangAvailable }}</dd>
 			<dt>{{ learning[locale].eventDetails.platformText }}</dt>
-			<dd class="ml-4">{{ eventDetails.platform }}</dd>
+			<dd class="ml-4">{{ platform }}</dd>
 		</dl>
 	</dd>
 	{%- endif -%}
