@@ -13,34 +13,61 @@ So far, there is one level for the homepage and a second level for tagged pages.
 {%- set firstLevel = "Page d'accueil" if locale == "fr" else "Welcome page" -%}
 {%- set secondLevel = "" -%}
 {%- set secondLevelUrl = "" -%}
+{%- set thirdLevel = "" -%}
+{%- set thirdLevelUrl = "" -%}
 
-{%- if eleventyExcludeFromCollections != true -%}
+{# Set second-level breadcrumb based on tags or specific pages #}
 {%- if tags and "newsletters" in tags -%}
 {%- set secondLevel = "Infolettres" if locale == "fr" else "Newsletters" -%}
 {%- set secondLevelUrl = "/infolettres/" if locale == "fr" else "/newsletters/" -%}
 {%- elif tags and "learning" in tags -%}
 {%- set secondLevel = "Formation" if locale == "fr" else "Learning" -%}
 {%- set secondLevelUrl = "/formation/" if locale == "fr" else "/learning/" -%}
-{%- endif -%}
+{%- elif tags and "podcasts" in tags -%}
+{%- set secondLevel = "Balados Horizons Accessibles" if locale == "fr" else "Accessible Horizons Podcast" -%}
+{%- set secondLevelUrl = "/balados/" if locale == "fr" else "/podcasts/" -%}
+{%- elif tags and "passport" in tags -%}
+{%- set secondLevel = "Passeport d'accessibilité au lieu de travail du gouvernement du Canada (GC)" if locale == "fr" else "Government of Canada (GC) Workplace Accessibility Passport" -%}
+{%- set secondLevelUrl = "/passeport-accessibilite/" if locale == "fr" else "/accessibility-passport/" -%}
 {%- endif -%}
 
+{%- if tags and "learning" in tags -%}
+	{%- set eventDate = eventDetails[locale].date | htmlDateString -%}
+	{%- set today = "" | todayDate -%}
+
+	{%- if eventDate and eventDate < today -%}
+		{%- set thirdLevel="Événements passés" if locale=="fr" else "Past Events" -%}
+		{%- set thirdLevelUrl="/formation/evenements-passes/" if locale=="fr" else "/learning/past-events/" -%}
+	{%- endif -%}
+{%- endif -%}
+
+{# Render Breadcrumbs if not on the second-level index page #}
 <nav id="wb-bc" property="breadcrumb">
 	<h2>{{ header[locale].breadcrumbsHeading }}</h2>
 	<div class="container">
 		<ol class="breadcrumb" typeof="BreadcrumbList">
 			<li property="itemListElement" typeof="ListItem">
-				<a property="item" typeof="WebPage" href="{%- if locale == "en" -%}/home/{%- else -%}/accueil/{%- endif -%}">
+				<a property="item" typeof="WebPage" href="{%- if locale == " en" -%}/home/{%- else -%}/accueil/{%- endif -%}">
 					<span property="name">{{ firstLevel }}</span>
 				</a>
 				<meta property="position" content="1">
 			</li>
 
-			{%- if secondLevel -%}
+			{%- if secondLevel and page.url != secondLevelUrl -%}
 			<li property="itemListElement" typeof="ListItem">
 				<a property="item" typeof="WebPage" href="{{ secondLevelUrl }}">
 					<span property="name">{{ secondLevel }}</span>
 				</a>
 				<meta property="position" content="2">
+			</li>
+			{%- endif -%}
+
+			{%- if thirdLevel -%}
+			<li property="itemListElement" typeof="ListItem">
+				<a property="item" typeof="WebPage" href="{{ thirdLevelUrl }}">
+					<span property="name">{{ thirdLevel }}</span>
+				</a>
+				<meta property="position" content="3">
 			</li>
 			{%- endif -%}
 		</ol>

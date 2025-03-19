@@ -3,13 +3,15 @@
 	<h2 class="wb-inv">{{ footer[locale].aboutThisSite }}</h2>
 		<div class="gc-contextual">
 			<div class="container">
-				<nav>
-					<h3>{{ footer.contextualFooter[locale].heading }}</h3>
+				<p class="h1"><a href="{{ footer.contextualFooterPassport[locale].heading.link }}"><i class="fas fa-passport mr-2" aria-hidden="true"></i>{{ footer.contextualFooterPassport[locale].heading.text }}</a></p>
+				<p>{{ footer.contextualFooterPassport[locale].description }}</p>
+				<nav aria-labelledby="contextualFooterHeading">
+					<h3 id="contextualFooterHeading">{{ footer.contextualFooterContact[locale].heading }}</h3>
 					<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3">
-						{%- for key, item in footer.contextualFooter[locale] -%}
-							{%- if key != "heading" -%} {# Ignore the heading key #}
-								<li><a href="mailto:{{ item.email }}"><i class="fas fa-envelope mr-2" aria-hidden="true"></i>{{ item.text }}</a></li>
-							{%- endif -%}
+						{%- for key, item in footer.contextualFooterContact[locale] -%}
+						{%- if key != "heading" -%} {# Ignore the heading key #}
+						<li><a href="mailto:{{ item.email }}"><i class="fas fa-envelope mr-2" aria-hidden="true"></i>{{ item.text }}</a></li>
+						{%- endif -%}
 						{%- endfor -%}
 					</ul>
 				</nav>
@@ -17,8 +19,8 @@
 		</div>
 	<div class="gc-main-footer">
 		<div class="container">
-			<nav>
-				<h3>{{ footer[locale].governmentOfCanadan }}</h3>
+			<nav aria-labelledby="governmentOfCanadanHeading">
+				<h3 id="governmentOfCanadanHeading">{{ footer[locale].governmentOfCanadan }}</h3>
 				<ul class="list-col-xs-1 list-col-sm-2 list-col-md-3"><li><a href="{{ footer[locale].allContactsLink }}">{{ footer[locale].allContacts }}</a></li>
 					<li><a href="{{ footer[locale].departmentsAndAgenciesURL }}">{{ footer[locale].departmentsAndAgencies }}</a></li>
 					<li><a href="{{ footer[locale].aboutGovernmentURL }}">{{ footer[locale].aboutGovernment }}</a></li></ul>
@@ -47,8 +49,8 @@
 	</div>
 	<div class="gc-sub-footer">
 		<div class="container d-flex align-items-center">
-			<nav>
-				<h3 class="wb-inv">{{ footer[locale].governmentCorporateHeading }}</h3>
+			<nav aria-labelledby="governmentCorporateHeading">
+				<h3 id="governmentCorporateHeading" class="wb-inv">{{ footer[locale].governmentCorporateHeading }}</h3>
 				<ul>
 					<li><a href="{{ footer[locale].socialURL }}">{{ footer[locale].social }}</a></li>
 					<li><a href="{{ footer[locale].mobileURL }}">{{ footer[locale].mobile }}</a></li>

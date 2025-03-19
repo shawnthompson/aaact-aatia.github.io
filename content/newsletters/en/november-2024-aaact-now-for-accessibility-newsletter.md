@@ -1,4 +1,5 @@
 ---
+passportSection: false
 title: November 2024 AAACT Now for Accessibility
 otherLanguageTitle: Infolettre de l'AATIA maintenant pour l'accessibilité de novembre 2024
 description: "**In this edition:** International Day of Persons with

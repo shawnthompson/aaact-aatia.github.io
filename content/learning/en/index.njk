@@ -28,14 +28,20 @@ eleventyExcludeFromCollections: true
 
 <p>To discuss your organization’s accessibility and inclusion learning or information needs, request a consultation (link to come soon)</p>
 
-{# List all learning events here #}
-{%- if collections.learning and collections.learning.length > 0 -%}
-  {%- set learninglist = collections.learning | localeMatch(locale) -%}
-  {%- if learninglist and learninglist.length > 0 -%}
-    {%- include "partials/learninglist.njk" -%}
-  {%- else -%}
-    There are no learning events scheduled at the moment.
-  {%- endif -%}
-{%- else -%}
-  There are no learning events scheduled at the moment.
-{%- endif -%}
+{# When modifying this do not forget about the passport events list #}
+
+{# Capture all events for the current locale #}
+{%- set allEvents = collections.learning | localeMatch(locale) | filterByField("passportSection", false) -%}
+
+{# Upcoming Events Section #}
+{% set eventHeading = learning[locale].upcomingActivities %}
+{% set learninglist = allEvents | filterByUpcomingEvents(locale) | sortByEventDate(locale) %}
+{% include "partials/learninglist.njk" %}
+
+{# No-Date Events Section #}
+{% set eventHeading = learning[locale].noScheduledActivities %}
+{% set learninglist = allEvents | filterByNoDateEvents(locale) %}
+{% include "partials/learninglist.njk" %}
+
+<p>Check out our <a href="/learning/past-events/">past events</a>.</p>
+

@@ -1,0 +1,33 @@
+---
+title: Exploring Our Accessibility Learning Journey
+description: Discover past learning events hosted by the Accessibility, Accommodation, and Adaptive Computer Technology (AAACT) Program at Shared Services Canada (SSC). These expert-led sessions have helped promote accessibility and inclusion across the Government of Canada.
+permalink: /learning/past-events/
+otherLanguagePermalink: /formation/evenements-passes/
+eleventyExcludeFromCollections: true
+---
+
+<p>At Shared Services Canada (<abbr>SSC</abbr>), the Accessibility, Accommodation, and Adaptive Computer Technology (<abbr>AAACT</abbr>) Program is dedicated to fostering a more inclusive and accessible workplace across the Government of Canada. Through our past learning events, we have engaged public servants in meaningful discussions and hands-on training that break down barriers and build awareness.</p>
+
+<p>On this page, you’ll find a record of our previous workshops, training sessions, and accessibility-focused events. While these events have already taken place, the insights and impact they created continue to shape accessibility and inclusion in the workplace.</p>
+
+<h2>Why Look Back at Past Events?</h2>
+
+<p>Reviewing our past learning activities allows you to:</p>
+<ul>
+	<li>Gain insights into key topics that have been covered in accessibility learning</li>
+	<li>Identify recurring themes and challenges addressed in our sessions</li>
+	<li>Discover resources and materials from previous events to support ongoing learning</li>
+</ul>
+
+<h2>Stay Engaged</h2>
+
+<p>Even though these events have passed, our commitment to accessibility learning continues. If you're interested in similar training opportunities, check out our upcoming events or request a consultation to explore customized learning options for your team.</p>
+
+{# Capture all events for the current locale #}
+{%- set allEvents = collections.learning | localeMatch(locale) -%}
+
+{# Past Events Section #}
+{% set eventHeading = learning[locale].pastActivities %}
+{% set learninglist = allEvents | filterByPastEvents(locale) | sortByEventDate(locale) %}
+{% include "partials/learninglist.njk" %}
+

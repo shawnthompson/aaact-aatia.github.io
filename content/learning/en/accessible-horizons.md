@@ -1,4 +1,5 @@
 ---
+passportSection: false
 title: Accessible Horizons
 otherLanguageTitle: Horizons accessibles
 tagline: A milestone in the road to accessibility

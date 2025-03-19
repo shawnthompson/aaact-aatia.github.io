@@ -1,20 +1,63 @@
-
-{%- set dataSource = "" -%}
+{%- set emailAddress = "" -%}
+{%- set emailSubject = "" -%}
+{%- set message = "" -%}
 
 {%- if tags and "podcasts" in tags -%}
-{%- set dataSource = podcasts[locale] -%}
-{%- elif tags and "newsletters" in tags -%}
-{%- set dataSource = newsletters[locale] -%}
-{%- elif tags and "learning" in tags -%}
-{%- set dataSource = learning[locale] -%}
+{%- set emailAddress = footer.contextualFooterContact[locale].learning.email -%}
+
+{%- if locale == "en" -%}
+{% set subject = "Accessible Horizons podcast" %}
+{%- set emailSubject = "Email about the " ~ subject -%}
+{%- set message = "Contact us for more information about the <strong>" ~ subject ~ "</strong> at our email: " -%}
+{%- else -%}
+{% set subject = "balado Horizons Accessibles" %}
+{%- set emailSubject = "Courriel à propos de le " ~ subject -%}
+{%- set message = "Contactez-nous pour plus d'informations sur le <strong>" ~ subject ~ "</strong> à notre adresse courriel&nbsp;: " -%}
 {%- endif -%}
 
-{%- if dataSource -%}
+{%- elif tags and "newsletters" in tags -%}
+{%- set emailAddress = footer.contextualFooterContact[locale].learning.email -%}
+
+{%- if locale == "en" -%}
+{% set subject = "AAACT Newsletter" %}
+{%- set emailSubject = "Email about the " ~ subject -%}
+{%- set message = "Contact us for more information about the <strong>" ~ subject ~ "</strong> at our email: " -%}
+{%- else -%}
+{% set subject = "Infolettre AATIA" %}
+{%- set emailSubject = "Courriel à propos de l'" ~ subject -%}
+{%- set message = "Contactez-nous pour plus d'informations sur l'<strong>" ~ subject ~ "</strong> à notre adresse courriel&nbsp;: " -%}
+{%- endif -%}
+
+{%- elif tags and "learning" in tags -%}
+{%- set emailAddress = footer.contextualFooterContact[locale].learning.email -%}
+
+{%- if locale == "en" -%}
+{%- set emailSubject = "Email about " ~ footer.contextualFooterContact[locale].learning.text -%}
+{%- set message = "Contact us for more information about <strong>" ~ footer.contextualFooterContact[locale].learning.text ~ "</strong> at our email: " -%}
+{%- else -%}
+{%- set emailSubject = "Courriel à propos de l'" ~ footer.contextualFooterContact[locale].learning.text -%}
+{%- set message = "Contactez-nous pour plus d'informations sur l'<strong>" ~ footer.contextualFooterContact[locale].learning.text ~ "</strong> à notre adresse courriel&nbsp;: " -%}
+{%- endif -%}
+
+{%- elif tags and "passport" in tags or page.url == "/accessibility-passport/" or page.url == "/passeport-accessibilite/" -%}
+{%- set emailAddress = footer.contextualFooterContact[locale].passport.email -%}
+
+{%- if locale == "en" -%}
+{%- set emailSubject = "Email about the " ~ footer.contextualFooterContact[locale].passport.text -%}
+{%- set message = "Contact us for more information about the <strong>" ~ footer.contextualFooterContact[locale].passport.text ~ "</strong> at our email: " -%}
+{%- else -%}
+{%- set emailSubject = "Courriel à propos de le " ~ footer.contextualFooterContact[locale].passport.text -%}
+{%- set message = "Contactez-nous pour plus d'informations sur le <strong>" ~ footer.contextualFooterContact[locale].passport.text ~ "</strong> à notre adresse courriel&nbsp;: " -%}
+{%- endif -%}
+
+{%- endif -%}
+
+{%- if emailAddress -%}
 <p class="mt-4 well">
 	<i class="fas fa-envelope fa-lg mr-2" aria-hidden="true"></i>
-	{{ dataSource.contactUs | safe }}
-	<a href="mailto:{{ footer.contextualFooter[locale].learning.email }}?subject={{ dataSource.emailSubject | urlEncode }}">
-		{{ footer.contextualFooter[locale].learning.email }}
+	{{ message | safe }}
+	<a href="mailto:{{ emailAddress }}?subject={{ emailSubject | urlEncode }}">
+		{{ emailAddress }}
 	</a>
 </p>
 {%- endif -%}

@@ -1,5 +1,21 @@
 module.exports = {
-	contextualFooter: {
+	contextualFooterPassport: {
+		fr: {
+			heading: {
+				text: "Passeport d'accessibilité au travail du gouvernement du Canada (GC)",
+				link: "/passeport-accessibilite/"
+			},
+			description: "Le Passeport pour l’accessibilité des lieux de travail du gouvernement du Canada (GC) favorise un accès facile et rapide aux outils et aux mesures de soutien dont les employés handicapés ont besoin pour réussir dans leur travail."
+		},
+		en: {
+			heading: {
+				text: "Government of Canada (GC) Workplace Accessibility Passport",
+				link: "/accessibility-passport/"
+			},
+			description: "The GC Workplace Accessibility Passport, a tool to build an accessible and inclusive federal public service. Download the Passport and access the full range of Passport resources, such as the Passport newsletter, blog articles, videos, and much more."
+		}
+	},
+	contextualFooterContact: {
 		fr: {
 			heading: "Adresse courriell pour l'Accessibilité, adaptation et technologie informatique adaptée (AATIA)",
 			aaact: {
@@ -9,6 +25,10 @@ module.exports = {
 			learning: {
 				text: "AATIA Apprentissage",
 				email: "aaactlearning-aatiaapprentissage@ssc-spc.gc.ca"
+			},
+			passport: {
+				text: "Passeport d'accessibilité au travail du gouvernement du Canada (GC)",
+				email: "gc-accessibility-passport.passeport-accessibilite-gc@ssc-spc.gc.ca"
 			}
 		},
 		en: {
@@ -20,6 +40,10 @@ module.exports = {
 			learning: {
 				text: "AAACT Learning",
 				email: "aaactlearning-aatiaapprentissage@ssc-spc.gc.ca"
+			},
+			passport: {
+				text: "Government of Canada (GC) Workplace Accessibility Passport",
+				email: "gc-accessibility-passport.passeport-accessibilite-gc@ssc-spc.gc.ca"
 			}
 		}
 	},

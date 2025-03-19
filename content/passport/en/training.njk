@@ -1,0 +1,24 @@
+---
+title: Passport Training and Events
+description: The Accessibility, Accommodation and Adaptive Computer Technology (AAACT) is partnering with the Office of Public Service Accessibility (OPSA) to equip GC organizations and employees to make the most out of the Passport.
+permalink: /accessibility-passport/training/
+otherLanguagePermalink: /passeport-accessibilite/formation/
+tags: passport
+---
+
+<p>Bookmark this page and visit often as it will feature dates, descriptions, and registration details for Passport information sessions, workshops, and training programs.</p>
+
+{# Capture all events for the current locale #}
+{%- set allEvents = collections.learning | localeMatch(locale) | filterByField("passportSection", true) -%}
+
+{# Upcoming Events Section #}
+{% set eventHeading = learning[locale].upcomingActivities %}
+{% set learninglist = allEvents | filterByUpcomingEvents(locale) | sortByEventDate(locale) %}
+{% include "partials/learninglist.njk" %}
+
+{# No-Date Events Section #}
+{% set eventHeading = learning[locale].noScheduledActivities %}
+{% set learninglist = allEvents | filterByNoDateEvents(locale) %}
+{% include "partials/learninglist.njk" %}
+
+<p>Check out our <a href="/learning/">accessibility learning events</a> page for other events provided by the folks at Accessibility, Accommodation and Adaptive Computer Technology (<abbr>AAACT</abbr>).</p>

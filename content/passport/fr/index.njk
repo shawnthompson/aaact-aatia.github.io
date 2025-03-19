@@ -1,0 +1,43 @@
+---
+title: Passeport d'accessibilité au travail du gouvernement du Canada (GC)
+description: Le Passeport pour l'accessibilité des lieux de travail du gouvernement du Canada (GC) favorise un accès facile et rapide aux outils et aux mesures de soutien dont les employés handicapés ont besoin pour réussir dans leur travail.
+permalink: /passeport-accessibilite/
+otherLanguagePermalink: /accessibility-passport/
+eleventyExcludeFromCollections: true
+---
+
+<p>Le Passeport pour l'accessibilité au travail du gouvernement du Canada (GC) favorise un accès facile et rapide aux outils et aux mesures de soutien dont les employés handicapés ont besoin pour réussir dans leur travail.</p>
+
+<p>Le Bureau de l'accessibilité, des mesures d'adaptation et des technologies informatiques adaptées (AAACT) s'associe au Bureau de l'accessibilité de la fonction publique pour soutenir les employés et les organisations qui adoptent le Passeport.</p>
+
+<p>Télécharger le <a href="https://www.canada.ca/content/dam/tbs-sct/documents/accessibility-publi-service/passeport-pour-laccessibilite-en-milieu-de-travail-du-gc-document-02-2025.docx">Passeport d'accessibilité au lieu de travail du GC (Word, 71 <abbr title="kilo-octet">ko</abbr>)</a> - Ce document s'ouvrira dans une nouvelle fenêtre sous la forme d'un fichier .docx accessible.</p>
+
+
+{%- set passportlist = collections.passport | localeMatch(locale) -%}
+
+<div class="row wb-eqht mrgn-tp-lg gc-srvinfo">
+	{%- for item in passportlist -%}
+		<div class="col-md-6">
+			<h2><a href="{{ item.page.url }}">{{ item.data.title }}</a></h2>
+			<p>{{ item.data.description }}</p>
+		</div>
+	{%- endfor -%}
+</div>
+
+<section>
+	<h2>Ressources</h2>
+	<ul>
+		<li><a href="https://www.canada.ca/fr/gouvernement/fonctionpublique/mieux-etre-inclusion-diversite-fonction-publique/diversite-equite-matiere-emploi/accessibilite-fonction-publique/passeport-accessibilite-milieu-travail-gouvernement-canada.html">Passeport pour l'accessibilité en milieu de travail du gouvernement du Canada</a></li>
+	</ul>
+	<h3>Information pour les gestionnaires</h3>
+	<ul>
+		<li><a href="https://www.canada.ca/fr/gouvernement/fonctionpublique/mieux-etre-inclusion-diversite-fonction-publique/diversite-equite-matiere-emploi/travailler-gouvernement-canada-obligation-prendre-mesures-adaptation-votre-droit-non-discrimination/obligation-prendre-mesures-adaptation-demarche-generale-intention-gestionnaires.html">Obligation de prendre des mesures d'adaptation : Démarche générale à l'intention des gestionnaires</a></li>
+		<li><a href="https://www.canada.ca/fr/gouvernement/fonctionpublique/mieux-etre-inclusion-diversite-fonction-publique/diversite-equite-matiere-emploi/accessibilite-fonction-publique/passeport-accessibilite-milieu-travail-gouvernement-canada/orientation-gestionnaires-passeport-accessibilite-milieu-travail-gc.html">Orientation pour les gestionnaires sur le Passeport pour l'accessibilité en milieu de travail du gouvernement du Canada</a></li>
+	</ul>
+	<h3>Vidéos sur le passeport</h3>
+	<ul>
+		<li><a href="https://www.csps-efpc.gc.ca/video/workplace-accessibility/need-passport-fra.aspx">La nécessité du passeport</a></li>
+		<li><a href="https://www.csps-efpc.gc.ca/video/workplace-accessibility/facilitating-conversations-fra.aspx">Un moyen de favoriser les conversations entre les employés et les gestionnairesS</a></li>
+		<li><a href="https://www.csps-efpc.gc.ca/video/workplace-accessibility/personal-information-fra.aspx">La protection de vos renseignements personnels</a></li>
+	</ul>
+</section>

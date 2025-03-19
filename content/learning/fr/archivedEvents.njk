@@ -1,0 +1,36 @@
+---
+title: Explorer notre parcours d'apprentissage de l'accessibilité
+description: Découvrez les événements d'apprentissage passés organisés par le programme Accessibilité, adaptation et technologie informatique adaptée (AAACT) de Services partagés Canada (SSC). Ces sessions dirigées par des experts ont contribué à promouvoir l'accessibilité et l'inclusion au sein du gouvernement du Canada.
+permalink: /formation/evenements-passes/
+otherLanguagePermalink: /learning/past-events/
+eleventyExcludeFromCollections: true
+---
+
+<p>À Services partagés Canada (SPC), le Programme d'accessibilité, d'adaptation et de technologie informatique adaptée (AAACT) vise à favoriser un milieu de travail plus inclusif et plus accessible dans l'ensemble du gouvernement du Canada. Grâce à nos événements d'apprentissage passés, nous avons engagé les fonctionnaires dans des discussions significatives et des formations pratiques qui font tomber les barrières et renforcent la prise de conscience.</p>
+
+<p>Sur cette page, vous trouverez une liste de nos précédents ateliers, sessions de formation et événements axés sur l'accessibilité. Bien que ces événements aient déjà eu lieu, les idées et l'impact qu'ils ont créés continuent de façonner l'accessibilité et l'inclusion sur le lieu de travail.</p>
+
+
+<h2>Pourquoi revenir sur les événements passés ?</h2>
+
+<p>L'examen de nos activités d'apprentissage passées vous permet de :</p>
+
+<ul>
+	<li>d'avoir un aperçu des sujets clés qui ont été abordés dans le cadre de l'apprentissage de l'accessibilité</li>
+	<li>d'identifier les thèmes et les défis récurrents abordés lors de nos sessions</li>
+	<li>de découvrir les ressources et le matériel des événements précédents pour soutenir l'apprentissage continu.</li>
+</ul>
+
+<h2>Rester engagé</h2>
+
+<p>Même si ces événements sont passés, notre engagement en faveur de l'apprentissage en matière d'accessibilité se poursuit. Si vous êtes intéressé par des opportunités de formation similaires, consultez nos prochains événements ou demandez une consultation pour explorer les options d'apprentissage personnalisées pour votre équipe.</p>
+
+
+{# Capture all events for the current locale #}
+{%- set allEvents = collections.learning | localeMatch(locale) -%}
+
+{# Past Events Section #}
+{% set eventHeading = learning[locale].pastActivities %}
+{% set learninglist = allEvents | filterByPastEvents(locale) | sortByEventDate(locale) %}
+{% include "partials/learninglist.njk" %}
+

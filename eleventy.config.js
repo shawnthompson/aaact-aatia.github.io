@@ -84,6 +84,10 @@ module.exports = function(eleventyConfig) {
 		return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');
 	});
 
+	eleventyConfig.addFilter("todayDate", () => {
+		return DateTime.now().toFormat("yyyy-LL-dd");
+	});
+
 	// Get the first `n` elements of a collection.
 	eleventyConfig.addFilter("head", (array, n) => {
 		if(!Array.isArray(array) || array.length === 0) {
@@ -110,25 +114,147 @@ module.exports = function(eleventyConfig) {
 		return Array.from(tagSet);
 	});
 
+	eleventyConfig.addFilter("filterByField", (items, field, value) => {
+		return items.filter(item => {
+			let fieldValue = item.data[field];
+
+			// Check for exact value match (true/false)
+			if (fieldValue === value) {
+				return true;
+			}
+
+			// If value is false, we also need to check for empty objects
+			if (value === false && typeof fieldValue === "object") {
+				return Object.keys(fieldValue).length === 0 ||
+					Object.values(fieldValue).every(val =>
+						typeof val === "object"
+							? Object.keys(val).length === 0 || Object.values(val).every(subVal => !subVal)
+							: !val
+					);
+			}
+
+			return false;
+		});
+	});
+
+	// Filter: filterByUpcomingEvents
+	// This filter returns only events that have a valid future date.
+	eleventyConfig.addFilter("filterByUpcomingEvents", (events, locale = "en") => {
+		return events.filter(event => {
+			// Get the event date from either the locale-specific field or the general event date
+			let eventDateStr = event?.data?.eventDetails?.[locale]?.date || event?.data?.eventDetails?.eventDate;
+			if (!eventDateStr) return false; // Skip events without a date
+
+			// Extract only the date part (YYYY-MM-DD) if there's a timestamp
+			if (typeof eventDateStr === "string") {
+				eventDateStr = eventDateStr.split("T")[0];
+			} else if (eventDateStr instanceof Date) {
+				eventDateStr = eventDateStr.toISOString().split("T")[0];
+			}
+
+			// Convert the date string into a DateTime object
+			let eventDate = DateTime.fromISO(eventDateStr, { zone: "utc" });
+
+			// If the date is invalid, try parsing it as a standard JavaScript Date
+			if (!eventDate.isValid) {
+				try {
+					eventDate = DateTime.fromJSDate(new Date(eventDateStr), { zone: "utc" });
+				} catch {
+					return false; // Skip events with unparseable dates
+				}
+			}
+
+			// Return true only if the event date is today or in the future
+			return eventDate.startOf("day") >= DateTime.now().startOf("day");
+		});
+	});
+
+	// Filter: filterByNoDateEvents
+	// This filter returns only events that do not have a valid date.
+	eleventyConfig.addFilter("filterByNoDateEvents", (events, locale = "en") => {
+		return events.filter(event => {
+			// Get the event date from either the locale-specific field or the general event date
+			let eventDateStr = event?.data?.eventDetails?.[locale]?.date || event?.data?.eventDetails?.eventDate;
+
+			// If no date is provided or it's an empty string, consider this a "no date" event
+			if (!eventDateStr || eventDateStr === "") return true;
+
+			// If eventDateStr is already a JavaScript Date object, exclude it
+			if (eventDateStr instanceof Date) return false;
+
+			// Ensure we only extract the date part (YYYY-MM-DD)
+			eventDateStr = String(eventDateStr);
+			if (eventDateStr.includes("T")) {
+				eventDateStr = eventDateStr.split("T")[0];
+			}
+
+			// Convert the extracted date string into a DateTime object
+			let eventDate = DateTime.fromISO(eventDateStr, { zone: "utc" });
+
+			// If the date is invalid, try parsing it as a standard JavaScript Date
+			if (!eventDate.isValid) {
+				try {
+					eventDate = DateTime.fromJSDate(new Date(eventDateStr), { zone: "utc" });
+				} catch {
+					return true; // Include events that fail date parsing
+				}
+			}
+
+			// If a valid date exists, exclude it from the "no date" list
+			return !eventDate.isValid;
+		});
+	});
+
+	// Filter: filterByPastEvents
+	// This filter returns only events that have already occurred (past events).
+	eleventyConfig.addFilter("filterByPastEvents", (events, locale = "en") => {
+		return events.filter(event => {
+			// Get the event date from either the locale-specific field or the general event date
+			let eventDateStr = event?.data?.eventDetails?.[locale]?.date || event?.data?.eventDetails?.eventDate;
+			if (!eventDateStr) return false; // Skip events without a date
+
+			// Extract only the date part (YYYY-MM-DD) if there's a timestamp
+			if (typeof eventDateStr === "string") {
+				eventDateStr = eventDateStr.split("T")[0];
+			} else if (eventDateStr instanceof Date) {
+				eventDateStr = eventDateStr.toISOString().split("T")[0];
+			}
+
+			// Convert the extracted date string into a DateTime object
+			let eventDate = DateTime.fromISO(eventDateStr, { zone: "utc" });
+
+			// If the date is invalid, try parsing it as a standard JavaScript Date
+			if (!eventDate.isValid) {
+				try {
+					eventDate = DateTime.fromJSDate(new Date(eventDateStr), { zone: "utc" });
+				} catch {
+					return false; // Skip events with unparseable dates
+				}
+			}
+
+			// Return true only if the event date is in the past
+			return eventDate.startOf("day") < DateTime.now().startOf("day");
+		});
+	});
+
 	eleventyConfig.addFilter("filterTagList", function filterTagList(tags) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
 
 	eleventyConfig.addFilter("sortByEventDate", (events, locale = "en") => {
 		return events
-			.filter(event => event?.data?.eventDetails?.[locale]?.date) // Ensure valid dates exist
 			.map(event => {
-				let dateString = event.data.eventDetails[locale].date;
-				let eventDate = DateTime.fromISO(dateString, { zone: "utc" });
+				let dateString = event?.data?.eventDetails?.eventDate || event?.data?.eventDetails?.[locale]?.date;
+				let eventDate = dateString ? DateTime.fromISO(dateString, { zone: "utc" }) : null;
 
-				if (!eventDate.isValid) {
+				if (eventDate && !eventDate.isValid) {
 					eventDate = DateTime.fromJSDate(new Date(dateString), { zone: "utc" });
 				}
 
-				return { ...event, eventDateObj: eventDate.isValid ? eventDate : null };
+				return { ...event, eventDateObj: eventDate?.isValid ? eventDate : null };
 			})
 			.filter(event => event.eventDateObj) // Remove invalid dates
-			.sort((a, b) => b.eventDateObj - a.eventDateObj); // Reverse order (newest first)
+			.sort((a, b) => a.eventDateObj - b.eventDateObj); // Sort ascending (earliest first)
 	});
 
 	const slugifyFilter = eleventyConfig.javascriptFunctions.slugify;
@@ -262,7 +388,6 @@ module.exports = function(eleventyConfig) {
 	// https://www.11ty.dev/docs/copy/#emulate-passthrough-copy-during-serve
 
 	// eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
-
 	return {
 		// Control which files Eleventy will process
 		// e.g.: *.md, *.njk, *.html, *.liquid

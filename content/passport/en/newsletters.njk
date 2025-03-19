@@ -1,0 +1,23 @@
+---
+title: The Passport Newsletter
+description: Welcome to the GC Workplace Accessibility Passport Newsletter page! Find recent editions of the newsletter. Stay informed with exciting updates about the Passport, exclusive interviews with accessibility leaders, and valuable insights on good practices for workplace accommodation. We're here to share expert tips and actionable strategies to help you foster a more inclusive and accessible federal public service work environment.
+permalink: /accessibility-passport/newsletter
+otherLanguagePermalink: /passeport-accessibilite/infolettre
+tags: passport
+---
+
+<p><a href="https://forms-formulaires.alpha.canada.ca/en/id/cm73q0wbg00e6x569xw525rvk">Subscribe to the GC Workplace Accessibility Passport newsletter.</a></p>
+
+{# List all newsletters related to passport here #}
+{%- set newsletterslist = collections.newsletters
+  | localeMatch(locale)
+	| filterByField("passportSection", true)
+-%}
+
+{%- if newsletterslist and newsletterslist.length > 0 -%}
+  {%- include "partials/newsletterslist.njk" -%}
+{%- else -%}
+  <p>There are no accessibility passport newsletters at the moment.</p>
+{%- endif -%}
+
+Contact the <a href="mailto:gc-accessibility-passport.passeport-accessibilite-gc@ssc-spc.gc.ca">AAACT Passport mailbox</a> for questions, comments, or if you would like to contribute content to the newsletter.
