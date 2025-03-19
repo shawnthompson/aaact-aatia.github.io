@@ -1,6 +1,6 @@
 ---
-title: Une étape importante sur la voie de l'accessibilité
-otherLanguageTitle: A milestone in the road to accessibility
+title: Horizons accessibles - Soutien, solutions et espaces
+otherLanguageTitle: Accessible Horizons - Support, solutions, and spaces
 description: Joignez-vous à l’équipe de l’Accessibilité, adaptation et
   technologie informatique adaptée (AATIA) pour un événement virtuel engageant
   et inclusif !
