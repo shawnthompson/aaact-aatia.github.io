@@ -1,6 +1,7 @@
 ---
-title: A milestone in the road to accessibility
-otherLanguageTitle: Une étape importante sur la voie de l'accessibilité
+passportSection: false
+title: Accessible Horizons - Support, solutions, and spaces
+otherLanguageTitle: Horizons accessibles - Soutien, solutions et espaces
 description: Join the Accessibility, Accommodation and Adaptive Computer
   Technology (AAACT) team for an inclusive and engaging virtual event!
 introduction: This is Episode 3 of <abbr title="Accessibility, Accommodation and

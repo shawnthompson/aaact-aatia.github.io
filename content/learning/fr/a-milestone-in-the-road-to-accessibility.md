@@ -1,13 +1,14 @@
 ---
-title: Une étape importante sur la voie de l'accessibilité
-otherLanguageTitle: A milestone in the road to accessibility
+passportSection: false
+title: Horizons accessibles - Soutien, solutions et espaces
+otherLanguageTitle: Accessible Horizons - Support, solutions, and spaces
 description: Joignez-vous à l’équipe de l’Accessibilité, adaptation et
   technologie informatique adaptée (AATIA) pour un événement virtuel engageant
   et inclusif !
-introduction: Voici l’épisode 3 des événements en direct de <abbr
-  title="Accessibilité, adaptation, et technologie informatique adaptée">l’AATIA
-  - Horizons accessibles. Cet épisode suivra notre style distinctif qui est
-  composé de 3 parties.
+introduction: Voici l’épisode 3 des événements en direct de l’<abbr
+  title="Accessibilité, adaptation, et technologie informatique
+  adaptée">AATIA</abbr> - Horizons accessibles. Cet épisode suivra notre style
+  distinctif qui est composé de 3 parties.
 eventDetails:
   en:
     signLanguage: false
