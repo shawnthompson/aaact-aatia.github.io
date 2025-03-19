@@ -1,4 +1,5 @@
 ---
+passportSection: false
 title: Accessible Horizons - Support, solutions, and spaces
 otherLanguageTitle: Horizons accessibles - Soutien, solutions et espaces
 description: Join the Accessibility, Accommodation and Adaptive Computer
