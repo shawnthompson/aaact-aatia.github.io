@@ -13,7 +13,7 @@ module.exports = {
 		requestAvailable: "Disponible sur demande",
 		upcomingActivities: "Activités d'apprentissage à venir",
 		noUpcomingActivities: "Aucune activité d'apprentissage à venir",
-		scheduledActivities: "Demander une session d'apprentissage privée",
+		scheduledActivities: "Activités d'apprentissage de l'AATIA",
 		noScheduledActivities: "Aucune activité d'apprentissage prévue",
 		pastActivities: "Activités d'apprentissage passées",
 		eventDetails: {
@@ -39,7 +39,7 @@ module.exports = {
 		requestAvailable: "Available upon request",
 		upcomingActivities: "Upcoming learning activities",
 		noUpcomingActivities: "No upcoming learning activities",
-		scheduledActivities: "Request a private learning session",
+		scheduledActivities: "AAACT learning activities",
 		noScheduledActivities: "No scheduled learning activities",
 		pastActivities: "Past learning activities",
 		eventDetails: {

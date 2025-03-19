@@ -39,7 +39,7 @@ eleventyExcludeFromCollections: true
 {% include "partials/learninglist.njk" %}
 
 {# No-Date Events Section #}
-{% set eventHeading = learning[locale].noScheduledActivities %}
+{% set eventHeading = learning[locale].scheduledActivities %}
 {% set learninglist = allEvents | filterByNoDateEvents(locale) %}
 {% include "partials/learninglist.njk" %}
 
