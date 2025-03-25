@@ -29,7 +29,7 @@ longDescription: >-
 
 
   Écoutez-les pour comprendre que l'accessibilité ne se résume pas aux outils et à la technologie, mais qu'elle concerne les personnes, la créativité et la façon dont nous nous soutenons les uns les autres sur le lieu de travail.
-description: l
+description: Episode 2
 image: /img/podcasts/CoverArtPurpleFrench.png
 duration:
   minutes: 27

@@ -29,7 +29,7 @@ longDescription: >-
 
 
   Tune in to hear how accessibility is more than just tools and tech—it’s about people, creativity, and rethinking how we support one another in the workplace.
-description: l
+description: Episode 2
 image: /img/podcasts/CoverArtEnglishPurple.png
 duration:
   minutes: 22
