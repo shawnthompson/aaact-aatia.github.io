@@ -241,6 +241,22 @@ module.exports = function(eleventyConfig) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
 
+	eleventyConfig.addFilter("sortByDate", (items, dateField) => {
+		return items
+			.map(item => {
+				let dateString = item?.data?.[dateField];
+				let itemDate = dateString ? DateTime.fromISO(dateString, { zone: "utc" }) : null;
+
+				if (itemDate && !itemDate.isValid) {
+					itemDate = DateTime.fromJSDate(new Date(dateString), { zone: "utc" });
+				}
+
+				return { ...item, itemDateObj: itemDate?.isValid ? itemDate : null };
+			})
+			.filter(item => item.itemDateObj) // Remove invalid dates
+			.sort((a, b) => a.itemDateObj - b.itemDateObj); // Sort ascending (earliest first)
+	});
+
 	eleventyConfig.addFilter("sortByEventDate", (events, locale = "en") => {
 		return events
 			.map(event => {

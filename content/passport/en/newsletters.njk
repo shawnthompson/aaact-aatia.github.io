@@ -9,10 +9,12 @@ tags: passport
 <p><a href="https://forms-formulaires.alpha.canada.ca/en/id/cm73q0wbg00e6x569xw525rvk">Subscribe to the GC Workplace Accessibility Passport newsletter.</a></p>
 
 {# List all newsletters related to passport here #}
-{%- set newsletterslist = collections.newsletters
+{%- set filteredNewsletters = collections.newsletters
   | localeMatch(locale)
 	| filterByField("passportSection", true)
 -%}
+
+{%- set newsletterslist = filteredNewsletters | sortByDate("newsletterDate") | reverse -%}
 
 {%- if newsletterslist and newsletterslist.length > 0 -%}
   {%- include "partials/newsletterslist.njk" -%}
