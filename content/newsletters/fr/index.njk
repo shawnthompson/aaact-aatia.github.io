@@ -13,15 +13,19 @@ layout: layouts/base.njk
 
 {# List all newsletters here #}
 {%- if collections.newsletters and collections.newsletters.length > 0 -%}
-{%- set newsletterslist = collections.newsletters
-	| localeMatch(locale)
-	| filterByField("passportSection", false)
--%}
-{%- if newsletterslist and newsletterslist.length > 0 -%}
-{%- include "partials/newsletterslist.njk" -%}
+
+	{%- set filteredNewsletters = collections.newsletters
+		| localeMatch(locale)
+		| filterByField("passportSection", false)
+	-%}
+
+	{%- set newsletterslist = filteredNewsletters | sortByDate("newsletterDate") | reverse -%}
+
+	{%- if newsletterslist and newsletterslist.length > 0 -%}
+		{%- include "partials/newsletterslist.njk" -%}
+	{%- else -%}
+		Il n'y a pas de infolettre pour le moment.
+	{%- endif -%}
 {%- else -%}
-Il n'y a pas de infolettre pour le moment.
-{%- endif -%}
-{%- else -%}
-Il n'y a pas de infolettre pour le moment.
+	Il n'y a pas de infolettre pour le moment.
 {%- endif -%}
