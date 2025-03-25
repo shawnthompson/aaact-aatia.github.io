@@ -1,12 +1,19 @@
 ---
 passportSection: false
 title: January 2025 AAACT Now for Accessibility
-otherLanguageTitle: Infolettre de l'AATIA maintenant pour l'accessibilité de janvier 2025
-description: "**In this edition:** 2024 milestones; the socialization of a service dog in our
-  workspace; creating a culture of inclusion."
+otherLanguageTitle: L'AATIA maintenant pour l'accessibilité de janvier 2025
+description: "**In this edition:** 2024 milestones; the socialization of a
+  service dog in our workspace; creating a culture of inclusion."
 newsletterDate: 2025-01-01
-introduction: |
-  Happy New Year! As we step into 2025, we’re excited to continue supporting you in making meaningful progress toward accessibility goals. This year, we are committed to providing you with valuable resources, updates, and tips to help integrate accessibility in your work. In this edition, we reflect on the milestones achieved over the last year, share a heartwarming story about the socialization of a service dog in our workspace, and explore to importance of fostering a positive workplace culture.
+introduction: >
+  Happy New Year! As we step into 2025, we’re excited to continue supporting you
+  in making meaningful progress toward accessibility goals. This year, we are
+  committed to providing you with valuable resources, updates, and tips to help
+  integrate accessibility in your work. In this edition, we reflect on the
+  milestones achieved over the last year, share a heartwarming story about the
+  socialization of a service dog in our workspace, and explore to importance of
+  fostering a positive workplace culture.
+
 
   Here’s to a year filled with success, growth, and greater accessibility!
 ---
