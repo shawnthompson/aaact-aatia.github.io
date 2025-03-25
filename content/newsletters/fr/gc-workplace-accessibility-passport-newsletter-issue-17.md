@@ -16,7 +16,7 @@ newsletterDate: 2024-12-01
 ---
 <blockquote>
 
-« Nos vies commencent à se terminer le jour où nous devenons silencieux sur les choses qui comptent.
+« Nos vies commencent à se terminer le jour où nous devenons silencieux sur les choses qui comptent. »
 
 Martin Luther King Jr.
 

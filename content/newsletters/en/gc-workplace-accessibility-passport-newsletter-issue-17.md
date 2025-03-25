@@ -88,23 +88,23 @@ Luna: Nadine, tell us more about who you are and what you do.
 
 Nadine: I am the Executive Director of the Accessibility, Accommodation and Adaptive Computer Technology (AAACT) team, housed at Shared Services Canada (SSC). AAACT provides accessibility services to federal employees with disabilities and their organizations. AAACT’s activities fall within the following areas:
 
-### Accessibility Learning
+### 1. Accessibility Learning
 
 I am talking about training, we offer events and demonstrations of adaptive tools, we build awareness across departments.
 
-### Individualized workplace adjustments
+### 2. Individualized workplace adjustments
 
 We offer information and advice to meet individual employee accommodation needs. That is a very popular item on our list of things that we do. I always say that I potentially have 360,000 clients across the public service because we like to open our doors to everyone. We try and support employees and managers alike to make the workplace accessible and inclusive.
 
-### Digital accessibility services
+### 3. Digital accessibility services
 
 Our digital accessibility services include testing and expert advice on document accessibility, applications, and websites, so that they meet Canadian standards, and everyone can interact with them.
 
-### SSC’s Accessibility Plan
+### 4. SSC’s Accessibility Plan
 
 Our team leads the development of SSC’s Accessibility Plan to meet the legislative requirements of the Accessible Canada Act. We develop SSC’s annual progress report and manage the feedback mechanism, which collects comments from employees and clients. It's my wishful thinking that we reach 2040 with a barrier-free Canada as mentioned in the Act.
 
-### Certification and special projects
+### 5. Certification and special projects
 
 We collaborate with partner departments to standardize accessibility reporting, to enable GC organizations to find accessibility testers, and to disseminate information about the recently adopted Canadian standard on accessibility of information and communication technology.
 
