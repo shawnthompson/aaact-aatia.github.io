@@ -6,10 +6,16 @@ description: "**Dans cette édition:** S'élancer017 - Ergothérapeutes; dressag
   de chiens-guides et adaptation du lieu de travail; présentation de la ceinture
   porte-outils de minisignets de l'AATIA; Semaine national de l'accessibilité
   2025 et plus encore."
+introduction: Bienvenue dans le numéro de mars 2025 de L'AATIA maintenant pour
+  l'accessibilité, le bulletin d'information de l'équipe Accessibilité,
+  adaptation et technologie informatique adaptée (AATIA) de Services partagés
+  Canada. Dans ce numéro, vous trouverez un guide pour inclure l'accessibilité
+  dans les achats de technologies de l'information et des communications (TIC),
+  de l'information pour habiliter les gestionnaires, une initiative des employés
+  du GC pour aider à dresser les chiens-guides, ainsi que des conseils utiles et
+  les événements à venir.
 newsletterDate: 2025-03-26
 ---
-Bienvenue dans le numéro de mars 2025 de L'AATIA maintenant pour l'accessibilité, le bulletin d'information de l'équipe Accessibilité, adaptation et technologie informatique adaptée (AATIA) de Services partagés Canada. Dans ce numéro, vous trouverez un guide pour inclure l'accessibilité dans les achats de technologies de l'information et des communications (TIC), de l'information pour habiliter les gestionnaires, une initiative des employés du GC pour aider à dresser les chiens-guides, ainsi que des conseils utiles et les événements à venir. 
-
 ## Guide pour l'inclusion de l'accessibilité dans l'approvisionnement lié aux technologies de l'information et des communications
 
 ![](/docs/banner.png)
@@ -65,7 +71,7 @@ La ceinture à outils est une bibliothèque de connaissances axée sur la ration
 2. **Minisignets JavaScript** : une collection de minisignets pour les tests d'accessibilité qui peuvent être ajoutés à un navigateur, organisés selon les critères de succès des Règles pour l'accessibilité des contenus Web (WCAG) qu'ils traitent. Cette organisation facilite leur application à des tests d'accessibilité particuliers. 
 3. **Modules complémentaires et outils recommandés** : une liste organisée de modules complémentaires et d'outils qui prennent en charge les tests automatisés et l'amélioration de l'accessibilité. 
 
-#### Que contient le guide d'accompagnement? 
+#### Que contient le guide d'accompagnement?
 
 Un guide d'accompagnement est également disponible pour prendre en charge l'utilisation de la ceinture à outils. Il comprend ce qui suit : 
 
@@ -78,7 +84,7 @@ Vous trouverez la ceinture à outils sur [Ceinture à outils minisignets d'acces
 
 Si vous avez des commentaires ou des questions au sujet de la ceinture à outils, veuillez les faire parvenir à [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca). 
 
-## Semaine nationale de l'accessibilité 2025 
+## Semaine nationale de l'accessibilité 2025
 
 Joignez-vous à nous pour célébrer la Semaine nationale de l'accessibilité (SNA) du 25 au 31 mai 2025. La SNA est l'occasion de promouvoir l'inclusion et l'accessibilité dans nos communautés et nos lieux de travail, de célébrer nos progrès, de renouveler nos engagements et d'inspirer des efforts continus pour éliminer les obstacles à l'accessibilité. 
 
@@ -88,19 +94,19 @@ Le Bureau de l’accessibilité de la fonction publique et l'École de la foncti
 
 Le programme d'AATIA a le plaisir d'annoncer que nous tiendrons notre propre événement de la SNA! Ne manquez pas de consulter notre page [Web de l'AATIA](https://aaact.canada.ca/formation/) pour de plus amples renseignements sur l'événement à venir! 
 
-## Faire connaissance avec l'équipe 
+## Faire connaissance avec l'équipe
 
 Dans le monde en constante évolution de l'accessibilité numérique, il est essentiel de comprendre les défis et les pratiques exemplaires pour créer des expériences numériques inclusives. Pour faire la lumière sur ce sujet, nous avons discuté avec Brad Souster, chef d'équipe pour l'accessibilité numérique et la conception inclusive à l'AATIA. Fort de nombreuses années d'expérience pratique dans le développement Web et les tests d'accessibilité, il a été à l'avant-garde de la promotion des stratégies de conception inclusive et de la garantie de l'accessibilité des contenus numériques pour tous. 
 
-### Qui peut recevoir les services de tests de l'AATIA? 
+### Qui peut recevoir les services de tests de l'AATIA?
 
 Bien que certains ministères disposent de leurs propres équipes d'accessibilité pour répondre à leurs besoins particuliers, l'AATIA est au service de l'ensemble du GC. Nous offrons des services de tests complets à toutes les organisations du gouvernement fédéral, en traitant chaque projet avec le plus grand soin. Notre approche consiste à être aussi objectif et systématique que possible afin de fournir une rétroaction fiable, reproductible et exploitable. 
 
-### Quels types de produits examinez-vous et comment évaluez-vous leur accessibilité? 
+### Quels types de produits examinez-vous et comment évaluez-vous leur accessibilité?
 
 Les demandes les plus courantes que nous recevons sont des demandes de test de sites Web et d'applications Web, mais nous testons parfois des documents non destinés au Web, tels que Microsoft Word, PowerPoint, etc. Nous testons la conformité des produits et services numériques à la norme [CAN/ASC - EN 301 549:2024](https://accessibilite.canada.ca/en-301-549-exigences-daccessibilite-pour-les-produits-et-services-tic?utm_campaign=PANTHEON_STRIPPED&utm_id=PANTHEON_STRIPPED&utm_medium=PANTHEON_STRIPPED&utm_source=PANTHEON_STRIPPED) Exigences d'accessibilité pour les produits et services TIC. Cette norme inclut tout le contenu des [Règles pour l'accessibilité des contenus Web (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) (lien disponible en anglais seulement), ainsi que des exigences supplémentaires, notamment en matière de matériel, qui ne sont pas traitées par les WCAG. 
 
-### Quels sont les obstacles à l'accessibilité les plus courants que vous rencontrez et comment les surmontez-vous? 
+### Quels sont les obstacles à l'accessibilité les plus courants que vous rencontrez et comment les surmontez-vous?
 
 Dans le cas des documents non destinés au Web, tels que Microsoft Word ou PowerPoint, nous constatons de nombreux mauvais usages de la hiérarchie des titres, des images qui ne sont pas bien décrites par un texte de remplacement, ainsi que l'utilisation de fonctionnalités logicielles totalement inaccessibles, telles que les formes insérables. 
 
@@ -108,7 +114,7 @@ Dans le cas des sites et des applications Web, le contraste des couleurs est un 
 
 Avez-vous un produit à faire tester ou avez-vous besoin de conseils? Contactez-nous à [aaact-aatia@ssc-spc.gc.ca](<mailto:aaact-aatia@ssc-spc.gc.ca)>). 
 
-## Horizons accessibles 
+## Horizons accessibles
 
 ![](/docs/coverartpurplefrench.png)
 
@@ -116,7 +122,7 @@ L'équipe de l'AATIA est ravie de vous inviter à son événement en direct *Hor
 
 Pour obtenir des détails concernant l'inscription à l'événement ou pour écouter les balados, rendez-vous au [site Web de l'AATIA](https://aaact.canada.ca/accueil/). 
 
-## Truc pour l'accessibilité numérique - neige blanche 
+## Truc pour l'accessibilité numérique - neige blanche
 
 L'expression « neige blanche » dans un document signifie qu'un utilisateur voit un fond blanc sur son écran lorsqu'il utilise un thème sombre ou un moniteur à encre électronique. La neige blanche apparaît le plus souvent lorsque les auteurs collent du contenu copié sur le Web ou dans un autre document. Par défaut, le contenu collé conserve la mise en forme d'origine, qui peut inclure un fond blanc. Cela provoque l'effet indésirable de neige blanche dans le nouveau document. 
 
@@ -126,7 +132,7 @@ Même si des plateformes telles que Microsoft 365 proposent des modes sombres po
 
 Pour éviter d'introduire de la « neige blanche », les utilisateurs peuvent coller le contenu sous forme de texte brut. Cela supprime toute mise en forme, y compris le fond. 
 
-#### Coller le texte brut 
+#### Coller le texte brut
 
 Pour coller du texte brut dans Outlook : 
 
@@ -145,7 +151,7 @@ Ou encore, dans toutes les applications Microsoft 365, vous pouvez :
 * utiliser le raccourci clavier **Alt, H, V, T**; ou 
 * cliquer à droite sur l'endroit souhaité, puis sélectionner l'option **Conserver le texte seulement**. 
 
-#### Empêcher la neige blanche 
+#### Empêcher la neige blanche
 
 Pour réduire le risque d'ajouter de la neige blanche dans les documents, évitez d'utiliser des commandes de mise en forme directe telles que **Mise en évidence du texte**, **Couleur de la police** et **Ombrage**. 
 
@@ -153,6 +159,6 @@ Pour réduire le risque d'ajouter de la neige blanche dans les documents, évite
 
 Pour supprimer la neige blanche dans un document, sélectionnez la commande **Supprimer toute la mise en forme**. 
 
-#### Pour en savoir plus 
+#### Pour en savoir plus
 
 Pour en savoir plus sur la manière de rendre vos documents accessibles, consultez [Comment créer des documents accessibles dans Microsoft 365 - Boîte à outils de l'accessibilité numérique](https://a11y.canada.ca/fr/comment-creer-des-documents-accessibles-dans-microsoft-365/).

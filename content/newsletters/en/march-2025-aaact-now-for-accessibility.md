@@ -5,10 +5,15 @@ otherLanguageTitle: L'AATIA maintenant pour l'accessibilité de mars 2025
 description: "**In this edition:** Scale-Up 017 - Occupational Therapists; guide
   dog training and workplace accommodation; introducing the AAACT bookmarklets
   toolbelt; National AccessAbility Week 2025; and more."
+introduction: Welcome to the March 2025 edition of AAACT Now for Accessibility,
+  the newsletter from Shared Services Canada's (SSC) Accessibility,
+  Accommodation and Adaptive Computer Technology (AAACT) team. In this edition
+  you will find a guide to including accessibility into Information and
+  Communication Technology (ICT) procurement; information to empower Managers; a
+  GC employee initiative to help train guide dogs; as well as useful tips and
+  upcoming events.
 newsletterDate: 2025-03-26
 ---
-Welcome to the March 2025 edition of AAACT Now for Accessibility, the newsletter from Shared Services Canada's (SSC) Accessibility, Accommodation and Adaptive Computer Technology (AAACT) team. In this edition you will find a guide to including accessibility into Information and Communication Technology (ICT) procurement; information to empower Managers; a GC employee initiative to help train guide dogs; as well as useful tips and upcoming events.
-
 ## Guide for Including Accessibility in Information and Communication Technology Related Procurement
 
 ![](/docs/banner.png)
