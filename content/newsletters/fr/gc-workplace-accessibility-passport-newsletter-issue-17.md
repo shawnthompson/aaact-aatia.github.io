@@ -11,14 +11,7 @@ description: Découvrez les dernières nouveautés en matière d'accessibilité 
   l'accessibilité numérique, de nouvelles possibilités de formation à
   l'accessibilité et un examen approfondi des moyens de rendre les documents
   plus accessibles.
-introduction: Découvrez les dernières nouveautés en matière d'accessibilité dans
-  le service public ! Cette édition met en lumière le pouvoir des lieux de
-  travail inclusifs, présente une nouvelle boîte électronique pour les
-  passeports et donne des exemples concrets d'aménagements sur le lieu de
-  travail. En outre, une interview exclusive de Nadine Charron sur
-  l'accessibilité numérique, de nouvelles possibilités de formation à
-  l'accessibilité et un examen approfondi des moyens de rendre les documents
-  plus accessibles.
+introduction: ""
 newsletterDate: 2024-12-01
 ---
 <blockquote>

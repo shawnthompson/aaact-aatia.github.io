@@ -9,12 +9,7 @@ description: Discover the latest on accessibility in the public service! This
   Plus, an exclusive interview with Nadine Charron on digital accessibility, new
   accessibility training opportunities, and a deep dive into making documents
   more accessible.
-introduction: Discover the latest on accessibility in the public service! This
-  edition highlights the power of inclusive workplaces, introduces a new
-  Passport mailbox, and shares real-world workplace accommodation examples.
-  Plus, an exclusive interview with Nadine Charron on digital accessibility, new
-  accessibility training opportunities, and a deep dive into making documents
-  more accessible.
+introduction: ""
 newsletterDate: 2024-12-01
 ---
 <blockquote>
