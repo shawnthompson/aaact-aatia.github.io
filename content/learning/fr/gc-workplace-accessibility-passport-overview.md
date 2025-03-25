@@ -20,17 +20,17 @@ eventDetails:
   eventDate: 2025-04-15
   en:
     date: 2025-04-15
-    text: null
+    text: Register
     link: https://events.teams.microsoft.com/event/ae023b05-ccdc-4a0a-babf-3b02165472db@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
     startTime: 13h00 PM (HNE)
     endTime: 14h00 PM (HNE)
     signLanguage: true
   fr:
     date: 2025-04-15
-    text: null
+    text: Inscription
     link: https://events.teams.microsoft.com/event/6e047035-8c0d-4f74-9229-e373e286112a@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
     startTime: 11h00 AM (HNE)
-    endTime: 12hoo PM (HNE)
+    endTime: 12h00 PM (HNE)
     signLanguage: true
 duration: 60
 platform: Webinaire
