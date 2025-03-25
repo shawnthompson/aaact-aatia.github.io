@@ -38,7 +38,7 @@ podcastFiles:
   youtube:
     url: https://youtu.be/ESJ2UFHSqmM
   mp3:
-    url: http://accessibility-accessibilite.ca/HorizonsAccessiblesE2.mp4
+    url: http://accessibility-accessibilite.ca/Podcast/HorizonsAccessiblesE2.mp4
     sizeInMb: 3920
 ---
 Bienvenue à Horizons accessibles. Un balado qui vise à faire de la fonction publique un milieu de travail inclusif et sans obstacle. Joignez vous à vos animatrices Nadine Charron et Luna Bengio, Experte en accessibilité du Programme d'accessibilité, adaptation et de technologie informatique adaptée AATIA pour des discussions stimulantes et plein de conseils pratiques.

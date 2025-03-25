@@ -38,7 +38,7 @@ podcastFiles:
   youtube:
     url: https://youtu.be/4YKzFGh4r6Q
   mp3:
-    url: http://accessibility-accessibilite.ca/AccessibleHorizonsEp2.mp4
+    url: http://accessibility-accessibilite.ca/Podcast/AccessibleHorizonsEp2.mp4
     sizeInMb: 3340
 ---
 
