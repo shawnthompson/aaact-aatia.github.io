@@ -1,7 +1,9 @@
 {% extends "layouts/base.njk" %}
 {% block content %}
 
-{{ introduction | markdownify | safe }}
+{%- if introduction -%}
+	{{ introduction | markdownify | safe }}
+{%- endif -%}
 
 {% include "partials/onThisPage.njk" %}
 
