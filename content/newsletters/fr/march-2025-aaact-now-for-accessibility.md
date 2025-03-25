@@ -140,16 +140,22 @@ Pour coller du texte brut dans Outlook :
 2. **Collez** le menu déroulant. 
 3. **Conservez le texte seulement**. 
 
+![](/docs/capture-1-fr.png)
+
 Pour coller le contenu sous forme de texte brut dans Word, PowerPoint et Excel : 
 
 1. Sélectionnez l'onglet **Accueil**. 
 2. **Collez** le menu déroulant. 
 3. **Conservez le texte seulement**. 
 
+![](/docs/capture-2-fr.png)
+
 Ou encore, dans toutes les applications Microsoft 365, vous pouvez : 
 
 * utiliser le raccourci clavier **Alt, H, V, T**; ou 
 * cliquer à droite sur l'endroit souhaité, puis sélectionner l'option **Conserver le texte seulement**. 
+
+![](/docs/capture-3-fr.png)
 
 #### Empêcher la neige blanche
 
