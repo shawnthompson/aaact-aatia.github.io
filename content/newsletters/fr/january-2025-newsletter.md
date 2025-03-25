@@ -1,11 +1,10 @@
 ---
 passportSection: false
 title: L'AATIA maintenant pour l'accessibilité de janvier 2025
-otherLanguageTitle: January 2025 AAACT Now for Accessibility newsletter
+otherLanguageTitle: January 2025 AAACT Now for Accessibility
 description: "**Dans cette édition :** les jalons franchis au cours de 2024; la
   socialisation d’un chien d’assistance dans notre espace de travail; créer une
   culture de l'inclusion."
-newsletterDate: 2025-01-01
 introduction: >
   Bonne année! À l’aube de 2025, nous sommes ravis de continuer à vous aider à
   réaliser des progrès significatifs au chapitre de l’accessibilité. Cette
@@ -18,6 +17,7 @@ introduction: >
 
 
   Nous vous souhaitons une année sous le signe du succès, de la croissance et d’une plus grande accessibilité!
+newsletterDate: 2025-01-01
 ---
 
 ## Les jalons de l'AATIA en 2024
