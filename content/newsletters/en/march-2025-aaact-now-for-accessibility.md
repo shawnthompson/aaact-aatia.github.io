@@ -118,9 +118,9 @@ Do you have a product to be tested or require guidance? Contact us at [aaact-aat
 </div>
 </div>
 
-The AAACT team is excited to invite you to our Accessible Horizons live event! Join us on March 28th as we explore the accessibility features of our AAACT classroom, learn about closed-circuit television and delve into a simulated conversation between two managers discussing a complex accommodation situation. Can't join live? No problem! Accessible Horizons is available as a podcast, so you can listen to the conversations anytime, anywhere! Simply visit our [AAACT website](https://aaact.canada.ca/podcasts/) to listen or subscribe on one of our available podcast platforms to stay updated with new episodes.
+The AAACT team is excited to invite you to our Accessible Horizons live event! Join us on March 28th as we explore the accessibility features of our AAACT classroom, learn about closed-circuit television and delve into a simulated conversation between two managers discussing a complex accommodation situation. Can't join live? No problem! Accessible Horizons is available as a podcast, so you can listen to the conversations anytime, anywhere! Simply visit our AAACT website to [listen or subscribe](https://aaact.canada.ca/podcasts/) on one of our available podcast platforms to stay updated with new episodes.
 
-For event registration details or to listen to the podcasts, head to our [AAACT website](https://aaact.canada.ca/home/).
+For event registration details visit our [AAACT learning page](https://aaact.canada.ca/learning/)[](https://aaact.canada.ca/home/).
 
 ## National AccessAbility Week 2025
 
