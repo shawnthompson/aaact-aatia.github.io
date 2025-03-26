@@ -58,7 +58,7 @@ Pour de plus amples renseignements sur cet important programme, consultez le sit
 
 ## Présentation de la ceinture à outils minisignets d'accessibilité de l'AATIA
 
-#### Qu'est-ce que la ceinture à outils?
+### Qu'est-ce que la ceinture à outils?
 
 La ceinture à outils est une bibliothèque de connaissances axée sur la rationalisation de l'accessibilité numérique et des tests. Elle comprend ce qui suit : 
 
@@ -66,7 +66,7 @@ La ceinture à outils est une bibliothèque de connaissances axée sur la ration
 2. **Minisignets JavaScript** : une collection de minisignets pour les tests d'accessibilité qui peuvent être ajoutés à un navigateur, organisés selon les critères de succès des Règles pour l'accessibilité des contenus Web (WCAG) qu'ils traitent. Cette organisation facilite leur application à des tests d'accessibilité particuliers. 
 3. **Modules complémentaires et outils recommandés** : une liste organisée de modules complémentaires et d'outils qui prennent en charge les tests automatisés et l'amélioration de l'accessibilité. 
 
-#### Que contient le guide d'accompagnement?
+### Que contient le guide d'accompagnement?
 
 Un guide d'accompagnement est également disponible pour prendre en charge l'utilisation de la ceinture à outils. Il comprend ce qui suit : 
 
@@ -144,7 +144,7 @@ Même si des plateformes telles que Microsoft 365 proposent des modes sombres po
 
 Pour éviter d'introduire de la « neige blanche », les utilisateurs peuvent coller le contenu sous forme de texte brut. Cela supprime toute mise en forme, y compris le fond. 
 
-#### Coller le texte brut
+### Coller le texte brut
 
 Pour coller du texte brut dans Outlook : 
 
@@ -169,14 +169,14 @@ Ou encore, dans toutes les applications Microsoft 365, vous pouvez :
 
 ![](/docs/capture-3-fr.png)
 
-#### Empêcher la neige blanche
+### Empêcher la neige blanche
 
 Pour réduire le risque d'ajouter de la neige blanche dans les documents, évitez d'utiliser des commandes de mise en forme directe telles que Mise en évidence du texte, Couleur de la police et Ombrage. 
 
-#### Supprimer la neige blanche
+### Supprimer la neige blanche
 
 Pour supprimer la « neige blanche » dans un document, sélectionnez la commande **Supprimer toute la mise en forme**. 
 
-#### Pour en savoir plus
+### Pour en savoir plus
 
 Pour en savoir plus sur la manière de rendre vos documents accessibles, consultez [Comment créer des documents accessibles dans Microsoft 365 - Boîte à outils de l'accessibilité numérique](https://a11y.canada.ca/fr/comment-creer-des-documents-accessibles-dans-microsoft-365/).

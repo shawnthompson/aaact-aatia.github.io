@@ -118,7 +118,7 @@ The most common requests we receive are to test websites and web applications, b
 
 For non-web documents, such as Microsoft Word or PowerPoint, we see a lot of misuse of headings hierarchy, images that are not appropriately described with alternative text, as well as use of software features that are completely inaccessible, such as insertable shapes. 
 
-For websites and web applications, color contrast is a recurring issue. I recommend a contrast analyzer to help avoid this issue. These tools can be easily found online by searching "color contrast checker". Tables are often formatted incorrectly and cause accessibility issues for users with disabilities, especially when the tables are complex, with merged cells, or when they have too many columns to view with high zoom settings.
+For websites and web applications, colour contrast is a recurring issue. I recommend a contrast analyzer to help avoid this issue. These tools can be easily found online by searching "colour contrast checker". Tables are often formatted incorrectly and cause accessibility issues for users with disabilities, especially when the tables are complex, with merged cells, or when they have too many columns to view with high zoom settings.
 
 Do you have a product to be tested or require guidance? Contact us at [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca).
 
@@ -142,7 +142,7 @@ Even though platforms like Microsoft 365 offer dark modes to help eliminate this
 
 To avoid introducing "white snow," users can paste content as plain text. This strips away all formatting, including the background.
 
-#### Paste plain text
+### Paste plain text
 
 To paste plain text in Outlook:
 
@@ -167,14 +167,14 @@ Alternatively, in all of the Microsoft 365 apps, you can:
 
 ![](/docs/white-snow-3.png)
 
-#### Prevent white snow
+### Prevent white snow
 
 To reduce the risk of adding white snow in documents, avoid using direct formatting commands like Text Highlight, Font Color and Shading.
 
-#### Remove white snow
+### Remove white snow
 
 To remove white snow in a document, select the **Clear All Formatting** command.
 
-#### Learn more
+### Learn more
 
 To learn more about making your documents accessible, visit [How to create accessible documents in Microsoft 365 - Digital Accessibility Toolkit](https://a11y.canada.ca/en/how-to-create-accessible-documents-in-microsoft-365/).
