@@ -14,6 +14,8 @@ description: Découvrez les dernières nouveautés en matière d'accessibilité 
 introduction: ""
 newsletterDate: 2024-12-01
 ---
+## Bienvenue
+
 <blockquote>
 
 « Nos vies commencent à se terminer le jour où nous devenons silencieux sur les choses qui comptent. »

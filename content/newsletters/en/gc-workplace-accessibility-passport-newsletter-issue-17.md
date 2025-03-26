@@ -12,6 +12,8 @@ description: Discover the latest on accessibility in the public service! This
 introduction: ""
 newsletterDate: 2024-12-01
 ---
+## Welcome
+
 <blockquote>
 
 “Our lives begin to end the day we become silent about things that matter.”
