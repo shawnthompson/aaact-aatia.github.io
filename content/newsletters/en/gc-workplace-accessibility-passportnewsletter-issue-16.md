@@ -13,9 +13,13 @@ newsletterDate: 2024-10-01
 ---
 ## Welcome
 
+<blockquote>
+
 “Not everything that counts can be counted, and not everything that can be counted, counts.”
 
 Albert Einstein
+
+</blockquote>
 
 The GC Workplace Accessibility Passport newsletter is back!
 

@@ -15,9 +15,13 @@ newsletterDate: 2024-10-01
 ---
 ## Bienvenue
 
+<blockquote>
+
 « Tout ce qui compte ne peut pas être compté, et tout ce qui peut être compté ne compte pas. »
 
 Albert Einstein
+
+</blockquote>
 
 Le bulletin d’information du Passeport d’accessibilité en milieu de travail du GC est de retour !
 
