@@ -26,9 +26,10 @@ newsletterDate: 2025-03-26
 </div>
 </div>
 
-L'équipe de l'AATIA est ravie de vous inviter à son événement en direct *Horizons accessibles* ! Rejoignez-nous le 28 mars pour explorer les fonctionnalités d'accessibilité de notre salle de classe AATIA, découvrir la télévision en circuit fermé et plonger dans une conversation simulée entre deux gestionnaires discutant d'une situation d'adaptation complexe. Vous ne pouvez pas nous rejoindre en direct? Pas de problème! *Horizons accessibles* est disponible sous forme de balado; vous pouvez donc écouter les conversations à tout moment et en tout lieu! Il suffit de consulter le site Web de l'AATIA pour [écouter ou pour vous abonner] (https://aaact.canada.ca/balados/) à l'une de nos plateformes de balado disponibles pour rester à jour grâce aux nouveaux épisodes. 
+L'équipe de l'AATIA est ravie de vous inviter à son événement en direct *Horizons accessibles* ! Rejoignez-nous le 28 mars pour explorer les fonctionnalités d'accessibilité de notre salle de classe AATIA, découvrir la télévision en circuit fermé et plonger dans une conversation simulée entre deux gestionnaires discutant d'une situation d'adaptation complexe. Vous ne pouvez pas nous rejoindre en direct? Pas de problème! *Horizons accessibles* est disponible sous forme de balado; vous pouvez donc écouter les conversations à tout moment et en tout lieu! Il suffit de consulter le site Web de l'AATIA pour [écouter ou pour vous abonner](https://aaact.canada.ca/balados/) à l'une de nos plateformes de balado disponibles pour rester à jour grâce aux nouveaux épisodes. 
 
 Pour obtenir des détails concernant l'inscription à l'événement, rendez-vous à notre [page de formation de l'AATIA](https://aaact.canada.ca/formation/). 
+
 ## S'élancer017 - Ergothérapeutes
 
 SPC a lancé [S'élancer017 - Ergothérapeutes](https://achatscanada.canada.ca/fr/occasions-de-marche/appels-d-offres/ssc-24-00028814t), un processus simplifié pour solliciter et attribuer des contrats à des ergothérapeutes capables de fournir un soutien ponctuel, holistique et à l'échelle de l'organisation en matière d'adaptation aux employés en situation de handicap ou souffrant de blessures, afin de créer une fonction publique inclusive et sans obstacle. Tous les documents justificatifs requis et les soumissions doivent être présentés avant le 15 avril 2025, 17 h HNE. 
@@ -74,7 +75,7 @@ Un guide d'accompagnement est également disponible pour prendre en charge l'uti
 * la section « Méthodologies de test » vous aidera à déterminer la norme par rapport à laquelle le test est comparé et à trouver les méthodologies, et vous fournira une liste de vérifications faciles de l'accessibilité. 
 * la section « Vous voulez contribuer? Essayez de créer de nouveaux minisignets JavaScript en utilisant l'intelligence artificielle (IA) » fournit des instructions sur l'utilisation de l'IA générative pour créer des minisignets de test. 
 
-Vous trouverez la ceinture à outils sur la page web GCPédia - [Ceinture à outils minisignets d'accessibilité](https://www.gcpedia.gc.ca/wiki/The_Accessibility_Bookmarklets_Toolbelt_/_Ceinture_%C3%A0_outils_minisignets_d%27accessibilit%C3%A9?setlang=fr&uselang=fr) de l'AATIA. Ce site est à usage interne. Vous devez être sur un réseau GC ou connecté via un réseau privé virtuel pour accéder à GCpédia. 
+Vous trouverez la ceinture à outils sur la [page Web GCPédia - Ceinture à outils minisignets d'accessibilité](https://www.gcpedia.gc.ca/wiki/The_Accessibility_Bookmarklets_Toolbelt_/_Ceinture_%C3%A0_outils_minisignets_d%27accessibilit%C3%A9?setlang=fr&uselang=fr) de l'AATIA. Ce site est à usage interne. Vous devez être sur un réseau GC ou connecté via un réseau privé virtuel pour accéder à GCpédia. 
 
 Si vous avez des commentaires ou des questions au sujet de la ceinture à outils, veuillez les faire parvenir à [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca). 
 
@@ -101,7 +102,7 @@ Les gestionnaires jouent un rôle essentiel dans la création d'un environnement
 
 ## Mesure d'adaptation en milieu de travail et productivité
 
-Créer un lieu de travail inclusif permet non seulement d'accroître la satisfaction des employés, mais aussi d'augmenter la productivité. Dans son récent article :[ Mesures d'adaptation en milieu de travail et productivité : l'un ne va pas sans l'autre](https://www.linkedin.com/pulse/workplace-accommodations-productivity-one-does-go-tina-namiesniowski-t9xce/), Tina Namiesniowski souligne le rôle crucial de la prise en compte des besoins en matière d'adaptation et démontre comment même de simples adaptations peuvent avoir un effet important sur le rendement et l'engagement. Nous vous encourageons à lire le blogue pour découvrir comment la mise en place de mesures d'adaptation peut améliorer l'engagement de vos employés et le rendement organisationnel global. 
+Créer un lieu de travail inclusif permet non seulement d'accroître la satisfaction des employés, mais aussi d'augmenter la productivité. Dans son récent article : [Mesures d'adaptation en milieu de travail et productivité : l'un ne va pas sans l'autre](https://www.linkedin.com/pulse/mesures-dadaptation-en-milieu-de-travail-et-lun-ne-va-namiesniowski-muy3e/?trackingId=HZFuyWg0%2B4TBYl14kE3mzg%3D%3D), Tina Namiesniowski souligne le rôle crucial de la prise en compte des besoins en matière d'adaptation et démontre comment même de simples adaptations peuvent avoir un effet important sur le rendement et l'engagement. Nous vous encourageons à lire le blogue pour découvrir comment la mise en place de mesures d'adaptation peut améliorer l'engagement de vos employés et le rendement organisationnel global. 
 
 ## Faire connaissance avec l'équipe
 
@@ -127,11 +128,11 @@ Avez-vous un produit à faire tester ou avez-vous besoin de conseils? Contactez-
 
 Joignez-vous à nous pour célébrer la Semaine nationale de l'accessibilité (SNA) du 25 au 31 mai 2025. La SNA est l'occasion de promouvoir l'inclusion et l'accessibilité dans nos communautés et nos lieux de travail, de célébrer nos progrès, de renouveler nos engagements et d'inspirer des efforts continus pour éliminer les obstacles à l'accessibilité. 
 
-Pour démarrer la SNA, Emploi et Développement social Canada organisera le Congrès canadien sur l'inclusion des personnes en situation de handicap le 22 mai 2025. Cet événement virtuel vise à favoriser le partage de points de vue afin de contribuer à la création de communautés et de lieux de travail accessibles et inclusifs partout au Canada. Nous encourageons tous les employés du GC à y participer. Consultez le site Web du [Congrès canadien sur l'inclusion des personnes en situation de handicap](<>) pour obtenir de plus amples renseignements dès qu'ils seront disponibles. 
+Pour démarrer la SNA, Emploi et Développement social Canada organisera le Congrès canadien sur l'inclusion des personnes en situation de handicap le 22 mai 2025. Cet événement virtuel vise à favoriser le partage de points de vue afin de contribuer à la création de communautés et de lieux de travail accessibles et inclusifs partout au Canada. Nous encourageons tous les employés du GC à y participer. Consultez le site Web du [Congrès canadien sur l'inclusion des personnes en situation de handicap](https://www.canada.ca/fr/emploi-developpement-social/programmes/congres-canadien-inclusion-personnes-situation-handicap.html) pour obtenir de plus amples renseignements dès qu'ils seront disponibles. 
 
-Le Bureau de l’accessibilité au sein de la fonction publique et l'École de la fonction publique du Canada tiennent un événement pour tous les fonctionnaires le lundi 26 mai. Restez à l'affût d'autres renseignements à venir sur la [page Web GCpédia de la Semaine nationale de l'accessibilité](<>).
+Le Bureau de l’accessibilité au sein de la fonction publique et l'École de la fonction publique du Canada tiennent un événement pour tous les fonctionnaires le lundi 26 mai. Restez à l'affût d'autres renseignements à venir sur la [page Web GCpédia de la Semaine nationale de l'accessibilité](https://www.gcpedia.gc.ca/wiki/National_AccessAbility_Week_2024/_Semaine_nationale_de_l%E2%80%99accessibilit%C3%A9_2024).
 
-Le programme d'AATIA a le plaisir d'annoncer que nous tiendrons notre propre événement de la SNA! Ne manquez pas de consulter notre page [Web de l'AATIA](<>) pour de plus amples renseignements sur l'événement à venir! 
+Le programme d'AATIA a le plaisir d'annoncer que nous tiendrons notre propre événement de la SNA! Ne manquez pas de consulter notre page [Web de l'AATIA](https://aaact.canada.ca/accueil/) pour de plus amples renseignements sur l'événement à venir! 
 
 ## Truc pour l'accessibilité numérique - « neige blanche »
 
