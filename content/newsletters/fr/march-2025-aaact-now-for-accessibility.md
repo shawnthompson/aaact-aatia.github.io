@@ -50,7 +50,7 @@ SPC a lancé [S'élancer017 - Ergothérapeutes](https://achatscanada.canada.ca/f
 <div class="row">
 <div class="col-md-6">
 
-![](/docs/puppy-1.jpg)
+![Trois adorables chiots assis côte à côte - deux au pelage noir et un au pelage doré. Ils sont blottis sur une couverture confortable.](/docs/puppy-1.jpg)
 
 </div>
 </div>

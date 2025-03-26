@@ -48,7 +48,7 @@ SSC has launched [ScaleUp017 - Occupational Therapist](https://canadabuys.canada
 <div class="row">
 <div class="col-md-6">
 
-![](/docs/puppy-1.jpg)
+![Three adorable puppies sitting close together - two with black fur and one with a golden coat. They are nested on a cozy blanket.](/docs/puppy-1.jpg)
 
 </div>
 </div>
