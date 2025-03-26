@@ -14,30 +14,19 @@ introduction: Welcome to the March 2025 edition of AAACT Now for Accessibility,
   upcoming events.
 newsletterDate: 2025-03-26
 ---
-## Guide for Including Accessibility in ICT Related Procurement
+## Accessible Horizons Live Event
 
-![](/docs/banner.png)
+<div class="row">
+<div class="col-md-6">
 
-AAACT is pleased to announce that the "Guide for including accessibility in ICT related Procurement" has been published on the [Digital Accessibility Toolkit](https://a11y.canada.ca/en/procurement/). The Guide helps federal Business Owners and Contracting Authorities to consider accessibility when developing requirements for ICT-related procurements. It provides information on how to:
+![](/docs/coverartenglishpurple.png)
 
-* include requirements for user and accessibility testing;
-* ask industry questions on their capacity to deliver accessible ICT goods or service; 
-* be flexible in including accessibility when full compliance may not be possible at the time of the contract award, and;
-* consider accessibility throughout the procurement lifecycle.
+</div>
+</div>
 
-The Guide also includes helpful information about relevant ICT guidelines and standards.
+The AAACT team is excited to invite you to our Accessible Horizons live event! Join us on March 28th as we explore the accessibility features of our AAACT classroom, learn about closed-circuit television and delve into a simulated conversation between two managers discussing a complex accommodation situation. Can't join live? No problem! Accessible Horizons is available as a podcast, so you can listen to the conversations anytime, anywhere! Simply visit our AAACT website to [listen or subscribe](https://aaact.canada.ca/podcasts/) on one of our available podcast platforms to stay updated with new episodes.
 
-It was created by a small working group with representatives from SSC and the Accessible Procurement Resource Center at Public Services and Procurement Canada. The Guide is based on best practices that have been developed throughout SSC's pilot implementation of the [EN 301 549 V3.2.1 (2021-03) Harmonised European Standard - Accessibility requirements for ICT products and services](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf) (link available in English only).
-
-For any questions or comments, please contact [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca).
-
-## Empowering Managers to Drive Accessibility and Disability Inclusion in the Public Service
-
-Managers are essential in creating an inclusive work environment that welcomes and supports all employees, including those with disabilities. Tina Namiesniowski, Senior Associate Deputy Minister, Employment and Social Development Canada recently wrote about [Empowering Managers to drive accessibility and disability inclusion in the public service](https://www.linkedin.com/pulse/empowering-managers-drive-accessibility-disability-tina-namiesniowski-tkxke/?trackingId=o9m5osrKR1OAVO0Je%2F3qhQ%3D%3D). We encourage all Managers to read her blog as she shares practical actions that you can take to support employees with disabilities and help to cultivate a disability include culture of belonging. 
-
-## Workplace Accommodations and Productivity
-
-Creating an inclusive workplace not only boosts employee satisfaction, but it also drives productivity. In her recent article, [Workplace accommodations & productivity: one does not go without the other](https://www.linkedin.com/pulse/workplace-accommodations-productivity-one-does-go-tina-namiesniowski-t9xce/), Tina Namiesniowski  emphasizes the crucial role of meeting accommodation needs and demonstrates how even simple adjustments can significantly impact performance and engagement. We encourage you to read the blog to discover how providing accommodations can enhance your employee engagement and overall organizational performance.
+For event registration details visit our [AAACT learning page](https://aaact.canada.ca/learning/).
 
 ## Scale-Up017 - Occupational Therapists
 
@@ -88,6 +77,31 @@ The toolbelt can be found on the [AAACT Bookmarklets Toolbelt - GCpedia page](ht
 
 If you have any feedback or questions regarding the toolbelt, please send your inquiries to [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca).
 
+## Guide for Including Accessibility in ICT Related Procurement
+
+![](/docs/banner.png)
+
+AAACT is pleased to announce that the "Guide for including accessibility in ICT related Procurement" has been published on the [Digital Accessibility Toolkit](https://a11y.canada.ca/en/procurement/). The Guide helps federal Business Owners and Contracting Authorities to consider accessibility when developing requirements for ICT-related procurements. It provides information on how to:
+
+* include requirements for user and accessibility testing;
+* ask industry questions on their capacity to deliver accessible ICT goods or service; 
+* be flexible in including accessibility when full compliance may not be possible at the time of the contract award, and;
+* consider accessibility throughout the procurement lifecycle.
+
+The Guide also includes helpful information about relevant ICT guidelines and standards.
+
+It was created by a small working group with representatives from SSC and the Accessible Procurement Resource Center at Public Services and Procurement Canada. The Guide is based on best practices that have been developed throughout SSC's pilot implementation of the [EN 301 549 V3.2.1 (2021-03) Harmonised European Standard - Accessibility requirements for ICT products and services](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf) (link available in English only).
+
+For any questions or comments, please contact [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca).
+
+## Empowering Managers to Drive Accessibility and Disability Inclusion in the Public Service
+
+Managers are essential in creating an inclusive work environment that welcomes and supports all employees, including those with disabilities. Tina Namiesniowski, Senior Associate Deputy Minister, Employment and Social Development Canada recently wrote about [Empowering Managers to drive accessibility and disability inclusion in the public service](https://www.linkedin.com/pulse/empowering-managers-drive-accessibility-disability-tina-namiesniowski-tkxke/?trackingId=o9m5osrKR1OAVO0Je%2F3qhQ%3D%3D). We encourage all Managers to read her blog as she shares practical actions that you can take to support employees with disabilities and help to cultivate a disability include culture of belonging. 
+
+## Workplace Accommodations and Productivity
+
+Creating an inclusive workplace not only boosts employee satisfaction, but it also drives productivity. In her recent article, [Workplace accommodations & productivity: one does not go without the other](https://www.linkedin.com/pulse/workplace-accommodations-productivity-one-does-go-tina-namiesniowski-t9xce/), Tina Namiesniowski  emphasizes the crucial role of meeting accommodation needs and demonstrates how even simple adjustments can significantly impact performance and engagement. We encourage you to read the blog to discover how providing accommodations can enhance your employee engagement and overall organizational performance.
+
 ## Get to Know the Team
 
 In the ever-evolving world of digital accessibility, understanding the challenges and best practices is crucial for creating inclusive digital experiences. To shed light on this topic, we spoke with Brad Souster, Team Leader for Digital Accessibility and Inclusive Design in AAACT. With years of hands-on experience in both web development and accessibility testing, he has been at the forefront of driving inclusive design strategies and ensuring that digital content is accessible to everyone.
@@ -107,20 +121,6 @@ For non-web documents, such as Microsoft Word or PowerPoint, we see a lot of mis
 For websites and web applications, color contrast is a recurring issue. I recommend a contrast analyzer to help avoid this issue. These tools can be easily found online by searching "color contrast checker". Tables are often formatted incorrectly and cause accessibility issues for users with disabilities, especially when the tables are complex, with merged cells, or when they have too many columns to view with high zoom settings.
 
 Do you have a product to be tested or require guidance? Contact us at [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca).
-
-## Accessible Horizons
-
-<div class="row">
-<div class="col-md-6">
-
-![](/docs/coverartenglishpurple.png)
-
-</div>
-</div>
-
-The AAACT team is excited to invite you to our Accessible Horizons live event! Join us on March 28th as we explore the accessibility features of our AAACT classroom, learn about closed-circuit television and delve into a simulated conversation between two managers discussing a complex accommodation situation. Can't join live? No problem! Accessible Horizons is available as a podcast, so you can listen to the conversations anytime, anywhere! Simply visit our AAACT website to [listen or subscribe](https://aaact.canada.ca/podcasts/) on one of our available podcast platforms to stay updated with new episodes.
-
-For event registration details visit our [AAACT learning page](https://aaact.canada.ca/learning/)[](https://aaact.canada.ca/home/).
 
 ## National AccessAbility Week 2025
 

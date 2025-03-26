@@ -16,31 +16,19 @@ introduction: Bienvenue à l'édition de mars 2025 de *L'AATIA maintenant pour
   chiens-guides, ainsi que des conseils utiles et les événements à venir.
 newsletterDate: 2025-03-26
 ---
-## Guide pour l'inclusion de l'accessibilité dans l'approvisionnement lié aux TIC
+## Horizons accessibles - événement en direct
 
-![](/docs/banner.png)
+<div class="row">
+<div class="col-md-6">
 
-L'AATIA a le plaisir d'annoncer que le « Guide pour l'inclusion de l'accessibilité dans l'approvisionnement lié aux TIC » a été publié dans la [Boîte à outils de l'accessibilité numérique](https://a11y.canada.ca/fr/approvisionnement/index.html). Le Guide aide les autorités contractantes et les propriétaires fonctionnels fédéraux à prendre en compte l'accessibilité lors de l'élaboration des exigences d'accessibilité dans les approvisionnements liés aux TIC. Il fournit de l'information sur la manière de faire ce qui suit : 
+![](/docs/coverartpurplefrench.png)
 
-* inclure les exigences pour les tests d'utilisateur et d'accessibilité; 
-* poser au secteur des questions sur sa capacité d'offrir des biens et des services de TIC accessibles; 
-* faire preuve de souplesse en incluant l'accessibilité lorsqu'une conformité en tout point n'est pas possible au moment de l'attribution du contrat; 
-* prendre en compte l'accessibilité tout au long du cycle d'approvisionnement. 
+</div>
+</div>
 
-Le Guide comprend également des renseignements utiles sur des lignes directrices et des normes pertinentes relatives aux TIC. 
+L'équipe de l'AATIA est ravie de vous inviter à son événement en direct *Horizons accessibles* ! Rejoignez-nous le 28 mars pour explorer les fonctionnalités d'accessibilité de notre salle de classe AATIA, découvrir la télévision en circuit fermé et plonger dans une conversation simulée entre deux gestionnaires discutant d'une situation d'adaptation complexe. Vous ne pouvez pas nous rejoindre en direct? Pas de problème! *Horizons accessibles* est disponible sous forme de balado; vous pouvez donc écouter les conversations à tout moment et en tout lieu! Il suffit de consulter le site Web de l'AATIA pour [écouter ou pour vous abonner] (https://aaact.canada.ca/balados/) à l'une de nos plateformes de balado disponibles pour rester à jour grâce aux nouveaux épisodes. 
 
-Il a été créé par un petit groupe de travail comptant des représentants de SPC et du Centre de ressources pour l'approvisionnement accessible, Services publics et Approvisionnement Canada. Le Guide repose sur des pratiques exemplaires qui ont été élaborées tout au long de la mise en œuvre du projet pilote de SPC concernant la [Norme européenne harmonisée -- Exigences en matière d'accessibilité applicables aux produits et services liés aux TIC [EN 301 549 V3.2.1 (2021-03)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf) (lien disponible en anglais seulement). 
-
-Si vous avez des questions ou des commentaires, veuillez contacter [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca). 
-
-## Habiliter les gestionnaires à promouvoir l'accessibilité et l'inclusion des personnes en situation de handicap dans la fonction publique
-
-Les gestionnaires jouent un rôle essentiel dans la création d'un environnement de travail inclusif qui accueille et soutient tous les employés, y compris ceux en situation de handicap. Tina Namiesniowski, sous-ministre déléguée principale, Emploi et Développement social Canada, a récemment écrit un article intitulé : [Habiliter les gestionnaires à promouvoir l'accessibilité et l'inclusion des personnes en situation de handicap dans la fonction publique](https://fr.linkedin.com/pulse/habiliter-les-gestionnaires-%C3%A0-promouvoir-et-des-en-de-namiesniowski-3ze1e). Nous encourageons tous les gestionnaires à lire son blogue, car elle y fait part de mesures pratiques que vous pouvez prendre pour soutenir les employés en situation de handicap et contribuer à cultiver une culture d'inclusion des personnes en situation de handicap. 
-
-## Mesure d'adaptation en milieu de travail et productivité
-
-Créer un lieu de travail inclusif permet non seulement d'accroître la satisfaction des employés, mais aussi d'augmenter la productivité. Dans son récent article :[ Mesures d'adaptation en milieu de travail et productivité : l'un ne va pas sans l'autre](https://www.linkedin.com/pulse/workplace-accommodations-productivity-one-does-go-tina-namiesniowski-t9xce/), Tina Namiesniowski souligne le rôle crucial de la prise en compte des besoins en matière d'adaptation et démontre comment même de simples adaptations peuvent avoir un effet important sur le rendement et l'engagement. Nous vous encourageons à lire le blogue pour découvrir comment la mise en place de mesures d'adaptation peut améliorer l'engagement de vos employés et le rendement organisationnel global. 
-
+Pour obtenir des détails concernant l'inscription à l'événement, rendez-vous à notre [page de formation de l'AATIA](https://aaact.canada.ca/formation/). 
 ## S'élancer017 - Ergothérapeutes
 
 SPC a lancé [S'élancer017 - Ergothérapeutes](https://achatscanada.canada.ca/fr/occasions-de-marche/appels-d-offres/ssc-24-00028814t), un processus simplifié pour solliciter et attribuer des contrats à des ergothérapeutes capables de fournir un soutien ponctuel, holistique et à l'échelle de l'organisation en matière d'adaptation aux employés en situation de handicap ou souffrant de blessures, afin de créer une fonction publique inclusive et sans obstacle. Tous les documents justificatifs requis et les soumissions doivent être présentés avant le 15 avril 2025, 17 h HNE. 
@@ -90,6 +78,31 @@ Vous trouverez la ceinture à outils sur la page web GCPédia - [Ceinture à out
 
 Si vous avez des commentaires ou des questions au sujet de la ceinture à outils, veuillez les faire parvenir à [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca). 
 
+## Guide pour l'inclusion de l'accessibilité dans l'approvisionnement lié aux TIC
+
+![](/docs/banner.png)
+
+L'AATIA a le plaisir d'annoncer que le « Guide pour l'inclusion de l'accessibilité dans l'approvisionnement lié aux TIC » a été publié dans la [Boîte à outils de l'accessibilité numérique](https://a11y.canada.ca/fr/approvisionnement/index.html). Le Guide aide les autorités contractantes et les propriétaires fonctionnels fédéraux à prendre en compte l'accessibilité lors de l'élaboration des exigences d'accessibilité dans les approvisionnements liés aux TIC. Il fournit de l'information sur la manière de faire ce qui suit : 
+
+* inclure les exigences pour les tests d'utilisateur et d'accessibilité; 
+* poser au secteur des questions sur sa capacité d'offrir des biens et des services de TIC accessibles; 
+* faire preuve de souplesse en incluant l'accessibilité lorsqu'une conformité en tout point n'est pas possible au moment de l'attribution du contrat; 
+* prendre en compte l'accessibilité tout au long du cycle d'approvisionnement. 
+
+Le Guide comprend également des renseignements utiles sur des lignes directrices et des normes pertinentes relatives aux TIC. 
+
+Il a été créé par un petit groupe de travail comptant des représentants de SPC et du Centre de ressources pour l'approvisionnement accessible, Services publics et Approvisionnement Canada. Le Guide repose sur des pratiques exemplaires qui ont été élaborées tout au long de la mise en œuvre du projet pilote de SPC concernant la [Norme européenne harmonisée -- Exigences en matière d'accessibilité applicables aux produits et services liés aux TIC [EN 301 549 V3.2.1 (2021-03)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf) (lien disponible en anglais seulement). 
+
+Si vous avez des questions ou des commentaires, veuillez contacter [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca). 
+
+## Habiliter les gestionnaires à promouvoir l'accessibilité et l'inclusion des personnes en situation de handicap dans la fonction publique
+
+Les gestionnaires jouent un rôle essentiel dans la création d'un environnement de travail inclusif qui accueille et soutient tous les employés, y compris ceux en situation de handicap. Tina Namiesniowski, sous-ministre déléguée principale, Emploi et Développement social Canada, a récemment écrit un article intitulé : [Habiliter les gestionnaires à promouvoir l'accessibilité et l'inclusion des personnes en situation de handicap dans la fonction publique](https://fr.linkedin.com/pulse/habiliter-les-gestionnaires-%C3%A0-promouvoir-et-des-en-de-namiesniowski-3ze1e). Nous encourageons tous les gestionnaires à lire son blogue, car elle y fait part de mesures pratiques que vous pouvez prendre pour soutenir les employés en situation de handicap et contribuer à cultiver une culture d'inclusion des personnes en situation de handicap. 
+
+## Mesure d'adaptation en milieu de travail et productivité
+
+Créer un lieu de travail inclusif permet non seulement d'accroître la satisfaction des employés, mais aussi d'augmenter la productivité. Dans son récent article :[ Mesures d'adaptation en milieu de travail et productivité : l'un ne va pas sans l'autre](https://www.linkedin.com/pulse/workplace-accommodations-productivity-one-does-go-tina-namiesniowski-t9xce/), Tina Namiesniowski souligne le rôle crucial de la prise en compte des besoins en matière d'adaptation et démontre comment même de simples adaptations peuvent avoir un effet important sur le rendement et l'engagement. Nous vous encourageons à lire le blogue pour découvrir comment la mise en place de mesures d'adaptation peut améliorer l'engagement de vos employés et le rendement organisationnel global. 
+
 ## Faire connaissance avec l'équipe
 
 Dans le monde en constante évolution de l'accessibilité numérique, il est essentiel de comprendre les défis et les pratiques exemplaires pour créer des expériences numériques inclusives. Pour faire la lumière sur ce sujet, nous avons discuté avec Brad Souster, chef d'équipe pour l'accessibilité numérique et la conception inclusive à l'AATIA. Fort de nombreuses années d'expérience pratique dans le développement Web et les tests d'accessibilité, il a été à l'avant-garde de la promotion des stratégies de conception inclusive et de la garantie de l'accessibilité des contenus numériques pour tous. 
@@ -109,20 +122,6 @@ Dans le cas des documents non destinés au Web, tels que Microsoft Word ou Power
 Dans le cas des sites et des applications Web, le contraste des couleurs est un problème récurrent. Je recommande un analyseur de contraste pour éviter ce problème. On peut trouver facilement ces outils en ligne en cherchant « vérificateur de contraste des couleurs ». Les tableaux sont souvent mal formatés et posent des problèmes d'accessibilité aux utilisateurs en situation de handicap, surtout lorsqu'ils sont complexes et présentent des cellules fusionnées, ou lorsqu'ils comportent trop de colonnes pour être visualisés avec un niveau de zoom élevé. 
 
 Avez-vous un produit à faire tester ou avez-vous besoin de conseils? Contactez-nous à [aaact-aatia@ssc-spc.gc.ca](<mailto:aaact-aatia@ssc-spc.gc.ca)>). 
-
-## Horizons accessibles
-
-<div class="row">
-<div class="col-md-6">
-
-![](/docs/coverartpurplefrench.png)
-
-</div>
-</div>
-
-L'équipe de l'AATIA est ravie de vous inviter à son événement en direct *Horizons accessibles* ! Rejoignez-nous le 28 mars pour explorer les fonctionnalités d'accessibilité de notre salle de classe AATIA, découvrir la télévision en circuit fermé et plonger dans une conversation simulée entre deux gestionnaires discutant d'une situation d'adaptation complexe. Vous ne pouvez pas nous rejoindre en direct? Pas de problème! *Horizons accessibles* est disponible sous forme de balado; vous pouvez donc écouter les conversations à tout moment et en tout lieu! Il suffit de consulter le site [Web de l'AATIA](https://aaact.canada.ca/balados/) pour écouter ou pour vous abonner à l'une de nos plateformes de balado disponibles pour rester à jour grâce aux nouveaux épisodes. 
-
-Pour obtenir des détails concernant l'inscription à l'événement ou pour écouter les balados, rendez-vous au [site Web de l'AATIA](https://aaact.canada.ca/accueil/). 
 
 ## Semaine nationale de l'accessibilité 2025
 
