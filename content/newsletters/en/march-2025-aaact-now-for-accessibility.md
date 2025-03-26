@@ -14,7 +14,7 @@ introduction: Welcome to the March 2025 edition of AAACT Now for Accessibility,
   upcoming events.
 newsletterDate: 2025-03-26
 ---
-## Guide for Including Accessibility in Information and Communication Technology Related Procurement
+## Guide for Including Accessibility in ICT Related Procurement
 
 ![](/docs/banner.png)
 
@@ -39,13 +39,19 @@ Managers are essential in creating an inclusive work environment that welcomes a
 
 Creating an inclusive workplace not only boosts employee satisfaction, but it also drives productivity. In her recent article, [Workplace accommodations & productivity: one does not go without the other](https://www.linkedin.com/pulse/workplace-accommodations-productivity-one-does-go-tina-namiesniowski-t9xce/), Tina Namiesniowski  emphasizes the crucial role of meeting accommodation needs and demonstrates how even simple adjustments can significantly impact performance and engagement. We encourage you to read the blog to discover how providing accommodations can enhance your employee engagement and overall organizational performance.
 
-## Scale-Up017 -- Occupational Therapists
+## Scale-Up017 - Occupational Therapists
 
-SSC has launched [ScaleUp017 -- Occupational Therapist](https://canadabuys.canada.ca/en/tender-opportunities/tender-notice/ssc-24-00028814t), a streamlined process to solicit and award contracts to Occupational Therapists that can provide ad-hoc, enterprise-wide holistic accommodation support for employees with disabilities and injuries to create a barrier-free and inclusive public service. All required supporting documentation and bid submissions must be submitted by April 15, 2025, 5 p.m. EST.
+SSC has launched [ScaleUp017 - Occupational Therapist](https://canadabuys.canada.ca/en/tender-opportunities/tender-notice/ssc-24-00028814t), a streamlined process to solicit and award contracts to Occupational Therapists that can provide ad-hoc, enterprise-wide holistic accommodation support for employees with disabilities and injuries to create a barrier-free and inclusive public service. All required supporting documentation and bid submissions must be submitted by April 15, 2025, 5 p.m. EST.
 
 ## Guide Dog Training and Workplace Accommodation
 
+<div class="row">
+<div class="col-md-6">
+
 ![](/docs/puppy-1.jpg)
+
+</div>
+</div>
 
 Guide dogs play a key role in providing mobility and independence for some individuals with disabilities, offering them the opportunity to experience the world in a life-changing way. However, before these dogs can assume their important roles, they need months of socialization, exposure to various environments, and basic obedience training. Puppy raisers are essential to this process, helping nurture and prepare the pups for their future as service animals.
 
@@ -82,16 +88,6 @@ The toolbelt can be found on the [AAACT Bookmarklets Toolbelt - GCpedia page](ht
 
 If you have any feedback or questions regarding the toolbelt, please send your inquiries to [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca).
 
-## National AccessAbility Week 2025
-
-Join us in celebrating National AccessAbility Week (NAAW) from May 25 to 31st, 2025. NAAW is a time to promote inclusion and accessibility in our communities and workplaces, to celebrate our progress, renew our commitments, and inspire continued efforts to break down accessibility barriers.
-
-To kick-start NAAW, Employment and Social Develop Canada will be hosting the Canadian Congress on Disability Inclusion on May 22, 2025. This virtual event supports the sharing of insights to help shape accessible and inclusive communities and workplaces across Canada. We encourage all GC employees to participate. Stay tuned to the [Canadian Congress on Disability Inclusion](https://www.canada.ca/en/employment-social-development/programs/canadian-congress-disability-inclusion.html) website for more information as it becomes available.
-
-The Office of Public Service Accessibility and the Canada School of Public Service are hosting a joint event for all public servants on Monday May 26th. Stay tuned for more information through the [National Accessibility Week GCPedia web page](https://national%20accessibility%20week%20gcpedia%20web%20page/).
-
-The AAACT program is pleased to announce that we will be hosting our very own NAAW event! Stay tuned to our [AAACT web page](https://aaact.canada.ca/events/) for more information on the upcoming event!
-
 ## Get to Know the Team
 
 In the ever-evolving world of digital accessibility, understanding the challenges and best practices is crucial for creating inclusive digital experiences. To shed light on this topic, we spoke with Brad Souster, Team Leader for Digital Accessibility and Inclusive Design in AAACT. With years of hands-on experience in both web development and accessibility testing, he has been at the forefront of driving inclusive design strategies and ensuring that digital content is accessible to everyone.
@@ -114,11 +110,27 @@ Do you have a product to be tested or require guidance? Contact us at [aaact-aat
 
 ## Accessible Horizons
 
+<div class="row">
+<div class="col-md-6">
+
 ![](/docs/coverartenglishpurple.png)
+
+</div>
+</div>
 
 The AAACT team is excited to invite you to our Accessible Horizons live event! Join us on March 28th as we explore the accessibility features of our AAACT classroom, learn about closed-circuit television and delve into a simulated conversation between two managers discussing a complex accommodation situation. Can't join live? No problem! Accessible Horizons is available as a podcast, so you can listen to the conversations anytime, anywhere! Simply visit our [AAACT website](https://aaact.canada.ca/podcasts/) to listen or subscribe on one of our available podcast platforms to stay updated with new episodes.
 
 For event registration details or to listen to the podcasts, head to our [AAACT website](https://aaact.canada.ca/home/).
+
+## National AccessAbility Week 2025
+
+Join us in celebrating National AccessAbility Week (NAAW) from May 25 to 31st, 2025. NAAW is a time to promote inclusion and accessibility in our communities and workplaces, to celebrate our progress, renew our commitments, and inspire continued efforts to break down accessibility barriers.
+
+To kick-start NAAW, Employment and Social Develop Canada will be hosting the Canadian Congress on Disability Inclusion on May 22, 2025. This virtual event supports the sharing of insights to help shape accessible and inclusive communities and workplaces across Canada. We encourage all GC employees to participate. Stay tuned to the [Canadian Congress on Disability Inclusion](<>) website for more information as it becomes available.
+
+The Office of Public Service Accessibility and the Canada School of Public Service are hosting a joint event for all public servants on Monday May 26th. Stay tuned for more information through the [National Accessibility Week GCPedia web page](<>).
+
+The AAACT program is pleased to announce that we will be hosting our very own NAAW event! Stay tuned to our [AAACT web page](<>) for more information on the upcoming event!
 
 ## Digital Accessibility Hack - White Snow
 
