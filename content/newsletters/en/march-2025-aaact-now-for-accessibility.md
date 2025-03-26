@@ -157,7 +157,7 @@ Alternatively, in all of the Microsoft 365 apps, you can:
 
 #### Prevent white snow
 
-To reduce the risk of adding white snow in documents, avoid using direct formatting commands like **Text Highlight, Font Color and Shading**.
+To reduce the risk of adding white snow in documents, avoid using direct formatting commands like Text Highlight, Font Color and Shading.
 
 #### Remove white snow
 

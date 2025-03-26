@@ -4,19 +4,19 @@ title: L'AATIA maintenant pour l'accessibilité de mars 2025
 otherLanguageTitle: March 2025 AAACT Now for Accessibility
 description: "**Dans cette édition:** S'élancer017 - Ergothérapeutes; dressage
   de chiens-guides et adaptation du lieu de travail; présentation de la ceinture
-  porte-outils de minisignets de l'AATIA; Semaine national de l'accessibilité
-  2025 et plus encore."
-introduction: Bienvenue dans le numéro de mars 2025 de L'AATIA maintenant pour
-  l'accessibilité, le bulletin d'information de l'équipe Accessibilité,
+  à outils minisignets d'accessibilité de l'AATIA; Semaine national de
+  l'accessibilité 2025 et plus encore."
+introduction: Bienvenue dans le numéro de mars 2025 de *L'AATIA maintenant pour
+  l'accessibilité*, le bulletin d'information de l'équipe d'Accessibilité,
   adaptation et technologie informatique adaptée (AATIA) de Services partagés
-  Canada. Dans ce numéro, vous trouverez un guide pour inclure l'accessibilité
-  dans les achats de technologies de l'information et des communications (TIC),
-  de l'information pour habiliter les gestionnaires, une initiative des employés
-  du GC pour aider à dresser les chiens-guides, ainsi que des conseils utiles et
-  les événements à venir.
+  Canada (SPC). Dans cette édition, vous trouverez un guide pour inclure
+  l'accessibilité dans l'approvisionnement liés aux technologies de
+  l'information et des communications (TIC), de l'information pour habiliter les
+  gestionnaires, l'initiative d'une employée du GC pour aider à dresser les
+  chiens-guides, ainsi que des conseils utiles et les événements à venir.
 newsletterDate: 2025-03-26
 ---
-## Guide pour l'inclusion de l'accessibilité dans l'approvisionnement lié aux technologies de l'information et des communications
+## Guide pour l'inclusion de l'accessibilité dans l'approvisionnement lié aux TIC
 
 ![](/docs/banner.png)
 
@@ -29,7 +29,7 @@ L'AATIA a le plaisir d'annoncer que le « Guide pour l'inclusion de l'accessibil
 
 Le Guide comprend également des renseignements utiles sur des lignes directrices et des normes pertinentes relatives aux TIC. 
 
-Il a été créé par un petit groupe de travail comptant des représentants de SPC et du Centre de ressources pour l'approvisionnement accessible, Services publics et Approvisionnement Canada (SPAC). Le Guide repose sur des pratiques exemplaires qui ont été élaborées tout au long de la mise en œuvre du projet pilote de SPC concernant la [Norme européenne harmonisée -- Exigences en matière d'accessibilité applicables aux produits et services liés aux TIC [EN 301 549 V3.2.1 (2021-03)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf) (lien disponible en anglais seulement). 
+Il a été créé par un petit groupe de travail comptant des représentants de SPC et du Centre de ressources pour l'approvisionnement accessible, Services publics et Approvisionnement Canada. Le Guide repose sur des pratiques exemplaires qui ont été élaborées tout au long de la mise en œuvre du projet pilote de SPC concernant la [Norme européenne harmonisée -- Exigences en matière d'accessibilité applicables aux produits et services liés aux TIC [EN 301 549 V3.2.1 (2021-03)](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf) (lien disponible en anglais seulement). 
 
 Si vous avez des questions ou des commentaires, veuillez contacter [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca). 
 
@@ -37,19 +37,19 @@ Si vous avez des questions ou des commentaires, veuillez contacter [aaact-aatia@
 
 Les gestionnaires jouent un rôle essentiel dans la création d'un environnement de travail inclusif qui accueille et soutient tous les employés, y compris ceux en situation de handicap. Tina Namiesniowski, sous-ministre déléguée principale, Emploi et Développement social Canada, a récemment écrit un article intitulé : [Habiliter les gestionnaires à promouvoir l'accessibilité et l'inclusion des personnes en situation de handicap dans la fonction publique](https://fr.linkedin.com/pulse/habiliter-les-gestionnaires-%C3%A0-promouvoir-et-des-en-de-namiesniowski-3ze1e). Nous encourageons tous les gestionnaires à lire son blogue, car elle y fait part de mesures pratiques que vous pouvez prendre pour soutenir les employés en situation de handicap et contribuer à cultiver une culture d'inclusion des personnes en situation de handicap. 
 
-## Adaptation du lieu de travail et productivité
+## Mesure d'adaptation en milieu de travail et productivité
 
 Créer un lieu de travail inclusif permet non seulement d'accroître la satisfaction des employés, mais aussi d'augmenter la productivité. Dans son récent article :[ Mesures d'adaptation en milieu de travail et productivité : l'un ne va pas sans l'autre](https://www.linkedin.com/pulse/workplace-accommodations-productivity-one-does-go-tina-namiesniowski-t9xce/), Tina Namiesniowski souligne le rôle crucial de la prise en compte des besoins en matière d'adaptation et démontre comment même de simples adaptations peuvent avoir un effet important sur le rendement et l'engagement. Nous vous encourageons à lire le blogue pour découvrir comment la mise en place de mesures d'adaptation peut améliorer l'engagement de vos employés et le rendement organisationnel global. 
 
 ## S'élancer017 -- Ergothérapeutes
 
-SPC a lancé [S'élancer017 - Ergothérapeutes](https://achatscanada.canada.ca/fr/occasions-de-marche/appels-d-offres/ssc-24-00028814t), un processus simplifié pour solliciter et attribuer des contrats à des ergothérapeutes capables de fournir un soutien ponctuel, holistique et à l'échelle de l'organisation en matière d'adaptation aux employés en situation de handicap ou souffrant de blessures, afin de créer une fonction publique inclusive et sans obstacle. Tous les documents justificatifs requis et les soumissions doivent être présentés avant le 15 avril 2025, 17 h HAE. 
+SPC a lancé [S'élancer017 - Ergothérapeutes](https://achatscanada.canada.ca/fr/occasions-de-marche/appels-d-offres/ssc-24-00028814t), un processus simplifié pour solliciter et attribuer des contrats à des ergothérapeutes capables de fournir un soutien ponctuel, holistique et à l'échelle de l'organisation en matière d'adaptation aux employés en situation de handicap ou souffrant de blessures, afin de créer une fonction publique inclusive et sans obstacle. Tous les documents justificatifs requis et les soumissions doivent être présentés avant le 15 avril 2025, 17 h HNE. 
 
 ## Dressage des chiens-guides et adaptation du lieu de travail
 
 ![](/docs/puppy-1.jpg)
 
-Les chiens-guides jouent un rôle clé pour assurer mobilité et indépendance à certaines personnes en situation de handicap, leur offrant la possibilité de découvrir le monde d'une manière qui changera leur vie. Cependant, avant que ces chiens puissent assumer leurs rôles importants, ils ont besoin de plusieurs mois de socialisation, d'exposition à divers environnements et de dressage à l'obéissance. Les éleveurs de chiots sont essentiels à ce processus, car ils aident à élever et à préparer les chiots à leur avenir d'animaux d'assistance. 
+Les chiens-guides jouent un rôle clé pour assurer la mobilité et indépendance à certaines personnes en situation de handicap, leur offrant la possibilité de découvrir le monde d'une manière qui changera leur vie. Cependant, avant que ces chiens puissent assumer leurs rôles importants, ils ont besoin de plusieurs mois de socialisation, d'exposition à divers environnements et de dressage à l'obéissance. Les éleveurs de chiots sont essentiels à ce processus, car ils aident à élever et à préparer les chiots à leur avenir d'animaux d'assistance. 
 
 Nous avons récemment publié l'histoire d'une employée du GC qui s'occupe d'un chiot en dressage par l'intermédiaire de la Fondation Mira. Cette histoire a inspiré une autre employée à agir en se joignant à l'Institut national canadien pour les aveugles (INCA). Dans le cadre de son programme de chiots, elle s'est portée volontaire comme éleveuse de chiots, accueillant chez elle une chienne et sa portée. Elle s'occupera d'eux jusqu'à ce que les chiots atteignent l'âge de huit semaines, après quoi ils seront confiés à d'autres dresseurs pour poursuivre leur développement. 
 
@@ -76,11 +76,11 @@ La ceinture à outils est une bibliothèque de connaissances axée sur la ration
 Un guide d'accompagnement est également disponible pour prendre en charge l'utilisation de la ceinture à outils. Il comprend ce qui suit : 
 
 * des instructions sur la façon d'installer la ceinture à outils; 
-* sous « Notes de l'utilisateur - À lire », vous trouverez des explications sur chaque dossier de la ceinture à outils et les sources des minisignets; 
-* la section « Bases de référence des tests » vous aidera à déterminer la norme par rapport à laquelle le test est comparé et à trouver les méthodologies, et vous fournira une liste de vérifications faciles de l'accessibilité. 
-* la section « Vous souhaitez contribuer? Essayez de créer de nouveaux minisignets JavaScript à l'aide de l'intelligence artificielle (IA) » fournit des instructions sur l'utilisation de l'IA générative pour créer des minisignets de test. 
+* sous « Notes de l'utilisateur - Veuillez lire », vous trouverez des explications sur chaque dossier de la ceinture à outils et les sources des minisignets; 
+* la section « Méthodologies de test » vous aidera à déterminer la norme par rapport à laquelle le test est comparé et à trouver les méthodologies, et vous fournira une liste de vérifications faciles de l'accessibilité. 
+* la section « Vous voulez contribuer? Essayez de créer de nouveaux minisignets JavaScript en utilisant l'intelligence artificielle (IA) » fournit des instructions sur l'utilisation de l'IA générative pour créer des minisignets de test. 
 
-Vous trouverez la ceinture à outils sur [Ceinture à outils minisignets d'accessibilité - GCpédia](https://www.gcpedia.gc.ca/wiki/The_Accessibility_Bookmarklets_Toolbelt_/_Ceinture_%C3%A0_outils_minisignets_d%27accessibilit%C3%A9?setlang=fr&uselang=fr) de l'AATIA. Ce site est à usage interne. Vous devez être sur un réseau GC ou connecté via un réseau privé virtuel pour accéder à GCpédia. 
+Vous trouverez la ceinture à outils sur la page web GCPédia - [Ceinture à outils minisignets d'accessibilité](https://www.gcpedia.gc.ca/wiki/The_Accessibility_Bookmarklets_Toolbelt_/_Ceinture_%C3%A0_outils_minisignets_d%27accessibilit%C3%A9?setlang=fr&uselang=fr) de l'AATIA. Ce site est à usage interne. Vous devez être sur un réseau GC ou connecté via un réseau privé virtuel pour accéder à GCpédia. 
 
 Si vous avez des commentaires ou des questions au sujet de la ceinture à outils, veuillez les faire parvenir à [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca). 
 
@@ -90,7 +90,7 @@ Joignez-vous à nous pour célébrer la Semaine nationale de l'accessibilité (S
 
 Pour démarrer la SNA, Emploi et Développement social Canada organisera le Congrès canadien sur l'inclusion des personnes en situation de handicap le 22 mai 2025. Cet événement virtuel vise à favoriser le partage de points de vue afin de contribuer à la création de communautés et de lieux de travail accessibles et inclusifs partout au Canada. Nous encourageons tous les employés du GC à y participer. Consultez le site Web du [Congrès canadien sur l'inclusion des personnes en situation de handicap](https://www.canada.ca/fr/emploi-developpement-social/programmes/congres-canadien-inclusion-personnes-situation-handicap.html) pour obtenir de plus amples renseignements dès qu'ils seront disponibles. 
 
-Le Bureau de l’accessibilité de la fonction publique et l'École de la fonction publique du Canada tiennent un événement pour tous les fonctionnaires le lundi 26 mai. Restez à l'affût d'autres renseignements à venir sur la [page Web GCpédia de la Semaine nationale de l'accessibilité](https://www.gcpedia.gc.ca/wiki/National_AccessAbility_Week_2024/_Semaine_nationale_de_l%E2%80%99accessibilit%C3%A9_2024).
+Le Bureau de l’accessibilité au sein de la fonction publique et l'École de la fonction publique du Canada tiennent un événement pour tous les fonctionnaires le lundi 26 mai. Restez à l'affût d'autres renseignements à venir sur la [page Web GCpédia de la Semaine nationale de l'accessibilité](https://www.gcpedia.gc.ca/wiki/National_AccessAbility_Week_2024/_Semaine_nationale_de_l%E2%80%99accessibilit%C3%A9_2024).
 
 Le programme d'AATIA a le plaisir d'annoncer que nous tiendrons notre propre événement de la SNA! Ne manquez pas de consulter notre page [Web de l'AATIA](https://aaact.canada.ca/formation/) pour de plus amples renseignements sur l'événement à venir! 
 
@@ -122,9 +122,9 @@ L'équipe de l'AATIA est ravie de vous inviter à son événement en direct *Hor
 
 Pour obtenir des détails concernant l'inscription à l'événement ou pour écouter les balados, rendez-vous au [site Web de l'AATIA](https://aaact.canada.ca/accueil/). 
 
-## Truc pour l'accessibilité numérique - neige blanche
+## Truc pour l'accessibilité numérique - « neige blanche »
 
-L'expression « neige blanche » dans un document signifie qu'un utilisateur voit un fond blanc sur son écran lorsqu'il utilise un thème sombre ou un moniteur à encre électronique. La neige blanche apparaît le plus souvent lorsque les auteurs collent du contenu copié sur le Web ou dans un autre document. Par défaut, le contenu collé conserve la mise en forme d'origine, qui peut inclure un fond blanc. Cela provoque l'effet indésirable de neige blanche dans le nouveau document. 
+L'expression « neige blanche » dans un document signifie qu'un utilisateur voit un fond blanc sur son écran lorsqu'il utilise un thème sombre ou un moniteur à encre électronique. La « neige blanche » apparaît le plus souvent lorsque les auteurs collent du contenu copié sur le Web ou dans un autre document. Par défaut, le contenu collé conserve la mise en forme d'origine, qui peut inclure un fond blanc. Cela provoque l'effet indésirable de « neige blanche » dans le nouveau document. 
 
 L'ajout d'une couleur de fond à un document numérique peut introduire des obstacles à l'accessibilité. Par exemple, la « neige blanche » peut perturber la lisibilité d'un document en introduisant un fond blanc brillant. Cela peut causer de l'inconfort ou des difficultés aux personnes qui doivent éviter la lumière vive ou qui sont sensibles aux reflets. 
 
@@ -159,11 +159,11 @@ Ou encore, dans toutes les applications Microsoft 365, vous pouvez :
 
 #### Empêcher la neige blanche
 
-Pour réduire le risque d'ajouter de la neige blanche dans les documents, évitez d'utiliser des commandes de mise en forme directe telles que **Mise en évidence du texte**, **Couleur de la police** et **Ombrage**. 
+Pour réduire le risque d'ajouter de la neige blanche dans les documents, évitez d'utiliser des commandes de mise en forme directe telles que Mise en évidence du texte, Couleur de la police et Ombrage. 
 
 #### Supprimer la neige blanche
 
-Pour supprimer la neige blanche dans un document, sélectionnez la commande **Supprimer toute la mise en forme**. 
+Pour supprimer la « neige blanche » dans un document, sélectionnez la commande **Supprimer toute la mise en forme**. 
 
 #### Pour en savoir plus
 
