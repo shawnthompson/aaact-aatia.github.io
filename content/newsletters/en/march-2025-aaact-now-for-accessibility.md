@@ -173,8 +173,8 @@ To reduce the risk of adding white snow in documents, avoid using direct formatt
 
 #### Remove white snow
 
-To remove white snow in a document, select the Clear All Formatting command.
+To remove white snow in a document, select the **Clear All Formatting** command.
 
 #### Learn more
 
-To learn more about making your documents accessible, visit [How to create accessible documents in Microsoft 365 -- Digital Accessibility Toolkit](https://a11y.canada.ca/en/how-to-create-accessible-documents-in-microsoft-365/%22%20/t%20%22_blank).
+To learn more about making your documents accessible, visit [How to create accessible documents in Microsoft 365 - Digital Accessibility Toolkit](https://a11y.canada.ca/en/how-to-create-accessible-documents-in-microsoft-365/%22%20/t%20%22_blank).
