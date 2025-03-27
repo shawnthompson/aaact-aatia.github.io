@@ -90,31 +90,31 @@ Les éléments qui sous-tendent une culture d'accessibilité dans une organisati
 
 Jennifer MacDonald est Gestionnaire de projet, Validation de solutions et projets spéciaux, Développement et conception de produits, à Services publics et Approvisionnement Canada (SPAC). Grâce à cette magnifique conversation, j'ai découvert le rôle actuel de Jennifer en matière d'accessibilité du nouveau système de ressources humaines et de paye du gouvernement du Canada et bien plus encore sur la grande leader qu'elle est.
 
-Jennifer : J'ai été agricultrice toute ma vie. Dans cet environnement de marché sensible, j'ai toujours gardé l'espoir que « l'année prochaine sera meilleure ». Ma ténacité vient de cette expérience et du fait d'avoir travaillé à mon compte toute ma vie. J'ai embauché, licencié, acheté, promu, rempli les formalités administratives et tout ce qui devait être fait.
+**Jennifer :** J'ai été agricultrice toute ma vie. Dans cet environnement de marché sensible, j'ai toujours gardé l'espoir que « l'année prochaine sera meilleure ». Ma ténacité vient de cette expérience et du fait d'avoir travaillé à mon compte toute ma vie. J'ai embauché, licencié, acheté, promu, rempli les formalités administratives et tout ce qui devait être fait.
 
-Luna : Toutes ces compétences vous ont-elles été utiles lorsque vous avez joint la fonction publique ?
+**Luna :** Toutes ces compétences vous ont-elles été utiles lorsque vous avez joint la fonction publique ?
 
-Jennifer : Absolument ! Dans la fonction publique, nous avons tendance à faire les choses comme nous les avons toujours faites. Il existe une réticence à prendre des risques qui limite véritablement l'innovation. Lorsque vous travaillez sur l'accessibilité, vous devez comprendre qu'il n'y a souvent pas de paramètres définis. Chaque individu est unique et nous devons reconnaître que certaines personnes travailleront différemment et auront peut-être besoin de plus de temps ou d'horaires flexibles pour faire leur travail.
+**Jennifer :** Absolument ! Dans la fonction publique, nous avons tendance à faire les choses comme nous les avons toujours faites. Il existe une réticence à prendre des risques qui limite véritablement l'innovation. Lorsque vous travaillez sur l'accessibilité, vous devez comprendre qu'il n'y a souvent pas de paramètres définis. Chaque individu est unique et nous devons reconnaître que certaines personnes travailleront différemment et auront peut-être besoin de plus de temps ou d'horaires flexibles pour faire leur travail.
 
-Luna : Comment vous êtes-vous impliqué dans l'accessibilité et l'inclusion des personnes en situation de handicap ?
+**Luna :** Comment vous êtes-vous impliqué dans l'accessibilité et l'inclusion des personnes en situation de handicap ?
 
-Jennifer : Dès mon plus jeune âge, en soutenant les membres de la famille. J'ai soutenu mon père qui présidait une organisation d'agriculteurs en situation de handicap. Durant mes deux premières années dans la fonction publique, je prenais soin de ma mère atteinte d'un cancer. À son décès, j'ai décidé de créer un groupe de soutien pour les collègues fonctionnaires qui s'occupaient d'un membre de leur famille atteint d'un cancer. J'ai suivi un cours sur les premiers soins en santé mentale. En 2021, le président du réseau des employés en situation de handicap de SPAC m'a demandé de travailler avec lui et j'ai accepté sans hésitation.
+**Jennifer :** Dès mon plus jeune âge, en soutenant les membres de la famille. J'ai soutenu mon père qui présidait une organisation d'agriculteurs en situation de handicap. Durant mes deux premières années dans la fonction publique, je prenais soin de ma mère atteinte d'un cancer. À son décès, j'ai décidé de créer un groupe de soutien pour les collègues fonctionnaires qui s'occupaient d'un membre de leur famille atteint d'un cancer. J'ai suivi un cours sur les premiers soins en santé mentale. En 2021, le président du réseau des employés en situation de handicap de SPAC m'a demandé de travailler avec lui et j'ai accepté sans hésitation.
 
 J'ai entendu de nombreuses histoires décourageantes d'employés aux prises avec la discrimination, avec des commentaires négatifs et avec des processus compliqués pour obtenir les outils dont ils ont besoin. J'ai aussi croisé des petits noyaux de gens, ces petits rayons de soleil, qui font de leur mieux pour changer le système.
 
 Avec ces petites lueurs d'espoir, j'ai en quelque sorte pris ma grande cuillère en bois pour remuer la marmite et encourager le changement.
 
-Luna : Vous êtes devenu présidente du réseau des employés en situation de handicap de SPAC lorsque le co-président est parti? Était-ce un poste à temps plein?
+**Luna :** Vous êtes devenu présidente du réseau des employés en situation de handicap de SPAC lorsque le co-président est parti? Était-ce un poste à temps plein?
 
-Jennifer : Oui, j'ai assumé cette fonction, mais je n'ai jamais été nommé au poste que le Ministère avait créé à cet effet.
+**Jennifer :** Oui, j'ai assumé cette fonction, mais je n'ai jamais été nommé au poste que le Ministère avait créé à cet effet.
 
 Le réseau m'a vraiment accepté comme leader. J'ai pu parler au nom de personnes qui se sentaient mal à l'aise de parler pour elles-mêmes, pour diverses raisons.
 
 J'apporte ma propre expérience vécue du handicap à la conversation. Je marche avec deux cannes. Je ne marche pas de longues distances. Comme beaucoup d'adultes de ma génération, j'ai découvert que j'avais également un handicap non apparent lorsque j'ai commencé à travailler dans ce domaine et à discuter des obstacles que je rencontrais avec d'autres employés. Cependant, je ne suis pas prête à dépenser des milliers de dollars pour obtenir un diagnostic officiel, uniquement pour satisfaire ceux qui ont besoin de plus de preuves pour accorder de simples solutions d'adaptation.
 
-Luna : D'après votre expérience, pourquoi tant de gestionnaires ou de professionnels des relations de travail continuent-ils à demander des documents médicaux?
+**Luna :** D'après votre expérience, pourquoi tant de gestionnaires ou de professionnels des relations de travail continuent-ils à demander des documents médicaux?
 
-Jennifer : Les gens ne comprennent pas forcément ce qu'ils ne connaissent pas. Ils peuvent avoir peur ou être réticents à faire ce qu'ils perçoivent comme une décision arbitraire. Ils ne sont pas disposés à prendre ce que dit l'employé au pied de la lettre, car ils pensent que les employés voudront peut-être profiter du système.
+**Jennifer :** Les gens ne comprennent pas forcément ce qu'ils ne connaissent pas. Ils peuvent avoir peur ou être réticents à faire ce qu'ils perçoivent comme une décision arbitraire. Ils ne sont pas disposés à prendre ce que dit l'employé au pied de la lettre, car ils pensent que les employés voudront peut-être profiter du système.
 
 Alors, faut-il punir tout un groupe d'employés en raison du très petit nombre de personnes susceptibles d'abuser du système?
 
@@ -124,27 +124,27 @@ Le mot « aménagement » donne parfois l'impression qu'un employé bénéficie 
 
 Si vous demandez à quelqu'un de creuser un fossé, vous lui donnez une pelle et non un trombone.
 
-Luna : Comment conciliez-vous vos responsabilités en tant que fonctionnaire avec la perception que vous défendez vos propres intérêts?
+**Luna :** Comment conciliez-vous vos responsabilités en tant que fonctionnaire avec la perception que vous défendez vos propres intérêts?
 
-Jennifer : J'exerce mes responsabilités de fonctionnaire avec beaucoup de fierté. Oui, lorsque je plaide en faveur du changement, j'essaie peut-être de surmonter les obstacles que j'ai rencontrés. Cela fait de moi une personne plus forte, capable de soutenir les autres. En tant que présidente d'un réseau d'employés en situation de handicap, je fais face à de nombreuses situations difficiles. Cela peut être épuisant sur le plan émotionnel.
+**Jennifer :** J'exerce mes responsabilités de fonctionnaire avec beaucoup de fierté. Oui, lorsque je plaide en faveur du changement, j'essaie peut-être de surmonter les obstacles que j'ai rencontrés. Cela fait de moi une personne plus forte, capable de soutenir les autres. En tant que présidente d'un réseau d'employés en situation de handicap, je fais face à de nombreuses situations difficiles. Cela peut être épuisant sur le plan émotionnel.
 
 J'ai appris il y a longtemps que je ne peux pas régler toutes les situations. Peu importe mes efforts, mon assez bon doit être assez bon. Si vous ne prenez pas soin de vous, vous ne pouvez pas être un agent de changement.
 
 Je donne des conférences depuis l'âge de dix ans. Même si je dis parfois des choses erronées, je suis aussi à l'aise de parler à un sous-ministre qu'à un nouvel employé.
 
-Luna : Où voyez-vous des progrès ces jours-ci ?
+**Luna :** Où voyez-vous des progrès ces jours-ci ?
 
-Jennifer : Je me réjouis des changements proposés à SPAC. Par exemple, l'approbation des modalités de télétravail relèverait du superviseur immédiat de l'employé. Cela simplifierait le processus d'approbation et éviterait d'impliquer l'équipe des relations de travail. Il s'agit d'un énorme changement pour un grand ministère comme SPAC. J'espère que ces changements auront lieu. En même temps, je pense que les gestionnaires ont besoin d'accompagnement et de formation pour que cela fonctionne.
+**Jennifer :** Je me réjouis des changements proposés à SPAC. Par exemple, l'approbation des modalités de télétravail relèverait du superviseur immédiat de l'employé. Cela simplifierait le processus d'approbation et éviterait d'impliquer l'équipe des relations de travail. Il s'agit d'un énorme changement pour un grand ministère comme SPAC. J'espère que ces changements auront lieu. En même temps, je pense que les gestionnaires ont besoin d'accompagnement et de formation pour que cela fonctionne.
 
-Luna : Vous avez récemment assumé de nouvelles responsabilités, parlez-moi de votre poste actuel.
+**Luna :** Vous avez récemment assumé de nouvelles responsabilités, parlez-moi de votre poste actuel.
 
-Jennifer : Je suis chef de projet pour la nouvelle plateforme RH et rémunération et je suis responsable du dossier accessibilité. Mon travail consiste à connecter les différents acteurs afin que le produit sélectionné par le GC soit le plus accessible possible aux employés. Tout au long des tests et de la mise en œuvre, les exigences d'accessibilité seront intégrées. Nous savons qu'il ne s'agit pas seulement d'un droit humain fondamental, mais de la responsabilité de chacun. L'accessibilité profite à tout le monde. Pensez aux écrans tactiles : ils ont été inventés par une personne ayant de l'arthrite grave aux mains. Vers combien de portes vous dirigez-vous avec la certitude qu'elles s'ouvriront automatiquement à votre approche?
+**Jennifer :** Je suis chef de projet pour la nouvelle plateforme RH et rémunération et je suis responsable du dossier accessibilité. Mon travail consiste à connecter les différents acteurs afin que le produit sélectionné par le GC soit le plus accessible possible aux employés. Tout au long des tests et de la mise en œuvre, les exigences d'accessibilité seront intégrées. Nous savons qu'il ne s'agit pas seulement d'un droit humain fondamental, mais de la responsabilité de chacun. L'accessibilité profite à tout le monde. Pensez aux écrans tactiles : ils ont été inventés par une personne ayant de l'arthrite grave aux mains. Vers combien de portes vous dirigez-vous avec la certitude qu'elles s'ouvriront automatiquement à votre approche?
 
-Luna : Que pensez-vous de l'avenir de l'accessibilité et de l'inclusion?
+**Luna :** Que pensez-vous de l'avenir de l'accessibilité et de l'inclusion?
 
-Jennifer : Nous semblons faire des progrès du point de vue de l'accessibilité et j'espère que nous continuerons à éliminer les obstacles dans la fonction publique fédérale. Je constate que l'inclusion des personnes en situation de handicap est encore difficile. Je saisirai chaque occasion pour transformer la culture du milieu de travail et convaincre les gestionnaires et les collègues que les adaptations du lieu de travail constituent un investissement rentable dans les personnes.
+**Jennifer :** Nous semblons faire des progrès du point de vue de l'accessibilité et j'espère que nous continuerons à éliminer les obstacles dans la fonction publique fédérale. Je constate que l'inclusion des personnes en situation de handicap est encore difficile. Je saisirai chaque occasion pour transformer la culture du milieu de travail et convaincre les gestionnaires et les collègues que les adaptations du lieu de travail constituent un investissement rentable dans les personnes.
 
-Luna : Jennifer, je vous suis très reconnaissante pour cette conversation. Vous avez si généreusement partagé votre expérience et vos perspectives. Vos nombreuses contributions au Passeport d'accessibilité en milieu de travail du GC continuent de faire une différence.
+**Luna :** Jennifer, je vous suis très reconnaissante pour cette conversation. Vous avez si généreusement partagé votre expérience et vos perspectives. Vos nombreuses contributions au Passeport d'accessibilité en milieu de travail du GC continuent de faire une différence.
 
 ## Nouvelles et ressources
 
@@ -221,3 +221,4 @@ Dans l'article ci-dessous, nous examinerons la situation dans son ensemble et es
 Une multitude de ressources et de guides sont disponibles en ligne sur la façon de créer des documents accessibles. Le programme d'accessibilité, d'adaptation et de technologie informatique adaptée (AATIA) de Services partagés Canada a élaboré une série de guides bilingues sur la façon de créer des documents accessibles. Vous pouvez trouver les [guides sur le site de la Boîte à outils de l'accessibilité numérique](https://a11y.canada.ca/fr/index.html).
 
 Ou contactez le programme de l'AATIA à : [aaactlearning-aatiaapprentissage@ssc-spc.gc.ca](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca "mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca") pour plus de renseignements sur la formation au sujet des documents accessibles.
+
