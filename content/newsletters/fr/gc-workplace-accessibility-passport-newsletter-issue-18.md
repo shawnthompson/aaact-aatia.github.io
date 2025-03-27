@@ -44,7 +44,7 @@ Horizons accessibles est la nouvelle série de balados, animée par Nadine Charr
 
 ### Résultats du pilote de la version numérique
 
-À la suite d'évaluations approfondis menés par l'équipe d'Accessibilité, d'adaptation et de technologie informatique adaptée (AATIA), le Bureau de l'accessibilité de la fonction publique (BAFP) a mené un projet pilote de l'application du Passeport d'accessibilité en milieu de travail du GC auprès de six organisations entre octobre et décembre 2024. Le projet pilote a fourni un aperçu de la fonctionnalité et de la convivialité de l'application numérique. Voici les principaux résultats :
+À la suite d'évaluations approfondis menés par l'équipe d'Accessibilité, d'adaptation et de technologie informatique adaptée (AATIA), le Bureau de l'accessibilité de la fonction publique (BAFP) a mené un projet pilote de l'application du Passeport d'accessibilité en milieu de travail du GC auprès de six organisations entre octobre et décembre 2024. Le projet pilote a fourni un aperçu de la fonctionnalité et de la convivialité de l'application numérique. Voici les principaux résultats&nbsp;:
 
 - Le pilote a été une expérience positive
 - Les employés ont créé 180 passeports uniques
