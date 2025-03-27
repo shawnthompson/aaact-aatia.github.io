@@ -1,5 +1,5 @@
 ---
-passportSection: false
+passportSection: true
 title: Bulletin du Passeport d’accessibilité en milieu de travail du
   Gouvernement du Canada (GC) - Numéro 18
 otherLanguageTitle: GC Workplace Accessibility Passport Newsletter - Issue 18
