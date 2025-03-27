@@ -3,17 +3,13 @@ passportSection: false
 title: Bulletin du Passeport d’accessibilité en milieu de travail du
   Gouvernement du Canada (GC) - Numéro 18
 otherLanguageTitle: GC Workplace Accessibility Passport Newsletter - Issue 18
-description: >-
-  Cette édition nous incite à poursuivre nos efforts en faveur d'un avenir sans
-  obstacles. Vous y découvrirez les principales conclusions du projet pilote de
-  passeport numérique, des stratégies pour créer une culture de l'accessibilité
-  et de nouvelles ressources telles que le podcast Horizons accessibles.
-  Également au sommaire : un entretien perspicace avec Jennifer MacDonald sur le
-  leadership en matière d'accessibilité et un examen approfondi des meilleures
-  pratiques en matière d'accessibilité des documents.
-
-
-  Traduit avec DeepL.com (version gratuite)
+description: "Cette édition nous incite à poursuivre nos efforts en faveur d'un
+  avenir sans obstacles. Vous y découvrirez les principales conclusions du
+  projet pilote de passeport numérique, des stratégies pour créer une culture de
+  l'accessibilité et de nouvelles ressources telles que le podcast Horizons
+  accessibles. Également au sommaire : un entretien perspicace avec Jennifer
+  MacDonald sur le leadership en matière d'accessibilité et un examen approfondi
+  des meilleures pratiques en matière d'accessibilité des documents."
 newsletterDate: 2025-03-01
 ---
 ## Bienvenue
