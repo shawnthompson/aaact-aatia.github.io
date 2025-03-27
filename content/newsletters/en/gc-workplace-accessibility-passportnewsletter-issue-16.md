@@ -1,6 +1,6 @@
 ---
 passportSection: true
-title: "GC Workplace Accessibility PassportNewsletter - Issue 16 "
+title: "GC Workplace Accessibility Passport Newsletter - Issue 16 "
 otherLanguageTitle: "Bulletin du Passeport d’accessibilité en milieu de travail
   du gouvernement du Canada (GC) - Numéro 16 "
 description: This edition marks a fresh start! Learn about the renewed mandate

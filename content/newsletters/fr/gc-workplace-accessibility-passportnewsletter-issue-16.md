@@ -2,7 +2,7 @@
 passportSection: true
 title: "Bulletin du Passeport d’accessibilité en milieu de travail du
   gouvernement du Canada (GC) - Numéro 16 "
-otherLanguageTitle: "GC Workplace Accessibility PassportNewsletter - Issue 16 "
+otherLanguageTitle: "GC Workplace Accessibility Passport Newsletter - Issue 16 "
 description: Cette édition marque un nouveau départ ! Découvrez le mandat
   renouvelé du Bureau de l'accessibilité du service public, un nouveau
   partenariat passionnant avec l'AATIA et les progrès réalisés en ce qui
