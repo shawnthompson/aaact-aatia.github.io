@@ -126,8 +126,6 @@ Do you have a product to be tested or require guidance? Contact us at [aaact-aat
 
 Join us in celebrating National AccessAbility Week (NAAW) from May 25 to 31st, 2025. NAAW is a time to promote inclusion and accessibility in our communities and workplaces, to celebrate our progress, renew our commitments, and inspire continued efforts to break down accessibility barriers.
 
-To kick-start NAAW, Employment and Social Develop Canada will be hosting the Canadian Congress on Disability Inclusion on May 22, 2025. This virtual event supports the sharing of insights to help shape accessible and inclusive communities and workplaces across Canada. We encourage all GC employees to participate. Stay tuned to the [Canadian Congress on Disability Inclusion](https://www.canada.ca/en/employment-social-development/programs/canadian-congress-disability-inclusion.html) website for more information as it becomes available.
-
 The Office of Public Service Accessibility and the Canada School of Public Service are hosting a joint event for all public servants on Monday May 26th. Stay tuned for more information through the [National Accessibility Week GCPedia web page](https://www.gcpedia.gc.ca/wiki/National_AccessAbility_Week_2024/_Semaine_nationale_de_l%E2%80%99accessibilit%C3%A9_2024?setlang=en&uselang=en).
 
 The AAACT program is pleased to announce that we will be hosting our very own NAAW event! Stay tuned to our [AAACT web page](https://aaact.canada.ca/home/) for more information on the upcoming event!
