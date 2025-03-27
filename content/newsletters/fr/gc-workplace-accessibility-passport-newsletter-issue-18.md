@@ -20,7 +20,7 @@ newsletterDate: 2025-03-01
 
 En regardant l'actualité ces jours-ci, il devient de plus en plus difficile de croire aux déclarations de Margaret Mead. Dans cette 18e édition du bulletin du Passeport, je voudrais néanmoins nous mettre au défi, nous, la communauté du Passeport dans son ensemble, et tous ceux d'entre vous qui croient à l'accessibilité et à l'inclusion, de continuer à travailler pour un proche avenir sans obstacles au Canada. Dans les pages suivantes, vous trouverez quelques stratégies pour nous aider à avancer sur ce chemin.
 
-Je suis récemment tombé sur une déclaration sur le développement d'applications numériques qui me parle vraiment et pas seulement parce que j'aime le chocolat : "Essayer de résoudre les problèmes d'accessibilité après le lancement d'une application, c'est comme mettre les pépites de chocolat dans les biscuits une fois cuits.". L'accessibilité, comme la sécurité ou la confidentialité, nécessite de la planification, de l'intention, de la rigueur, du suivi et de l'implication des utilisateurs.
+Je suis récemment tombé sur une déclaration sur le développement d'applications numériques qui me parle vraiment et pas seulement parce que j'aime le chocolat&nbsp;: "Essayer de résoudre les problèmes d'accessibilité après le lancement d'une application, c'est comme mettre les pépites de chocolat dans les biscuits une fois cuits.". L'accessibilité, comme la sécurité ou la confidentialité, nécessite de la planification, de l'intention, de la rigueur, du suivi et de l'implication des utilisateurs.
 
 J'ai souvent dit dans ce bulletin et ailleurs que l'accessibilité est l'affaire de tous. S'il vous plaît, parlez-en, soyez un allié, agissez.
 
@@ -30,7 +30,7 @@ Rédactrice
 
 ## Abonnez-vous au bulletin du Passeport
 
-Afin de maximiser l'accessibilité du bulletin d'information du Passeport d'accessibilité en milieu de travail du GC, nous le diffusons manuellement par courriel. Nous n'avons pas encore trouvé de plateforme de publication de bulletins d'information qui ne crée pas d'obstacles à l'accessibilité en anglais ou en français. Si vous avez besoin de lire le bulletin uniquement dans l'une des deux langues officielles, activez le lien au début de chaque version pour accéder directement à l'autre version. Utilisez les liens de la section « Dans ce numéro » pour accéder directement à l'article que vous souhaitez lire.
+Afin de maximiser l'accessibilité du bulletin d'information du Passeport d'accessibilité en milieu de travail du GC, nous le diffusons manuellement par courriel. Nous n'avons pas encore trouvé de plateforme de publication de bulletins d'information qui ne crée pas d'obstacles à l'accessibilité en anglais ou en français. Si vous avez besoin de lire le bulletin uniquement dans l'une des deux langues officielles, activez le lien au début de chaque version pour accéder directement à l'autre version. Utilisez les liens de la section «&nbsp;Dans ce numéro&nbsp;» pour accéder directement à l'article que vous souhaitez lire.
 
 Vous pouvez dès maintenant vous abonner au bulletin du Passeport en remplissant le [formulaire d'abonnement](https://forms-formulaires.alpha.canada.ca/fr/id/cm73q0wbg00e6x569xw525rvk).
 
@@ -92,11 +92,11 @@ Jennifer MacDonald est Gestionnaire de projet, Validation de solutions et projet
 
 **Jennifer :** J'ai été agricultrice toute ma vie. Dans cet environnement de marché sensible, j'ai toujours gardé l'espoir que « l'année prochaine sera meilleure ». Ma ténacité vient de cette expérience et du fait d'avoir travaillé à mon compte toute ma vie. J'ai embauché, licencié, acheté, promu, rempli les formalités administratives et tout ce qui devait être fait.
 
-**Luna :** Toutes ces compétences vous ont-elles été utiles lorsque vous avez joint la fonction publique ?
+**Luna :** Toutes ces compétences vous ont-elles été utiles lorsque vous avez joint la fonction publique&nbsp;?
 
 **Jennifer :** Absolument ! Dans la fonction publique, nous avons tendance à faire les choses comme nous les avons toujours faites. Il existe une réticence à prendre des risques qui limite véritablement l'innovation. Lorsque vous travaillez sur l'accessibilité, vous devez comprendre qu'il n'y a souvent pas de paramètres définis. Chaque individu est unique et nous devons reconnaître que certaines personnes travailleront différemment et auront peut-être besoin de plus de temps ou d'horaires flexibles pour faire leur travail.
 
-**Luna :** Comment vous êtes-vous impliqué dans l'accessibilité et l'inclusion des personnes en situation de handicap ?
+**Luna :** Comment vous êtes-vous impliqué dans l'accessibilité et l'inclusion des personnes en situation de handicap&nbsp;?
 
 **Jennifer :** Dès mon plus jeune âge, en soutenant les membres de la famille. J'ai soutenu mon père qui présidait une organisation d'agriculteurs en situation de handicap. Durant mes deux premières années dans la fonction publique, je prenais soin de ma mère atteinte d'un cancer. À son décès, j'ai décidé de créer un groupe de soutien pour les collègues fonctionnaires qui s'occupaient d'un membre de leur famille atteint d'un cancer. J'ai suivi un cours sur les premiers soins en santé mentale. En 2021, le président du réseau des employés en situation de handicap de SPAC m'a demandé de travailler avec lui et j'ai accepté sans hésitation.
 
@@ -104,7 +104,7 @@ J'ai entendu de nombreuses histoires décourageantes d'employés aux prises avec
 
 Avec ces petites lueurs d'espoir, j'ai en quelque sorte pris ma grande cuillère en bois pour remuer la marmite et encourager le changement.
 
-**Luna :** Vous êtes devenu présidente du réseau des employés en situation de handicap de SPAC lorsque le co-président est parti? Était-ce un poste à temps plein?
+**Luna :** Vous êtes devenu présidente du réseau des employés en situation de handicap de SPAC lorsque le co-président est parti? Était-ce un poste à temps plein&nbsp;?
 
 **Jennifer :** Oui, j'ai assumé cette fonction, mais je n'ai jamais été nommé au poste que le Ministère avait créé à cet effet.
 
@@ -112,19 +112,19 @@ Le réseau m'a vraiment accepté comme leader. J'ai pu parler au nom de personne
 
 J'apporte ma propre expérience vécue du handicap à la conversation. Je marche avec deux cannes. Je ne marche pas de longues distances. Comme beaucoup d'adultes de ma génération, j'ai découvert que j'avais également un handicap non apparent lorsque j'ai commencé à travailler dans ce domaine et à discuter des obstacles que je rencontrais avec d'autres employés. Cependant, je ne suis pas prête à dépenser des milliers de dollars pour obtenir un diagnostic officiel, uniquement pour satisfaire ceux qui ont besoin de plus de preuves pour accorder de simples solutions d'adaptation.
 
-**Luna :** D'après votre expérience, pourquoi tant de gestionnaires ou de professionnels des relations de travail continuent-ils à demander des documents médicaux?
+**Luna :** D'après votre expérience, pourquoi tant de gestionnaires ou de professionnels des relations de travail continuent-ils à demander des documents médicaux&nbsp;?
 
 **Jennifer :** Les gens ne comprennent pas forcément ce qu'ils ne connaissent pas. Ils peuvent avoir peur ou être réticents à faire ce qu'ils perçoivent comme une décision arbitraire. Ils ne sont pas disposés à prendre ce que dit l'employé au pied de la lettre, car ils pensent que les employés voudront peut-être profiter du système.
 
-Alors, faut-il punir tout un groupe d'employés en raison du très petit nombre de personnes susceptibles d'abuser du système?
+Alors, faut-il punir tout un groupe d'employés en raison du très petit nombre de personnes susceptibles d'abuser du système&nbsp;?
 
-Certains gestionnaires disent : « Si je donne à cet employé ce dont il a besoin, je devrai faire de même pour tous mes autres employés. » Ma réponse est « Oui, ce sont des ajustements individuels qui offrent des chances égales ».
+Certains gestionnaires disent : «&nbsp;Si je donne à cet employé ce dont il a besoin, je devrai faire de même pour tous mes autres employés.&nbsp;» Ma réponse est «&nbsp;Oui, ce sont des ajustements individuels qui offrent des chances égales&nbsp;».
 
-Le mot « aménagement » donne parfois l'impression qu'un employé bénéficie d'un avantage auquel ses collègues n'ont pas droit. Je préfère de loin l'expression qu'on utilise au Royaume-Uni : « ajustements de travail raisonnables ».
+Le mot « aménagement » donne parfois l'impression qu'un employé bénéficie d'un avantage auquel ses collègues n'ont pas droit. Je préfère de loin l'expression qu'on utilise au Royaume-Uni : «&nbsp;ajustements de travail raisonnables&nbsp;».
 
 Si vous demandez à quelqu'un de creuser un fossé, vous lui donnez une pelle et non un trombone.
 
-**Luna :** Comment conciliez-vous vos responsabilités en tant que fonctionnaire avec la perception que vous défendez vos propres intérêts?
+**Luna :** Comment conciliez-vous vos responsabilités en tant que fonctionnaire avec la perception que vous défendez vos propres intérêts&nbsp;?
 
 **Jennifer :** J'exerce mes responsabilités de fonctionnaire avec beaucoup de fierté. Oui, lorsque je plaide en faveur du changement, j'essaie peut-être de surmonter les obstacles que j'ai rencontrés. Cela fait de moi une personne plus forte, capable de soutenir les autres. En tant que présidente d'un réseau d'employés en situation de handicap, je fais face à de nombreuses situations difficiles. Cela peut être épuisant sur le plan émotionnel.
 
@@ -132,7 +132,7 @@ J'ai appris il y a longtemps que je ne peux pas régler toutes les situations. P
 
 Je donne des conférences depuis l'âge de dix ans. Même si je dis parfois des choses erronées, je suis aussi à l'aise de parler à un sous-ministre qu'à un nouvel employé.
 
-**Luna :** Où voyez-vous des progrès ces jours-ci ?
+**Luna :** Où voyez-vous des progrès ces jours-ci&nbsp;?
 
 **Jennifer :** Je me réjouis des changements proposés à SPAC. Par exemple, l'approbation des modalités de télétravail relèverait du superviseur immédiat de l'employé. Cela simplifierait le processus d'approbation et éviterait d'impliquer l'équipe des relations de travail. Il s'agit d'un énorme changement pour un grand ministère comme SPAC. J'espère que ces changements auront lieu. En même temps, je pense que les gestionnaires ont besoin d'accompagnement et de formation pour que cela fonctionne.
 
