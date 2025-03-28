@@ -1,7 +1,7 @@
 ---
 passportSection: false
-title: L'AATIA maintenant pour l'accessibilité - mai 2024
-otherLanguageTitle: AAACT Now for Accessibility - May 2024
+title: L'AATIA maintenant pour l'accessibilité de mai 2024
+otherLanguageTitle: May 2024 AAACT Now for Accessibility
 description: "**In this edition**: Coup d’œil sur notre nouvel espace de travail
   accessible; se préparer pour la Semaine national de l'accessibilité; faire
   connaissance avec l'équipe, les séances de formation à venir; truc pour
