@@ -17,7 +17,13 @@ newsletterDate: 2024-05-22
 ---
 ## Coup d’œil sur notre nouvel espace de travail accessible 
 
+<div class="row">
+<div class="col-md-6">
+
 ![Image d'une salle sensorielle, d'un chien d'assistance en formation et d'un moniteur courbé.](/docs/aaact-s-accessible-workspace.png)
+
+</div>
+</div>
 
 Nous travaillons d'arrache-pied pour établir un nouveau centre de service à la clientèle pour les employés du GC et un nouvel espace de travail pour notre équipe d’AATIA au 219, avenue Laurier Ouest, à Ottawa. Ce nouvel espace utilise les principes de la conception universelle pour assurer l'accessibilité à tous. Il comprendra des portes coulissantes automatiques avec colonnes de poussée pour faciliter l’accès, ainsi que des salles sensorielles, des réglages contrôlables pour l’éclairage et la température, et des indicateurs tactiles.  
 
