@@ -12,7 +12,7 @@
 {%- if permalink == "/" or permalink == "/home/" or permalink == "/accueil/" -%}
 	<title>{{ title | striptags(true) | escape | nl2br }}</title>
 {%- else -%}
-	<title>{{ title | striptags(true) | escape | nl2br }} - {{ metaTitle }}</title>
+	<title>{{ title | striptags(true) | escape | nl2br }}{%- if tags.length -%} - {{ media[locale][tags[0]] }}{%- endif -%} - {{ metaTitle }}</title>
 {%- endif -%}
 
 	<meta content="width=device-width,initial-scale=1" name="viewport">
