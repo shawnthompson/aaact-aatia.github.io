@@ -2,9 +2,9 @@
 passportSection: false
 title: L'AATIA maintenant pour l'accessibilité de mai 2024
 otherLanguageTitle: May 2024 AAACT Now for Accessibility
-description: "**In this edition**: Coup d’œil sur notre nouvel espace de travail
-  accessible; se préparer pour la Semaine national de l'accessibilité; faire
-  connaissance avec l'équipe, les séances de formation à venir; truc pour
+description: "**Dans cette édition**: Coup d’œil sur notre nouvel espace de
+  travail accessible; se préparer pour la Semaine national de l'accessibilité;
+  faire connaissance avec l'équipe, les séances de formation à venir; truc pour
   l'accessibilité numérique sur le langage simple."
 introduction: "Nous sommes ravis de lancer la première édition de L’AATIA
   maintenant pour l’accessibilité, un bulletin d’information de l’équipe du
