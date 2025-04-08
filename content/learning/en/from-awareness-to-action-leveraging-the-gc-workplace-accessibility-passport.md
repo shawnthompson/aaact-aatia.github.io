@@ -1,8 +1,9 @@
 ---
 passportSection: true
-title: "From Awareness to Action: Leveraging the GC Workplace Accessibility Passport"
+title: "From Awareness to Action: Leveraging the GC Workplace Accessibility
+  Passport - Part 1"
 otherLanguageTitle: "De la sensibilisation à l'action : Tirer parti du Passeport
-  d'accessibilité en milieu du travail du GC"
+  d'accessibilité en milieu du travail du GC - Partie 1"
 description: >-
   This is a dynamic, two-part workshop designed for managers to deepen their
   understanding of workplace accessibility and inclusion. 
@@ -29,4 +30,4 @@ duration: 60
 platform: Webinar
 whoIsThisFor: Federal public service managers at all levels
 ---
-h
+Register for Part 1 and 2 of this workshop to get the most out of the session.

@@ -1,8 +1,9 @@
 ---
 passportSection: true
 title: "De la sensibilisation à l'action : Tirer parti du Passeport
-  d'accessibilité en milieu du travail du GC"
-otherLanguageTitle: "From Awareness to Action: Leveraging the GC Workplace Accessibility Passport"
+  d'accessibilité en milieu du travail du GC - Partie 1"
+otherLanguageTitle: "From Awareness to Action: Leveraging the GC Workplace
+  Accessibility Passport - Part 1"
 description: >-
   Il s'agit d'un atelier dynamique, en deux parties, conçu pour les
   gestionnaires afin qu'elles puissent approfondir leur compréhension de
@@ -32,4 +33,4 @@ duration: 60
 platform: Webinaire
 whoIsThisFor: Gestionnaires de la fonction publique fédérale à tous les niveaux
 ---
-h
+Inscrivez-vous aux parties 1 et 2 de cet atelier pour tirer le meilleur parti de la séance.
