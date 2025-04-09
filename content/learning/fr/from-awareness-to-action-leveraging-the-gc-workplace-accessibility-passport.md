@@ -34,4 +34,49 @@ duration: 60
 platform: Webinaire
 whoIsThisFor: Gestionnaires de la fonction publique fédérale à tous les niveaux
 ---
-Inscrivez-vous aux parties 1 et 2 de cet atelier pour tirer le meilleur parti de la séance.
+## 
+De la sensibilisation à l'action : Tirer parti du Passeport d'accessibilité en milieu du travail du GC - Partie 2
+
+### Séance en français
+
+#### Date:
+
+mardi 15 avril 2025
+
+#### Heure :
+
+11h00 AM (HAE) à 12h00 PM (HAE)
+
+#### Inscription :
+
+[Inscription](https://events.teams.microsoft.com/event/6e047035-8c0d-4f74-9229-e373e286112a@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e)
+
+#### [](https://events.teams.microsoft.com/event/6e047035-8c0d-4f74-9229-e373e286112a@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e)Interprète en langue des signes :
+
+Disponible
+
+#### Format :
+
+Webinaire
+
+Séance en anglais
+
+#### Date:
+
+mardi 15 avril 2025
+
+#### Heure :
+
+13h00 PM (HAE) à 14h00 PM (HAE)
+
+#### Inscription :
+
+[Register](https://events.teams.microsoft.com/event/ae023b05-ccdc-4a0a-babf-3b02165472db@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e)
+
+#### [](https://events.teams.microsoft.com/event/ae023b05-ccdc-4a0a-babf-3b02165472db@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e)Interprète en langue des signes :
+
+Disponible
+
+#### Format :
+
+Webinaire
