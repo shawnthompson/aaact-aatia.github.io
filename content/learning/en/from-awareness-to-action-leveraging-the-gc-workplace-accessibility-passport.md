@@ -37,11 +37,11 @@ English session
 
 #### Date:
 
-Tuesday, April 15, 2025
+Wednesday, May 7, 2025
 
 #### Time:
 
-1:00 PM (EST) — 2:00 PM (EST) 
+1:30 PM (EDT) — 2:30 PM (EDT) 
 
 #### Registration: 
 
@@ -59,11 +59,11 @@ Webinar
 
 ## Date:
 
-Tuesday, April 15, 2025
+Wednesday, May 7, 2025
 
 #### Time:
 
-11:00 AM (EST) — 12:00 PM (EST)
+11:00 AM (EDT) — 12:00 PM (EDT)
 
 #### Registration:
 

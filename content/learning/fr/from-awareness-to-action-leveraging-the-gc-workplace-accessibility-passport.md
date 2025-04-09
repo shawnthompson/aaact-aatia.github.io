@@ -41,7 +41,7 @@ De la sensibilisation à l'action : Tirer parti du Passeport d'accessibilité en
 
 #### Date:
 
-mardi 15 avril 2025
+mercredi le 7 mai 2025
 
 #### Heure :
 
@@ -59,15 +59,15 @@ Disponible
 
 Webinaire
 
-Séance en anglais
+Séance en français
 
 #### Date:
 
-mardi 15 avril 2025
+Mercredi le 7 mai 2025
 
 #### Heure :
 
-13h00 PM (HAE) à 14h00 PM (HAE)
+13h30 PM (HAE) à 14h30 PM (HAE)
 
 #### Inscription :
 
