@@ -19,14 +19,14 @@ eventDetails:
   en:
     date: 2025-04-23
     text: null
-    link: null
+    link: https://events.teams.microsoft.com/event/78b9477a-922b-4bc6-9864-8290198178fa@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
     startTime: 13h00 PM (HAE)
     endTime: 14h00 PM (HAE)
     signLanguage: true
   fr:
     date: 2025-04-23
     text: null
-    link: null
+    link: https://events.teams.microsoft.com/event/dd08dab4-5031-4458-8899-fff6965b6a55@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
     startTime: 11h00 AM (HAE)
     endTime: 12h00 PM (HAE)
     signLanguage: true
