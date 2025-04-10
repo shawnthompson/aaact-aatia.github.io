@@ -34,7 +34,6 @@ duration: 60
 platform: Webinaire
 whoIsThisFor: Gestionnaires de la fonction publique fédérale à tous les niveaux
 ---
-## 
 De la sensibilisation à l'action : Tirer parti du Passeport d'accessibilité en milieu du travail du GC - Partie 2
 
 ### Séance en français
@@ -49,7 +48,7 @@ mercredi le 7 mai 2025
 
 #### Inscription :
 
-[Inscription](https://events.teams.microsoft.com/event/6e047035-8c0d-4f74-9229-e373e286112a@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e)
+[Inscription](https://events.teams.microsoft.com/event/360d54ca-6f99-4ac5-bf27-30b465abd84c@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e)
 
 #### [](https://events.teams.microsoft.com/event/6e047035-8c0d-4f74-9229-e373e286112a@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e)Interprète en langue des signes :
 
@@ -59,7 +58,7 @@ Disponible
 
 Webinaire
 
-Séance en français
+### Séance en anglais
 
 #### Date:
 
@@ -71,7 +70,7 @@ Mercredi le 7 mai 2025
 
 #### Inscription :
 
-[Register](https://events.teams.microsoft.com/event/ae023b05-ccdc-4a0a-babf-3b02165472db@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e)
+[Register](https://events.teams.microsoft.com/event/ef25b7b2-21f9-418f-ba97-ed9252f52dcc@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e)
 
 #### [](https://events.teams.microsoft.com/event/ae023b05-ccdc-4a0a-babf-3b02165472db@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e)Interprète en langue des signes :
 
