@@ -1,9 +1,9 @@
 ---
 passportSection: true
 title: "De la sensibilisation à l'action : Tirer parti du Passeport
-  d'accessibilité en milieu du travail du GC - Partie 1"
+  d'accessibilité en milieu du travail du GC - Partie 1 et 2"
 otherLanguageTitle: "From Awareness to Action: Leveraging the GC Workplace
-  Accessibility Passport - Part 1"
+  Accessibility Passport - Part 1 and 2"
 description: >-
   Il s'agit d'un atelier dynamique, en deux parties, conçu pour les
   gestionnaires afin qu'elles puissent approfondir leur compréhension de
