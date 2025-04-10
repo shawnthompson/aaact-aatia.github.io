@@ -12,8 +12,7 @@ description: >-
    Au cours de cette séance interactive, les participants exploreront le Passeport pour l'accessibilité en milieu de travail du gouvernement du Canada en apprenant comment appliquer ses principes pour créer un environnement de travail plus accessible et plus favorable.
 
   Grâce à des scénarios réels, des discussions de groupe et des stratégies pratiques, les gestionnaires obtiendront les outils dont ils ont besoin pour mettre en œuvre des changements significatifs qui favorisent l'accessibilité et donnent les moyens de réussir à tous les employés.
-introduction: Inscrivez-vous aux parties 1 et 2 de cet atelier pour tirer le
-  meilleur parti de la séance.
+introduction: "# Inscrivez-vous à la partie 1"
 eventDetails:
   eventDate: 2025-04-23
   en:
