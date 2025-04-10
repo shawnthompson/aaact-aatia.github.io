@@ -17,23 +17,23 @@ eventDetails:
   eventDate: 2025-04-23
   en:
     date: 2025-04-23
-    text: null
+    text: Register for Part 1
     link: https://events.teams.microsoft.com/event/78b9477a-922b-4bc6-9864-8290198178fa@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-    startTime: 13h00 PM (HAE)
-    endTime: 14h00 PM (HAE)
+    startTime: 13 h 00
+    endTime: 14 h 00
     signLanguage: true
   fr:
     date: 2025-04-23
-    text: null
+    text: Inscription pour partie 1
     link: https://events.teams.microsoft.com/event/dd08dab4-5031-4458-8899-fff6965b6a55@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-    startTime: 11h00 AM (HAE)
-    endTime: 12h00 PM (HAE)
+    startTime: 11 h 00
+    endTime: 12 h 00
     signLanguage: true
 duration: 60
 platform: Webinaire
 whoIsThisFor: Gestionnaires de la fonction publique fédérale à tous les niveaux
 ---
-De la sensibilisation à l'action : Tirer parti du Passeport d'accessibilité en milieu du travail du GC - Partie 2
+## Partie 2 - De la sensibilisation à l'action : Tirer parti du Passeport d'accessibilité en milieu du travail du GC
 
 ### Séance en français
 
