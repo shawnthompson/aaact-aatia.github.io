@@ -6,14 +6,14 @@ otherLanguageTitle: "De la sensibilisation à l'action : Tirer parti du Passepor
   d'accessibilité en milieu du travail du GC - Partie 1 et 2"
 description: >-
   This is a dynamic, two-part workshop designed for managers to deepen their
-  understanding of workplace accessibility and inclusion. 
+  understanding of workplace accessibility and inclusion.
 
 
-  In this interactive session, participants will explore the Government of Canada Workplace Accessibility Passport, learning how to apply its principles to create a more accessible and supportive work environment. 
+  In this interactive session, participants will explore the Government of Canada Workplace Accessibility Passport, learning how to apply its principles to create a more accessible and supportive work environment.
 
 
   Through real-life scenarios, group discussions, and actionable strategies, managers will gain the tools they need to implement meaningful changes that promote accessibility and equip all employees to succeed.
-introduction: "# Register for Part 1"
+introduction: "Register for Part 1"
 eventDetails:
   eventDate: 2025-04-23
   en:
@@ -34,48 +34,37 @@ duration: 60
 platform: Webinar
 whoIsThisFor: Federal public service managers at all levels
 ---
+
 ## Part 2 - From Awareness to Action: Leveraging the GC Workplace Accessibility Passport
-
-### English session
-
-#### Date:
-
-Wednesday, May 7, 2025
-
-#### Time:
-
-1:30 PM (EDT) — 2:30 PM (EDT) 
-
-#### Registration:
-
-[Register for Part 2](https://events.teams.microsoft.com/event/ef25b7b2-21f9-418f-ba97-ed9252f52dcc@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e)
-
-#### [](https://events.teams.microsoft.com/event/ae023b05-ccdc-4a0a-babf-3b02165472db@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e)Sign language interpreter:
-
-Available
-
-#### Delivery:
-
-Webinar
-
-### French session
-
-#### Date:
-
-Wednesday, May 7, 2025
-
-#### Time:
-
-11:00 AM (EDT) — 12:00 PM (EDT)
-
-#### Registration:
-
-[Inscription pour partie 2](https://events.teams.microsoft.com/event/360d54ca-6f99-4ac5-bf27-30b465abd84c@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e)
-
-#### [](https://events.teams.microsoft.com/event/6e047035-8c0d-4f74-9229-e373e286112a@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e)Sign language interpreter:
-
-Available
-
-#### Delivery:
-
-Webinar
+<dl class="colcount-md-2">
+	<dt>English session</dt>
+	<dd>
+		<dl class="ml-4 mt-3">
+			<dt>Date:</dt>
+			<dd class="ml-4">Wednesday, May 7, 2025</dd>
+			<dt>Time:</dt>
+			<dd class="ml-4">1:30 PM — 2:30 PM (<abbr title="Eastern Daylight Time">EDT</abbr>)</dd>
+			<dt>Registration:</dt>
+			<dd class="ml-4"><a href="https://events.teams.microsoft.com/event/ef25b7b2-21f9-418f-ba97-ed9252f52dcc@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e">Register for Part 2</a></dd>
+			<dt>Sign language interpreter:</dt>
+			<dd class="ml-4">Available</dd>
+			<dt>Delivery:</dt>
+			<dd class="ml-4">Webinar</dd>
+		</dl>
+	</dd>
+	<dt>French session</dt>
+	<dd>
+		<dl class="ml-4 mt-3">
+			<dt>Date:</dt>
+			<dd class="ml-4">Wednesday, May 7, 2025</dd>
+			<dt>Time:</dt>
+			<dd class="ml-4">11:00 AM — 12:00 PM (<abbr title="Eastern Daylight Time">EDT</abbr>)</dd>
+			<dt>Registration:</dt>
+			<dd class="ml-4"><a lang="fr" href="https://events.teams.microsoft.com/event/360d54ca-6f99-4ac5-bf27-30b465abd84c@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e">Inscription pour partie 2</a></dd>
+			<dt>Sign language interpreter:</dt>
+			<dd class="ml-4">Available</dd>
+			<dt>Delivery:</dt>
+			<dd class="ml-4">Webinar</dd>
+		</dl>
+	</dd>
+</dl>
