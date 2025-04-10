@@ -18,16 +18,18 @@ eventDetails:
   eventDate: 2025-04-23
   en:
     date: 2025-04-23
-    startTime: 1:00 PM (EST)
-    endTime: 2:00 PM (EST)
+    startTime: 1:00 PM
+    endTime: 2:00 PM
     signLanguage: true
     link: https://events.teams.microsoft.com/event/78b9477a-922b-4bc6-9864-8290198178fa@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
+    text: Register for Part 1
   fr:
     date: 2025-04-23
-    startTime: 11:00 AM (EDT)
-    endTime: 12:00 PM (EDT)
+    startTime: 11:00 AM
+    endTime: 12:00 PM
     signLanguage: true
     link: https://events.teams.microsoft.com/event/dd08dab4-5031-4458-8899-fff6965b6a55@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
+    text: Inscription pour partie 1
 duration: 60
 platform: Webinar
 whoIsThisFor: Federal public service managers at all levels
