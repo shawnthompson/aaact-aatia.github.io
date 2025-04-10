@@ -13,7 +13,7 @@ description: >-
 
 
   Through real-life scenarios, group discussions, and actionable strategies, managers will gain the tools they need to implement meaningful changes that promote accessibility and equip all employees to succeed.
-introduction: Register for Part 1 and 2 of this workshop to get the most out of the session.
+introduction: "# Register for Part 1"
 eventDetails:
   eventDate: 2025-04-23
   en:
@@ -34,7 +34,7 @@ whoIsThisFor: Federal public service managers at all levels
 ---
 ## Part 2 - From Awareness to Action: Leveraging the GC Workplace Accessibility Passport
 
-English session
+### English session
 
 #### Date:
 
@@ -58,7 +58,7 @@ Webinar
 
 ### French session
 
-## Date:
+#### Date:
 
 Wednesday, May 7, 2025
 
