@@ -13,13 +13,13 @@ description: >-
 
 
   Through real-life scenarios, group discussions, and actionable strategies, managers will gain the tools they need to implement meaningful changes that promote accessibility and equip all employees to succeed.
-introduction: "Register for Part 1"
+introduction: Register for Part 1
 eventDetails:
   eventDate: 2025-04-23
   en:
     date: 2025-04-23
-    startTime: 1:00 PM
-    endTime: 2:00 PM
+    startTime: 1:30 PM
+    endTime: 2:30 PM
     signLanguage: true
     link: https://events.teams.microsoft.com/event/78b9477a-922b-4bc6-9864-8290198178fa@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
     text: Register for Part 1
