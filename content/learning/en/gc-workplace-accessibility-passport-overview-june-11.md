@@ -22,8 +22,8 @@ eventDetails:
     signLanguage: true
   fr:
     date: 2025-06-11
-    startTime: 11:00 a.m. (EST)
-    endTime: 12:00 p.m. (EST)
+    startTime: 11:00 a.m.
+    endTime: 12:00 p.m.
     text: Inscription pour la séance en français
     link: https://events.teams.microsoft.com/event/47b4c0ee-0499-4471-a758-dfc8a4072221@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
     signLanguage: true

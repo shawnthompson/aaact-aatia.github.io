@@ -24,8 +24,8 @@ eventDetails:
     date: 2025-06-11
     text: Inscription pour la séance en français
     link: https://events.teams.microsoft.com/event/47b4c0ee-0499-4471-a758-dfc8a4072221@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-    startTime: 11 H 00 (HNE)
-    endTime: 12 H 00 (HNE)
+    startTime: 11 H 00
+    endTime: 12 H 00
     signLanguage: true
 duration: 60
 platform: Webinaire
