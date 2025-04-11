@@ -17,8 +17,8 @@ eventDetails:
     date: 2025-06-11
     text: Register for the English session
     link: https://events.teams.microsoft.com/event/ac112971-5ad6-4b89-b399-305c0a21e9e3@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-    startTime: 13 H 30 (HNE)
-    endTime: 14 H 30 (HNE)
+    startTime: 13 H 30
+    endTime: 14 H 30
     signLanguage: true
   fr:
     date: 2025-06-11
