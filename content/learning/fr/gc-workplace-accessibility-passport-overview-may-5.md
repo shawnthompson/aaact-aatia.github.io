@@ -16,8 +16,8 @@ eventDetails:
     date: 2025-05-05
     text: Register for the English session
     link: https://events.teams.microsoft.com/event/cd43fcf1-6ef6-4e9e-b1af-53249a330e36@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-    startTime: 13 h 30 (HNE)
-    endTime: 14 h 30 (HNE)
+    startTime: 13 h 30
+    endTime: 14 h 30
   fr:
     date: 2025-05-05
     text: Inscription pour la séance en français
