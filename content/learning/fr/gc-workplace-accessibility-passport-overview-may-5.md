@@ -2,11 +2,14 @@
 title: Aperçu - Passeport pour l’accessibilité en milieu de travail du
   gouvernement du Canada - 5 mai
 otherLanguageTitle: GC Workplace Accessibility Passport- Overview- May 5
-description: Le Passeport pour l’accessibilité en milieu de travail du GC
-  facilite la collaboration entre les employés et leurs gestionnaires afin
-  d’éliminer les obstacles rencontrés par les employés sur le lieu de travail.
-introduction: Nous vous invitons à découvrir le Passeport, son modèle simple,
-  ses avantages et les nombreuses ressources qui soutiennent sa mise en œuvre.
+description: >-
+  Le Passeport pour l’accessibilité en milieu de travail du GC facilite la
+  collaboration entre les employés et leurs gestionnaires afin d’éliminer les
+  obstacles rencontrés par les employés sur le lieu de travail.
+
+
+  Nous vous invitons à découvrir le Passeport, son modèle simple, ses avantages et les nombreuses ressources qui soutiennent sa mise en œuvre.
+introduction: _
 eventDetails:
   eventDate: 2025-05-05
   en:
