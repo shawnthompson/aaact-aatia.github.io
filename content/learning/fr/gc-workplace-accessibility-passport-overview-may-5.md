@@ -9,7 +9,7 @@ description: >-
 
 
   Nous vous invitons à découvrir le Passeport, son modèle simple, ses avantages et les nombreuses ressources qui soutiennent sa mise en œuvre.
-introduction: _
+introduction: ""
 eventDetails:
   eventDate: 2025-05-05
   en:

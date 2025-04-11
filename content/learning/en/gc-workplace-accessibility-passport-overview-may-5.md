@@ -10,7 +10,7 @@ description: >-
 
 
   Join us to find out about the Passport, its simple model, its benefits, and the many resources to support its implementation.
-introduction: _
+introduction: ""
 eventDetails:
   eventDate: 2025-05-05
   en:
