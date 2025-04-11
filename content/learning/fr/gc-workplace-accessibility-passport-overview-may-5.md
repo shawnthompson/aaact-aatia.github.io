@@ -16,14 +16,14 @@ eventDetails:
     date: 2025-05-05
     text: Register for the English session
     link: https://events.teams.microsoft.com/event/cd43fcf1-6ef6-4e9e-b1af-53249a330e36@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-    startTime: 13 h 30
-    endTime: 14 h 30
+    startTime: 13 H 30
+    endTime: 14 H 30
   fr:
     date: 2025-05-05
     text: Inscription pour la séance en français
     link: https://events.teams.microsoft.com/event/5f7ac627-11b0-470c-86f7-bb5627ed16f9@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-    startTime: 11 h 00 (HNE)
-    endTime: 12 h 00 (HNE)
+    startTime: 11 H 00
+    endTime: 12 H 00
     signLanguage: true
 platform: Webinaire
 whoIsThisFor: Tous les fonctionnaires fédéraux.
