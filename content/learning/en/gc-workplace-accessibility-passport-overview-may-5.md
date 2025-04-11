@@ -28,7 +28,7 @@ eventDetails:
     date: 2025-05-05
     startTime: 11:00 AM (EDT)
     endTime: 12:00 PM (EDT)
-    link: https://events.teams.microsoft.com/event/6e047035-8c0d-4f74-9229-e373e286112a@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
+    link: https://events.teams.microsoft.com/event/5f7ac627-11b0-470c-86f7-bb5627ed16f9@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
     signLanguage: true
     text: Inscription
 duration: 60
