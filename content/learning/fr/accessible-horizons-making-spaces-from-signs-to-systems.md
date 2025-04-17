@@ -5,11 +5,9 @@ otherLanguageTitle: "Accessible Horizons - Making Spaces: From Signs to Systems"
 description: Joignez-vous à l'équipe de l'Accessibilité, adaptation et
   technologie informatique adaptée (AATIA) pour un événement virtuel engageant
   et inclusif !
-introduction: >-
-  ## Détails de l'événement
-
-
-  Voici l’épisode 4 des événements en direct de l’AATIA - Horizons accessibles. Cet épisode suivra notre style distinctif qui est composé de 3 parties.
+introduction: Voici l’épisode 4 des événements en direct de l’AATIA - Horizons
+  accessibles. Cet épisode suivra notre style distinctif qui est composé de 3
+  parties.
 eventDetails:
   eventDate: 2025-04-25
   en:

@@ -4,11 +4,8 @@ title: "Accessible Horizons - Making Spaces: From Signs to Systems"
 otherLanguageTitle: "Horizons accessible - Créer des espaces : De la signalisation aux systèmes"
 description: Join the Accessibility, Accommodation and Adaptive Computer
   Technology (AAACT) team for an inclusive and engaging virtual event!
-introduction: >-
-  ## Events Details
-
-
-  This is Episode 4 of AAACT's live events - Accessible Horizons. This episode will follow our signature style which is comprised of 3 parts.
+introduction: This is Episode 4 of AAACT's live events - Accessible Horizons.
+  This episode will follow our signature style which is comprised of 3 parts.
 eventDetails:
   en:
     link: https://events.teams.microsoft.com/event/7c0d3315-0292-43ee-8d2a-af6b3aaf3e42@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
