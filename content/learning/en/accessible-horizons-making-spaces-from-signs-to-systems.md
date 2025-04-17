@@ -9,14 +9,14 @@ introduction: >-
   will follow our signature style which is comprised of 3 parts.
 
 
-  ## Agenda
+  ### Agenda
 
 
   * Showcasing 219 Laurier
 
   * Best practices for signage and way finding in the workplace
 
-  * A conversation about how accessibility improvements in the workplace complement individuals adjustments.
+  * A conversation about how accessibility improvements in the workplace complement individuals adjustments
 eventDetails:
   en:
     link: https://events.teams.microsoft.com/event/7c0d3315-0292-43ee-8d2a-af6b3aaf3e42@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
