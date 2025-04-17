@@ -24,15 +24,15 @@ eventDetails:
     date: 2025-04-25
     text: "Accessible Horizons - Making Spaces: From Signs to Systems"
     link: https://events.teams.microsoft.com/event/7c0d3315-0292-43ee-8d2a-af6b3aaf3e42@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-    startTime: 2:00 PM
-    endTime: 2:30 PM
+    startTime: 14 H 00
+    endTime: 14 H 30
   fr:
     date: 2025-04-25
     text: "Horizons accessibles - Créer des espaces : De la signalisation aux
       systèmes"
     link: https://events.teams.microsoft.com/event/9164a134-ba3a-4054-b917-886b7b558a4c@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-    startTime: 1:00 PM
-    endTime: 1:30 PM
+    startTime: 13 H 00
+    endTime: 13 H 30
 platform: Webinaire par le biais de Microsoft Teams
 ---
 ## Comment s'inscrire
