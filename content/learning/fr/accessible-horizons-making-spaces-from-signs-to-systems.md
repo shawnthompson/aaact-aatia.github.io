@@ -5,9 +5,19 @@ otherLanguageTitle: "Accessible Horizons - Making Spaces: From Signs to Systems"
 description: Joignez-vous à l'équipe de l'Accessibilité, adaptation et
   technologie informatique adaptée (AATIA) pour un événement virtuel engageant
   et inclusif !
-introduction: Voici l’épisode 4 des événements en direct de l’AATIA - Horizons
-  accessibles. Cet épisode suivra notre style distinctif qui est composé de 3
-  parties.
+introduction: >-
+  Voici l’épisode 4 des événements en direct de l’AATIA - Horizons accessibles.
+  Cet épisode suivra notre style distinctif qui est composé de 3 parties.
+
+
+  ## Ordre du jour
+
+
+  * Découvrir le 219 Laurier
+
+  * Meilleures pratiques en matière de signalisation et d'orientation sur le lieu de travail
+
+  * Une conversation sur la façon dont les améliorations de l'accessibilité au travail complètent les adaptations individuelles
 eventDetails:
   eventDate: 2025-04-25
   en:
@@ -25,12 +35,6 @@ eventDetails:
     endTime: 1:30 PM
 platform: Webinaire par le biais de Microsoft Teams
 ---
-## Ordre du jour
-
-* Découvrir le 219 Laurier
-* Meilleures pratiques en matière de signalisation et d'orientation sur le lieu de travail
-* Une conversation sur la façon dont les améliorations de l'accessibilité au travail complètent les adaptations individuelles
-
 ## Comment s'inscrire
 
 Inscrivez-vous en suivant les liens ci-haut. Une fois inscrit, vous recevrez une invitation avec le lien et les détails de l’événement.
