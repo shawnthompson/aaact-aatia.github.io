@@ -1,13 +1,8 @@
 ---
 title: Accessible Horizons - Support, Solutions, and Spaces
 podcastDate: 2025-03-28
-episode: 2
+episode: 3
 longDescription: >-
-  In this third episode of *Accessible Horizons*, we take listeners deeper into
-  the world of workplace accessibility with another informative and inspiring
-  lineup.
-
-
   Part 1: Spotlight on 219 Laurier
 
   Join us for a virtual tour of the AAACT classroom at 219 Laurier, where inclusive design meets innovation. Discover how this space has been built with accessibility in mind—featuring ergonomic setups, adaptive tools, and a welcoming environment tailored to meet diverse needs.
