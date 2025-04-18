@@ -25,7 +25,7 @@ description: In this third episode of *Accessible Horizons*, we take listeners
 image: /img/podcasts/img_20250310_205126.jpg
 duration:
   minutes: 31
-  seconds: 0
+  seconds: 1
 podcastFiles:
   mp3:
     url: https://accessibility-accessibilite.ca/Podcast/AccessibleHorizonsEpisode3.mp4
