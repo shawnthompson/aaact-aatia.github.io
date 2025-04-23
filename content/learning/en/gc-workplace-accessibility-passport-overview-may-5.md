@@ -1,8 +1,8 @@
 ---
 passportSection: true
-title: GC Workplace Accessibility Passport- Overview- May 5
+title: GC Workplace Accessibility Passport- Overview- May 5 - Cancelled
 otherLanguageTitle: Aperçu - Passeport pour l’accessibilité en milieu de travail
-  du gouvernement du Canada - 5 mai
+  du gouvernement du Canada - 5 mai - annulé
 description: We regret to inform you that the May 5, 2025 session has been
   cancelled. We apologize for any inconvenience this may cause.
 introduction: ""
