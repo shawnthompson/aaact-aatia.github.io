@@ -3,29 +3,32 @@ passportSection: true
 title: GC Workplace Accessibility Passport- Overview- May 5 - Cancelled
 otherLanguageTitle: Aperçu - Passeport pour l’accessibilité en milieu de travail
   du gouvernement du Canada - 5 mai - annulé
-description: We regret to inform you that the May 5, 2025 session has been
-  cancelled. We apologize for any inconvenience this may cause.
+description: >-
+  We regret to inform you that the May 5, 2025 session has been cancelled. We
+  apologize for any inconvenience this may cause. However, we are pleased to
+  offer you the opportunity to register for our next session on Jun 11, 2025.
+
+
+  [Register for the June 11 session](<>)
 introduction: ""
 eventDetails:
-  eventDate: ""
+  eventDate: 2025-05-05
   en:
-    date: ""
+    date: 2025-05-05
     startTime: ""
     endTime: ""
     link: ""
     signLanguage: false
-    text: ""
+    text: Cancelled
   fr:
     date: ""
     startTime: ""
     endTime: ""
     link: ""
     signLanguage: false
-    text: ""
+    text: Annulé
 duration: ""
 platform: ""
 whoIsThisFor: ""
 ---
-However, we are pleased to offer you the opportunity to register for our next session on Jun 11, 2025.
-
-[Register for the June 11 session](https://aaact.canada.ca/learning/gc-workplace-accessibility-passport-overview-june-11/)
+[](https://aaact.canada.ca/learning/gc-workplace-accessibility-passport-overview-june-11/)
