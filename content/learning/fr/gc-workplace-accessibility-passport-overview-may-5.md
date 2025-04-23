@@ -20,7 +20,7 @@ eventDetails:
     startTime: ""
     endTime: ""
   fr:
-    date: ""
+    date: 2025-05-05
     text: Annulé
     link: ""
     startTime: ""

@@ -21,7 +21,7 @@ eventDetails:
     signLanguage: false
     text: Cancelled
   fr:
-    date: ""
+    date: 2025-05-05
     startTime: ""
     endTime: ""
     link: ""
