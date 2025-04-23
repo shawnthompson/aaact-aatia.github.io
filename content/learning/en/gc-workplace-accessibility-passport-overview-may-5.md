@@ -9,7 +9,7 @@ description: >-
   offer you the opportunity to register for our next session on Jun 11, 2025.
 
 
-  [Register for the June 11 session](<>)
+  [Register for the June 11 session](https://aaact.canada.ca/learning/gc-workplace-accessibility-passport-overview-june-11/)
 introduction: ""
 eventDetails:
   eventDate: 2025-05-05

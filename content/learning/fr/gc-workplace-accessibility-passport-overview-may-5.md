@@ -9,7 +9,7 @@ description: >-
   notre prochaine séance, qui aura lieu le 11 juin 2025.
 
 
-  [Inscrivez-vous à la séance du 11 juin](<>)
+  [Inscrivez-vous à la séance du 11 juin](https://aaact.canada.ca/formation/apercu-passeport-pour-l-accessibilite-en-milieu-de-travail-du-gouvernement-du-canada-11-juin/)
 introduction: ""
 eventDetails:
   eventDate: 2025-05-05
