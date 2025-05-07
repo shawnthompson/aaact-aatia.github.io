@@ -3,8 +3,8 @@ passportSection: false
 title: Creating an Inclusive Workplace Culture
 otherLanguageTitle: Créons un lieu de travail inclusif
 description: Join the Accessibility, Accommodation and Adaptive Computer
-  Technology (AAACT) for an interactive and insightful session focused on
-  creating a culture of inclusion of persons with disabilities.
+  Technology (AAACT) program for an interactive and insightful session focused
+  on creating a culture of inclusion of persons with disabilities.
 introduction: >-
   The overall goal of this session is to engage you in a reflection on what you
   can do to create a culture of inclusion of persons with disabilities.
