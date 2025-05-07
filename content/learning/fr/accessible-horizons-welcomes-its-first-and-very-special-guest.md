@@ -29,7 +29,7 @@ eventDetails:
     date: 2025-05-30
     text: "Accessible Horizons welcomes its first and very special guest "
     link: https://events.teams.microsoft.com/event/9ac3fc6a-0ca2-4b03-bedf-dd4747c54cde@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-    startTime: 1 H 15
+    startTime: 13 H 15
     endTime: 14 H 00
     signLanguage: true
   fr:
