@@ -56,7 +56,7 @@ podcastFiles:
     url: https://www.youtube.com/watch?v=gtY_VzCax_w
   mp3:
     url: https://accessibility-accessibilite.ca/AccessibleHorizonsE4.mp3
-    sizeInMb: 3250
+    sizeInMb: 3736
 ---
 **Intro**
 Welcome to Accessible Horizons, a podcast series about how to build a barrier free and inclusive public service. Join your hosts. Accessibility experts Ned's Insurance and Luna Bengio from the accessibility, Accommodation and Adaptive Computer Technology Act program for a lively discussion and lots of practical tips.
