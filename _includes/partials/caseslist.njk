@@ -1,0 +1,11 @@
+
+<ul class="list-unstyled">
+		{%- for case in caseslist -%}
+		<li>
+			<section>
+				<h3><a href="{{ case.url }}">{{ case.data.title }}</a></h3>
+					<p>{{ case.data.description | markdownInline | safe }}</p>
+			</section>
+		</li>
+		{%- endfor -%}
+</ul>

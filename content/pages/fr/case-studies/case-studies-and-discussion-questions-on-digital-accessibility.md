@@ -2,6 +2,9 @@
 title: Études de cas et questions de discussion sur l'accessibilité numérique
 otherLanguageTitle: Case Studies and Discussion Questions on Digital Accessibility
 tagline: Adopter l’accessibilité numérique
+tags: cases
+permalink: /etudes-de-cas-et-questions-de-discussion-sur-l-accessibilite-numerique/
+otherLanguagePermalink: /case-studies-and-discussion-questions-on-digital-accessibility/
 description: Une série d'études de cas et de questions de discussion pour
   explorer les aspects pratiques de l'accessibilité numérique. Ces exercices
   font partie de séances de formation interactives sur l'accessibilité

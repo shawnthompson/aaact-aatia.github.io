@@ -1,0 +1,22 @@
+---
+title: Études de cas
+description: Explorez notre collection d'études de cas présentant des mises en œuvre et des solutions réussies.
+permalink: /etudes-cas/
+otherLanguagePermalink: /case-studies/
+---
+
+{# List all cases here #}
+{%- if collections.cases and collections.cases.length > 0 -%}
+
+{%- set caseslist = collections.cases
+| localeMatch(locale)
+-%}
+
+{%- if caseslist and caseslist.length > 0 -%}
+{%- include "partials/caseslist.njk" -%}
+{%- else -%}
+Il n'y a pas d'études de cas pour le moment.
+{%- endif -%}
+{%- else -%}
+Il n'y a pas d'études de cas pour le moment.
+{%- endif -%}

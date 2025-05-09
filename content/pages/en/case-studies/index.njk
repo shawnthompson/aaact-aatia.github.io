@@ -1,0 +1,22 @@
+---
+title: Case Studies
+description: Explore our collection of case studies showcasing successful implementations and solutions.
+permalink: /case-studies/
+otherLanguagePermalink: /etudes-cas/
+---
+
+{# List all cases here #}
+{%- if collections.cases and collections.cases.length > 0 -%}
+
+{%- set caseslist = collections.cases
+| localeMatch(locale)
+-%}
+
+{%- if caseslist and caseslist.length > 0 -%}
+{%- include "partials/caseslist.njk" -%}
+{%- else -%}
+There are no cases at the moment.
+{%- endif -%}
+{%- else -%}
+There are no cases at the moment.
+{%- endif -%}
