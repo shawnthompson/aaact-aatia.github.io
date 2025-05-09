@@ -10,6 +10,8 @@
 		{%- set toggleTag = "balados" if locale == "en" else "podcasts" -%}
 	{%- elif "passport" in tags -%}
 		{%- set toggleTag = "passeport-accessibilite" if locale == "en" else "accessibility-passport" -%}
+	{%- elif "cases" in tags -%}
+		{%- set toggleTag = "etudes-cas" if locale == "en" else "case-studies" -%}
 	{%- endif -%}
 {%- endif -%}
 
