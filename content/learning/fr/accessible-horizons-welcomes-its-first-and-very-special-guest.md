@@ -29,15 +29,15 @@ eventDetails:
     date: 2025-05-30
     text: "Accessible Horizons welcomes its first and very special guest "
     link: https://events.teams.microsoft.com/event/9ac3fc6a-0ca2-4b03-bedf-dd4747c54cde@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-    startTime: 13 H 15
-    endTime: 14 H 00
+    startTime: 14 H 00
+    endTime: 14 H 45
     signLanguage: true
   fr:
     date: 2025-05-30
     text: Horizons accessibles accueille son tout premier invité très spécial
     link: https://events.teams.microsoft.com/event/85398df0-c678-4e18-aad3-00ec34574eb3@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-    startTime: 11 H 00
-    endTime: 11 H 45
+    startTime: 13 H 00
+    endTime: 13 H 45
     signLanguage: true
 platform: Webinaire par le biais de Microsoft Teams
 whoIsThisFor: Employés du gouvernement du Canada
