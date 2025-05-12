@@ -3,8 +3,10 @@ title: Government Security Summit 2025
 otherLanguageTitle: Sommet sur la sécurité gouvernementale 2025
 tagline: 'Secure and Accessible: Bridging the Digital Divide'
 tags: cases
-description: Case studies and discussion questions exploring how digital accessibility and cybersecurity intersect in the Government of Canada. Scenarios highlight challenges like inaccessible multi-factor authentication and internal system updates, prompting reflection on practical solutions and the importance of considering accessibility in secure digital services.
+description: Case studies and discussion questions exploring how digital accessibility and cybersecurity intersect in the Government of Canada. Scenarios highlight challenges like inaccessible multi-factor authentication and internal system updates, prompting participants to reflect on practical solutions and the importance of integrating accessibility measures along with security.
 ---
+
+**A Workshop Designed and Delivered by Accessibility, Accommodation and Adaptive Computer Technology (<abbr>AAACT</abbr>)**
 
 ## Case Studies
 

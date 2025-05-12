@@ -3,8 +3,10 @@ title: Sommet sur la sécurité gouvernementale 2025
 otherLanguageTitle: Government Security Summit 2025
 tagline: 'Sécurité et accessibilité : combler le fossé numérique'
 tags: cases
-description: Études de cas et questions de discussion sur l’intersection entre l’accessibilité numérique et la cybersécurité au sein du gouvernement du Canada. Les scénarios soulèvent des défis comme l’authentification multifacteur inaccessible ou les mises à jour internes, et encouragent une réflexion sur des solutions concrètes et l’importance d’intégrer l’accessibilité dans les services numériques sécurisés.
+description: Des études de cas et des questions de discussion explorent comment l'accessibilité numérique et la sécurité interagissent au sein du gouvernement du Canada. Les scénarios mettent en évidence des défis tels que l'inaccessibilité de l'authentification multifactorielle et les mises à jour de systèmes internes, incitant les participants à réfléchir à des solutions pratiques et à l'importance d'intégrer des mesures d'accessibilité en même temps que la sécurité.
 ---
+
+**Un atelier conçu et animé par l'Accessibilité, adaptation et technologie informatique adaptée (<abbr>AATIA</abbr>)**
 
 ## Études de cas
 

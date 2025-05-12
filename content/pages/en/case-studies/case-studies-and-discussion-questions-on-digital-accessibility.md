@@ -5,9 +5,7 @@ tagline: Embracing Digital Accessibility
 tags: cases
 permalink: /case-studies-and-discussion-questions-on-digital-accessibility/
 otherLanguagePermalink: /etudes-de-cas-et-questions-de-discussion-sur-l-accessibilite-numerique/
-description: A series of case studies and discussion questions to explore the
-  practical aspects of digital accessibility. These exercises are part of
-  interactive training sessions on digital accessibility.
+description: A series of case studies and discussion questions to explore the practical aspects of digital accessibility. These exercises are part of interactive training sessions on digital accessibility.
 ---
 ## Case Studies
 
