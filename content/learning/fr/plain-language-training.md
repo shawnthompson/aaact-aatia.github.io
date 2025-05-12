@@ -12,10 +12,6 @@ eventDetails:
     link: https://events.teams.microsoft.com/event/7835abbf-be14-42ec-838a-fee100f3d6a6@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
     startTime: 13 H 00
     endTime: 16 H 00
-  fr:
-    ? date
-    ? text
-    ? link
 platform: Webinaire par le biais de Microsoft Teams
 whoIsThisFor: Les employés du gouvernement du Canada
 ---
