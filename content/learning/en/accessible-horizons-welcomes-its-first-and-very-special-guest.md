@@ -23,15 +23,15 @@ eventDetails:
   eventDate: 2025-05-30
   en:
     date: 2025-05-30
-    startTime: 1:15 PM
-    endTime: 2:00 PM
+    startTime: 2:00 PM
+    endTime: 2:45 PM
     text: "Accessible Horizons welcomes its first and very special guest "
     link: https://events.teams.microsoft.com/event/9ac3fc6a-0ca2-4b03-bedf-dd4747c54cde@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
     signLanguage: true
   fr:
     text: Horizons accessibles accueille son tout premier invité très spécial
-    startTime: 11:00 AM
-    endTime: 11:45 AM
+    startTime: 1:00 PM
+    endTime: 1:45 PM
     link: https://events.teams.microsoft.com/event/85398df0-c678-4e18-aad3-00ec34574eb3@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
     signLanguage: true
     date: 2025-05-30
