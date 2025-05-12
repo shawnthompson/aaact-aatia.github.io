@@ -19,13 +19,11 @@ eventDetails:
 platform: Webinaire par le biais de Microsoft Teams
 whoIsThisFor: Les employés du gouvernement du Canada
 ---
-Depuis 1988, la Politique de communication du gouvernment du Canada exige que tous les membres du gouvernment utilisent un langage clair dans leur communication. Cette exigence fait partie de la [Politique sur les communications et l'image de marque](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30683) de 2016, ainsi que du [Guide de rédaction du contenu du site Canada.ca](https://conception.canada.ca/guide-redaction/).
+Depuis 1988, la Politique de communication du gouvernment du Canada exige que tous les membres du gouvernment utilisent un langage clair et simple lorsqu'ils écrivent. Cette exigence fait partie de la [Politique sur les communications et l'image de marque](https://www.tbs-sct.canada.ca/pol/doc-fra.aspx?id=30683) de 2016, ainsi que du [Guide de rédaction du contenu du site Canada.ca](https://conception.canada.ca/guide-redaction/).
 
-La nouvelle [Loi canadienne sur l'accessibilité](https://laws.justice.gc.ca/fra/lois/a-0.6/page-2.html) inscrit l'obligation d'écrire en langage clair dans la rédaction. [Normes d'accessibilité Canada](https://accessibilite.canada.ca/) établit des normes de langage clair pour toutes les organisations réglementées au niveau fédéral, y compris le parlement et la fonction publique.
+La nouvelle [Loi canadienne sur l'accessibilité](https://laws.justice.gc.ca/fra/lois/a-0.6/page-2.html) inscrit dans la loi la nécessité d'écrire en langage clair. Les [Normes d'accessibilité Canada](https://accessibilite.canada.ca/) établit des normes de langage clair pour toutes les organisations réglementées par le gouvernement fédéral, y compris le Parlement et la fonction publique.
 
-Lors de cet atelier de 3 heures sur les principes du langage clair, vous découvriez des petits changements qui peuvent avoir un grand impact sur votre style d'écriture. Par exemple, vous apprendez:
+Au cours de cet atelier de trois heures sur les principes du langage clair, vous apprendrez les petits changements qui peuvent faire une grande différence sur votre style d'écriture. Par exemple, vous apprendez:
 
-* L'importance du langage clair, ses avantages et les principaux conseils pour l'utiliser.
+* L'importance du langage clair, ses avantages et les principaux conseils.
 * Comment mettre ces conseils en pratique.
-
-Une approche simple pour rendre vos communications plus accessibles et compréhensibles.
