@@ -37,4 +37,8 @@ eventDetails:
 platform: Webinar via Microsoft Teams
 whoIsThisFor: Government of Canada employees
 ---
+This event will be held in a hybrid format. There are only 24 in-person spots available, and registration is on a first-come, first-served basis. The in-person session will take place at 219 Laurier Avenue West, Ottawa, Ontario.
+
+If you are selected to attend in person, you will receive an email notification confirming your spot.
+
 Register today and take the next step toward shaping a more inclusive workplace.
