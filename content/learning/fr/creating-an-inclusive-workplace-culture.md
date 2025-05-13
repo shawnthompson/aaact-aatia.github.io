@@ -39,4 +39,8 @@ eventDetails:
 platform: Webinaire par le biais de Microsoft Teams
 whoIsThisFor: Employés du gouvernement du Canada
 ---
+Cet événement se déroulera en format hybride. Il y a seulement 24 places disponibles en personne, et l'inscription se fait selon le principe du premier arrivé, premier servi. La séance en personne aura lieu au 219, avenue Laurier Ouest, Ottawa, Ontario.
+
+Si vous êtes sélectionné pour participer en personne, vous recevrez un courriel de confirmation.
+
 Inscrivez-vous dès aujourd’hui et franchissez une étape de plus vers la création d’un milieu de travail plus inclusif.
