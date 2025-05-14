@@ -1,7 +1,7 @@
 ---
 passportSection: false
 title: Mai 2025 AAACT Now for Accessibility
-otherLanguageTitle: L'AATIA maintenant pour l'accessibilité de mai
+otherLanguageTitle: L'AATIA maintenant pour l'accessibilité de mai 2025
 description: "**In this edition:** We celebrate National AccessAbility Week and
   highlight events happening across the Government of Canada."
 introduction: Spring has arrived, bringing warmer days and renewed energy! As
