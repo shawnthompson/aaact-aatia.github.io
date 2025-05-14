@@ -52,125 +52,181 @@ We’re especially excited to share that Nadine Charron will be a featured speak
 
 We encourage all to attend this important event - [register today](https://catalogue.csps-efpc.gc.ca/product?catalog=INC1-E50&cm_locale=en).
 
-## Introducing the AAACT Bookmarklets Toolbelt
+## Creating an Inclusive Workplace Culture
 
-**What is the toolbelt?**
+You're invited to an interactive and insightful session focused on creating a culture of inclusion of persons with disabilities.
 
-The toolbelt is a knowledge library focused on streamlining digital accessibility and testing. It includes:
+In this session, you will:
 
-1. **Resources Organized by Topic**: Links to relevant courses, methodologies, checklists, and standards.
-2. **JavaScript Bookmarklets**: A collection of bookmarklets for accessibility testing that can be added to a browser, organized by the Web Content Accessibility Guidelines (WCAG) success criteria they address. This organization makes it easier to apply them to specific accessibility tests.
-3. **Recommended Add-ons and Tools**: A curated list of add-ons and tools that support automated testing and accessibility improvement.
+* Explain the impact of a positive workplace culture on the inclusion of persons with disabilities
+* Use neutral or non-ableist words to foster diversity and inclusion in the federal public service
+* Be equipped to learn more about disability inclusion and what they can do to positively influence workplace culture
 
-**What does the companion guide contain?**
+### How to register
 
-A companion guide is also available to support the use of the toolbelt. It contains:
+#### English session:
 
-* instructions on how to install the toolbelt
-* under "User Notes - Please Read" there are explanations about each folder in the toolbelt and the sources of the bookmarklets
-* the section "Testing Baselines" will help guide which standard should be tested against, where to find the methodologies and provides a list of easy accessibility checks.
-* the section "Want to contribute? Try making new JavaScript bookmarklets by using Artificial Intelligence (AI)" provides instructions on utilizing generative AI to create testing bookmarklets.
+* Date: Thursday May 29, 2025
+* Time: 10:30 AM - 12:30 PM (ET)
+* Registration: 
 
-The toolbelt can be found on the [AAACT Bookmarklets Toolbelt - GCpedia page](https://www.gcpedia.gc.ca/wiki/AAACT_Bookmarklets_Toolbelt). It is meant for internal use only. You need to be on a GC network or connected through a Virtual Private Network to access GCPedia.
+  [Register for the English session](https://aaact.canada.ca/learning/creating-an-inclusive-workplace-culture/)
 
-If you have any feedback or questions regarding the toolbelt, please send your inquiries to [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca).
 
-## Guide for Including Accessibility in ICT Related Procurement
 
-![](/docs/banner.png)
+#### French session:
 
-AAACT is pleased to announce that the "Guide for including accessibility in ICT related Procurement" has been published on the [Digital Accessibility Toolkit](https://a11y.canada.ca/en/procurement/). The Guide helps federal Business Owners and Contracting Authorities to consider accessibility when developing requirements for ICT-related procurements. It provides information on how to:
+* Date: Tuesday May 27, 2025
+* Time: 10:00-12:00 PM (ET)
+* Registration: 
 
-* include requirements for user and accessibility testing;
-* ask industry questions on their capacity to deliver accessible ICT goods or service; 
-* be flexible in including accessibility when full compliance may not be possible at the time of the contract award, and;
-* consider accessibility throughout the procurement lifecycle.
+  [Register for the French session](https://aaact.canada.ca/formation/creons-un-lieu-de-travail-inclusif/)
 
-The Guide also includes helpful information about relevant ICT guidelines and standards.
 
-It was created by a small working group with representatives from SSC and the Accessible Procurement Resource Center at Public Services and Procurement Canada. The Guide is based on best practices that have been developed throughout SSC's pilot implementation of the [EN 301 549 V3.2.1 (2021-03) Harmonised European Standard - Accessibility requirements for ICT products and services](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/03.02.01_60/en_301549v030201p.pdf) (link available in English only).
 
-For any questions or comments, please contact [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca).
+This event will be held in a hybrid format. There are only 24 in-person spots available, and registration is on a first-come, first-serve basis. The in-person session  will take place at 219 Laurier Avenue West, Ottawa, Ontario.
 
-## Empowering Managers to Drive Accessibility and Disability Inclusion in the Public Service
+Register today and take the next step toward shaping a more inclusive workplace. Don’t miss out on this opportunity to make a real difference!
 
-Managers are essential in creating an inclusive work environment that welcomes and supports all employees, including those with disabilities. Tina Namiesniowski, Senior Associate Deputy Minister, Employment and Social Development Canada recently wrote about [Empowering Managers to drive accessibility and disability inclusion in the public service](https://www.linkedin.com/pulse/empowering-managers-drive-accessibility-disability-tina-namiesniowski-tkxke/?trackingId=o9m5osrKR1OAVO0Je%2F3qhQ%3D%3D). We encourage all Managers to read her blog as she shares practical actions that you can take to support employees with disabilities and help to cultivate a disability include culture of belonging. 
+## Embracing Digital Accessibility
 
-## Workplace Accommodations and Productivity
+We’re excited to announce that our very own Nadine Charron and Luna Bengio will be leading a session on Embracing Digital Accessibility for the Canadian Innovation Centre for Mental Health in the Workplace at Innovation, Science and Economic Development Canada (ISED).
 
-Creating an inclusive workplace not only boosts employee satisfaction, but it also drives productivity. In her recent article, [Workplace accommodations & productivity: one does not go without the other](https://www.linkedin.com/pulse/workplace-accommodations-productivity-one-does-go-tina-namiesniowski-t9xce/), Tina Namiesniowski  emphasizes the crucial role of meeting accommodation needs and demonstrates how even simple adjustments can significantly impact performance and engagement. We encourage you to read the blog to discover how providing accommodations can enhance your employee engagement and overall organizational performance.
+### Event details
 
-## Get to Know the Team
+Date: Wednesday May 28, 2025
 
-In the ever-evolving world of digital accessibility, understanding the challenges and best practices is crucial for creating inclusive digital experiences. To shed light on this topic, we spoke with Brad Souster, Team Leader for Digital Accessibility and Inclusive Design in AAACT. With years of hands-on experience in both web development and accessibility testing, he has been at the forefront of driving inclusive design strategies and ensuring that digital content is accessible to everyone.
+English session
 
-### **Who can receive testing services from AAACT?**
+* Time: 1:30 – 3:00 PM (EST)
+* Registration: 
 
-While some departments have their own accessibility teams to address their specific needs, AAACT serves the entire GC. We offer comprehensive testing services to all federal government organizations, treating each project with the utmost care. Our approach is to be as objective and systematic as possible to deliver trustworthy, reproducible, and actionable feedback. 
+  [Register for the English session](https://www.eventbrite.ca/e/embracing-digital-accessibility-tickets-1317998030589?aff=oddtdtcreator)
 
-### What types of products do you review and how do you evaluate them for accessibility?
 
-The most common requests we receive are to test websites and web applications, but on occasion we test non-web documents, such as Microsoft Word, PowerPoint and more. We test digital products and services for conformance to the [CAN/ASC - EN 301 549:2024](https://accessible.canada.ca/en-301-549-accessibility-requirements-ict-products-and-services-1?utm_campaign=PANTHEON_STRIPPED&utm_id=PANTHEON_STRIPPED&utm_medium=PANTHEON_STRIPPED&utm_source=PANTHEON_STRIPPED) standard - Accessibility requirements for ICT products and services. This standard includes all of the content of the [Web Content Accessibility Guidelines (WCAG) 2.1](https://www.w3.org/TR/WCAG21/) with additional requirements including hardware that are not covered by the WCAG.
 
-### What are the most common accessibility barriers you encounter and how do you address these issues?
+French session
 
-For non-web documents, such as Microsoft Word or PowerPoint, we see a lot of misuse of headings hierarchy, images that are not appropriately described with alternative text, as well as use of software features that are completely inaccessible, such as insertable shapes. 
+* Time: 10:30 AM – 12:00 PM (EST)
+* Registration: 
 
-For websites and web applications, colour contrast is a recurring issue. I recommend a contrast analyzer to help avoid this issue. These tools can be easily found online by searching "colour contrast checker". Tables are often formatted incorrectly and cause accessibility issues for users with disabilities, especially when the tables are complex, with merged cells, or when they have too many columns to view with high zoom settings.
+  [Register for the French session](https://www.eventbrite.ca/e/billets-adopter-laccessibilite-numerique-1318015843869?aff=oddtdtcreator)
 
-Do you have a product to be tested or require guidance? Contact us at [aaact-aatia@ssc-spc.gc.ca](mailto:aaact-aatia@ssc-spc.gc.ca).
 
-## National AccessAbility Week 2025
 
-Join us in celebrating National AccessAbility Week (NAAW) from May 25 to 31st, 2025. NAAW is a time to promote inclusion and accessibility in our communities and workplaces, to celebrate our progress, renew our commitments, and inspire continued efforts to break down accessibility barriers.
+Over the course of 90 minutes, you'll:
 
-The Office of Public Service Accessibility and the Canada School of Public Service are hosting a joint event for all public servants on Monday May 26th. Stay tuned for more information through the [National Accessibility Week GCPedia web page](https://www.gcpedia.gc.ca/wiki/National_AccessAbility_Week_2024/_Semaine_nationale_de_l%E2%80%99accessibilit%C3%A9_2024?setlang=en&uselang=en).
+* Gain a deep understanding of the critical role digital accessibility plays in workforce diversity, compliance, and public service delivery.
+* Engage in group discussions, case studies, and practical activities that explore real-world accessibility challenges and solutions.
+* Learn how adaptive technologies can remove barriers and drive meaningful change in your organization through digital accessibility.
 
-The AAACT program is pleased to announce that we will be hosting our very own NAAW event! Stay tuned to our [AAACT web page](https://aaact.canada.ca/home/) for more information on the upcoming event!
+This session offers invaluable insights and tools to help you champion digital accessibility in your workplace. Don’t miss out—register today and take the first step towards creating a more inclusive and accessible digital environment!
 
-## Digital Accessibility Hack - White Snow
+## Accessible Horizons NAAW Edition
 
-The expression "white snow" in a document means a user is seeing a white background on their screen while using a dark theme or an e-ink monitor. White snow is most often introduced when authors paste copied content from the web or another document. By default, pasted content includes the original formatting, which may include a white background. This causes the unwanted white snow effect in the new document.
 
-Adding a background colour to a digital document can introduce accessibility barriers. For example, "white snow" can disrupt the readability of a document by introducing a bright white background. This can cause discomfort or difficulties for individuals who need to avoid bright light or are sensitive to glares.
+<div class="row">
+<div class="col-md-6">
 
-Even though platforms like Microsoft 365 offer dark modes to help eliminate this issue, not all users rely on these features. Some prefer more customizable adaptive technologies to better suit their needs. A white background that remains visible when using dark themes can make text difficult to read or invisible, leading to further accessibility challenges.
 
-To avoid introducing "white snow," users can paste content as plain text. This strips away all formatting, including the background.
+![Accessible Horizons banner, advertising episode 5 of the podcast. There is a silhouette of a special guest.](/docs/1746672120795.jpg)
 
-### Paste plain text
 
-To paste plain text in Outlook:
+</div>
+</div>
 
-1. select **Message** tab
-2. **Paste** drop-down menu
-3. **Keep Text Only**.
+The AAACT team is excited to invite you to a NAAW special edition of Accessible Horizons! Join us on Friday May 30th as we welcome our very first special guest! During this live recording, we’ll showcase our AAACT client space, explore the differences between the medical and social models of disability, and feature an engaging conversation with our very first guest!
 
-![](/docs/white-snow-1.png)
+### Event details
 
-To paste content as plain text in Word, PowerPoint and Excel:
+Date: Friday May 30, 2025
 
-1. select **Home** tab
-2. **Paste** drop-down menu
-3. **Keep Text Only**.
+English session:
 
-![](/docs/white-snow-2.png)
+* Time: 2:00 - 2:45 PM (ET)
+* Registration: 
 
-Alternatively, in all of the Microsoft 365 apps, you can:
+  [Register for the English session](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/)
 
-* use the keyboard shortcut **Alt, H, V, T**; or
-* right click the desired location, then select the **Keep Text Only** option.
 
-![](/docs/white-snow-3.png)
 
-### Prevent white snow
+French session:
 
-To reduce the risk of adding white snow in documents, avoid using direct formatting commands like Text Highlight, Font Color and Shading.
+* Time: 1:00 - 1:45 PM (ET)
+* Registration: 
 
-### Remove white snow
+  [Register for the French session](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/)
 
-To remove white snow in a document, select the **Clear All Formatting** command.
 
-### Learn more
 
-To learn more about making your documents accessible, visit [How to create accessible documents in Microsoft 365 - Digital Accessibility Toolkit](https://a11y.canada.ca/en/how-to-create-accessible-documents-in-microsoft-365/).
+Platform: Webinar via Microsoft Teams
+
+Sign language interpretation: available for both sessions
+
+Can’t join live? No problem! Accessible Horizons is available as a podcast, so you can listen to the conversations anytime, anywhere! Simply [visit our AAACT website](https://aaact.canada.ca/podcasts/) to listen or subscribe on one of our available podcast platforms to stay updated with new episodes.
+
+## How AAACT Can Help You?
+
+At AAACT, we take accessibility to heart not only during NAAW but all year round. Our program supports employees and managers from all GC organizations to identify accessibility needs and recommend reasonable and effective solutions. We offer personalized support through informal consultations, tailored job accommodation recommendations, and adaptive solutions such as customized hardware and software. Our services extend to both short-term and long-term employees, offering support and ongoing collaboration to ensure seamless integration of adaptive technologies as quickly as possible. The program relies on a lending library, which facilitates quick access to a multitude of tools, such as adapted computer technologies and equipment that can remove barriers.
+
+In addition to hands-on support to GC employees, AAACT promotes inclusive design and digital accessibility by helping organizations build accessibility into products, services, and content from the start. We offer a variety of accessibility training sessions to empower everyone with the knowledge and tools to help integrate accessibility into your digital projects. Employees, managers, and departments are encouraged to contact AAACT for expert guidance on reducing workplace barriers and creating environments where everyone can thrive.
+
+To learn more, visit our [How AAACT can help you?](http://www.canada.ca/en/shared-services/corporate/aaact-program/how-aaact-help-you.html) web page.
+
+### AAACT client testimonials
+
+“A big thanks to you and your team for facilitating the new equipment process and loan period. It helped me have a successful return to work after a long period of leave, and helped break down barriers to my return."
+
+“I just wanted to thank you and your team for all your help and support in my transition back to work following my injury! You helped me immensely and just knowing I had your support as well as my teams, just put me at ease and took a significant pressure off.”
+
+“Thank you again for all your help. I really appreciate it and could not have achieved so much using the accessibility functions without your guidance and advice.”
+
+## Upcoming Accessibility Training
+
+AAACT, in partnership with the Office of Public Service Accessibility (OPSA) are excited to invite you to an informative session about the GC Workplace Accessibility Passport. The Passport fosters collaboration between employees and their managers to address and overcome workplace barriers effectively.
+
+Why Attend?
+
+Gain valuable insights into:
+
+* The GC Workplace Accessibility Passport and its simple, effective model.
+* The numerous benefits it offers.
+* The resources available to support its implementation.
+
+### Details
+
+Date: June 11, 2025
+
+English session:
+
+* Time: 1:30 to 2:30 PM (ET)
+* Registration: 
+
+  [Register for the English session](https://aaact.canada.ca/learning/gc-workplace-accessibility-passport-overview-june-11/)
+
+
+
+French session:
+
+* Time: 11:00 AM to 12:00 PM (ET)
+* Registration: 
+
+  [Register for the French session](https://aaact.canada.ca/formation/apercu-passeport-pour-l-accessibilite-en-milieu-de-travail-du-gouvernement-du-canada-11-juin/)
+
+
+
+Delivery Platform: Microsoft Teams
+
+Who Should Attend? All federal public service employees.
+
+If you have any questions, please contact [AAACT Learning](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca).
+
+## Global Accessibility Awareness Day
+
+May 15th is Global Accessibility Awareness Day—a time to highlight the importance of inclusive digital design and ensure technology is usable by everyone, including people with disabilities. AAACT is proud to support this mission by offering a wide range of services, including accessibility testing and training opportunities to help federal public servants to build more inclusive digital experiences. We encourage you to get involved and explore ways to improve accessibility in your work. Visit the [Digital Accessibility Toolkit](https://a11y.canada.ca/en/) for practical tips and tricks to make your digital documents more accessible. Every step toward accessibility makes a difference!
+
+For more information on AAACT services, visit the [How AAACT Can Help You?](https://www.canada.ca/en/shared-services/corporate/aaact-program/how-aaact-help-you.html) web page.
+
+## Shared Services Canada's Feedback Mechanism
+
+Do you have feedback, comments or suggestions on how to improve accessibility in our SSC workplace, policies, programs or services? In 2022, SSC launched an Accessibility feedback process, to help identify and reduce accessibility barriers across its enterprise processes, improving the accessibility of services. If you have ideas to improve accessibility, we want to hear from you! [Provide feedback on accessibility at Shared Services Canada](https://www.canada.ca/en/shared-services/corporate/accessibility/accessibility-feedback.html).
