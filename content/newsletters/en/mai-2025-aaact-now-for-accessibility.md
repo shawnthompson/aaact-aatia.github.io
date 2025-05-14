@@ -1,17 +1,47 @@
 ---
 passportSection: false
 title: Mai 2025 AAACT Now for Accessibility
-otherLanguageTitle: L'AATIA maintenant pour l'accessibilité de mars Mai
-description: "**In this edition:** Scale-Up 017 - Occupational Therapists; guide
-  dog training and workplace accommodation; introducing the AAACT bookmarklets
-  toolbelt; National AccessAbility Week 2025; and more."
-introduction: Welcome to the March 2025 edition of AAACT Now for Accessibility,
-  the newsletter from Shared Services Canada's (SSC) Accessibility,
-  Accommodation and Adaptive Computer Technology (AAACT) team. In this edition
-  you will find a guide to including accessibility into Information and
-  Communication Technology (ICT) procurement; information to empower Managers; a
-  GC employee initiative to help train guide dogs; as well as useful tips and
-  upcoming events.
+otherLanguageTitle: L'AATIA maintenant pour l'accessibilité de mai
+description: "**In this edition:** We celebrate National AccessAbility Week and
+  highlight events happening across the Government of Canada."
+introduction: >-
+  Spring has arrived, bringing warmer days and renewed energy! As the season
+  blossoms, we’re excited to prepare for National AccessAbility Week (NAAW).
+  Read below for exciting NAAW events happening across the Government of Canada
+  (GC) – don't miss out on the chance to make a difference! 
+
+
+  ## On This Page
+
+
+  *  National AccessAbility Week 2025
+
+
+  *  AAACT Accessibility Trivia
+
+
+  *  Fostering Disability Allyship for a More Inclusive Public Service
+
+
+  *  Creating an Inclusive Workplace Culture
+
+
+  *  Embracing Digital Accessibility
+
+
+  *  Accessible Horizons NAAW Edition
+
+
+  *  How AAACT Can Help You?
+
+
+  *  Upcoming Accessibility Training
+
+
+  *  Global Accessibility Awareness Day
+
+
+  *  Shared Services Canada's Feedback Mechanism
 newsletterDate: 2025-03-26
 ---
 ## Accessible Horizons Live Event

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: L'AATIA maintenant pour l'accessibilité de mai
 otherLanguageTitle: Mai 2025 AAACT Now for Accessibility
 description: >-
   
