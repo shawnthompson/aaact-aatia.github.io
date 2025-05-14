@@ -188,7 +188,7 @@ If you have any questions, please contact [AAACT Learning](mailto:aaactlearning-
 
 ## Global Accessibility Awareness Day
 
-May 15th is Global Accessibility Awareness Day—a time to highlight the importance of inclusive digital design and ensure technology is usable by everyone, including people with disabilities. AAACT is proud to support this mission by offering a wide range of services, including accessibility testing and training opportunities to help federal public servants to build more inclusive digital experiences. We encourage you to get involved and explore ways to improve accessibility in your work. Visit the [Digital Accessibility Toolkit](https://a11y.canada.ca/en/) for practical tips and tricks to make your digital documents more accessible. Every step toward accessibility makes a difference!
+May 15th is Global Accessibility Awareness Day (GAAD) —a time to highlight the importance of inclusive digital design and ensure technology is usable by everyone, including people with disabilities. AAACT is proud to support this mission by offering a wide range of services, including accessibility testing and training opportunities to help federal public servants to build more inclusive digital experiences. We encourage you to get involved and explore ways to improve accessibility in your work. Visit the [Digital Accessibility Toolkit](https://a11y.canada.ca/en/) for practical tips and tricks to make your digital documents more accessible. Every step toward accessibility makes a difference!
 
 For more information on AAACT services, visit the [How AAACT Can Help You?](https://www.canada.ca/en/shared-services/corporate/aaact-program/how-aaact-help-you.html) web page.
 

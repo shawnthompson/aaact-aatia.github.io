@@ -7,12 +7,12 @@ description: "**Dans cette édition:** Nous célébrons la Semaine Nationale de
 introduction: Le printemps est arrivé, apportant des journées plus chaudes et
   une énergie renouvelée! Alors que la saison s'épanouit, nous sommes ravis de
   nous préparer pour la Semaine nationale de l'accessibilité (SNA). Lisez
-  ci-dessous les événements passionnants qui se déroulent dans l'ensemble du
-  gouvernement du Canada (GC) pendant la SNA – ne manquez pas l'occasion de
-  faire une différence!
+  ci-dessous les événements qui se déroulent dans l'ensemble du gouvernement du
+  Canada (GC) pendant la SNA – ne manquez pas l'occasion de faire une
+  différence!
 newsletterDate: 2025-05-14
 ---
-## Semaine National de l'accessibilité 2025
+## Semaine national de l'accessibilité 2025
 
 <div class="row">
 <div class="col-md-6">
@@ -26,7 +26,7 @@ La SNA, célébrer du 25 au 31 mai, offre une occasion significative d’explore
 
 Nous vous invitons à participer à une série d’événements passionnants tout au long de la semaine. Nous encourageons tout le monde à y participer, car il s'agit d'une excellente occasion d'apprendre, de collaborer et de réaffirmer notre engagement envers l'accessibilité dans la fonction publique et au-delà.
 
-Vous trouverez ci-dessous une liste des activités disponibles à tout les employés du GC, et nous vous invitons également à explorer et à participer à des événements organisés au sein de vos propres ministères. Pour de plus amples informations sur les activités fournis par le programme d'Accessibilité, adaptation et technologie informatique adaptée (AATIA), visitez notre [page web de la SNA 2025](https://aaact.canada.ca/sna/).
+Vous trouverez ci-dessous une liste des activités disponibles à tout les employés du GC, et nous vous invitons également à explorer et à participer à des événements organisés au sein de vos propres ministères. Pour plus d'informations sur les activités fournis par le programme d'Accessibilité, adaptation et technologie informatique adaptée (AATIA), visitez notre [page web de la SNA 2025](https://aaact.canada.ca/sna/).
 
 Profitons ensemble de cette semaine inspirante!
 
@@ -36,13 +36,13 @@ Dans le cadre de la programmation dynamique de la SNA cette année, nous sommes 
 
 Comment cela fonctionne-t-il ? C'est simple !
 
-Inscrivez-vous dès maintenant, et le défi commence le lundi 26 juin. Chaque matin, vous recevrez un lien vers un questionnaire GCForms avec les questions du jour. Remplissez le questionnaire quotidien et explorez des concepts clés sur l'accessibilité qui élargiront vos connaissances. Après avoir soumis vos réponses, vous recevrez les bonnes réponses, ce qui vous permettra de suivre vos progrès et de renforcer votre compréhension chaque jour.
+Inscrivez-vous dès maintenant, et le défi commence le lundi 26 mai. Chaque matin, vous recevrez un lien vers un questionnaire GCForms avec les questions du jour. Remplissez le questionnaire quotidien et explorez des concepts clés sur l'accessibilité qui élargiront vos connaissances. Après avoir soumis vos réponses, vous recevrez les bonnes réponses, ce qui vous permettra de suivre vos progrès et de renforcer votre compréhension chaque jour.
 
 À la fin de chaque journée, si vous répondez correctement à 5 questions ou plus, votre nom sera inscrit à un tirage au sort. Deux heureux gagnants seront annoncés lors de notre événement en direct *Horizons accessibles* et recevront une bouteille d'eau exclusive de l'AATIA !
 
 Ne manquez pas le plaisir ! [Inscrivez-vous dès aujourd'hui au jeu-questionnaire d'accessibilité de l'AATIA](https://forms-formulaires.alpha.canada.ca/fr/id/cmanz1mq300njxb01rrendit1), et assurez-vous de vous [inscrire à l'événement en direct Horizons accessibles](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/) pour participer au tirage au sort des grands prix !
 
-Alors, êtes-vous prêt à tester vos connaissances, découvrir de nouvelles perspectives et gagner des prix incroyables ? Participez, relevé le défi et contribuez à faire de cette célébration de la SNA un moment inoubliable.
+Alors, êtes-vous prêt à tester vos connaissances, découvrir de nouvelles perspectives et gagner des prix? Participez, relevé le défi et contribuez à faire de cette célébration de la SNA un moment inoubliable.
 
 ## Favoriser l'alliance des personnes en situation de handicap pour une fonction publique plus inclusive
 
@@ -70,13 +70,13 @@ Au cours de cette séance, vous allez :
 
 * Date : mardi le 27 mai, 2025
 * Heure : 10 H 00 à 12 H 00 (HE)
-* Inscription : [Inscrivez vous pour la séance en français](https://aaact.canada.ca/formation/creons-un-lieu-de-travail-inclusif/)
+* Inscription : [Inscrivez vous pour la séance Créons un lieu de travail inclusif en français](https://aaact.canada.ca/formation/creons-un-lieu-de-travail-inclusif/)
 
 #### Séance en anglais :
 
 * Date : jeudi le 29 mai, 2025
 * Heure: 10 H 30 à 12 H 30 (HE)
-* Inscription : [Inscrivez vous pour la séance en anglais](https://aaact.canada.ca/learning/creating-an-inclusive-workplace-culture/)
+* Inscription : [Inscrivez vous pour la séance Créons un lieu de travail inclusif en anglais](https://aaact.canada.ca/learning/creating-an-inclusive-workplace-culture/)
 
 Cet événement se déroulera en format hybride. Il n’y a que 24 places disponibles en présentiel, et l’inscription se fait selon le principe du premier arrivé, premier servi. La séance en présentiel aura lieu au 219, avenue Laurier Ouest, Ottawa (Ontario).
 
@@ -93,12 +93,12 @@ Date : Mercredi le 28 mai 2025
 Séance en français
 
 * Heure : 10 h 30 – 12 h 00 (HE)
-* Inscription : [Inscrivez-vous à la session en français](https://www.eventbrite.ca/e/billets-adopter-laccessibilite-numerique-1318015843869?aff=oddtdtcreator)
+* Inscription : [Inscrivez-vous à la séance Adopter l'accessibilité numérique en français](https://www.eventbrite.ca/e/billets-adopter-laccessibilite-numerique-1318015843869?aff=oddtdtcreator)
 
 Séance en anglais
 
 * Heure : 13 h 30 – 15 h 00 (HE)
-* Inscription : [Inscrivez-vous à la session en anglais](https://www.eventbrite.ca/e/embracing-digital-accessibility-tickets-1317998030589?aff=oddtdtcreator)
+* Inscription : [Inscrivez-vous à la séance Adopter l'accessibilité numérique en anglais](https://www.eventbrite.ca/e/embracing-digital-accessibility-tickets-1317998030589?aff=oddtdtcreator)
 
 Au cours de 90 minutes, vous allez :
 
