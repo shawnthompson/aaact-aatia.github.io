@@ -7,18 +7,17 @@ description: "**Dans cette édition:** Nous célébrons la Semaine Nationale de
 introduction: Le printemps est arrivé, apportant des journées plus chaudes et
   une énergie renouvelée! Alors que la saison s'épanouit, nous sommes ravis de
   nous préparer pour la Semaine nationale de l'accessibilité (SNA). Lisez
-  ci-dessous les événements passionnants qui se déroulent dans l'ensemble du
-  gouvernement du Canada (GC) pendant la SNA – ne manquez pas l'occasion de
-  faire une différence!
+  ci-dessous les événements qui se déroulent dans l'ensemble du gouvernement du
+  Canada (GC) pendant la SNA – ne manquez pas l'occasion de faire une
+  différence!
 newsletterDate: 2025-05-14
 ---
-## Semaine National de l'accessibilité 2025
+## Semaine national de l'accessibilité 2025
 
 <div class="row">
 <div class="col-md-6">
 
 ![Logo décorative pour la Semaine nationale de l'accessibilité.](/docs/01-naaw-social-media-generic-2025-gdc.jpg)
-
 
 </div>
 </div>
@@ -27,7 +26,7 @@ La SNA, célébrer du 25 au 31 mai, offre une occasion significative d’explore
 
 Nous vous invitons à participer à une série d’événements passionnants tout au long de la semaine. Nous encourageons tout le monde à y participer, car il s'agit d'une excellente occasion d'apprendre, de collaborer et de réaffirmer notre engagement envers l'accessibilité dans la fonction publique et au-delà.
 
-Vous trouverez ci-dessous une liste des activités disponibles à tout les employés du GC, et nous vous invitons également à explorer et à participer à des événements organisés au sein de vos propres ministères. Pour de plus amples informations sur les activités fournis par le programme d'Accessibilité, adaptation et technologie informatique adaptée (AATIA), visitez notre [page web de la SNA 2025](https://aaact.canada.ca/sna/).
+Vous trouverez ci-dessous une liste des activités disponibles à tout les employés du GC, et nous vous invitons également à explorer et à participer à des événements organisés au sein de vos propres ministères. Pour plus d'informations sur les activités fournis par le programme d'Accessibilité, adaptation et technologie informatique adaptée (AATIA), visitez notre [page web de la SNA 2025](https://aaact.canada.ca/sna/).
 
 Profitons ensemble de cette semaine inspirante!
 
@@ -37,13 +36,13 @@ Dans le cadre de la programmation dynamique de la SNA cette année, nous sommes 
 
 Comment cela fonctionne-t-il ? C'est simple !
 
-Inscrivez-vous dès maintenant, et le défi commence le lundi 26 juin. Chaque matin, vous recevrez un lien vers un questionnaire GCForms avec les questions du jour. Remplissez le questionnaire quotidien et explorez des concepts clés sur l'accessibilité qui élargiront vos connaissances. Après avoir soumis vos réponses, vous recevrez les bonnes réponses, ce qui vous permettra de suivre vos progrès et de renforcer votre compréhension chaque jour.
+Inscrivez-vous dès maintenant, et le défi commence le lundi 26 mai. Chaque matin, vous recevrez un lien vers un questionnaire GCForms avec les questions du jour. Remplissez le questionnaire quotidien et explorez des concepts clés sur l'accessibilité qui élargiront vos connaissances. Après avoir soumis vos réponses, vous recevrez les bonnes réponses, ce qui vous permettra de suivre vos progrès et de renforcer votre compréhension chaque jour.
 
 À la fin de chaque journée, si vous répondez correctement à 5 questions ou plus, votre nom sera inscrit à un tirage au sort. Deux heureux gagnants seront annoncés lors de notre événement en direct *Horizons accessibles* et recevront une bouteille d'eau exclusive de l'AATIA !
 
-Ne manquez pas le plaisir ! [Inscrivez-vous dès aujourd'hui au jeu-questionnaire d'accessibilité de l'AATIA](https://forms-formulaires.alpha.canada.ca/fr/id/cmamuumzs00j4yr0183mb3rgh), et assurez-vous de vous [inscrire à l'événement en direct Horizons accessibles](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/) pour participer au tirage au sort des grands prix !
+Ne manquez pas le plaisir ! [Inscrivez-vous dès aujourd'hui au jeu-questionnaire d'accessibilité de l'AATIA](https://forms-formulaires.alpha.canada.ca/fr/id/cmanz1mq300njxb01rrendit1), et assurez-vous de vous [inscrire à l'événement en direct Horizons accessibles](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/) pour participer au tirage au sort des grands prix !
 
-Alors, êtes-vous prêt à tester vos connaissances, découvrir de nouvelles perspectives et gagner des prix incroyables ? Participez, relevé le défi et contribuez à faire de cette célébration de la SNA un moment inoubliable.
+Alors, êtes-vous prêt à tester vos connaissances, découvrir de nouvelles perspectives et gagner des prix? Participez, relevé le défi et contribuez à faire de cette célébration de la SNA un moment inoubliable.
 
 ## Favoriser l'alliance des personnes en situation de handicap pour une fonction publique plus inclusive
 
@@ -71,13 +70,13 @@ Au cours de cette séance, vous allez :
 
 * Date : mardi le 27 mai, 2025
 * Heure : 10 H 00 à 12 H 00 (HE)
-* Inscription : [Inscrivez vous pour la séance en français](https://aaact.canada.ca/formation/creons-un-lieu-de-travail-inclusif/)
+* Inscription : [Inscrivez vous pour la séance Créons un lieu de travail inclusif en français](https://aaact.canada.ca/formation/creons-un-lieu-de-travail-inclusif/)
 
 #### Séance en anglais :
 
 * Date : jeudi le 29 mai, 2025
 * Heure: 10 H 30 à 12 H 30 (HE)
-* Inscription : [Inscrivez vous pour la séance en anglais](https://aaact.canada.ca/learning/creating-an-inclusive-workplace-culture/)
+* Inscription : [Inscrivez vous pour la séance Créons un lieu de travail inclusif en anglais](https://aaact.canada.ca/learning/creating-an-inclusive-workplace-culture/)
 
 Cet événement se déroulera en format hybride. Il n’y a que 24 places disponibles en présentiel, et l’inscription se fait selon le principe du premier arrivé, premier servi. La séance en présentiel aura lieu au 219, avenue Laurier Ouest, Ottawa (Ontario).
 
@@ -94,12 +93,12 @@ Date : Mercredi le 28 mai 2025
 Séance en français
 
 * Heure : 10 h 30 – 12 h 00 (HE)
-* Inscription : [Inscrivez-vous à la session en français](https://www.eventbrite.ca/e/billets-adopter-laccessibilite-numerique-1318015843869?aff=oddtdtcreator)
+* Inscription : [Inscrivez-vous à la séance Adopter l'accessibilité numérique en français](https://www.eventbrite.ca/e/billets-adopter-laccessibilite-numerique-1318015843869?aff=oddtdtcreator)
 
 Séance en anglais
 
 * Heure : 13 h 30 – 15 h 00 (HE)
-* Inscription : [Inscrivez-vous à la session en anglais](https://www.eventbrite.ca/e/embracing-digital-accessibility-tickets-1317998030589?aff=oddtdtcreator)
+* Inscription : [Inscrivez-vous à la séance Adopter l'accessibilité numérique en anglais](https://www.eventbrite.ca/e/embracing-digital-accessibility-tickets-1317998030589?aff=oddtdtcreator)
 
 Au cours de 90 minutes, vous allez :
 
@@ -109,11 +108,10 @@ Au cours de 90 minutes, vous allez :
 
 Cette séance offre des idées et des outils inestimables pour vous aider à promouvoir l'accessibilité numérique dans votre milieu de travail. Ne manquez pas cette occasion, inscrivez-vous dès aujourd'hui et faites le premier pas vers la création d'un environnement numérique plus inclusif et accessible!
 
-## Horizons accessibles - édition de la SNA
+## Édition spéciale de Horizons accessibles pour la SNA
 
 <div class="row">
 <div class="col-md-6">
-
 
 ![Bannière de l'horizons accessibles épisode 5, avec une silhouette d'un invité spéciale.](/docs/1746671961574.jpg)
 
@@ -129,18 +127,18 @@ Date : Vendredi 30 mai 2025
 Séance en français
 
 * Heure : 13 H 00 – 13 H 45 (HE)
-* Inscriptions: [S’inscrire pour la séance en français](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/)
+* Inscriptions: [S’inscrire pour l'Édition spéciale de Horizons accessibles pour la SNA en français](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/)
 
 Séance en anglais
 
 * Heure: 14 H 00 – 14 H 45 (HE)
-* Inscription: [S’inscrire pour la séance en anglais](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/)
+* Inscription: [S’inscrire pour l'Édition spéciale de Horizons accessibles pour la SNA en anglais](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/)
 
 Plateforme : Webinaire par le biais de Microsoft Teams
 
 Interprète en langue des signes : disponible pour les deux séances
 
-Vous ne pouvez pas nous joindre en direct? Pas de problème! Horizons accessibles est disponible sous forme de balado; vous pouvez donc écouter les conversations à tout moment et en tout lieu! Il suffit de [consulter le site Web de l’AATIA](https://aaact.canada.ca/balados/) pour écouter ou pour vous abonner à l’une de nos plateformes de balados disponibles pour rester à jour grâce aux nouveaux épisodes.
+Vous ne pouvez pas nous joindre en direct? Pas de problème! Horizons accessibles est disponible sous forme de balado; vous pouvez donc écouter les conversations à tout moment et en tout lieu! Il suffit de [consulter le site Web de balado de l’AATIA](https://aaact.canada.ca/balados/) pour écouter ou pour vous abonner à l’une de nos plateformes de balados disponibles pour rester à jour grâce aux nouveaux épisodes.
 
 ## Comment le programme d'AATIA peut-il vous aider?
 
@@ -158,9 +156,9 @@ Pour en savoir plus, consultez notre page web [Comment le programme d’AATIA pe
 
 « Merci encore pour toute votre aide. Je l'apprécie vraiment et je n'aurais pas pu accomplir autant en utilisant les fonctions d'accessibilité sans vos conseils et votre orientation. »
 
-## Formation sur l'accessibilité à venir
+## Passeport pour l'accessibilité en milieu de travail du GC
 
-AATIA, en partenariat avec le Bureau de l'accessibilité de la fonction publique (BAFP), est heureux de vous inviter à une séance d’information sur le Passeport d’accessibilité en milieu de travail du GC. Le Passeport favorise la collaboration entre le employés et leurs gestionnaires afin de cerner et de surmonter efficacement les obstacles en milieu de travail.
+Le programme d'AATIA, en partenariat avec le Bureau de l'accessibilité de la fonction publique, est heureux de vous inviter à une séance d’information sur le Passeport d’accessibilité en milieu de travail du GC. Le Passeport favorise la collaboration entre le employés et leurs gestionnaires afin de cerner et de surmonter efficacement les obstacles en milieu de travail.
 
 Pourquoi participer?
 
@@ -177,12 +175,12 @@ Date: 11 juin 2025
 Séance en français
 
 * Heure : 11 H 00 à 12 H 00 (HE)
-* Inscription: [S'inscrire à la séance en français](https://aaact.canada.ca/formation/apercu-passeport-pour-l-accessibilite-en-milieu-de-travail-du-gouvernement-du-canada-11-juin/)
+* Inscription: [S'inscrire à la séance Passeport d'accessibilité en milieu de travail du GC en français](https://aaact.canada.ca/formation/apercu-passeport-pour-l-accessibilite-en-milieu-de-travail-du-gouvernement-du-canada-11-juin/)
 
 Séance en anglais
 
 * Heure : 13 H 30 à 14 H 30 (HE)
-* Inscription: [S'inscrire à la séance en anglais](https://aaact.canada.ca/learning/gc-workplace-accessibility-passport-overview-june-11/)
+* Inscription: [S'inscrire à la séance Passeport d'accessibilité en milieu de travail du GC en anglais](https://aaact.canada.ca/learning/gc-workplace-accessibility-passport-overview-june-11/)
 
 Format: Webinaire par le biais de Microsoft Teams
 
@@ -190,7 +188,7 @@ Format: Webinaire par le biais de Microsoft Teams
 
 Pour toute question, veuillez contacter l’[AATIA Apprentissage](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca).
 
-## Journée mondiale de sensibilisation de l'accessibilité
+## Journée mondiale de sensibilisation à l'accessibilité
 
 Le 15 mai marque la Journée mondiale de sensibilisation à l'accessibilité, une occasion pour souligner l'importance de la conception numérique inclusive et veiller à ce que la technologie soit utilisable par tous, y compris les personnes en situation de handicap.
 
@@ -204,4 +202,4 @@ Pour d'information sur nos services, consultez notre page web [Comment le progra
 
 Avez-vous des commentaires, des suggestions ou des idées pour améliorer l’accessibilité dans notre milieu de travail, nos politiques, nos programmes ou nos services? En 2022, SPC a lancé un processus de rétroaction sur l'accessibilité, afin d’identifier et à réduire les obstacles à l'accessibilité dans l’ensemble de ses processus organisationnels, et ainsi améliorer l'accessibilité de ses services.
 
-Si vous avez des idées pour améliorer l'accessibilité, nous voulons les entendre! [Offrir de la retroaction sur l’accessibilité à SPC.](https://www.canada.ca/fr/services-partages/organisation/accessibilite/retroaction-accessibilite.html)
+Si vous avez des idées pour améliorer l'accessibilité, nous voulons les entendre! [Offrir de la rétroaction sur l’accessibilité à SPC.](https://www.canada.ca/fr/services-partages/organisation/accessibilite/retroaction-accessibilite.html)

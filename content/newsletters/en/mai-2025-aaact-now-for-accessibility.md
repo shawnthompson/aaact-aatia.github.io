@@ -38,7 +38,7 @@ Register now, and the challenge kicks off on Monday, May 26th. Each morning, you
 
 At the end of each day, if you get 5 or more questions correct, your name will be entered into a prize draw. Two lucky winners will be announced on Friday, May 30th, during our *Accessible Horizons* live event and will receive an exclusive AAACT water bottle!
 
-Don't miss out on the fun! [Register for AAACT Accessibility Trivia](https://forms-formulaires.alpha.canada.ca/en/id/cmamuumzs00j4yr0183mb3rgh) today, and be sure to [sign up for the Accessible Horizons](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/) live event to join us for the grand prize draw!
+Don't miss out on the fun! [Register for AAACT Accessibility Trivia](https://forms-formulaires.alpha.canada.ca/en/id/cmanz1mq300njxb01rrendit1) today, and be sure to [sign up for the Accessible Horizons](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/) live event to join us for the grand prize draw!
 
 So, are you ready to test your knowledge, discover new insights, and win awesome prizes? Join the fun, challenge yourself, and help make this NAAW celebration one to remember.
 
@@ -68,14 +68,13 @@ In this session, you will:
 
 * Date: Thursday May 29, 2025
 * Time: 10:30 AM - 12:30 PM (ET)
-* Registration: [Register for the English session](https://aaact.canada.ca/learning/creating-an-inclusive-workplace-culture/)
+* Registration: [Register for the English creating an inclusive workplace culture session](https://aaact.canada.ca/learning/creating-an-inclusive-workplace-culture/)
 
 #### French session:
 
 * Date: Tuesday May 27, 2025
 * Time: 10:00-12:00 PM (ET)
-* Registration: [Register for the French session](https://aaact.canada.ca/formation/creons-un-lieu-de-travail-inclusif/)
-
+* Registration: [Register for the French creating an inclusive workplace culture session](https://aaact.canada.ca/formation/creons-un-lieu-de-travail-inclusif/)
 
 This event will be held in a hybrid format. There are only 24 in-person spots available, and registration is on a first-come, first-serve basis. The in-person session  will take place at 219 Laurier Avenue West, Ottawa, Ontario.
 
@@ -92,13 +91,12 @@ Date: Wednesday May 28, 2025
 English session
 
 * Time: 1:30 – 3:00 PM (EST)
-* Registration: [Register for the English session](https://www.eventbrite.ca/e/embracing-digital-accessibility-tickets-1317998030589?aff=oddtdtcreator)
+* Registration: [Register for the English embracing digital accessibility session](https://www.eventbrite.ca/e/embracing-digital-accessibility-tickets-1317998030589?aff=oddtdtcreator)
 
 French session
 
 * Time: 10:30 AM – 12:00 PM (EST)
-* Registration: [Register for the French session](https://www.eventbrite.ca/e/billets-adopter-laccessibilite-numerique-1318015843869?aff=oddtdtcreator)
-
+* Registration: [Register for the French embracing digital accessibility session](https://www.eventbrite.ca/e/billets-adopter-laccessibilite-numerique-1318015843869?aff=oddtdtcreator)
 
 Over the course of 90 minutes, you'll:
 
@@ -110,13 +108,10 @@ This session offers invaluable insights and tools to help you champion digital a
 
 ## Accessible Horizons NAAW Edition
 
-
 <div class="row">
 <div class="col-md-6">
 
-
 ![Accessible Horizons banner, advertising episode 5 of the podcast. There is a silhouette of a special guest.](/docs/1746672120795.jpg)
-
 
 </div>
 </div>
@@ -130,18 +125,18 @@ Date: Friday May 30, 2025
 English session:
 
 * Time: 2:00 - 2:45 PM (ET)
-* Registration: [Register for the English session](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/)
+* Registration: [Register for the English Accessible Horizons session](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/)
 
 French session:
 
 * Time: 1:00 - 1:45 PM (ET)
-* Registration: [Register for the French session](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/)
+* Registration: [Register for the French Accessible Horizons session](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/)
 
 Platform: Webinar via Microsoft Teams
 
 Sign language interpretation: available for both sessions
 
-Can’t join live? No problem! Accessible Horizons is available as a podcast, so you can listen to the conversations anytime, anywhere! Simply [visit our AAACT website](https://aaact.canada.ca/podcasts/) to listen or subscribe on one of our available podcast platforms to stay updated with new episodes.
+Can’t join live? No problem! Accessible Horizons is available as a podcast, so you can listen to the conversations anytime, anywhere! Simply [visit our AAACT podcast web page](https://aaact.canada.ca/podcasts/) to listen or subscribe on one of our available podcast platforms to stay updated with new episodes.
 
 ## How AAACT Can Help You?
 
@@ -159,9 +154,9 @@ To learn more, visit our [How AAACT can help you?](http://www.canada.ca/en/share
 
 “Thank you again for all your help. I really appreciate it and could not have achieved so much using the accessibility functions without your guidance and advice.”
 
-## Upcoming Accessibility Training
+## GC Workplace Accessibility Passport
 
-AAACT, in partnership with the Office of Public Service Accessibility (OPSA) are excited to invite you to an informative session about the GC Workplace Accessibility Passport. The Passport fosters collaboration between employees and their managers to address and overcome workplace barriers effectively.
+AAACT, in partnership with the Office of Public Service Accessibility, is excited to invite you to an informative session about the GC Workplace Accessibility Passport. The Passport fosters collaboration between employees and their managers to address and overcome workplace barriers effectively.
 
 Why Attend?
 
@@ -178,13 +173,12 @@ Date: June 11, 2025
 English session:
 
 * Time: 1:30 to 2:30 PM (ET)
-* Registration: [Register for the English session](https://aaact.canada.ca/learning/gc-workplace-accessibility-passport-overview-june-11/)
+* Registration: [Register for the English GC Workplace Accessibility Passport session](https://aaact.canada.ca/learning/gc-workplace-accessibility-passport-overview-june-11/)
 
 French session:
 
 * Time: 11:00 AM to 12:00 PM (ET)
-* Registration: [Register for the French session](https://aaact.canada.ca/formation/apercu-passeport-pour-l-accessibilite-en-milieu-de-travail-du-gouvernement-du-canada-11-juin/)
-
+* Registration: [Register for the French GC Workplace Accessibility Passport session](https://aaact.canada.ca/formation/apercu-passeport-pour-l-accessibilite-en-milieu-de-travail-du-gouvernement-du-canada-11-juin/)
 
 Delivery Platform: Microsoft Teams
 
@@ -194,7 +188,7 @@ If you have any questions, please contact [AAACT Learning](mailto:aaactlearning-
 
 ## Global Accessibility Awareness Day
 
-May 15th is Global Accessibility Awareness Day—a time to highlight the importance of inclusive digital design and ensure technology is usable by everyone, including people with disabilities. AAACT is proud to support this mission by offering a wide range of services, including accessibility testing and training opportunities to help federal public servants to build more inclusive digital experiences. We encourage you to get involved and explore ways to improve accessibility in your work. Visit the [Digital Accessibility Toolkit](https://a11y.canada.ca/en/) for practical tips and tricks to make your digital documents more accessible. Every step toward accessibility makes a difference!
+May 15th is Global Accessibility Awareness Day (GAAD) —a time to highlight the importance of inclusive digital design and ensure technology is usable by everyone, including people with disabilities. AAACT is proud to support this mission by offering a wide range of services, including accessibility testing and training opportunities to help federal public servants to build more inclusive digital experiences. We encourage you to get involved and explore ways to improve accessibility in your work. Visit the [Digital Accessibility Toolkit](https://a11y.canada.ca/en/) for practical tips and tricks to make your digital documents more accessible. Every step toward accessibility makes a difference!
 
 For more information on AAACT services, visit the [How AAACT Can Help You?](https://www.canada.ca/en/shared-services/corporate/aaact-program/how-aaact-help-you.html) web page.
 
