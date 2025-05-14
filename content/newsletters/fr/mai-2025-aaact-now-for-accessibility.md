@@ -19,7 +19,6 @@ newsletterDate: 2025-05-14
 
 ![Logo décorative pour la Semaine nationale de l'accessibilité.](/docs/01-naaw-social-media-generic-2025-gdc.jpg)
 
-
 </div>
 </div>
 
@@ -41,7 +40,7 @@ Inscrivez-vous dès maintenant, et le défi commence le lundi 26 juin. Chaque ma
 
 À la fin de chaque journée, si vous répondez correctement à 5 questions ou plus, votre nom sera inscrit à un tirage au sort. Deux heureux gagnants seront annoncés lors de notre événement en direct *Horizons accessibles* et recevront une bouteille d'eau exclusive de l'AATIA !
 
-Ne manquez pas le plaisir ! [Inscrivez-vous dès aujourd'hui au jeu-questionnaire d'accessibilité de l'AATIA](https://forms-formulaires.alpha.canada.ca/fr/id/cmamuumzs00j4yr0183mb3rgh), et assurez-vous de vous [inscrire à l'événement en direct Horizons accessibles](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/) pour participer au tirage au sort des grands prix !
+Ne manquez pas le plaisir ! [Inscrivez-vous dès aujourd'hui au jeu-questionnaire d'accessibilité de l'AATIA](https://forms-formulaires.alpha.canada.ca/fr/id/cmanz1mq300njxb01rrendit1), et assurez-vous de vous [inscrire à l'événement en direct Horizons accessibles](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/) pour participer au tirage au sort des grands prix !
 
 Alors, êtes-vous prêt à tester vos connaissances, découvrir de nouvelles perspectives et gagner des prix incroyables ? Participez, relevé le défi et contribuez à faire de cette célébration de la SNA un moment inoubliable.
 
@@ -113,7 +112,6 @@ Cette séance offre des idées et des outils inestimables pour vous aider à pro
 
 <div class="row">
 <div class="col-md-6">
-
 
 ![Bannière de l'horizons accessibles épisode 5, avec une silhouette d'un invité spéciale.](/docs/1746671961574.jpg)
 

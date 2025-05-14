@@ -38,7 +38,7 @@ Register now, and the challenge kicks off on Monday, May 26th. Each morning, you
 
 At the end of each day, if you get 5 or more questions correct, your name will be entered into a prize draw. Two lucky winners will be announced on Friday, May 30th, during our *Accessible Horizons* live event and will receive an exclusive AAACT water bottle!
 
-Don't miss out on the fun! [Register for AAACT Accessibility Trivia](https://forms-formulaires.alpha.canada.ca/en/id/cmamuumzs00j4yr0183mb3rgh) today, and be sure to [sign up for the Accessible Horizons](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/) live event to join us for the grand prize draw!
+Don't miss out on the fun! [Register for AAACT Accessibility Trivia](https://forms-formulaires.alpha.canada.ca/en/id/cmanz1mq300njxb01rrendit1) today, and be sure to [sign up for the Accessible Horizons](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/) live event to join us for the grand prize draw!
 
 So, are you ready to test your knowledge, discover new insights, and win awesome prizes? Join the fun, challenge yourself, and help make this NAAW celebration one to remember.
 
@@ -68,14 +68,13 @@ In this session, you will:
 
 * Date: Thursday May 29, 2025
 * Time: 10:30 AM - 12:30 PM (ET)
-* Registration: [Register for the English session](https://aaact.canada.ca/learning/creating-an-inclusive-workplace-culture/)
+* Registration: [Register for the English creating an inclusive workplace culture session](https://aaact.canada.ca/learning/creating-an-inclusive-workplace-culture/)
 
 #### French session:
 
 * Date: Tuesday May 27, 2025
 * Time: 10:00-12:00 PM (ET)
-* Registration: [Register for the French session](https://aaact.canada.ca/formation/creons-un-lieu-de-travail-inclusif/)
-
+* Registration: [Register for the French creating an inclusive workplace culture session](https://aaact.canada.ca/formation/creons-un-lieu-de-travail-inclusif/)
 
 This event will be held in a hybrid format. There are only 24 in-person spots available, and registration is on a first-come, first-serve basis. The in-person session  will take place at 219 Laurier Avenue West, Ottawa, Ontario.
 
@@ -92,13 +91,12 @@ Date: Wednesday May 28, 2025
 English session
 
 * Time: 1:30 – 3:00 PM (EST)
-* Registration: [Register for the English session](https://www.eventbrite.ca/e/embracing-digital-accessibility-tickets-1317998030589?aff=oddtdtcreator)
+* Registration: [Register for the English embracing digital accessibility session](https://www.eventbrite.ca/e/embracing-digital-accessibility-tickets-1317998030589?aff=oddtdtcreator)
 
 French session
 
 * Time: 10:30 AM – 12:00 PM (EST)
-* Registration: [Register for the French session](https://www.eventbrite.ca/e/billets-adopter-laccessibilite-numerique-1318015843869?aff=oddtdtcreator)
-
+* Registration: [Register for the French embracing digital accessibility session](https://www.eventbrite.ca/e/billets-adopter-laccessibilite-numerique-1318015843869?aff=oddtdtcreator)
 
 Over the course of 90 minutes, you'll:
 
@@ -110,13 +108,10 @@ This session offers invaluable insights and tools to help you champion digital a
 
 ## Accessible Horizons NAAW Edition
 
-
 <div class="row">
 <div class="col-md-6">
 
-
 ![Accessible Horizons banner, advertising episode 5 of the podcast. There is a silhouette of a special guest.](/docs/1746672120795.jpg)
-
 
 </div>
 </div>
@@ -130,18 +125,18 @@ Date: Friday May 30, 2025
 English session:
 
 * Time: 2:00 - 2:45 PM (ET)
-* Registration: [Register for the English session](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/)
+* Registration: [Register for the English Accessible Horizons session](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/)
 
 French session:
 
 * Time: 1:00 - 1:45 PM (ET)
-* Registration: [Register for the French session](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/)
+* Registration: [Register for the French Accessible Horizons session](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/)
 
 Platform: Webinar via Microsoft Teams
 
 Sign language interpretation: available for both sessions
 
-Can’t join live? No problem! Accessible Horizons is available as a podcast, so you can listen to the conversations anytime, anywhere! Simply [visit our AAACT website](https://aaact.canada.ca/podcasts/) to listen or subscribe on one of our available podcast platforms to stay updated with new episodes.
+Can’t join live? No problem! Accessible Horizons is available as a podcast, so you can listen to the conversations anytime, anywhere! Simply [visit our AAACT podcast web page](https://aaact.canada.ca/podcasts/) to listen or subscribe on one of our available podcast platforms to stay updated with new episodes.
 
 ## How AAACT Can Help You?
 
@@ -184,7 +179,6 @@ French session:
 
 * Time: 11:00 AM to 12:00 PM (ET)
 * Registration: [Register for the French session](https://aaact.canada.ca/formation/apercu-passeport-pour-l-accessibilite-en-milieu-de-travail-du-gouvernement-du-canada-11-juin/)
-
 
 Delivery Platform: Microsoft Teams
 
