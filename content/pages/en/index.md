@@ -10,6 +10,15 @@ description: The Accessibility, Accommodation and Adaptive Computer Technology
 permalink: /home/
 otherLanguagePermalink: /accueil/
 ---
+
+</div>
+<div class="well well-lg">
+<div class="container">
+<p><a href="/naaw/">National AccessAbility Week (NAAW) 2025</a> is a time to celebrate the contributions of Canadians with disabilities and raise awareness about the importance of accessibility and inclusion in all aspects of society.</p>
+</div>
+</div>
+<div class="container">
+
 The Government of Canada (<abbr>GC</abbr>) envisions a public service that is a world leader in barrier-free, inclusive workplaces and services. The Accessibility, Accommodation and Adaptive Computer Technology program (<abbr>AAACT</abbr>) is committed to making this vision a reality by:
 
 - supporting departments who offer programs and services to Canadians
