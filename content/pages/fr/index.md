@@ -1,12 +1,13 @@
 ---
 title: Bienvenue sur le site du Programme d'accessibilité, d'adaptation et de
-  technologie informatique adaptée (AATIA)
+  technologie informatique adaptée (<abbr>AATIA</abbr>)
 description: Le programme accessibilité, d’adaptation et de technologie
-  informatique adaptée (AATIA) soutient la création de milieux de
+  informatique adaptée (<abbr>AATIA</abbr>) soutient la création de milieux de
   travail inclusifs et sans barrières au sein du gouvernement du Canada. Il
   offre des formations, des outils et des technologies adaptatives pour garantir
   l'accessibilité à tous les employés, y compris ceux ayant des incapacités.
-  AATIA dessert tous les employés du gouvernement, fournissant
+  <abbr title="accessibilité, d'adaptation et de
+  technologie informatique adaptée">AATIA</abbr> dessert tous les employés du gouvernement, fournissant
   des ressources en personne et à distance.
 permalink: /accueil/
 otherLanguagePermalink: /home/
@@ -15,7 +16,7 @@ otherLanguagePermalink: /home/
 </div>
 <div class="well well-lg">
 <div class="container">
-<p>La <a href="/sna/"> Semaine nationale de l'accessibilité (SNA) 2025</a> est un moment pour célébrer les contributions des Canadiens en situation de handicap et sensibiliser à l'importance de l'accessibilité et de l'inclusion dans tous les aspects de la société.</p>
+<p>La <a href="/sna/"> Semaine nationale de l'accessibilité (<abbr>SNA</abbr>) 2025</a> est un moment pour célébrer les contributions des Canadiens en situation de handicap et sensibiliser à l'importance de l'accessibilité et de l'inclusion dans tous les aspects de la société.</p>
 </div>
 </div>
 <div class="container">
