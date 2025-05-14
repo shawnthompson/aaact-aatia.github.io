@@ -1,6 +1,6 @@
 ---
 title: L'AATIA maintenant pour l'accessibilité de mai 2025
-otherLanguageTitle: Mai 2025 AAACT Now for Accessibility
+otherLanguageTitle: May 2025 AAACT Now for Accessibility
 description: "**Dans cette édition:** Nous célébrons la Semaine Nationale de
   l'accessibilité et souligne les événements qui se déroulent dans l'ensemble du
   gouvernement du Canada."
