@@ -1,11 +1,11 @@
 ---
 title: Welcome to the Accessibility, Accommodation and Adaptive Computer
-  Technology program (AAACT) website
+  Technology program (<abbr>AAACT</abbr>) website
 description: The Accessibility, Accommodation and Adaptive Computer Technology
-  (AAACT) program supports creating inclusive, barrier-free
+  (<abbr>AAACT</abbr>) program supports creating inclusive, barrier-free
   workplaces in the Government of Canada. It offers training, tools, and
   adaptive technologies to ensure accessibility for all employees, including
-  those with disabilities. AAACT serves all government employees,
+  those with disabilities. <abbr title="Accessibility, Accommodation and Adaptive Computer Technology">AAACT</abbr> serves all government employees,
   providing resources both in person and remotely.
 permalink: /home/
 otherLanguagePermalink: /accueil/
@@ -14,7 +14,7 @@ otherLanguagePermalink: /accueil/
 </div>
 <div class="well well-lg">
 <div class="container">
-<p><a href="/naaw/">National AccessAbility Week (NAAW) 2025</a> is a time to celebrate the contributions of Canadians with disabilities and raise awareness about the importance of accessibility and inclusion in all aspects of society.</p>
+<p><a href="/naaw/">National AccessAbility Week (<abbr>NAAW</abbr>) 2025</a> is a time to celebrate the contributions of Canadians with disabilities and raise awareness about the importance of accessibility and inclusion in all aspects of society.</p>
 </div>
 </div>
 <div class="container">
