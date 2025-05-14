@@ -156,7 +156,7 @@ To learn more, visit our [How AAACT can help you?](http://www.canada.ca/en/share
 
 ## Upcoming Accessibility Training
 
-AAACT, in partnership with the Office of Public Service Accessibility (OPSA) are excited to invite you to an informative session about the GC Workplace Accessibility Passport. The Passport fosters collaboration between employees and their managers to address and overcome workplace barriers effectively.
+AAACT, in partnership with the Office of Public Service Accessibility, is excited to invite you to an informative session about the GC Workplace Accessibility Passport. The Passport fosters collaboration between employees and their managers to address and overcome workplace barriers effectively.
 
 Why Attend?
 
@@ -173,12 +173,12 @@ Date: June 11, 2025
 English session:
 
 * Time: 1:30 to 2:30 PM (ET)
-* Registration: [Register for the English session](https://aaact.canada.ca/learning/gc-workplace-accessibility-passport-overview-june-11/)
+* Registration: [Register for the English GC Workplace Accessibility Passport session](https://aaact.canada.ca/learning/gc-workplace-accessibility-passport-overview-june-11/)
 
 French session:
 
 * Time: 11:00 AM to 12:00 PM (ET)
-* Registration: [Register for the French session](https://aaact.canada.ca/formation/apercu-passeport-pour-l-accessibilite-en-milieu-de-travail-du-gouvernement-du-canada-11-juin/)
+* Registration: [Register for the French GC Workplace Accessibility Passport session](https://aaact.canada.ca/formation/apercu-passeport-pour-l-accessibilite-en-milieu-de-travail-du-gouvernement-du-canada-11-juin/)
 
 Delivery Platform: Microsoft Teams
 
