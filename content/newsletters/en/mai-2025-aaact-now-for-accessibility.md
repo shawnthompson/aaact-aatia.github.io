@@ -4,44 +4,10 @@ title: Mai 2025 AAACT Now for Accessibility
 otherLanguageTitle: L'AATIA maintenant pour l'accessibilité de mai
 description: "**In this edition:** We celebrate National AccessAbility Week and
   highlight events happening across the Government of Canada."
-introduction: >-
-  Spring has arrived, bringing warmer days and renewed energy! As the season
-  blossoms, we’re excited to prepare for National AccessAbility Week (NAAW).
-  Read below for exciting NAAW events happening across the Government of Canada
-  (GC) – don't miss out on the chance to make a difference! 
-
-
-  ## On This Page
-
-
-  *  National AccessAbility Week 2025
-
-
-  *  AAACT Accessibility Trivia
-
-
-  *  Fostering Disability Allyship for a More Inclusive Public Service
-
-
-  *  Creating an Inclusive Workplace Culture
-
-
-  *  Embracing Digital Accessibility
-
-
-  *  Accessible Horizons NAAW Edition
-
-
-  *  How AAACT Can Help You?
-
-
-  *  Upcoming Accessibility Training
-
-
-  *  Global Accessibility Awareness Day
-
-
-  *  Shared Services Canada's Feedback Mechanism
+introduction: Spring has arrived, bringing warmer days and renewed energy! As
+  the season blossoms, we’re excited to prepare for National AccessAbility Week
+  (NAAW). Read below for exciting NAAW events happening across the Government of
+  Canada (GC) – don't miss out on the chance to make a difference!
 newsletterDate: 2025-05-14
 ---
 ## National AccessAbility Week 2025
@@ -64,29 +30,27 @@ Let’s make the most of this inspiring week, together!
 
 ## AAACT Accessibility Trivia
 
-SSC has launched [ScaleUp017 - Occupational Therapist](https://canadabuys.canada.ca/en/tender-opportunities/tender-notice/ssc-24-00028814t), a streamlined process to solicit and award contracts to Occupational Therapists that can provide ad-hoc, enterprise-wide holistic accommodation support for employees with disabilities and injuries to create a barrier-free and inclusive public service. All required supporting documentation and bid submissions must be submitted by April 15, 2025, 5 p.m. EST.
+As part of this year’s exciting NAAW lineup, we’re thrilled to invite you to play AAACT Accessibility Trivia – a fun and interactive way to celebrate accessibility, build connections, and spark learning across the public service!
 
-## Guide Dog Training and Workplace Accommodation
+How does it work? It's simple!
 
-<div class="row">
-<div class="col-md-6">
+Register now, and the challenge kicks off on Monday, May 26th. Each morning, you'll receive a link to a GCForms questionnaire featuring that day's trivia questions. Complete the daily questionnaire and explore key accessibility concepts that will broaden your knowledge. After submitting your answers, you'll receive the correct responses, allowing you to track your progress and enhance your understanding each day.
 
-![Three adorable puppies sitting close together - two with black fur and one with a golden coat. They are nested on a cozy blanket.](/docs/puppy-1.jpg)
+At the end of each day, if you get 5 or more questions correct, your name will be entered into a prize draw. Two lucky winners will be announced on Friday, May 30th, during our *Accessible Horizons* live event and will receive an exclusive AAACT water bottle!
 
-</div>
-</div>
+Don't miss out on the fun! [Register for AAACT Accessibility Trivia](https://forms-formulaires.alpha.canada.ca/en/id/cmamuumzs00j4yr0183mb3rgh) today, and be sure to [sign up for the Accessible Horizons](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/) live event to join us for the grand prize draw!
 
-Guide dogs play a key role in providing mobility and independence for some individuals with disabilities, offering them the opportunity to experience the world in a life-changing way. However, before these dogs can assume their important roles, they need months of socialization, exposure to various environments, and basic obedience training. Puppy raisers are essential to this process, helping nurture and prepare the pups for their future as service animals.
+So, are you ready to test your knowledge, discover new insights, and win awesome prizes? Join the fun, challenge yourself, and help make this NAAW celebration one to remember.
 
-We recently published a story about a GC employee who is supporting a puppy in training through the Mira Foundation. This story inspired another employee to take action by joining the Canadian National Institute for the Blind (CNIB). Through their puppy program, she volunteered as a puppy raiser, welcoming a mother dog with her litter of puppies into her home. She will care for them until they reach eight weeks old, after which they will be transferred to other trainers to continue their development.
+## Fostering Disability Allyship for a More Inclusive Public Service
 
-This act of kindness not only supports the CNIB's mission of providing guide dogs for people with no vision\low vision but also highlights the power of giving back to the community. It's a shining example of how individuals can make a direct impact on the lives of others, especially those living with disabilities.
+The Office of Public Service Accessibility and the Canada School of Public Service are hosting an event for GC public servants on Monday May 26th, from 1:30-3:00 PM (ET). This engaging event will bring together public servants with disabilities to share their personal stories and insights, and offer their perspectives for fostering an inclusive public service through an intersectional lens.
 
-Allowing training animals into the workplace offers several benefits. Service animals, especially guide dogs, are essential for individuals who have no vision or low vision. By supporting the training process, employers can help develop these crucial animals, fostering a culture of inclusion and empathy in the workplace. 
+Participants will gain a fresh perspective on disability allyship and how to effectively challenge biases and apply practical strategies to promote workplace inclusion through compassion, communication and collaboration.
 
-When considering the inclusion of a training dog into the workplace, it's important to remember that [guide dogs are already permitted in the office](https://accessible.canada.ca/creating-accessibility-standards/can-asc-521-design-and-delivery-accessible-programs-and-services/11-guide-dogs-and-service-dogs). The regular exposure to office environments is key in solidifying the significant role these puppies will playas future service animals. There are also protocols in place to ensure a positive work environment for all employees. Training dogs are given regular outdoor breaks to relieve themselves, and allergy considerations are taken into account, with frequent vacuuming managed in coordination with maintenance. Additionally, the presence of training dogs is monitored to ensure they don't disrupt other's work. By allowing them into the workplace, we not only support a worthy cause but also create a space where employees can actively contribute to the well-being of others.
+We’re especially excited to share that Nadine Charron will be a featured speaker at the event, offering her unique experiences and perspectives.
 
-For more information on this important program, visit the [CNIB Foundation](https://www.cnib.ca/en?region=on).
+We encourage all to attend this important event - [register today](https://catalogue.csps-efpc.gc.ca/product?catalog=INC1-E50&cm_locale=en).
 
 ## Introducing the AAACT Bookmarklets Toolbelt
 
