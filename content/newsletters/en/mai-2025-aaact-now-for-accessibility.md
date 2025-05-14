@@ -2,8 +2,8 @@
 passportSection: false
 title: May 2025 AAACT Now for Accessibility
 otherLanguageTitle: L'AATIA maintenant pour l'accessibilité de mai 2025
-description: "**In this edition:** We celebrate National AccessAbility Week (NAAW) and
-  highlight events happening across the Government of Canada."
+description: "**In this edition:** We celebrate National AccessAbility Week
+  (NAAW) and highlight events happening across the Government of Canada."
 introduction: Spring has arrived, bringing warmer days and renewed energy! As
   the season blossoms, we’re excited to prepare for National AccessAbility Week
   (NAAW). Read below for exciting NAAW events happening across the Government of
