@@ -154,7 +154,7 @@ To learn more, visit our [How AAACT can help you?](http://www.canada.ca/en/share
 
 “Thank you again for all your help. I really appreciate it and could not have achieved so much using the accessibility functions without your guidance and advice.”
 
-## Upcoming Accessibility Training
+## GC Workplace Accessibility Passport
 
 AAACT, in partnership with the Office of Public Service Accessibility, is excited to invite you to an informative session about the GC Workplace Accessibility Passport. The Passport fosters collaboration between employees and their managers to address and overcome workplace barriers effectively.
 

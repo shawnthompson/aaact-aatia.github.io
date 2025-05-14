@@ -156,7 +156,7 @@ Pour en savoir plus, consultez notre page web [Comment le programme d’AATIA pe
 
 « Merci encore pour toute votre aide. Je l'apprécie vraiment et je n'aurais pas pu accomplir autant en utilisant les fonctions d'accessibilité sans vos conseils et votre orientation. »
 
-## Formation sur l'accessibilité à venir
+## Passeport pour l'accessibilité en milieu de travail du GC
 
 Le programme d'AATIA, en partenariat avec le Bureau de l'accessibilité de la fonction publique, est heureux de vous inviter à une séance d’information sur le Passeport d’accessibilité en milieu de travail du GC. Le Passeport favorise la collaboration entre le employés et leurs gestionnaires afin de cerner et de surmonter efficacement les obstacles en milieu de travail.
 
