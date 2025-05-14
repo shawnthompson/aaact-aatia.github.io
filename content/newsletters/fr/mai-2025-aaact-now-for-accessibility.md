@@ -108,7 +108,7 @@ Au cours de 90 minutes, vous allez :
 
 Cette séance offre des idées et des outils inestimables pour vous aider à promouvoir l'accessibilité numérique dans votre milieu de travail. Ne manquez pas cette occasion, inscrivez-vous dès aujourd'hui et faites le premier pas vers la création d'un environnement numérique plus inclusif et accessible!
 
-## Horizons accessibles - édition de la SNA
+## Édition spéciale de Horizons accessibles pour la SNA
 
 <div class="row">
 <div class="col-md-6">
@@ -127,18 +127,18 @@ Date : Vendredi 30 mai 2025
 Séance en français
 
 * Heure : 13 H 00 – 13 H 45 (HE)
-* Inscriptions: [S’inscrire pour la séance en français](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/)
+* Inscriptions: [S’inscrire pour l'Édition spéciale de Horizons accessibles pour la SNA en français](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/)
 
 Séance en anglais
 
 * Heure: 14 H 00 – 14 H 45 (HE)
-* Inscription: [S’inscrire pour la séance en anglais](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/)
+* Inscription: [S’inscrire pour l'Edition spéciale de Horizons accessibles pour la SNA en anglais](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/)
 
 Plateforme : Webinaire par le biais de Microsoft Teams
 
 Interprète en langue des signes : disponible pour les deux séances
 
-Vous ne pouvez pas nous joindre en direct? Pas de problème! Horizons accessibles est disponible sous forme de balado; vous pouvez donc écouter les conversations à tout moment et en tout lieu! Il suffit de [consulter le site Web de l’AATIA](https://aaact.canada.ca/balados/) pour écouter ou pour vous abonner à l’une de nos plateformes de balados disponibles pour rester à jour grâce aux nouveaux épisodes.
+Vous ne pouvez pas nous joindre en direct? Pas de problème! Horizons accessibles est disponible sous forme de balado; vous pouvez donc écouter les conversations à tout moment et en tout lieu! Il suffit de [consulter le site Web de balado de l’AATIA](https://aaact.canada.ca/balados/) pour écouter ou pour vous abonner à l’une de nos plateformes de balados disponibles pour rester à jour grâce aux nouveaux épisodes.
 
 ## Comment le programme d'AATIA peut-il vous aider?
 
