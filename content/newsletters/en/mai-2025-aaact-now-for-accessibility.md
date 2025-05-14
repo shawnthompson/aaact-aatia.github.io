@@ -42,23 +42,27 @@ introduction: >-
 
 
   *  Shared Services Canada's Feedback Mechanism
-newsletterDate: 2025-03-26
+newsletterDate: 2025-05-14
 ---
-## Accessible Horizons Live Event
+## National AccessAbility Week 2025
 
 <div class="row">
 <div class="col-md-6">
 
-![](/docs/coverartenglishpurple.png)
+![National AccessAbility Week 2025 banner, with accessibility images.](/docs/01-naaw-social-media-generic-2025-goc.jpg)
 
 </div>
 </div>
 
-sed-circuit television and delve into a simulated conversation between two managers discussing a complex accommodation situation. Can't join live? No problem! Accessible Horizons is available as a podcast, so you can listen to the conversations anytime, anywhere! Simply visit our AAACT website to [listen or subscribe](https://aaact.canada.ca/podcasts/) on one of our available podcast platforms to stay updated with new episodes.
+NAAW, celebrated this year from May 25 to 31, offers a meaningful opportunity to explore accessibility and inclusion in the workplace, and to reaffirm our shared commitment to building a more inclusive public service.
 
-For event registration details visit our [AAACT learning page](https://aaact.canada.ca/learning/).
+Throughout the week, a variety of engaging activities will take place across the GC. We encourage everyone to take part, as this is a valuable chance to learn, collaborate and contribute to advancing accessibility in the public service and beyond.
 
-## Scale-Up017 - Occupational Therapists
+Below is a list of planned events that are open to all GC employees, and we also encourage you to participate in activities hosted by your own departments. For more information on activities hosted by the Accessibility, Accommodation and Adaptive Computer Technology (AAACT) program, [visit our NAAW 2025 web page](https://aaact.canada.ca/naaw/).
+
+Let’s make the most of this inspiring week, together!
+
+## AAACT Accessibility Trivia
 
 SSC has launched [ScaleUp017 - Occupational Therapist](https://canadabuys.canada.ca/en/tender-opportunities/tender-notice/ssc-24-00028814t), a streamlined process to solicit and award contracts to Occupational Therapists that can provide ad-hoc, enterprise-wide holistic accommodation support for employees with disabilities and injuries to create a barrier-free and inclusive public service. All required supporting documentation and bid submissions must be submitted by April 15, 2025, 5 p.m. EST.
 

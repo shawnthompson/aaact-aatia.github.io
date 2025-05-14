@@ -7,6 +7,7 @@ description: >-
 introduction: >-
   
   Welcome to the March 2025 edition of AAACT Now for Accessibility, the newsletter from Shared Services Canada's (SSC) Accessibility, Accommodation and Adaptive Computer Technology (AAACT) team. In this edition you will find a guide to including accessibility into Information and Communication Technology (ICT) procurement; information to empower Managers; a GC employee initiative to help train guide dogs; as well as useful tips and upcoming events.
+newsletterDate: 2025-05-14
 ---
 ![]()
 
