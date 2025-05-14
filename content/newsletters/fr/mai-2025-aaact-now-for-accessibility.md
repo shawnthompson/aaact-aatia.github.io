@@ -202,4 +202,4 @@ Pour d'information sur nos services, consultez notre page web [Comment le progra
 
 Avez-vous des commentaires, des suggestions ou des idées pour améliorer l’accessibilité dans notre milieu de travail, nos politiques, nos programmes ou nos services? En 2022, SPC a lancé un processus de rétroaction sur l'accessibilité, afin d’identifier et à réduire les obstacles à l'accessibilité dans l’ensemble de ses processus organisationnels, et ainsi améliorer l'accessibilité de ses services.
 
-Si vous avez des idées pour améliorer l'accessibilité, nous voulons les entendre! [Offrir de la retroaction sur l’accessibilité à SPC.](https://www.canada.ca/fr/services-partages/organisation/accessibilite/retroaction-accessibilite.html)
+Si vous avez des idées pour améliorer l'accessibilité, nous voulons les entendre! [Offrir de la rétroaction sur l’accessibilité à SPC.](https://www.canada.ca/fr/services-partages/organisation/accessibilite/retroaction-accessibilite.html)
