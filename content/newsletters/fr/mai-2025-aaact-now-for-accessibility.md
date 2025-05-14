@@ -2,7 +2,7 @@
 passportSection: false
 title: L'AATIA maintenant pour l'accessibilité de mai 2025
 otherLanguageTitle: May 2025 AAACT Now for Accessibility
-description: "**Dans cette édition:** Nous célébrons la Semaine Nationale de
+description: "**Dans cette édition:** Nous célébrons la Semaine nationale de
   l'accessibilité et souligne les événements qui se déroulent dans l'ensemble du
   gouvernement du Canada."
 introduction: Le printemps est arrivé, apportant des journées plus chaudes et
@@ -13,7 +13,7 @@ introduction: Le printemps est arrivé, apportant des journées plus chaudes et
   différence!
 newsletterDate: 2025-05-14
 ---
-## Semaine National de l'accessibilité (SNA) 2025
+## Semaine national de l'accessibilité (SNA) 2025
 
 <div class="row">
 <div class="col-md-6">
