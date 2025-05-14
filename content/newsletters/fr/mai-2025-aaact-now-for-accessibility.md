@@ -132,7 +132,7 @@ Séance en français
 Séance en anglais
 
 * Heure: 14 H 00 – 14 H 45 (HE)
-* Inscription: [S’inscrire pour l'Edition spéciale de Horizons accessibles pour la SNA en anglais](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/)
+* Inscription: [S’inscrire pour l'Édition spéciale de Horizons accessibles pour la SNA en anglais](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/)
 
 Plateforme : Webinaire par le biais de Microsoft Teams
 
@@ -158,7 +158,7 @@ Pour en savoir plus, consultez notre page web [Comment le programme d’AATIA pe
 
 ## Formation sur l'accessibilité à venir
 
-AATIA, en partenariat avec le Bureau de l'accessibilité de la fonction publique (BAFP), est heureux de vous inviter à une séance d’information sur le Passeport d’accessibilité en milieu de travail du GC. Le Passeport favorise la collaboration entre le employés et leurs gestionnaires afin de cerner et de surmonter efficacement les obstacles en milieu de travail.
+Le programme d'AATIA, en partenariat avec le Bureau de l'accessibilité de la fonction publique, est heureux de vous inviter à une séance d’information sur le Passeport d’accessibilité en milieu de travail du GC. Le Passeport favorise la collaboration entre le employés et leurs gestionnaires afin de cerner et de surmonter efficacement les obstacles en milieu de travail.
 
 Pourquoi participer?
 
@@ -175,12 +175,12 @@ Date: 11 juin 2025
 Séance en français
 
 * Heure : 11 H 00 à 12 H 00 (HE)
-* Inscription: [S'inscrire à la séance en français](https://aaact.canada.ca/formation/apercu-passeport-pour-l-accessibilite-en-milieu-de-travail-du-gouvernement-du-canada-11-juin/)
+* Inscription: [S'inscrire à la séance Passeport d'accessibilité en milieu de travail du GC en français](https://aaact.canada.ca/formation/apercu-passeport-pour-l-accessibilite-en-milieu-de-travail-du-gouvernement-du-canada-11-juin/)
 
 Séance en anglais
 
 * Heure : 13 H 30 à 14 H 30 (HE)
-* Inscription: [S'inscrire à la séance en anglais](https://aaact.canada.ca/learning/gc-workplace-accessibility-passport-overview-june-11/)
+* Inscription: [S'inscrire à la séance Passeport d'accessibilité en milieu de travail du GC en anglais](https://aaact.canada.ca/learning/gc-workplace-accessibility-passport-overview-june-11/)
 
 Format: Webinaire par le biais de Microsoft Teams
 
@@ -188,7 +188,7 @@ Format: Webinaire par le biais de Microsoft Teams
 
 Pour toute question, veuillez contacter l’[AATIA Apprentissage](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca).
 
-## Journée mondiale de sensibilisation de l'accessibilité
+## Journée mondiale de sensibilisation à l'accessibilité
 
 Le 15 mai marque la Journée mondiale de sensibilisation à l'accessibilité, une occasion pour souligner l'importance de la conception numérique inclusive et veiller à ce que la technologie soit utilisable par tous, y compris les personnes en situation de handicap.
 
