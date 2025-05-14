@@ -1,4 +1,5 @@
 ---
+passportSection: false
 title: L'AATIA maintenant pour l'accessibilité de mai 2025
 otherLanguageTitle: May 2025 AAACT Now for Accessibility
 description: "**Dans cette édition:** Nous célébrons la Semaine Nationale de
@@ -12,7 +13,7 @@ introduction: Le printemps est arrivé, apportant des journées plus chaudes et
   différence!
 newsletterDate: 2025-05-14
 ---
-## Semaine national de l'accessibilité 2025
+## Semaine National de l'accessibilité (SNA) 2025
 
 <div class="row">
 <div class="col-md-6">
@@ -30,15 +31,15 @@ Vous trouverez ci-dessous une liste des activités disponibles à tout les emplo
 
 Profitons ensemble de cette semaine inspirante!
 
-## Jeu quiz d'accessibilité de l'AATIA
+## Jeu quiz d'accessibilité de l'<abbr title="Accessibilité, adaptation et technologie informatique adaptée">AATIA</abbr>
 
-Dans le cadre de la programmation dynamique de la SNA cette année, nous sommes ravis de vous inviter à participer au jeu quiz d’accessibilité de l’AATIA – une activité amusante et interactive pour célébrer l’accessibilité, créer des liens et stimuler l’apprentissage au sein du service public !
+Dans le cadre de la programmation dynamique de la SNA cette année, nous sommes ravis de vous inviter à participer au jeu quiz d’accessibilité de l’<abbr title="Accessibilité, adaptation et technologie informatique adaptée">AATIA</abbr> – une activité amusante et interactive pour célébrer l’accessibilité, créer des liens et stimuler l’apprentissage au sein du service public !
 
 Comment cela fonctionne-t-il ? C'est simple !
 
 Inscrivez-vous dès maintenant, et le défi commence le lundi 26 mai. Chaque matin, vous recevrez un lien vers un questionnaire GCForms avec les questions du jour. Remplissez le questionnaire quotidien et explorez des concepts clés sur l'accessibilité qui élargiront vos connaissances. Après avoir soumis vos réponses, vous recevrez les bonnes réponses, ce qui vous permettra de suivre vos progrès et de renforcer votre compréhension chaque jour.
 
-À la fin de chaque journée, si vous répondez correctement à 5 questions ou plus, votre nom sera inscrit à un tirage au sort. Deux heureux gagnants seront annoncés lors de notre événement en direct *Horizons accessibles* et recevront une bouteille d'eau exclusive de l'AATIA !
+À la fin de chaque journée, si vous répondez correctement à 5 questions ou plus, votre nom sera inscrit à un tirage au sort. Deux heureux gagnants seront annoncés lors de notre événement en direct *Horizons accessibles* et recevront une bouteille d'eau exclusive de l'<abbr title="Accessibilité, adaptation et technologie informatique adaptée">AATIA</abbr> !
 
 Ne manquez pas le plaisir ! [Inscrivez-vous dès aujourd'hui au jeu-questionnaire d'accessibilité de l'AATIA](https://forms-formulaires.alpha.canada.ca/fr/id/cmanz1mq300njxb01rrendit1), et assurez-vous de vous [inscrire à l'événement en direct Horizons accessibles](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/) pour participer au tirage au sort des grands prix !
 
@@ -118,7 +119,7 @@ Cette séance offre des idées et des outils inestimables pour vous aider à pro
 </div>
 </div>
 
-L’équipe d’AATIA est ravie de vous inviter à une édition spéciale de Horizons accessibles dans le cadre de la SNA! Joignez-vous à nous le vendredi 30 mai alors que nous accueillerons notre tout premier invité spécial! Lors de cet enregistrement en direct, nous mettrons en valeur l’espace client d’AATIA, nous explorerons les différences entre le modèle médical et le modèle social du handicap, et nous aurons une conversation enrichissante avec notre tout premier invité!
+L’équipe d’<abbr title="Accessibilité, adaptation et technologie informatique adaptée">AATIA</abbr> est ravie de vous inviter à une édition spéciale de Horizons accessibles dans le cadre de la SNA! Joignez-vous à nous le vendredi 30 mai alors que nous accueillerons notre tout premier invité spécial! Lors de cet enregistrement en direct, nous mettrons en valeur l’espace client d’<abbr title="Accessibilité, adaptation et technologie informatique adaptée">AATIA</abbr>, nous explorerons les différences entre le modèle médical et le modèle social du handicap, et nous aurons une conversation enrichissante avec notre tout premier invité!
 
 ### Détails de l'événement
 
@@ -140,13 +141,13 @@ Interprète en langue des signes : disponible pour les deux séances
 
 Vous ne pouvez pas nous joindre en direct? Pas de problème! Horizons accessibles est disponible sous forme de balado; vous pouvez donc écouter les conversations à tout moment et en tout lieu! Il suffit de [consulter le site Web de balado de l’AATIA](https://aaact.canada.ca/balados/) pour écouter ou pour vous abonner à l’une de nos plateformes de balados disponibles pour rester à jour grâce aux nouveaux épisodes.
 
-## Comment le programme d'AATIA peut-il vous aider?
+## Comment le programme d'<abbr title="Accessibilité, adaptation et technologie informatique adaptée">AATIA</abbr> peut-il vous aider?
 
-Chez l'AATIA, nous mettons l'accessibilité au coeur de nos préoccupations, non seulement pendant la SNA, mais aussi au-delà. Notre programme soutient les employés et les gestionnaires de toutes les organisations du GC à cerner les besoins en matière d'accessibilité et à recommander des solutions raisonnables et efficaces. Nous offrons un soutien personnalisé par le biais de consultations informelles, de recommandations d'adaptation personnalisées et de solutions adaptatives telles que du matériel et des logiciels personnalisés. Nos services s'étendent tant aux employés à court qu’à long terme, offrant un soutien et une collaboration continue pour assurer une intégration rapide des technologies d'adaptation. Le programme s'appuie sur une bibliothèque de prêt, ce qui facilite l'accès rapide à une multitude d'outils, tels que des technologies informatiques adaptées et des équipements susceptibles d'éliminer les obstacles.
+Chez l'<abbr title="Accessibilité, adaptation et technologie informatique adaptée">AATIA</abbr>, nous mettons l'accessibilité au coeur de nos préoccupations, non seulement pendant la SNA, mais aussi au-delà. Notre programme soutient les employés et les gestionnaires de toutes les organisations du GC à cerner les besoins en matière d'accessibilité et à recommander des solutions raisonnables et efficaces. Nous offrons un soutien personnalisé par le biais de consultations informelles, de recommandations d'adaptation personnalisées et de solutions adaptatives telles que du matériel et des logiciels personnalisés. Nos services s'étendent tant aux employés à court qu’à long terme, offrant un soutien et une collaboration continue pour assurer une intégration rapide des technologies d'adaptation. Le programme s'appuie sur une bibliothèque de prêt, ce qui facilite l'accès rapide à une multitude d'outils, tels que des technologies informatiques adaptées et des équipements susceptibles d'éliminer les obstacles.
 
-En plus du soutien direct aux employés de la fonction publique, l’AATIA encourage la conception inclusive et l'accessibilité numérique en aidant les organisations à intégrer l'accessibilité dans les produits, les services et le contenu dès le départ. Nous offrons une variété de séances de formation sur l'accessibilité pour donner à chacun les connaissances et les outils nécessaires pour vous aider à intégrer l'accessibilité dans vos projets numériques. Les employés, les gestionnaires et les services sont encouragés à communiquer avec l’AATIA pour obtenir des conseils d'experts sur la réduction des obstacles en milieu de travail et la création d'environnements où tout le monde peut s'épanouir.
+En plus du soutien direct aux employés de la fonction publique, l’<abbr title="Accessibilité, adaptation et technologie informatique adaptée">AATIA</abbr> encourage la conception inclusive et l'accessibilité numérique en aidant les organisations à intégrer l'accessibilité dans les produits, les services et le contenu dès le départ. Nous offrons une variété de séances de formation sur l'accessibilité pour donner à chacun les connaissances et les outils nécessaires pour vous aider à intégrer l'accessibilité dans vos projets numériques. Les employés, les gestionnaires et les services sont encouragés à communiquer avec l’<abbr title="Accessibilité, adaptation et technologie informatique adaptée">AATIA</abbr> pour obtenir des conseils d'experts sur la réduction des obstacles en milieu de travail et la création d'environnements où tout le monde peut s'épanouir.
 
-Pour en savoir plus, consultez notre page web [Comment le programme d’AATIA peut-il vous aider?](https://www.canada.ca/fr/services-partages/organisation/programme-aatia/programme-aatia-peut-aider.html) .
+Pour en savoir plus, consultez notre page web [Comment le programme d’<abbr title="Accessibilité, adaptation et technologie informatique adaptée">AATIA</abbr> peut-il vous aider?](https://www.canada.ca/fr/services-partages/organisation/programme-aatia/programme-aatia-peut-aider.html) .
 
 ### Témoignages de clients d’AATIA
 
@@ -186,7 +187,7 @@ Format: Webinaire par le biais de Microsoft Teams
 
 À qui s’adresse la séance? Tous les fonctionnaires fédéraux.
 
-Pour toute question, veuillez contacter l’[AATIA Apprentissage](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca).
+Pour toute question, veuillez contacter l’[<abbr title="Accessibilité, adaptation et technologie informatique adaptée">AATIA</abbr> Apprentissage](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca).
 
 ## Journée mondiale de sensibilisation à l'accessibilité
 
@@ -196,10 +197,10 @@ L'AATIA est fier de soutenir cette mission en offrant une vaste gamme de service
 
 Nous vous encourageons à vous engager et à explorer des moyens d'améliorer l'accessibilité dans votre travail. Consultez la [Boîte à outils de l’accessibilité numérique](https://a11y.canada.ca/fr/) pour découvrir des conseils pratiques afin de rendre vos documents numériques plus accessibles. Chaque geste en faveur de l'accessibilité compte!
 
-Pour d'information sur nos services, consultez notre page web [Comment le programme d’AATIA peut-il vous aider?](https://www.canada.ca/fr/services-partages/organisation/programme-aatia/programme-aatia-peut-aider.html) .
+Pour d'information sur nos services, consultez notre page web [Comment le programme d’<abbr title="Accessibilité, adaptation et technologie informatique adaptée">AATIA</abbr> peut-il vous aider?](https://www.canada.ca/fr/services-partages/organisation/programme-aatia/programme-aatia-peut-aider.html) .
 
 ## Méchanisme de rétroaction de Services partagés Canada
 
-Avez-vous des commentaires, des suggestions ou des idées pour améliorer l’accessibilité dans notre milieu de travail, nos politiques, nos programmes ou nos services? En 2022, SPC a lancé un processus de rétroaction sur l'accessibilité, afin d’identifier et à réduire les obstacles à l'accessibilité dans l’ensemble de ses processus organisationnels, et ainsi améliorer l'accessibilité de ses services.
+Avez-vous des commentaires, des suggestions ou des idées pour améliorer l’accessibilité dans notre milieu de travail, nos politiques, nos programmes ou nos services? En 2022, Services partagés Canada (SPC) a lancé un processus de rétroaction sur l'accessibilité, afin d’identifier et à réduire les obstacles à l'accessibilité dans l’ensemble de ses processus organisationnels, et ainsi améliorer l'accessibilité de ses services.
 
 Si vous avez des idées pour améliorer l'accessibilité, nous voulons les entendre! [Offrir de la rétroaction sur l’accessibilité à SPC.](https://www.canada.ca/fr/services-partages/organisation/accessibilite/retroaction-accessibilite.html)
