@@ -76,7 +76,6 @@ In this session, you will:
 * Time: 10:00-12:00 PM (<abbr title="Eastern Time">ET</abbr>)
 * Registration: [Register for the French creating an inclusive workplace culture session](/formation/creons-un-lieu-de-travail-inclusif/)
 
-
 This event will be held in a hybrid format. There are only 24 in-person spots available, and registration is on a first-come, first-serve basis. The in-person session  will take place at 219 Laurier Avenue West, Ottawa, Ontario.
 
 Register today and take the next step toward shaping a more inclusive workplace. Don’t miss out on this opportunity to make a real difference!
@@ -98,7 +97,6 @@ French session
 
 * Time: 10:30 AM – 12:00 PM (<abbr title="Eastern Time">ET</abbr>)
 * Registration: [Register for the French embracing digital accessibility session](https://www.eventbrite.ca/e/billets-adopter-laccessibilite-numerique-1318015843869?aff=oddtdtcreator)
-
 
 Over the course of 90 minutes, you'll:
 
@@ -127,12 +125,12 @@ Date: Friday May 30, 2025
 English session:
 
 * Time: 2:00 - 2:45 PM (<abbr title="Eastern Time">ET</abbr>)
-* Registration: [Register for the English Accessible Horizons session]/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/)
+* Registration: [Register for the English Accessible Horizons session]/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/)
 
 French session:
 
 * Time: 1:00 - 1:45 PM (<abbr title="Eastern Time">ET</abbr>)
-* Registration: [Register for the French Accessible Horizons session]/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/)
+* Registration: [Register for the French Accessible Horizons session]/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/)
 
 Platform: Webinar via Microsoft Teams
 
