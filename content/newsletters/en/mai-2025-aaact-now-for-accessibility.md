@@ -125,12 +125,12 @@ Date: Friday May 30, 2025
 English session:
 
 * Time: 2:00 - 2:45 PM (<abbr title="Eastern Time">ET</abbr>)
-* Registration: [Register for the English Accessible Horizons session]/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/)
+* Registration: [Register for the English Accessible Horizons session](https://aaact.canada.ca/learning/accessible-horizons-welcomes-its-first-and-very-special-guest/)
 
 French session:
 
 * Time: 1:00 - 1:45 PM (<abbr title="Eastern Time">ET</abbr>)
-* Registration: [Register for the French Accessible Horizons session]/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/)
+* Registration: [Register for the French Accessible Horizons session](https://aaact.canada.ca/formation/horizons-accessibles-accueille-son-tout-premier-invite-tres-special/)
 
 Platform: Webinar via Microsoft Teams
 
