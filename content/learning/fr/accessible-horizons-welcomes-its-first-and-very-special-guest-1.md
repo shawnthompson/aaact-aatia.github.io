@@ -24,17 +24,17 @@ introduction: >-
 
   Joignez-vous à nous pour une séance enrichissante alors que nous continuons à promouvoir l’accessibilité, l’inclusion et l’autonomisation.
 eventDetails:
-  eventDate: 2025-05-30
+  eventDate: 2025-06-27
   en:
-    date: 2025-05-30
-    text: "Accessible Horizons welcomes its first and very special guest "
+    date: 2025-06-27
+    text: Accessible Horizons - Accessible by Default
     link: https://events.teams.microsoft.com/event/9ac3fc6a-0ca2-4b03-bedf-dd4747c54cde@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
     startTime: 14 H 00
     endTime: 14 H 45
     signLanguage: true
   fr:
-    date: 2025-05-30
-    text: Horizons accessibles accueille son tout premier invité très spécial
+    date: 2025-06-27
+    text: Horizons accessibles - accessible par défaut
     link: https://events.teams.microsoft.com/event/85398df0-c678-4e18-aad3-00ec34574eb3@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
     startTime: 13 H 00
     endTime: 13 H 45

@@ -1,40 +1,30 @@
 ---
 passportSection: false
-title: "Accessible Horizons welcomes its first and very special guest  "
-otherLanguageTitle: Horizons accessibles accueille son tout premier invité très spécial
+title: Accessible Horizons - Accessible by Default
+otherLanguageTitle: Horizons accessibles - accessible par défaut
 description: Join the Accessibility, Accommodation and Adaptive Computer
   Technology (AAACT) team for an inclusive virtual event!
 introduction: >-
-  Welcome to Episode 5 of AAACT's live event series - *Accessible Horizons*. 
+  Welcome to Episode 6 of AAACT's event series - *Accessible Horizons*. 
 
 
-  In this special edition, we celebrate National AccessAbility Week by:
-
-
-  1. Showcasing our AAACT client space 
-
-  2. Exploring the differences between medical and social models of disability
-
-  3. Welcoming our first-ever special guest
-
-
-  Join us for an insightful session as we continue to promote accessibility, inclusion, and empowerment.
+  In this edition, we're talking about building accessibility by default - and yes, we're even making government forms exciting. Join us as we uncover how GCForms is shifting mindsets, designing with intention, and creating tools that work for everyone.
 eventDetails:
-  eventDate: 2025-05-30
+  eventDate: 2025-06-27
   en:
-    date: 2025-05-30
-    startTime: 2:00 PM
-    endTime: 2:45 PM
-    text: "Accessible Horizons welcomes its first and very special guest "
+    date: 2025-06-27
+    startTime: 11:00 AM
+    endTime: 11:30 AM
+    text: Accessible Horizons - Accessible by Default
     link: https://events.teams.microsoft.com/event/9ac3fc6a-0ca2-4b03-bedf-dd4747c54cde@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-    signLanguage: true
+    signLanguage: false
   fr:
-    text: Horizons accessibles accueille son tout premier invité très spécial
-    startTime: 1:00 PM
-    endTime: 1:45 PM
+    text: Horizons accessibles - accessible par défaut
+    startTime: 10:00 AM
+    endTime: 10:30 AM
     link: https://events.teams.microsoft.com/event/85398df0-c678-4e18-aad3-00ec34574eb3@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-    signLanguage: true
-    date: 2025-05-30
+    signLanguage: false
+    date: 2025-06-27
 platform: Webinar via Microsoft Teams
 whoIsThisFor: Government of Canada employees
 ---
