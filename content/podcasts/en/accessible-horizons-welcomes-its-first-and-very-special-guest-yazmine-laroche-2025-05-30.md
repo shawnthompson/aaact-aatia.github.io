@@ -2,18 +2,39 @@
 title: Accessible Horizons Welcomes its First and Very Special Guest - Yazmine Laroche
 podcastDate: 2025-05-30
 episode: 5
-longDescription: s
-description: s
+longDescription: >-
+  In this episode, we dive into the heart of accessibility innovation at the
+  Government of Canada, beginning with a tour of the client space at AAACT. This
+  is where clients can experience firsthand adaptive technology and collaborate
+  with AAACT technicians to find personalized solutions for removing barriers.
+
+
+
+
+  In the second segment, we explore the *Social Model of Disability*, a powerful framework that emphasizes that instead of focusing on fixing the individual, it is the environment that needs to change to remove barriers and promote inclusion. This perspective encourages a more inclusive approach in both workplaces and communities.
+
+
+
+
+  To close the episode, we speak with Yazmine Laroche, the former Deputy Minister of the Office of Public Service Accessibility. Yazmine shares her proudest achievements from her time in government, emphasizes how one person truly can make a difference, and discusses her current work focused on driving inclusion. Her journey is a testament to the power of leadership in creating meaningful change.
+
+
+
+
+  Tune in for inspiring insights and practical advice on fostering accessibility in the workplace and beyond!
+description: >-
+  
+  Tune in for inspiring insights and practical advice on fostering accessibility in the workplace and beyond!
 image: /img/podcasts/yazpicture.png
 duration:
   minutes: 44
   seconds: 11
 podcastFiles:
   mp3:
-    url: s
-    sizeInMb: -1
+    url: https://accessibility-accessibilite.ca/Podcast/Episode5EnglishAudio.mp3
+    sizeInMb: 40
   youtube:
-    url: s
+    url: https://www.youtube.com/watch?v=OSSONJJXqnU
 ---
 Intro
 Welcome to Accessible Horizons, a podcast series about how to build a barrier free and inclusive public service. Join your hosts. Accessibility experts Nadine Charron and Luna Bengio from the Accessibility, Accommodation and Adaptive Computer Technology (AAACT) program for a lively discussion and lots of practical tips.
