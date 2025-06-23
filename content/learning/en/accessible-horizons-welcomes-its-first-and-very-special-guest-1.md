@@ -32,6 +32,8 @@ whoIsThisFor: Government of Canada employees
 
 Register above in the language of your choice. Upon registration, you’ll receive a calendar invite with the link and event details.
 
+Sign language interpretation is not available for this event as it will be a pre-recorded interview. The AAACT team will be available to answer any questions through the chat function.
+
 This event is open to Government of Canada employees, please share this broadly. Let’s come together to make a lasting impact on accessibility and inclusion in the workplace.
 
 We look forward to seeing you at the event!
