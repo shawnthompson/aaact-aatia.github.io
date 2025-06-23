@@ -31,11 +31,11 @@ eventDetails:
 platform: Webinaire par le biais de Microsoft Teams
 whoIsThisFor: Employés du gouvernement du Canada
 ---
+L'interprétation en langue des signes ne sera pas disponible pour cet événement, car il s'agira d'une entrevue préenregistrée. L'équipe de l'AATIA sera disponible pour répondre à toutes vos questions via la fonction de clavardage.
+
 ## Comment s’inscrire
 
 Inscrivez-vous en suivant les liens ci-haut. Une fois inscrit, vous recevrez une invitation avec le lien et les détails de l’événement.
-
-L'interprétation en langue des signes ne sera pas disponible pour cet événement, car il s'agira d'une entrevue préenregistrée. L'équipe de l'AATIA sera disponible pour répondre à toutes vos questions via la fonction de clavardage.
 
 Cet événement est ouvert aux employés du gouvernement du Canada, merci de le diffuser largement. Réunissons-nous pour avoir un impact durable sur l’accessibilité et l’inclusion sur le lieu de travail.
 

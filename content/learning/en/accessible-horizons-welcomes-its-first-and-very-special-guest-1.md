@@ -28,11 +28,12 @@ eventDetails:
 platform: Webinar via Microsoft Teams
 whoIsThisFor: Government of Canada employees
 ---
+Sign language interpretation is not available for this event as it will be a pre-recorded interview. The AAACT team will be available to answer any questions through the chat function.
+
+
 ## How to join
 
 Register above in the language of your choice. Upon registration, you’ll receive a calendar invite with the link and event details.
-
-Sign language interpretation is not available for this event as it will be a pre-recorded interview. The AAACT team will be available to answer any questions through the chat function.
 
 This event is open to Government of Canada employees, please share this broadly. Let’s come together to make a lasting impact on accessibility and inclusion in the workplace.
 
