@@ -8,7 +8,7 @@ introduction: >-
   Welcome to Episode 6 of AAACT's event series - *Accessible Horizons*. 
 
 
-  In this edition, we're talking about building accessibility by default - and yes, we're even making government forms exciting. Join us as we uncover how GCForms is shifting mindsets, designing with intention, and creating tools that work for everyone.
+  In this edition, we're talking about building accessibility by default, and yes, we're even making government forms exciting. Join us as we uncover how GCForms is shifting mindsets, designing with intention, and creating tools that work for everyone.
 eventDetails:
   eventDate: 2025-06-27
   en:

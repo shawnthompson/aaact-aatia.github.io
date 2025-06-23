@@ -1,44 +1,33 @@
 ---
 passportSection: false
-title: Horizons accessibles accueille son tout premier invité très spécial
-otherLanguageTitle: "Accessible Horizons welcomes its first and very special guest  "
+title: Horizons accessibles - accessible par défaut
+otherLanguageTitle: Accessible Horizons - Accessible by Default
 description: Joignez-vous à l’équipe de l’Accessibilité, adaptation et
   technologie informatique adaptée (AATIA) pour un événement virtuel engageant
   et inclusif !
 introduction: >-
-  Bienvenue au cinquième épisode de la série d’événements en direct de l'AATIA –
-  *Horizons accessibles*.
+  Bienvenue au sixième épisode de la série d’événements de l'AATIA – *Horizons
+  accessibles*.
 
 
-  Dans cette édition spéciale, nous célébrons la Semaine nationale de l’accessibilité en :
 
-
-  1. présentant notre espace client de l'AATIA
-
-
-  2. explorant les différences entre le modèle médical et le modèle social du handicap
-
-
-  3. accueillant notre tout premier invité spécial.
-
-
-  Joignez-vous à nous pour une séance enrichissante alors que nous continuons à promouvoir l’accessibilité, l’inclusion et l’autonomisation.
+  Dans cette édition, nous parlons de l'accessibilité dès la conception, et oui, nous rendons même les formulaires gouvernementaux passionnants. Rejoignez-nous pour découvrir comment GCForms change les mentalités, conçoit avec intention et crée des outils qui fonctionnent pour tout le monde.
 eventDetails:
   eventDate: 2025-06-27
   en:
     date: 2025-06-27
     text: Accessible Horizons - Accessible by Default
     link: https://events.teams.microsoft.com/event/9ac3fc6a-0ca2-4b03-bedf-dd4747c54cde@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-    startTime: 14 H 00
-    endTime: 14 H 45
-    signLanguage: true
+    startTime: 11 H 00
+    endTime: 11 H 00
+    signLanguage: false
   fr:
     date: 2025-06-27
     text: Horizons accessibles - accessible par défaut
     link: https://events.teams.microsoft.com/event/85398df0-c678-4e18-aad3-00ec34574eb3@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
-    startTime: 13 H 00
-    endTime: 13 H 45
-    signLanguage: true
+    startTime: 10 H 00
+    endTime: 10 H 30
+    signLanguage: false
 platform: Webinaire par le biais de Microsoft Teams
 whoIsThisFor: Employés du gouvernement du Canada
 ---
