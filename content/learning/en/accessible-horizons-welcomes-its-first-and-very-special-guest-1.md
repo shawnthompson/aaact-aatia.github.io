@@ -16,13 +16,13 @@ eventDetails:
     startTime: 11:00 AM
     endTime: 11:30 AM
     text: Accessible Horizons - Accessible by Default
-    link: https://events.teams.microsoft.com/event/9ac3fc6a-0ca2-4b03-bedf-dd4747c54cde@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
+    link: https://events.teams.microsoft.com/event/9d99a59c-7381-49d8-93ac-0336be1a3f0a@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
     signLanguage: false
   fr:
     text: Horizons accessibles - accessible par défaut
     startTime: 10:00 AM
     endTime: 10:30 AM
-    link: https://events.teams.microsoft.com/event/85398df0-c678-4e18-aad3-00ec34574eb3@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
+    link: https://events.teams.microsoft.com/event/1f1e119f-92e0-402f-ab8a-209d4b2dbd83@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
     signLanguage: false
     date: 2025-06-27
 platform: Webinar via Microsoft Teams
