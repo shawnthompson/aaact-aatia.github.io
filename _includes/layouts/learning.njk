@@ -50,7 +50,7 @@
 			<dd class="ml-4">{{ eventDetails[otherLocale].startTime }} {% if locale == "en" %}&mdash;{% else %}à{% endif %} {{ eventDetails[otherLocale].endTime }} ({{ timeZone | safe }})</dd>
 			<dt>{{ learning[locale].eventDetails.registrationText }}</dt>
 			<dd class="ml-4"><a lang="{{ otherLocale }}" href="{{ eventDetails[otherLocale].link }}">{{ eventDetails[otherLocale].text }}</a></dd>
-			{%- if eventDetails[locale].signLanguage -%}
+			{%- if eventDetails[otherLocale].signLanguage -%}
 				<dt>{{ learning[locale].eventDetails.signLangText }}</dt>
 				<dd class="ml-4">{{ learning[locale].eventDetails.signLangAvailable }}</dd>
 			{%- endif -%}
