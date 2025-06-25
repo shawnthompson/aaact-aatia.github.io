@@ -13,14 +13,6 @@ permalink: /accueil/
 otherLanguagePermalink: /home/
 ---
 
-</div>
-<div class="well well-lg">
-<div class="container">
-<p>La <a href="/sna/"> Semaine nationale de l'accessibilité (<abbr>SNA</abbr>) 2025</a> est un moment pour célébrer les contributions des Canadiens en situation de handicap et sensibiliser à l'importance de l'accessibilité et de l'inclusion dans tous les aspects de la société.</p>
-</div>
-</div>
-<div class="container">
-
 Le gouvernement du Canada (<abbr>GC</abbr>) imagine une fonction publique qui est un chef de file mondial au chapitre des lieux de travail et des services inclusifs et exempts d’obstacles. Le Programme d’accessibilité, d’adaptation et de technologie informatique adaptée (<abbr>AATIA</abbr>) a pour but de faire de cette vision une réalité :
 
 - En appuyant les ministères qui offrent des programmes et des services aux Canadiens;
