@@ -1,17 +1,17 @@
 ---
 passportSection: false
-title: Plain Language Training
-otherLanguageTitle: Formation en langage clair
+title: Plain Language Training for GC writers
+otherLanguageTitle: Formation en langage clair pour les rédacteurs du GC
 description: Free plain language training for GC writers. (English only)
 introduction: ""
 eventDetails:
-  eventDate: 2025-05-13
+  eventDate: 2025-07-08
   en:
-    date: 2025-05-13
+    date: 2025-07-08
     startTime: 1:00 PM
     endTime: 4:00 PM
     text: Register for the English session
-    link: https://events.teams.microsoft.com/event/7835abbf-be14-42ec-838a-fee100f3d6a6@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
+    link: https://events.teams.microsoft.com/event/8a25353f-50d8-485c-a809-ace7ef38f57b@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
 platform: Webinar via Microsoft Team
 whoIsThisFor: Government of Canada employees
 ---
