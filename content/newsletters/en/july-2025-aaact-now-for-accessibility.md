@@ -128,6 +128,14 @@ Can’t join live? No problem! *Accessible Horizons* is also available as a podc
 
 ## Digital Accessibility Hack – Making Accessible Emails 
 
+<div class="row">\
+<div class="col-md-6">
+
+![Decorative banner of the Digital Accessibility Toolkit.](/docs/banner.png)
+
+</div>\
+</div>
+
 In today's digital landscape, emails remain a powerful tool for communication. But amidst all the designs, links, and layouts, accessibility often gets overlooked. Creating accessible emails isn't just a nice-to-have; it's a necessity to ensure that your message reaches everyone, including those with disabilities. Accessible emails improve user experience, expand your audience reach, and show your commitment to inclusivity. 
 
 Here are some essential tips to craft accessible emails: 
