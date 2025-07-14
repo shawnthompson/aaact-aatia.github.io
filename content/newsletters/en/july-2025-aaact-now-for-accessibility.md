@@ -14,7 +14,7 @@ newsletterDate: 2025-07-16
 ---
 ## 3D Printing: A Game-Changer in Accessibility Tools 
 
-<div class="row"> \
+<div class="row">
 <div class="col-md-6">
 
 ![](/docs/untitled-design.png)
