@@ -17,7 +17,7 @@ newsletterDate: 2025-07-16
 <div class="row"> \
 <div class="col-md-6">
 
-![]()
+![](/docs/untitled-design.png)
 
 </div>
 </div>
@@ -54,7 +54,7 @@ For the full conversation with the GC Forms team, stay tuned for episode 6 of [*
 
 </div>
 </div>
-As part of AAACT’s ongoing commitment to promote disability inclusion across the public service, we recently delivered a workshop titled \\*Creating an Inclusive Workplace Culture\\* to tour guides at the Supreme Court of Canada. This session aimed to deepen participants’ understanding of how a positive workplace culture supports inclusion for persons with disabilities, not only within the public service, but also in the experiences of Canadians who visit. By fostering respectful, accessible, and inclusive interactions, we ensure that everyone, regardless of ability, feels welcomed and valued. 
+As part of AAACT’s ongoing commitment to promote disability inclusion across the public service, we recently delivered a workshop titled \\\*Creating an Inclusive Workplace Culture\\\* to tour guides at the Supreme Court of Canada. This session aimed to deepen participants’ understanding of how a positive workplace culture supports inclusion for persons with disabilities, not only within the public service, but also in the experiences of Canadians who visit. By fostering respectful, accessible, and inclusive interactions, we ensure that everyone, regardless of ability, feels welcomed and valued. 
 
 The workshop covered the three pillars of disability inclusion, environment, culture, and individual adjustments, highlighting how each contributes to breaking down barriers. Participants explored the power of inclusive language in challenging ableism and learned practical strategies to become effective allies. By embedding accessibility into daily practices and public interactions, tour guides are now better equipped to create inclusive experiences for all visitors, helping to build a more equitable and welcoming environment for both employees and the public they serve. 
 
