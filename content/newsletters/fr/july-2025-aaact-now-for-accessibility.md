@@ -112,16 +112,6 @@ Si vous souhaitez développer vos compétences en leadership inclusif et favoris
 
 Ne manquez pas cette occasion de créer un changement significatif, une conversation à la fois. 
 
-## Opportunité de recherche : participez ! 
-
-Êtes-vous une personne en situation de handicap ayant bénéficié des mesures d'accommodations offertes par l'AATIA? Êtes-vous un(e) collègue ou un(e) gestionnaire d’une personne en situation de handicap ayant bénéficié de ces mesures d'accommodations offertes par l'AATIA? 
-
-Si c’est le cas, les chercheurs du Laboratoire d’innovation sociale de la Vision radicale pour l’accès inclusif à l’emploi (VRAIE) souhaitent vous entendre ! 
-
-VRAIE collabore avec l’AATIA pour élaborer des études de cas anonymisées mettant en lumière les avantages et les coûts vécus par les clients en lien avec les mesures d'accommodations fournies par l'AATIA. 
-
-Si vous êtes une personne en situation de handicap ayant reçu ces mesures, ou un(e) gestionnaire/collègue d’une personne ayant bénéficié de ces soutiens et que vous souhaitez participer ou obtenir plus d’informations sur cette recherche, veuillez contacter la coordonnatrice de recherche Amie Richards à [arichards@iwh.on.ca](mailto:arichards@iwh.on.ca) ou le chercheur principal, Dre Emile Tompa, à [etompa@iwh.on.ca](mailto:etompa@iwh.on.ca). 
-
 ## Au travail : l’accessibilité de l’emploi au Canada –  Rapport de la Dirigeante principale de l’accessibilité, 2024 
 
 La Dirigeante principale de l’accessibilité a publié son deuxième rapport au ministre responsable de la *[Loi canadienne sur l’accessibilité](https://www.canada.ca/fr/emploi-developpement-social/programmes/canada-accessible/loi-resume.html)*. Ce rapport important met en lumière la nécessité urgente d’éliminer les obstacles qui empêchent les personnes en situation de handicap de participer pleinement au marché du travail. 
