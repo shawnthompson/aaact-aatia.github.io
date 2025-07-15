@@ -126,6 +126,13 @@ Read the full report: [Getting to Work: Accessible Employment in Canada –Repor
 
 ## Accessible Horizons Live Event 
 
+<div class="row">
+<div class="col-md-6">
+
+![Decorative banner for the Accessible Horizons Podcast.](/docs/coverartenglishpurple.png)
+
+</div>
+</div>
 The AAACT team is excited to invite you to our upcoming *Accessible Horizons* live event this July! This engaging event will explore key accessibility topics and provide valuable insights to support an inclusive workplace. Visit the [AAACT learning web page](https://aaact.canada.ca/learning/) to stay tuned for more information and event details as they become available. 
 
 Can’t join live? No problem! *Accessible Horizons* is also available as a podcast, so you can listen to the conversation anytime, anywhere. Simply visit the [Accessible Horizons podcast web page](https://aaact.canada.ca/podcasts/) to listen or subscribe on one of our available podcast platforms to stay updated with new episodes.
