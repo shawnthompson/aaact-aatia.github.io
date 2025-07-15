@@ -12,7 +12,7 @@ introduction: As we wind down for the summer and enjoy a slower pace, it's the
   you stay proactive and inclusive all year long.
 newsletterDate: 2025-07-16
 ---
-## 3D Printing: A Handy Addition to You Accessibility Toolkit
+## 3D Printing: A Handy Addition to Your Accessibility Toolkit
 
 <div class="row">
 <div class="col-md-5">
