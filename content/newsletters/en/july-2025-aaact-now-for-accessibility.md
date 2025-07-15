@@ -12,26 +12,32 @@ introduction: As we wind down for the summer and enjoy a slower pace, it's the
   you stay proactive and inclusive all year long.
 newsletterDate: 2025-07-16
 ---
-## 3D Printing: A Game-Changer in Accessibility Tools 
+## 3D Printing: A Handy Addition to You Accessibility Toolkit
 
 <div class="row">
 <div class="col-md-6">
 
-![](/docs/untitled-design.png)
+![Three images that include an adaptive 3D printed switch enabling users with physical disabilities to navigate through multidirectional input; custom 3D-printed rocker foot pedal designed to provide accessible foot-operated input for users with limited hand mobility; and custom 3D-printed stand that combines smartphone holder featuring an integrated magnifying lens for screen enlargement.](/docs/untitled-design.png)
 
 </div>
 </div>
-3D printing is transforming the way accessibility tools are created, offering new possibilities for disability inclusion. This technology can bridge gaps where commercial solutions fall short, delivering fast, affordable, and tailored solutions. 
+3D printing has been creating some genuine excitement in accessibility circles, and honestly, it's easy to see why. While it's not going to solve every workplace barrier, it offers a compelling supplementary option for creating personalized tools when existing solutions don't quite hit the mark.
 
-For many, 3D-printed tools have significantly improved their daily lives. From adaptive switches that replace the need for a keyboard or mouse, to custom dexterity aids or braille labels, these tools can be designed for one user but often go on to help many others with similar challenges.  
+From customizing adaptive switches that can replace the need for a keyboard or mouse, to creating custom dexterity aids that make handling office supplies easier, or even designing personalized braille labels for your workspace, these printed solutions can fill the gaps that standard products miss. While initially designed for one person, these tools often end up helping colleagues with similar needs. Moreover, 3D printing lets us create and share these tools quickly and affordably, bridging the gap until more permanent solutions become available.
 
-One of the greatest advantages of 3D printing is its ability to quickly address gaps in the market. The range of accessibility barriers people face is vast, and not every helpful solution has been invented. 3D printing empowers us to create and share tools rapidly and inexpensively, filling urgent needs until more permanent options are available.  
+At AAACT, we help GC employees find workplace accommodations tailored to their individual needs. While 3D printing may be part of the conversation, our team focuses on identifying the right combination of tools, whether that's established adaptive devices, software solutions, or occasionally, a custom-printed aid, to create workspaces where everyone can do their best work.
 
-At AAACT, we provide GC employees with customized workplace support and adaptive solutions. While 3D printing isn’t necessary for everyone, our team can help identify and access the best assistive technologies, 3D-printed or otherwise, to meet your specific needs.  
-
-To learn more about the AAACT Program, visit [How AAACT Can Help You?](https://www.canada.ca/en/shared-services/corporate/aaact-program/how-aaact-help-you.html). 
+To learn more about the AAACT Program, visit [How AAACT Can Help You?](https://www.canada.ca/en/shared-services/services/employees-accessibility/how-aaact-help-you.html). 
 
 ## Accessibility by Default: Building Inclusive Digital Experiences from the Ground Up with GC Forms 
+
+<div class="row">
+<div class="col-md-6">
+
+![GCForms logo.](/docs/big-logo.png)
+
+</div>
+</div>
 
 At the heart of inclusive digital services lies a simple but powerful approach: accessibility by default. Rather than fixing or adding accessibility features after development, integrating accessibility from the start ensures a smoother, more efficient process and a better result for all users. 
 
@@ -54,44 +60,38 @@ For the full conversation with the GC Forms team, stay tuned for episode 6 of [*
 
 </div>
 </div>
-As part of AAACT’s ongoing commitment to promote disability inclusion across the public service, we recently delivered a workshop titled \\\*Creating an Inclusive Workplace Culture\\\* to tour guides at the Supreme Court of Canada. This session aimed to deepen participants’ understanding of how a positive workplace culture supports inclusion for persons with disabilities, not only within the public service, but also in the experiences of Canadians who visit. By fostering respectful, accessible, and inclusive interactions, we ensure that everyone, regardless of ability, feels welcomed and valued. 
+As part of AAACT’s ongoing commitment to promote disability inclusion across the public service, we recently delivered a workshop titled \\\\\*Creating an Inclusive Workplace Culture\\\\\* to tour guides at the Supreme Court of Canada. This session aimed to deepen participants’ understanding of how a positive workplace culture supports inclusion for persons with disabilities, not only within the public service, but also in the experiences of Canadians who visit. By fostering respectful, accessible, and inclusive interactions, we ensure that everyone, regardless of ability, feels welcomed and valued. 
 
 The workshop covered the three pillars of disability inclusion, environment, culture, and individual adjustments, highlighting how each contributes to breaking down barriers. Participants explored the power of inclusive language in challenging ableism and learned practical strategies to become effective allies. By embedding accessibility into daily practices and public interactions, tour guides are now better equipped to create inclusive experiences for all visitors, helping to build a more equitable and welcoming environment for both employees and the public they serve. 
 
 To learn more and schedule this training session for your team, contact us at [aaactlearning-aatiaapprentissage@ssc-spc.gc.ca](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca).
 
-## Wayfinding and Signage in the Workplace: Creating Accessible Navigation for All 
+## Let's Take the Accessibility Journey
 
-Accessibility in the workplace goes beyond accommodations – it also means integrating disability-inclusive design into physical spaces, systems, and processes. 
 
-Inclusive wayfinding is one example. It supports independence, safety, and accessibility by offering multiple ways to help people navigate and orient themselves, tailored to diverse needs and preferences. 
 
-An inclusive wayfinding approach uses a combination of low-tech, mid-tech, and high-tech solutions, such as: 
 
-Signage in multiple formats: 
+The federal legislative and policy frameworks set out broad fundamental principles of human rights and equity. The *[Accessible Canada Act](https://www.parl.ca/DocumentViewer/en/42-1/bill/C-81/royal-assent)* (2019) builds on those principles by requiring that federal institutions eliminate or avoid the creation of barriers to accessibility and the full participation of persons with disabilities. Now, let’s think about what it means to turn those principles into concrete actions. 
 
-* High-contrast visuals (e.g., light text on dark backgrounds) 
-* Tactile graphics 
-* Braille and raised print 
-* Digital tags like QR codes and NFC tags that link to audio or detailed content via smartphones 
+Let’s take an accessibility journey!   
 
-Navigation guides, such as: 
+Our destination? A work environment where federal public service employees or candidates who may have a disability can succeed and feel valued. 
 
-* tactile paths 
-* high-contrast floor patterns 
-* Tactile route indicator 
-* auditory signals 
-* other physical indicators that assist with orientation 
+So, where do we start?  
 
-Digital navigation tools, including: 
+Accessibility is not the end of the journey. It is not a separate aspect of the journey either. Accessibility cannot be ‘turned on’ at the end of the process. Accessibility requires deliberate planning and frequent check-ins with people with lived experience. There is no magical solution that achieves perfect accessibility. Yet, accessibility and inclusive design benefit everyone.  
 
-* smartphone apps using camera recognition 
-* Bluetooth beacon systems 
-* LIDAR-enabled mapping to describe locations, nearby points of interest, and provide real-time, step-by-step directions. 
+The journey of creating accessible experiences begins with:  
 
-Each of these elements supports different needs. A single format won’t serve everyone – for instance, not all people who are blind read braille, and not all people with print disabilities use adaptive technologies the same way. That’s why a layered and flexible approach is essential for inclusive outcomes. 
+* Recognizing that every individual is unique and with the right supports, brings a valuable contribution to the organization  
+* Learning about the different aspects of inclusive design (physical space, documents and systems, communications, business processes, etc.)  
+* Planning and identifying the measures and resources to build in accessibility from the start and throughout the process  
+* Developing or designing processes and products that meet modern accessibility standards. For example, select a virtual meeting platform which is widely recognized for its accessibility and routinely use its accessibility features (e.g., captioning, transcription, accessible method for document sharing). 
+* Avoiding the common mistake of designing a process or product, thinking that you will “make it accessible” once it is finalized  
 
-AAACT works with departments and organizations to explore these topics, including incorporating a comprehensive wayfinding system into our own service centre to better support our clients. This initiative reflects our commitment to accessibility and to creating spaces where everyone can navigate independently and confidently. 
+
+
+
 
 ## Conversations That Matter: Unlocking Talent Through Inclusion 
 
