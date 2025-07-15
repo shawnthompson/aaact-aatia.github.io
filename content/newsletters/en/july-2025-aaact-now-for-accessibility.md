@@ -15,12 +15,13 @@ newsletterDate: 2025-07-16
 ## 3D Printing: A Handy Addition to You Accessibility Toolkit
 
 <div class="row">
-<div class="col-md-6">
+<div class="col-md-5">
 
-![Three images that include an adaptive 3D printed switch enabling users with physical disabilities to navigate through multidirectional input; custom 3D-printed rocker foot pedal designed to provide accessible foot-operated input for users with limited hand mobility; and custom 3D-printed stand that combines smartphone holder featuring an integrated magnifying lens for screen enlargement.](/docs/untitled-design.png)
+![Three images that include adaptive 3D printed switch enabling users with physical disabilities to navigate through multidirectional input; custom 3D-printed rocker foot pedal designed to provide accessible foot-operated input for users with limited hand mobility; and custom 3D-printed stand that combines smartphone holder featuring an integrated magnifying lens for screen enlargement.](/docs/untitled-design.png)
 
 </div>
 </div>
+
 3D printing has been creating some genuine excitement in accessibility circles, and honestly, it's easy to see why. While it's not going to solve every workplace barrier, it offers a compelling supplementary option for creating personalized tools when existing solutions don't quite hit the mark.
 
 From customizing adaptive switches that can replace the need for a keyboard or mouse, to creating custom dexterity aids that make handling office supplies easier, or even designing personalized braille labels for your workspace, these printed solutions can fill the gaps that standard products miss. While initially designed for one person, these tools often end up helping colleagues with similar needs. Moreover, 3D printing lets us create and share these tools quickly and affordably, bridging the gap until more permanent solutions become available.
@@ -60,7 +61,8 @@ For the full conversation with the GC Forms team, stay tuned for episode 6 of [*
 
 </div>
 </div>
-As part of AAACT’s ongoing commitment to promote disability inclusion across the public service, we recently delivered a workshop titled \\\\\*Creating an Inclusive Workplace Culture\\\\\* to tour guides at the Supreme Court of Canada. This session aimed to deepen participants’ understanding of how a positive workplace culture supports inclusion for persons with disabilities, not only within the public service, but also in the experiences of Canadians who visit. By fostering respectful, accessible, and inclusive interactions, we ensure that everyone, regardless of ability, feels welcomed and valued. 
+
+As part of AAACT’s ongoing commitment to promote disability inclusion across the public service, we recently delivered a workshop titled *Creating an Inclusive Workplace Culture* to tour guides at the Supreme Court of Canada. This session aimed to deepen participants’ understanding of how a positive workplace culture supports inclusion for persons with disabilities, not only within the public service, but also in the experiences of Canadians who visit. By fostering respectful, accessible, and inclusive interactions, we ensure that everyone, regardless of ability, feels welcomed and valued. 
 
 The workshop covered the three pillars of disability inclusion, environment, culture, and individual adjustments, highlighting how each contributes to breaking down barriers. Participants explored the power of inclusive language in challenging ableism and learned practical strategies to become effective allies. By embedding accessibility into daily practices and public interactions, tour guides are now better equipped to create inclusive experiences for all visitors, helping to build a more equitable and welcoming environment for both employees and the public they serve. 
 
@@ -104,7 +106,7 @@ Our workshop, *Conversations That Matter: Unlocking Talent Through Inclusion,* e
 * foster a team culture that values diverse strengths and perspectives 
 * identify helpful resources. 
 
-If you want to develop inclusive leadership skills and create a workplace where everyone can succeed, this course is for you. To learn more or schedule training, contact us at [aaactlearning-aatiaapprentissage@ssc-spc.gc.ca](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca) .  
+If you want to develop inclusive leadership skills and create a workplace where everyone can succeed, this course is for you. To learn more or schedule training, contact us at [aaactlearning-aatiaapprentissage@ssc-spc.gc.ca](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca).  
 
 Don’t miss this opportunity to create meaningful change, one conversation at a time. 
 
@@ -133,6 +135,7 @@ Read the full report: [Getting to Work: Accessible Employment in Canada –Repor
 
 </div>
 </div>
+
 The AAACT team is excited to invite you to our upcoming *Accessible Horizons* live event this July! This engaging event will explore key accessibility topics and provide valuable insights to support an inclusive workplace. Visit the [AAACT learning web page](https://aaact.canada.ca/learning/) to stay tuned for more information and event details as they become available. 
 
 Can’t join live? No problem! *Accessible Horizons* is also available as a podcast, so you can listen to the conversation anytime, anywhere. Simply visit the [Accessible Horizons podcast web page](https://aaact.canada.ca/podcasts/) to listen or subscribe on one of our available podcast platforms to stay updated with new episodes.
