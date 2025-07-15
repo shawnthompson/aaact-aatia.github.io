@@ -110,16 +110,6 @@ If you want to develop inclusive leadership skills and create a workplace where 
 
 Don’t miss this opportunity to create meaningful change, one conversation at a time. 
 
-## Research Opportunity: Get Involved!
-
-Are you a person with a disability who has received accommodations supports from AAACT? Are you a coworker or manager of a person with a disability who has received accommodations supports from AAACT? 
-
-If so, researchers from the Inclusive Design for Employment Access (IDEA) Social Innovation Laboratory would like to hear from you!   
-
-IDEA is working with AAACT to develop anonymized case studies which highlight the benefits and costs clients have experienced in relation to the accommodations supports provided by AAACT. 
-
-If you are either a person with disabilities who has received such supports, or a manager/coworker of someone who has received supports and would like to participate or would like more information about this research, please contact the Research Coordinator Amie Richards at [arichards@iwh.on.ca](mailto:arichards@iwh.on.ca) or the Principal Investigator Dr. Emile Tompa at [etompa@iwh.on.ca](mailto:etompa@iwh.on.ca).
-
 ## Getting to Work: Accessible Employment in Canada –Report from the Chief Accessibility Officer, 2024 
 
 The Chief Accessibility Officer has released the second report to the Minister responsible for the *[Accessible Canada Act](https://www.canada.ca/en/employment-social-development/programs/accessible-canada/act-summary.html)*. This important report underscores the need to remove barriers preventing individuals with disabilities from fully participating in the workforce. 
