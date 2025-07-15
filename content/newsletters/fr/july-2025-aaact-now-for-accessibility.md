@@ -30,7 +30,7 @@ Que ce soit pour personnaliser des interrupteurs adaptatifs qui remplacent le cl
 
 À l'AATIA, nous aidons les employés du gouvernement du Canada à trouver des mesures d’adaptation adaptées à leurs besoins individuels. L’impression 3D peut parfois faire partie de la discussion, mais notre équipe se concentre sur la combinaison optimale d’outils – qu’il s’agisse d’appareils adaptatifs éprouvés, de solutions logicielles ou, à l’occasion, d’un outil imprimé sur mesure, afin de créer des milieux de travail où chacun peut donner le meilleur de lui-même.
 
-Pour en savoir plus sur le programme d'AATIA, visitez la page web [Comment le programme d’AATIA peut-il vous aider ?](https://www.canada.ca/en/shared-services/services/employees-accessibility/how-aaact-help-you.html).
+Pour en savoir plus sur le programme d'AATIA, visitez la page web [Comment le programme d’AATIA peut-il vous aider ?](https://www.canada.ca/fr/services-partages/services/employes-accessibilite/programme-aatia-peut-aider.html).
 
 ## L'accessibilité par défaut : créer des expériences numériques inclusives dès la conception avec Formulaires GC
 
@@ -105,12 +105,10 @@ Notre atelier, intitulé Des conversations qui comptent : libérer le potentiel 
 
 * aborder des sujets délicats liés aux mesures d’adaptation en milieu de travail ; 
 * reconnaître et éliminer les obstacles à l’inclusion ; 
-* encourager une culture d’équipe qui valorise les forces et les perspectives diverses; 
+* encourager une culture d’équipe qui valorise les forces et les perspectives diverses ; 
 * repérer les ressources utiles. 
 
-Si vous souhaitez développer vos compétences en leadership inclusif et favoriser un environnement où chacun peut réussir, cette formation est pour vous. 
- Pour en savoir plus ou planifier une séance, communiquez avec nous à : 
- [aaactlearning-aatiaapprentissage@ssc-spc.gc.ca](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca). 
+Si vous souhaitez développer vos compétences en leadership inclusif et favoriser un environnement où chacun peut réussir, cette formation est pour vous. Pour en savoir plus ou planifier une séance, communiquez avec nous à : [aaactlearning-aatiaapprentissage@ssc-spc.gc.ca](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca). 
 
 Ne manquez pas cette occasion de créer un changement significatif, une conversation à la fois. 
 

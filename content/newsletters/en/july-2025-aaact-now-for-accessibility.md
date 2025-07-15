@@ -101,9 +101,9 @@ True inclusion grows through authentic, ongoing dialogue. When managers learn to
 
 Our workshop, *Conversations That Matter: Unlocking Talent Through Inclusion,* equips managers with practical tools and real-world scenarios. Participants learn how to: 
 
-* navigate delicate topics around workplace accommodations 
-* recognize and remove barriers to inclusion 
-* foster a team culture that values diverse strengths and perspectives 
+* navigate delicate topics around workplace accommodations;
+* recognize and remove barriers to inclusion;
+* foster a team culture that values diverse strengths and perspectives;
 * identify helpful resources. 
 
 If you want to develop inclusive leadership skills and create a workplace where everyone can succeed, this course is for you. To learn more or schedule training, contact us at [aaactlearning-aatiaapprentissage@ssc-spc.gc.ca](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca).  
@@ -163,6 +163,7 @@ Here are some essential tips to craft accessible emails: 
 7. **Incorporate Alt Text for images**: Include alternative text that briefly describes the relevant content of the image. 
 8. **Provide clear, clickable links**: Use descriptive anchor text like “Download Report” instead of vague terms like “Click Here.” 
 9. **Testing for accessibility**: While the accessibility checker is not a substitute for knowing how to create an accessible document, it can help identify some accessibility issues. Under the review tab, select 
+
    > Check Accessibility. 
 
 Accessibility isn't just about compliance; it's about embracing diversity and ensuring equality in digital communication. By following these tips, you can design emails that resonate with all recipients, leaving no one behind. 
