@@ -180,6 +180,6 @@ L'accessibilité ne concerne pas seulement la conformité; elle incarne l’ouve
 
 Visitez la Boîte à outils sur l’accessibilité numérique pour en apprendre davantage sur comment [rendre vos courriels accessibles](https://a11y.canada.ca/fr/rendre-vos-courriels-accessibles/). 
 
-Mécanisme de rétroaction de Services partagés Canada 
+## Mécanisme de rétroaction de Services partagés Canada 
 
 Avez-vous des commentaires, des suggestions ou des idées pour améliorer l’accessibilité au sein de notre milieu de travail, de nos politiques, de nos programmes ou de nos services à SPC? Notre processus de rétroaction en matière d’accessibilité permet à toute personne en interaction avec SPC de nous faire part de ses commentaires sur l’accessibilité de nos services. Partagez votre rétroaction dès aujourd’hui pour nous aider à cerner et à éliminer les obstacles, et à bâtir des services numériques plus inclusifs et accessibles. [Offrir de la retroaction sur l’accessibilité à SPC.](https://www.canada.ca/fr/services-partages/organisation/accessibilite/retroaction-accessibilite.html)
