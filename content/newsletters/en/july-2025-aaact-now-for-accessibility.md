@@ -68,30 +68,24 @@ To learn more and schedule this training session for your team, contact us at [a
 
 ## Let's Take the Accessibility Journey
 
-
-
-
 The federal legislative and policy frameworks set out broad fundamental principles of human rights and equity. The *[Accessible Canada Act](https://www.parl.ca/DocumentViewer/en/42-1/bill/C-81/royal-assent)* (2019) builds on those principles by requiring that federal institutions eliminate or avoid the creation of barriers to accessibility and the full participation of persons with disabilities. Now, let’s think about what it means to turn those principles into concrete actions. 
 
-Let’s take an accessibility journey!   
+### Let’s take an accessibility journey!   
 
 Our destination? A work environment where federal public service employees or candidates who may have a disability can succeed and feel valued. 
 
-So, where do we start?  
+### So, where do we start?  
 
 Accessibility is not the end of the journey. It is not a separate aspect of the journey either. Accessibility cannot be ‘turned on’ at the end of the process. Accessibility requires deliberate planning and frequent check-ins with people with lived experience. There is no magical solution that achieves perfect accessibility. Yet, accessibility and inclusive design benefit everyone.  
 
 The journey of creating accessible experiences begins with:  
 
-* Recognizing that every individual is unique and with the right supports, brings a valuable contribution to the organization  
-* Learning about the different aspects of inclusive design (physical space, documents and systems, communications, business processes, etc.)  
-* Planning and identifying the measures and resources to build in accessibility from the start and throughout the process  
+* Recognizing that every individual is unique and with the right supports, brings a valuable contribution to the organization.
+* Learning about the different aspects of inclusive design (physical space, documents and systems, communications, business processes, etc.).
+* Planning and identifying the measures and resources to build in accessibility from the start and throughout the process.
 * Developing or designing processes and products that meet modern accessibility standards. For example, select a virtual meeting platform which is widely recognized for its accessibility and routinely use its accessibility features (e.g., captioning, transcription, accessible method for document sharing). 
-* Avoiding the common mistake of designing a process or product, thinking that you will “make it accessible” once it is finalized  
-
-
-
-
+* Avoiding the common mistake of designing a process or product, thinking that you will “make it accessible” once it is finalized.
+* Along with general accessibility measures, such as accessible workspaces and documents, taking the time to find out about individual needs for accommodation and how to address them.
 
 ## Conversations That Matter: Unlocking Talent Through Inclusion 
 
@@ -113,6 +107,16 @@ Our workshop, *Conversations That Matter: Unlocking Talent Through Inclusion,* e
 If you want to develop inclusive leadership skills and create a workplace where everyone can succeed, this course is for you. To learn more or schedule training, contact us at [aaactlearning-aatiaapprentissage@ssc-spc.gc.ca](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca) .  
 
 Don’t miss this opportunity to create meaningful change, one conversation at a time. 
+
+## Research Opportunity: Get Involved!
+
+Are you a person with a disability who has received accommodations supports from AAACT? Are you a coworker or manager of a person with a disability who has received accommodations supports from AAACT? 
+
+If so, researchers from the Inclusive Design for Employment Access (IDEA) Social Innovation Laboratory would like to hear from you!   
+
+IDEA is working with AAACT to develop anonymized case studies which highlight the benefits and costs clients have experienced in relation to the accommodations supports provided by AAACT. 
+
+If you are either a person with disabilities who has received such supports, or a manager/coworker of someone who has received supports and would like to participate or would like more information about this research, please contact the Research Coordinator Amie Richards at [arichards@iwh.on.ca](mailto:arichards@iwh.on.ca) or the Principal Investigator Dr. Emile Tompa at [etompa@iwh.on.ca](mailto:etompa@iwh.on.ca).
 
 ## Getting to Work: Accessible Employment in Canada –Report from the Chief Accessibility Officer, 2024 
 
