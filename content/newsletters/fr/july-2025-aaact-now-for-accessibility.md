@@ -46,7 +46,7 @@ Au cœur des services numériques inclusifs se trouve une approche simple mais p
 
 Récemment, notre équipe d’AATIA a eu le plaisir d’accueillir nos collègues de Formulaires GC, du Service numérique canadien, en tant qu’invités à notre balado *Horizons accessibles*. Ensemble, nous avons exploré la création de Formulaires GC, une solution développée avec l’accessibilité au cœur de sa conception. Depuis 2021, cet outil évolue pour permettre aux employés du gouvernement de créer des formulaires accessibles et adaptés à leurs besoins. 
 
-Ce qui distingue Formulaires GC, c’est son engagement à faire de l’accessibilité la norme. Les concepteurs et les développeurs ont collaboré dès le début pour identifier les obstacles potentiels et définir les exigences avant même d’écrire une ligne de code. En plus de respecter les normes WCAG AA, l’équipe est allée plus loin : elle a utilisé un outil de conception collaborative, effectué des tests automatisés et manuels, et intégré les commentaires d’utilisateurs réels. Des tests réalisés par des tiers ont également permis de détecter des problèmes supplémentaires. Cette approche a intégré la planification, le codage et la mise à l’essai dès les premières étapes. L’un des principaux points à retenir est que, bien que le respect des normes soit important, l’intervention humaine et les mise à l’essai des utilisateurs sont essentiels pour réellement comprendre et répondre aux besoins concrets des utilisateurs. 
+Ce qui distingue Formulaires GC, c’est son engagement à faire de l’accessibilité la norme. Les concepteurs et les développeurs ont collaboré dès le début pour identifier les obstacles potentiels et définir les exigences avant même d’écrire une ligne de code. En plus de respecter les Règles pour l'accessibilité Web, l’équipe est allée plus loin : elle a utilisé un outil de conception collaborative, effectué des tests automatisés et manuels, et intégré les commentaires d’utilisateurs réels. Des tests réalisés par des tiers ont également permis de détecter des problèmes supplémentaires. Cette approche a intégré la planification, le codage et la mise à l’essai dès les premières étapes. L’un des principaux points à retenir est que, bien que le respect des normes soit important, l’intervention humaine et les mise à l’essai des utilisateurs sont essentiels pour réellement comprendre et répondre aux besoins concrets des utilisateurs. 
 
 Pour l’avenir, Formulaires GC mettra l’accent sur l’amélioration de l’édition après publication, la gestion de plusieurs formulaires, tout en poursuivant son engagement envers l’accessibilité grâce à une rétroaction continue et à une itération constante. 
 
@@ -114,7 +114,7 @@ Si vous souhaitez développer vos compétences en leadership inclusif et favoris
 
 Ne manquez pas cette occasion de créer un changement significatif, une conversation à la fois. 
 
-## Opportunité de recherche : Participez ! 
+## Opportunité de recherche : participez ! 
 
 Êtes-vous une personne en situation de handicap ayant bénéficié des mesures d'accommodations offertes par l'AATIA? Êtes-vous un(e) collègue ou un(e) gestionnaire d’une personne en situation de handicap ayant bénéficié de ces mesures d'accommodations offertes par l'AATIA? 
 
@@ -124,7 +124,7 @@ VRAIE collabore avec l’AATIA pour élaborer des études de cas anonymisées me
 
 Si vous êtes une personne en situation de handicap ayant reçu ces mesures, ou un(e) gestionnaire/collègue d’une personne ayant bénéficié de ces soutiens et que vous souhaitez participer ou obtenir plus d’informations sur cette recherche, veuillez contacter la coordonnatrice de recherche Amie Richards à [arichards@iwh.on.ca](mailto:arichards@iwh.on.ca) ou le chercheur principal, Dre Emile Tompa, à [etompa@iwh.on.ca](mailto:etompa@iwh.on.ca). 
 
-## Au travail : l’accessibilité de l’emploi au Canada – Rapport de la Dirigeante principale de l’accessibilité, 2024 
+## Au travail : l’accessibilité de l’emploi au Canada –  Rapport de la Dirigeante principale de l’accessibilité, 2024 
 
 La Dirigeante principale de l’accessibilité a publié son deuxième rapport au ministre responsable de la *[Loi canadienne sur l’accessibilité](https://www.canada.ca/fr/emploi-developpement-social/programmes/canada-accessible/loi-resume.html)*. Ce rapport important met en lumière la nécessité urgente d’éliminer les obstacles qui empêchent les personnes en situation de handicap de participer pleinement au marché du travail. 
 
@@ -144,7 +144,7 @@ L’équipe d'AATIA est ravie de vous inviter à notre prochain événement en d
 
 Vous ne pouvez pas y assister en direct? Pas de souci! *Horizons accessibles* est aussi offert en balado, vous pouvez donc écouter les discussions quand et où vous le souhaitez. Il vous suffit de visiter la [page Web du balado Horizons accessibles](https://aaact.canada.ca/balados/) pour écouter ou pour vous abonner sur l’une des plateformes disponibles pour rester à jour sur les nouveaux épisodes. 
 
-## Astuce pour l'accessibilité numérique – Rendre les courriels accessibles
+## Astuces pour l'accessibilité numérique – rendre les courriels accessibles
 
 <div class="row">
 <div class="col-md-6">
