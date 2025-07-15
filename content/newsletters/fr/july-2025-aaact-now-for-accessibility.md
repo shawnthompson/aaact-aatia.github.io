@@ -144,7 +144,7 @@ L’équipe d'AATIA est ravie de vous inviter à notre prochain événement en d
 
 Vous ne pouvez pas y assister en direct? Pas de souci! *Horizons accessibles* est aussi offert en balado, vous pouvez donc écouter les discussions quand et où vous le souhaitez. Il vous suffit de visiter la [page Web du balado Horizons accessibles](https://aaact.canada.ca/balados/) pour écouter ou pour vous abonner sur l’une des plateformes disponibles pour rester à jour sur les nouveaux épisodes. 
 
-## Astuce pour l'accessibilité numérique – Rendre les courriels accessibles
+## Astuces pour l'accessibilité numérique – Rendre les courriels accessibles
 
 <div class="row">
 <div class="col-md-6">
