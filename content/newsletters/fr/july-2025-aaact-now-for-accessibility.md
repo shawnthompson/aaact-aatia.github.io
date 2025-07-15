@@ -166,7 +166,7 @@ Voici quelques conseils essentiels pour concevoir des courriels accessibles : 
 6. **Choisissez des tailles et des styles de police accessibles** : Optez pour des polices sans empattement comme Arial, Calibri, Verdana et Aptos. Assurez-vous que le corps du texte est en taille 12 à 14 points. Évitez les polices décoratives ou trop stylisées. 
 7. **Ajoutez un texte alternatif pour les images** : Fournissez un court texte descriptif qui reflète le contenu pertinent de l'image. 
 8. **Fournissez des liens clairs et cliquables** : Utilisez un texte d'ancrage descriptif comme « Télécharger le rapport » plutôt que des termes vagues comme « Cliquez ici ». 
-9. **Testez l'accessibilité** : Bien que l’outil de vérification de l'accessibilité ne remplace pas une bonne compréhension des pratiques accessibles, il peut aider à cerner certains problèmes. Dans l'onglet Révision, sélectionnez **Vérifier l'accessibilité**. 
+9. **Testez l'accessibilité** : Bien que l’outil de vérification de l'accessibilité ne remplace pas une bonne compréhension des pratiques accessibles, il peut aider à cerner certains problèmes. Dans l'onglet Révision, sélectionnez > Vérifier l'accessibilité. 
 
 L'accessibilité ne concerne pas seulement la conformité; elle incarne l’ouverture à la diversité et l'égalité dans les communications numériques. En suivant ces conseils, vous pouvez créer des courriels qui rejoignent tous les destinataires, sans exception. 
 

@@ -154,15 +154,16 @@ In today's digital landscape, emails remain a powerful tool for communication. B
 
 Here are some essential tips to craft accessible emails: 
 
-1. **Use Descriptive Subject Lines**: Make your subject line clear and concise, so recipients immediately understand the purpose of the email. 
+1. **Use descriptive subject lines**: Make your subject line clear and concise, so recipients immediately understand the purpose of the email. 
 2. **Opt for HTML format** as it offers several benefits, including structured content, text formatting, hyperlinks, and alternative text. Furthermore, using HTML format allows you to follow the accessibility guidelines like WCAG and EN 301 549. 
 3. **When creating a bilingual email**, be sure to add a bookmark to let users skip to the section containing their language or choice. 
 4. In a bilingual email, be sure to **perform a language markup** to help screen readers read the other language text properly. You can do this by highlighting the text you want to set to a different language, select the review tab, then select Language > Set Proofing Language. 
 5. **Plain language:** Avoid overly complex writing styles, choose simple vocabulary, use short sentences, use an active voice, and define abbreviations the first time you use them. 
-6. **Choose Accessible Font Sizes and Styles**: Opt for sans-serif fonts like Arial, Calibri, Verdana and Aptos. Ensure normal body text is 12 to 14 points. Avoid decorative or overly stylized fonts. 
-7. **Incorporate Alt Text for Images**: Include alternative text that briefly describes the relevant content of the image. 
-8. **Provide Clear, Clickable Links**: Use descriptive anchor text like “Download Report” instead of vague terms like “Click Here.” 
-9. **Testing for accessibility**: While the accessibility checker is not a substitute for knowing how to create an accessible document, it can help identify some accessibility issues. Under the review tab, select **Check Accessibility**. 
+6. **Choose accessible font sizes and styles**: Opt for sans-serif fonts like Arial, Calibri, Verdana and Aptos. Ensure normal body text is 12 to 14 points. Avoid decorative or overly stylized fonts. 
+7. **Incorporate Alt Text for images**: Include alternative text that briefly describes the relevant content of the image. 
+8. **Provide clear, clickable links**: Use descriptive anchor text like “Download Report” instead of vague terms like “Click Here.” 
+9. **Testing for accessibility**: While the accessibility checker is not a substitute for knowing how to create an accessible document, it can help identify some accessibility issues. Under the review tab, select 
+   > Check Accessibility. 
 
 Accessibility isn't just about compliance; it's about embracing diversity and ensuring equality in digital communication. By following these tips, you can design emails that resonate with all recipients, leaving no one behind. 
 
