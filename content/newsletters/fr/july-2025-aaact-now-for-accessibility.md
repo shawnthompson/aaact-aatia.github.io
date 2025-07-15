@@ -72,7 +72,7 @@ Vous souhaitez offrir cette formation à votre équipe ou ministère? Écrivez-n
 
 ## Embarquons dans un parcours vers l'accessibilité
 
-Les cadres législatifs et stratégiques fédéraux énoncent les grands principes fondamentaux des droits de la personne et de l’équité. La *[Loi canadienne sur l’accessibilité](https://www.parl.ca/documentviewer/fr/42-1/projet-loi/C-81/sanction-royal)* (2019) s’appuie sur ces principes en exigeant des institutions fédérales qu’elles éliminent les obstacles à l’accessibilité ou évitent d’en créer, afin de permettre la pleine participation des personnes en situation de handicap. Réfléchissons maintenant à ce que cela signifie de transformer ces principes en actions concrètes. 
+Les cadres législatifs et stratégiques fédéraux énoncent les grands principes fondamentaux des droits de la personne et de l’équité. La *[Loi canadienne sur l’accessibilité](https://www.canada.ca/fr/emploi-developpement-social/programmes/canada-accessible/loi-resume.html)* (2019) s’appuie sur ces principes en exigeant des institutions fédérales qu’elles éliminent les obstacles à l’accessibilité ou évitent d’en créer, afin de permettre la pleine participation des personnes en situation de handicap. Réfléchissons maintenant à ce que cela signifie de transformer ces principes en actions concrètes. 
 
 ### Prenons ensemble le chemin de l’accessibilité! 
 

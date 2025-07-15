@@ -70,7 +70,7 @@ To learn more and schedule this training session for your team, contact us at [a
 
 ## Let's Take the Accessibility Journey
 
-The federal legislative and policy frameworks set out broad fundamental principles of human rights and equity. The *[Accessible Canada Act](https://www.parl.ca/DocumentViewer/en/42-1/bill/C-81/royal-assent)* (2019) builds on those principles by requiring that federal institutions eliminate or avoid the creation of barriers to accessibility and the full participation of persons with disabilities. Now, let’s think about what it means to turn those principles into concrete actions. 
+The federal legislative and policy frameworks set out broad fundamental principles of human rights and equity. The *[Accessible Canada Act](https://www.canada.ca/en/employment-social-development/programs/accessible-canada/act-summary.html)* (2019) builds on those principles by requiring that federal institutions eliminate or avoid the creation of barriers to accessibility and the full participation of persons with disabilities. Now, let’s think about what it means to turn those principles into concrete actions. 
 
 ### Let’s take an accessibility journey!   
 
