@@ -42,13 +42,13 @@ To learn more about the AAACT Program, visit [How AAACT Can Help You?](https://w
 
 At the heart of inclusive digital services lies a simple but powerful approach: accessibility by default. Rather than fixing or adding accessibility features after development, integrating accessibility from the start ensures a smoother, more efficient process and a better result for all users. 
 
-Recently, our AAACT team had the pleasure of welcoming our colleagues from GC Forms, at the Canadian Digital Service, as guests on our *Accessible Horizons* podcast. Together, we explored how GC Forms was created with accessibility at its core. Since 2021, it has evolved into a dynamic tool enabling government employees to build accessible forms tailored to their needs. 
+Recently, our AAACT team had the pleasure of welcoming our colleagues from [GC Forms](https://articles.alpha.canada.ca/forms-formulaires/?utm_source=EN_AAACT_Podcast&utm_medium=Podcast&utm_campaign=OKR_4.4_ExternalPromotions), at the [Canadian Digital Service](https://digital.canada.ca/), as guests on our *Accessible Horizons* podcast. Together, we explored how GC Forms was created with accessibility at its core. Since 2021, it has evolved into a dynamic tool enabling government employees to build accessible forms tailored to their needs. 
 
 What sets GC Forms apart is its commitment to making accessibility the default. Designers and developers collaborated early to identify potential issues and define requirements before coding began. While ensuring WCAG 2.1 AA compliance, they went further by using a collaborative design tool and conducting automated and manual testing, including real user feedback. Third-party testing also helped uncover additional issues. This approach integrated planning, coding, and testing from the very start. One key takeaway is that while meeting standards is important, human intervention and user testing are essential to truly understand and address real user needs and experiences. 
 
-Looking ahead, GC Forms is focusing on improving post-publication editing, managing multiple forms across teams, and maintaining its commitment to accessibility through ongoing feedback and iteration. 
+Looking ahead, GC Forms is focusing on improving post-publication editing, managing multiple forms across teams, and maintaining its commitment to accessibility through ongoing feedback and iteration.
 
-If you’re a public servant interested in helping shape the future of accessible digital tools, we invite you to sign up to the GC Forms mailing list at [GC Forms Contact us web page](https://forms-formulaires.alpha.canada.ca/en/contact) for updates and to learn about future opportunities to contribute. 
+If you're a public servant interested in integrating accessible tools into your work, we invite you to check out GC Forms; it's free! You can also learn more about the product by [attending one of their upcoming demos](https://articles.alpha.canada.ca/forms-formulaires/register-for-a-demo/?utm_source=EN_AAACT_Podcast&utm_medium=Podcast&utm_campaign=OKR_4.4_ExternalPromotions).
 
 For the full conversation with the GC Forms team, stay tuned for episode 6 of [*Accessible Horizons* podcast](https://aaact.canada.ca/podcasts/).
 
