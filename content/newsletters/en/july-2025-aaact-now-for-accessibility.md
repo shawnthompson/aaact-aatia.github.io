@@ -70,7 +70,7 @@ To learn more and schedule this training session for your team, contact us at [a
 
 ## Let's Take the Accessibility Journey
 
-The federal legislative and policy frameworks set out broad fundamental principles of human rights and equity. The *[Accessible Canada Act](https://www.parl.ca/DocumentViewer/en/42-1/bill/C-81/royal-assent)* (2019) builds on those principles by requiring that federal institutions eliminate or avoid the creation of barriers to accessibility and the full participation of persons with disabilities. Now, let’s think about what it means to turn those principles into concrete actions. 
+The federal legislative and policy frameworks set out broad fundamental principles of human rights and equity. The *[Accessible Canada Act](https://www.canada.ca/en/employment-social-development/programs/accessible-canada/act-summary.html)* (2019) builds on those principles by requiring that federal institutions eliminate or avoid the creation of barriers to accessibility and the full participation of persons with disabilities. Now, let’s think about what it means to turn those principles into concrete actions. 
 
 ### Let’s take an accessibility journey!   
 
@@ -82,7 +82,7 @@ Accessibility is not the end of the journey. It is not a separate aspect of the 
 
 The journey of creating accessible experiences begins with:  
 
-* Recognizing that every individual is unique and with the right supports, brings a valuable contribution to the organization.
+* Recognizing that every individual is unique and, with the right supports, brings a valuable contribution to the organization.
 * Learning about the different aspects of inclusive design (physical space, documents and systems, communications, business processes, etc.).
 * Planning and identifying the measures and resources to build in accessibility from the start and throughout the process.
 * Developing or designing processes and products that meet modern accessibility standards. For example, select a virtual meeting platform which is widely recognized for its accessibility and routinely use its accessibility features (e.g., captioning, transcription, accessible method for document sharing). 
@@ -101,9 +101,9 @@ True inclusion grows through authentic, ongoing dialogue. When managers learn to
 
 Our workshop, *Conversations That Matter: Unlocking Talent Through Inclusion,* equips managers with practical tools and real-world scenarios. Participants learn how to: 
 
-* navigate delicate topics around workplace accommodations 
-* recognize and remove barriers to inclusion 
-* foster a team culture that values diverse strengths and perspectives 
+* navigate delicate topics around workplace accommodations;
+* recognize and remove barriers to inclusion;
+* foster a team culture that values diverse strengths and perspectives;
 * identify helpful resources. 
 
 If you want to develop inclusive leadership skills and create a workplace where everyone can succeed, this course is for you. To learn more or schedule training, contact us at [aaactlearning-aatiaapprentissage@ssc-spc.gc.ca](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca).  
@@ -154,15 +154,17 @@ In today's digital landscape, emails remain a powerful tool for communication. B
 
 Here are some essential tips to craft accessible emails: 
 
-1. **Use Descriptive Subject Lines**: Make your subject line clear and concise, so recipients immediately understand the purpose of the email. 
+1. **Use descriptive subject lines**: Make your subject line clear and concise, so recipients immediately understand the purpose of the email. 
 2. **Opt for HTML format** as it offers several benefits, including structured content, text formatting, hyperlinks, and alternative text. Furthermore, using HTML format allows you to follow the accessibility guidelines like WCAG and EN 301 549. 
 3. **When creating a bilingual email**, be sure to add a bookmark to let users skip to the section containing their language or choice. 
 4. In a bilingual email, be sure to **perform a language markup** to help screen readers read the other language text properly. You can do this by highlighting the text you want to set to a different language, select the review tab, then select Language > Set Proofing Language. 
 5. **Plain language:** Avoid overly complex writing styles, choose simple vocabulary, use short sentences, use an active voice, and define abbreviations the first time you use them. 
-6. **Choose Accessible Font Sizes and Styles**: Opt for sans-serif fonts like Arial, Calibri, Verdana and Aptos. Ensure normal body text is 12 to 14 points. Avoid decorative or overly stylized fonts. 
-7. **Incorporate Alt Text for Images**: Include alternative text that briefly describes the relevant content of the image. 
-8. **Provide Clear, Clickable Links**: Use descriptive anchor text like “Download Report” instead of vague terms like “Click Here.” 
-9. **Testing for accessibility**: While the accessibility checker is not a substitute for knowing how to create an accessible document, it can help identify some accessibility issues. Under the review tab, select **Check Accessibility**. 
+6. **Choose accessible font sizes and styles**: Opt for sans-serif fonts like Arial, Calibri, Verdana and Aptos. Ensure normal body text is 12 to 14 points. Avoid decorative or overly stylized fonts. 
+7. **Incorporate Alt Text for images**: Include alternative text that briefly describes the relevant content of the image. 
+8. **Provide clear, clickable links**: Use descriptive anchor text like “Download Report” instead of vague terms like “Click Here.” 
+9. **Testing for accessibility**: While the accessibility checker is not a substitute for knowing how to create an accessible document, it can help identify some accessibility issues. Under the review tab, select 
+
+   > Check Accessibility. 
 
 Accessibility isn't just about compliance; it's about embracing diversity and ensuring equality in digital communication. By following these tips, you can design emails that resonate with all recipients, leaving no one behind. 
 

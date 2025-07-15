@@ -30,7 +30,7 @@ Que ce soit pour personnaliser des interrupteurs adaptatifs qui remplacent le cl
 
 À l'AATIA, nous aidons les employés du gouvernement du Canada à trouver des mesures d’adaptation adaptées à leurs besoins individuels. L’impression 3D peut parfois faire partie de la discussion, mais notre équipe se concentre sur la combinaison optimale d’outils – qu’il s’agisse d’appareils adaptatifs éprouvés, de solutions logicielles ou, à l’occasion, d’un outil imprimé sur mesure, afin de créer des milieux de travail où chacun peut donner le meilleur de lui-même.
 
-Pour en savoir plus sur le programme d'AATIA, visitez la page web [Comment le programme d’AATIA peut-il vous aider ?](https://www.canada.ca/en/shared-services/services/employees-accessibility/how-aaact-help-you.html).
+Pour en savoir plus sur le programme d'AATIA, visitez la page web [Comment le programme d’AATIA peut-il vous aider ?](https://www.canada.ca/fr/services-partages/services/employes-accessibilite/programme-aatia-peut-aider.html).
 
 ## L'accessibilité par défaut : créer des expériences numériques inclusives dès la conception avec Formulaires GC
 
@@ -72,7 +72,7 @@ Vous souhaitez offrir cette formation à votre équipe ou ministère? Écrivez-n
 
 ## Embarquons dans un parcours vers l'accessibilité
 
-Les cadres législatifs et stratégiques fédéraux énoncent les grands principes fondamentaux des droits de la personne et de l’équité. La *[Loi canadienne sur l’accessibilité](https://www.parl.ca/documentviewer/fr/42-1/projet-loi/C-81/sanction-royal)* (2019) s’appuie sur ces principes en exigeant des institutions fédérales qu’elles éliminent les obstacles à l’accessibilité ou évitent d’en créer, afin de permettre la pleine participation des personnes en situation de handicap. Réfléchissons maintenant à ce que cela signifie de transformer ces principes en actions concrètes. 
+Les cadres législatifs et stratégiques fédéraux énoncent les grands principes fondamentaux des droits de la personne et de l’équité. La *[Loi canadienne sur l’accessibilité](https://www.canada.ca/fr/emploi-developpement-social/programmes/canada-accessible/loi-resume.html)* (2019) s’appuie sur ces principes en exigeant des institutions fédérales qu’elles éliminent les obstacles à l’accessibilité ou évitent d’en créer, afin de permettre la pleine participation des personnes en situation de handicap. Réfléchissons maintenant à ce que cela signifie de transformer ces principes en actions concrètes. 
 
 ### Prenons ensemble le chemin de l’accessibilité! 
 
@@ -105,12 +105,10 @@ Notre atelier, intitulé Des conversations qui comptent : libérer le potentiel 
 
 * aborder des sujets délicats liés aux mesures d’adaptation en milieu de travail ; 
 * reconnaître et éliminer les obstacles à l’inclusion ; 
-* encourager une culture d’équipe qui valorise les forces et les perspectives diverses; 
+* encourager une culture d’équipe qui valorise les forces et les perspectives diverses ; 
 * repérer les ressources utiles. 
 
-Si vous souhaitez développer vos compétences en leadership inclusif et favoriser un environnement où chacun peut réussir, cette formation est pour vous. 
- Pour en savoir plus ou planifier une séance, communiquez avec nous à : 
- [aaactlearning-aatiaapprentissage@ssc-spc.gc.ca](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca). 
+Si vous souhaitez développer vos compétences en leadership inclusif et favoriser un environnement où chacun peut réussir, cette formation est pour vous. Pour en savoir plus ou planifier une séance, communiquez avec nous à : [aaactlearning-aatiaapprentissage@ssc-spc.gc.ca](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca). 
 
 Ne manquez pas cette occasion de créer un changement significatif, une conversation à la fois. 
 
@@ -166,7 +164,7 @@ Voici quelques conseils essentiels pour concevoir des courriels accessibles : 
 6. **Choisissez des tailles et des styles de police accessibles** : Optez pour des polices sans empattement comme Arial, Calibri, Verdana et Aptos. Assurez-vous que le corps du texte est en taille 12 à 14 points. Évitez les polices décoratives ou trop stylisées. 
 7. **Ajoutez un texte alternatif pour les images** : Fournissez un court texte descriptif qui reflète le contenu pertinent de l'image. 
 8. **Fournissez des liens clairs et cliquables** : Utilisez un texte d'ancrage descriptif comme « Télécharger le rapport » plutôt que des termes vagues comme « Cliquez ici ». 
-9. **Testez l'accessibilité** : Bien que l’outil de vérification de l'accessibilité ne remplace pas une bonne compréhension des pratiques accessibles, il peut aider à cerner certains problèmes. Dans l'onglet Révision, sélectionnez **Vérifier l'accessibilité**. 
+9. **Testez l'accessibilité** : Bien que l’outil de vérification de l'accessibilité ne remplace pas une bonne compréhension des pratiques accessibles, il peut aider à cerner certains problèmes. Dans l'onglet Révision, sélectionnez > Vérifier l'accessibilité. 
 
 L'accessibilité ne concerne pas seulement la conformité; elle incarne l’ouverture à la diversité et l'égalité dans les communications numériques. En suivant ces conseils, vous pouvez créer des courriels qui rejoignent tous les destinataires, sans exception. 
 
