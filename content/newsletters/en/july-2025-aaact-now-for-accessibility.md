@@ -82,7 +82,7 @@ Accessibility is not the end of the journey. It is not a separate aspect of the 
 
 The journey of creating accessible experiences begins with:  
 
-* Recognizing that every individual is unique and with the right supports, brings a valuable contribution to the organization.
+* Recognizing that every individual is unique and, with the right supports, brings a valuable contribution to the organization.
 * Learning about the different aspects of inclusive design (physical space, documents and systems, communications, business processes, etc.).
 * Planning and identifying the measures and resources to build in accessibility from the start and throughout the process.
 * Developing or designing processes and products that meet modern accessibility standards. For example, select a virtual meeting platform which is widely recognized for its accessibility and routinely use its accessibility features (e.g., captioning, transcription, accessible method for document sharing). 
