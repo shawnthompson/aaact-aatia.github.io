@@ -17,7 +17,7 @@ newsletterDate: 2025-07-16
 ## L'impression 3D : un ajout pratique à votre boîte à outils en accessibilité
 
 <div class="row">
-<div class="col-md-6">
+<div class="col-md-5">
 
 ![Trois images qui incluent un interrupteur imprimé en 3D permettant aux personnes en situation de handicap physique de naviguer grâce à une commande multidirectionnelle; pédale à bascule personnalisée imprimée en 3D, conçue pour offrir une commande accessible au pied aux personnes ayant une mobilité limitée des mains; et support personnalisé imprimé en 3D combinant un porte-téléphone intelligent avec une lentille grossissante intégrée pour agrandir l’écran.](/docs/untitled-design.png)
 
@@ -143,8 +143,6 @@ Lisez le rapport complet : [Au travail : l'accessibilité de l’emploi au Canad
 L’équipe d'AATIA est ravie de vous inviter à notre prochain événement en direct *Horizons accessibles* qui aura lieu en juillet ! Cet événement captivant abordera des sujets clés en matière d’accessibilité et offrira des perspectives utiles pour favoriser un milieu de travail inclusif. Visitez la page Web de [formation d’AATIA](https://aaact.canada.ca/formation/) pour rester à l’affût des renseignements et détails à venir. 
 
 Vous ne pouvez pas y assister en direct? Pas de souci! *Horizons accessibles* est aussi offert en balado, vous pouvez donc écouter les discussions quand et où vous le souhaitez. Il vous suffit de visiter la [page Web du balado Horizons accessibles](https://aaact.canada.ca/balados/) pour écouter ou pour vous abonner sur l’une des plateformes disponibles pour rester à jour sur les nouveaux épisodes. 
-
-
 
 ## Astuce pour l'accessibilité numérique – Rendre les courriels accessibles
 

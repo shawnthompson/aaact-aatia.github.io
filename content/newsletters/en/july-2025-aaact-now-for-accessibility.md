@@ -15,29 +15,12 @@ newsletterDate: 2025-07-16
 ## 3D Printing: A Handy Addition to You Accessibility Toolkit
 
 <div class="row">
-<div class="col-md-4">
+<div class="col-md-5">
 
-![Adaptive 3D printed switch enabling users with physical disabilities to navigate through multidirectional input.](/docs/round_switch-1.png)
-
-</div>
-
-<div class="col-md-4">
-
-
-
-![Custom 3D-printed rocker foot pedal designed to provide accessible foot-operated input for users with limited hand mobility.](/docs/pedal-2.png)
-
-
-</div>
-<div class="col-md-4">
-
-
-
-![Custom 3D-printed stand that combines smartphone holder featuring an integrated magnifying lens for screen enlargement.](/docs/phone-holder-2.jpg)
+![Three images that include adaptive 3D printed switch enabling users with physical disabilities to navigate through multidirectional input; custom 3D-printed rocker foot pedal designed to provide accessible foot-operated input for users with limited hand mobility; and custom 3D-printed stand that combines smartphone holder featuring an integrated magnifying lens for screen enlargement.](/docs/untitled-design.png)
 
 </div>
 </div>
-
 
 3D printing has been creating some genuine excitement in accessibility circles, and honestly, it's easy to see why. While it's not going to solve every workplace barrier, it offers a compelling supplementary option for creating personalized tools when existing solutions don't quite hit the mark.
 
@@ -123,7 +106,7 @@ Our workshop, *Conversations That Matter: Unlocking Talent Through Inclusion,* e
 * foster a team culture that values diverse strengths and perspectives 
 * identify helpful resources. 
 
-If you want to develop inclusive leadership skills and create a workplace where everyone can succeed, this course is for you. To learn more or schedule training, contact us at [aaactlearning-aatiaapprentissage@ssc-spc.gc.ca](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca) .  
+If you want to develop inclusive leadership skills and create a workplace where everyone can succeed, this course is for you. To learn more or schedule training, contact us at [aaactlearning-aatiaapprentissage@ssc-spc.gc.ca](mailto:aaactlearning-aatiaapprentissage@ssc-spc.gc.ca).  
 
 Don’t miss this opportunity to create meaningful change, one conversation at a time. 
 
@@ -152,6 +135,7 @@ Read the full report: [Getting to Work: Accessible Employment in Canada –Repor
 
 </div>
 </div>
+
 The AAACT team is excited to invite you to our upcoming *Accessible Horizons* live event this July! This engaging event will explore key accessibility topics and provide valuable insights to support an inclusive workplace. Visit the [AAACT learning web page](https://aaact.canada.ca/learning/) to stay tuned for more information and event details as they become available. 
 
 Can’t join live? No problem! *Accessible Horizons* is also available as a podcast, so you can listen to the conversation anytime, anywhere. Simply visit the [Accessible Horizons podcast web page](https://aaact.canada.ca/podcasts/) to listen or subscribe on one of our available podcast platforms to stay updated with new episodes.
