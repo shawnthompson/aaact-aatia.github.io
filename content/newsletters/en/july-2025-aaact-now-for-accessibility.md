@@ -78,7 +78,8 @@ For the full conversation with the GC Forms team, stay tuned for episode 6 of [*
 
 </div>
 </div>
-As part of AAACT’s ongoing commitment to promote disability inclusion across the public service, we recently delivered a workshop titled \\\\\\*Creating an Inclusive Workplace Culture\\\\\\* to tour guides at the Supreme Court of Canada. This session aimed to deepen participants’ understanding of how a positive workplace culture supports inclusion for persons with disabilities, not only within the public service, but also in the experiences of Canadians who visit. By fostering respectful, accessible, and inclusive interactions, we ensure that everyone, regardless of ability, feels welcomed and valued. 
+
+As part of AAACT’s ongoing commitment to promote disability inclusion across the public service, we recently delivered a workshop titled *Creating an Inclusive Workplace Culture* to tour guides at the Supreme Court of Canada. This session aimed to deepen participants’ understanding of how a positive workplace culture supports inclusion for persons with disabilities, not only within the public service, but also in the experiences of Canadians who visit. By fostering respectful, accessible, and inclusive interactions, we ensure that everyone, regardless of ability, feels welcomed and valued. 
 
 The workshop covered the three pillars of disability inclusion, environment, culture, and individual adjustments, highlighting how each contributes to breaking down barriers. Participants explored the power of inclusive language in challenging ableism and learned practical strategies to become effective allies. By embedding accessibility into daily practices and public interactions, tour guides are now better equipped to create inclusive experiences for all visitors, helping to build a more equitable and welcoming environment for both employees and the public they serve. 
 
@@ -151,7 +152,7 @@ Read the full report: [Getting to Work: Accessible Employment in Canada –Repor
 
 </div>
 </div>
-The AAACT team is excited to invite you to our upcoming \*Accessible Horizons\* live event this July! This engaging event will explore key accessibility topics and provide valuable insights to support an inclusive workplace. Visit the \[AAACT learning web page](https://aaact.canada.ca/learning/) to stay tuned for more information and event details as they become available. 
+The AAACT team is excited to invite you to our upcoming *Accessible Horizons* live event this July! This engaging event will explore key accessibility topics and provide valuable insights to support an inclusive workplace. Visit the [AAACT learning web page](https://aaact.canada.ca/learning/) to stay tuned for more information and event details as they become available. 
 
 Can’t join live? No problem! *Accessible Horizons* is also available as a podcast, so you can listen to the conversation anytime, anywhere. Simply visit the [Accessible Horizons podcast web page](https://aaact.canada.ca/podcasts/) to listen or subscribe on one of our available podcast platforms to stay updated with new episodes.
 

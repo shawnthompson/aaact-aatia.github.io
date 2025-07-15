@@ -23,20 +23,19 @@ newsletterDate: 2025-07-16
 
 </div>
 </div>
+
 L’impression 3D suscite un véritable enthousiasme dans les milieux de l’accessibilité, et avec raison. Même si elle ne peut pas éliminer tous les obstacles en milieu de travail, elle représente une option complémentaire convaincante pour créer des outils personnalisés lorsque les solutions existantes ne répondent pas tout à fait aux besoins.
 
 Que ce soit pour personnaliser des interrupteurs adaptatifs qui remplacent le clavier ou la souris, créer des aides à la dextérité facilitant la manipulation de fournitures de bureau, ou encore concevoir des étiquettes braille sur mesure pour votre espace de travail, ces solutions imprimées peuvent combler les lacunes laissées par les produits standards. Bien qu’elles soient souvent conçues pour une seule personne au départ, ces aides profitent souvent à d’autres collègues ayant des besoins similaires. De plus, l’impression 3D permet de créer et de partager ces outils rapidement et à faible coût, en attendant des solutions plus permanentes.
 
 À l'AATIA, nous aidons les employés du gouvernement du Canada à trouver des mesures d’adaptation adaptées à leurs besoins individuels. L’impression 3D peut parfois faire partie de la discussion, mais notre équipe se concentre sur la combinaison optimale d’outils – qu’il s’agisse d’appareils adaptatifs éprouvés, de solutions logicielles ou, à l’occasion, d’un outil imprimé sur mesure, afin de créer des milieux de travail où chacun peut donner le meilleur de lui-même.
 
-Pour en savoir plus sur le programme d'AATIA, visitez la page web [Comment le programme d’AATIA peut-il vous aider ?](https://www.canada.ca/en/shared-services/services/employees-accessibility/how-aaact-help-you.html) .
+Pour en savoir plus sur le programme d'AATIA, visitez la page web [Comment le programme d’AATIA peut-il vous aider ?](https://www.canada.ca/en/shared-services/services/employees-accessibility/how-aaact-help-you.html).
 
 ## L'accessibilité par défaut : créer des expériences numériques inclusives dès la conception avec Formulaires GC
 
-
 <div class="row">
 <div class="col-md-6">
-
 
 ![Logo de Formulaires GC.](/docs/big-logo.png)
 
@@ -59,7 +58,6 @@ Pour écouter la conversation complète avec l’équipe de Formulaires GC, rest
 
 <div class="row"> 
 <div class="col-md-6">
-
 
 ![Formateurs du programme d'AATIA animant une séance interactive de formation sur l’accessibilité avec des participants engagés.](/docs/image-10-.jpg)
 
@@ -134,10 +132,8 @@ Lisez le rapport complet : [Au travail : l'accessibilité de l’emploi au Canad
 
 ## Événement en direct Horizons accessibles 
 
-
 <div class="row">
 <div class="col-md-6">
-
 
 ![Bannière décorative pour le balado Horizons accessibles.](/docs/coverartpurplefrench.png)
 
@@ -148,19 +144,17 @@ L’équipe d'AATIA est ravie de vous inviter à notre prochain événement en d
 
 Vous ne pouvez pas y assister en direct? Pas de souci! *Horizons accessibles* est aussi offert en balado, vous pouvez donc écouter les discussions quand et où vous le souhaitez. Il vous suffit de visiter la [page Web du balado Horizons accessibles](https://aaact.canada.ca/balados/) pour écouter ou pour vous abonner sur l’une des plateformes disponibles pour rester à jour sur les nouveaux épisodes. 
 
-## 
-Astuce pour l'accessibilité numérique – Rendre les courriels accessibles
 
+
+## Astuce pour l'accessibilité numérique – Rendre les courriels accessibles
 
 <div class="row">
 <div class="col-md-6">
-
 
 ![Bannière décorative pour la Boîte à outils sur l’accessibilité numérique.](/docs/banner.png)
 
 </div>
 </div>
-
 
 Dans le paysage numérique actuel, le courriel demeure un outil de communication puissant. Mais parmi tous les conceptions, liens et mises en page, l'accessibilité est souvent négligée. Créer des courriels accessibles n’est pas un simple atout, c'est une nécessité pour s'assurer que votre message atteigne tout le monde, y compris les personnes en situation de handicap. Les courriels accessibles améliorent l'expérience utilisateur, élargissent la portée de votre audience et démontrent votre engagement envers l'inclusion. 
 
