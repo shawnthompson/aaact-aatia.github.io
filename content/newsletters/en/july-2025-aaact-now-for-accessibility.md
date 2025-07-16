@@ -7,7 +7,7 @@ description: "**In this edition**: We share important information, resources,
 introduction: As we wind down for the summer and enjoy a slower pace, it's the
   perfect time to reflect and recharge, and to start planning for the seasons
   ahead. Whether you're planning training, updating your digital spaces, or
-  thinking about inclusive design, accessibility should remain front and center.
+  thinking about inclusive design, accessibility should remain front and centre.
   In this issue, we’ll share important information, resources, and ideas to help
   you stay proactive and inclusive all year long.
 newsletterDate: 2025-07-16
@@ -28,7 +28,7 @@ From customizing adaptive switches that can replace the need for a keyboard or m
 
 At AAACT, we help GC employees find workplace accommodations tailored to their individual needs. While 3D printing may be part of the conversation, our team focuses on identifying the right combination of tools, whether that's established adaptive devices, software solutions, or occasionally, a custom-printed aid, to create workspaces where everyone can do their best work.
 
-To learn more about the AAACT Program, visit [How AAACT Can Help You?](https://www.canada.ca/en/shared-services/services/employees-accessibility/how-aaact-help-you.html). 
+To learn more about the AAACT Program, visit [How CAN AAACT Help You?](https://www.canada.ca/en/shared-services/services/employees-accessibility/how-aaact-help-you.html). 
 
 ## Accessibility by Default: Building Inclusive Digital Experiences from the Ground Up with GC Forms 
 
