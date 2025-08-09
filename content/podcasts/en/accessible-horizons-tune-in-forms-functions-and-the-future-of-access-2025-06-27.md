@@ -29,7 +29,7 @@ longDescription: >-
 
 
   We will also go “behind the scene” to understand how accessibility considerations became part of the GC Forms development process.
-description: "Tune in: Forms, Functions and the Future of Access"
+description: GC Forms- Making forms Protected B and accessible by default.
 image: /img/podcasts/CoverArtEnglishPurple.png
 duration:
   minutes: 36

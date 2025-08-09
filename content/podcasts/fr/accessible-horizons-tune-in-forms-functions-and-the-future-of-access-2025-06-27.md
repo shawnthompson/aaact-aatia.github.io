@@ -31,7 +31,7 @@ longDescription: >-
 
 
   Nous explorerons également les coulisses pour comprendre comment les considérations d'accessibilité ont été intégrées au processus de développement de Formulaires GC.
-description: "Branchez-vous: formulaires, fonctions et l'avenir de l'accessibilité"
+description: ""
 image: /img/podcasts/CoverArtPurpleFrench.png
 duration:
   minutes: 36
