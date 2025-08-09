@@ -30,7 +30,7 @@ longDescription: >-
 otherLanguageTitle: Accessible Horizons- Accessibility Unveiled - The Journey Begins
 title: "Horizons accessibles - Branchez-vous: formulaires, fonctions et l'avenir
   de l'accessibilité"
-podcastDate: 2025-07-28
+podcastDate: 2025-06-27
 episode: 6
 description: "Branchez-vous: formulaires, fonctions et l'avenir de l'accessibilité"
 image: /img/podcasts/CoverArtPurpleFrench.png

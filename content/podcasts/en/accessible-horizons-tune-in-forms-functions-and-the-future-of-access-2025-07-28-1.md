@@ -28,7 +28,7 @@ longDescription: >-
   We will also go “behind the scene” to understand how accessibility considerations became part of the GC Forms development process.
 otherLanguageTitle: Horizons accessibles - L'Accessibilité démystifiée - C'est un départ
 title: "Accessible Horizons- Tune in: Forms, Functions and the Future of Access"
-podcastDate: 2025-07-28
+podcastDate: 2025-06-27
 episode: 6
 description: "Tune in: Forms, Functions and the Future of Access"
 image: /img/podcasts/CoverArtEnglishPurple.png
