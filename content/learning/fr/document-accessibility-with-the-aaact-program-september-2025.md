@@ -1,0 +1,57 @@
+---
+passportSection: false
+title: Document Accessibility with the AAACT Program - September 2025
+otherLanguageTitle: L 'Accessibilité des documents avec le programme AATIA - Septembre 2025
+tagline: "Chaque mot compte : Créer des documents accessibles pour tous"
+description: >-
+  Apprenez comment appliquer les principes de base de l'accessibilité pour
+  produire du contenu accessible dans divers formats (p.ex. les documents Word,
+  PDF et PowerPoint). Cet atelier, présenté par les employés du programme
+  d'AATIA, permettra :
+
+
+  * de souligner l'importance de l'accessibilité;
+
+  * d'outiller les participants pour qu'ils puissent identifier les enjeux d'accessibilité dans les documents;
+
+  * de montrer comment les participants peuvent effectuer des vérifications de l'accessibilité et de corriger le contenu;
+
+  * d'effectuer une combinaison de présentations, de démonstrations, d'exercices et de discussions dirigées;
+
+  * de montrer à quel point les documents accessibles peuvent être convertis plus rapidement et plus facilement en d'autres formats.
+eventDetails:
+  eventDate: 2025-09-09
+  en:
+    date: 2025-09-09
+    startTime: 12 h 30
+    endTime: 15 h 30
+    text: Join the workshop
+    link: https://events.teams.microsoft.com/event/2d6d355f-7b76-4dac-b52c-8fa7cf221e09@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
+    signLanguage: true
+  fr:
+    date: 2025-09-09
+    startTime: 9 h 30
+    endTime: 12 h 30
+    text: Lien de l’atelier
+    link: https://events.teams.microsoft.com/event/af2abb2b-62cb-435d-8eb0-abf8b05c35dd@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
+    signLanguage: true
+duration: null
+platform: Microsoft Teams
+---
+## Détails de l’événement
+
+Apprendre à appliquer les principes de base de l'accessibilité pour produire un contenu accessible dans différents formats (ex. documents Word, PDF, PowerPoint).
+
+Organisé par le programme AATIA.
+
+### Cet atelier permettra :
+
+* de souligner l'importance de l'accessibilité
+* d'outiller les participants pour qu'ils puissent identifier les enjeux d'accessibilité dans les documents
+* démontrer comment les participants peuvent effectuer des vérifications de l'accessibilité et de corriger le contenu
+* comprennent une combinaison de présentations, de démonstrations, d'exercices et de discussions facilitées
+* démontrer à quel point les documents accessibles peuvent être convertis plus rapidement et plus facilement en d'autres formats
+
+Cet événement est ouvert aux employés  du gouvernement du Canada, merci de le partager largement. Réunissons-nous pour avoir un impact durable sur l'accessibilité et l'inclusion sur le lieu de travail.
+
+Nous nous attendons à vous voir à l'événement !
