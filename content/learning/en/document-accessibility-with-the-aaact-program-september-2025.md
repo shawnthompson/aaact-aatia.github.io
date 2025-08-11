@@ -3,21 +3,11 @@ passportSection: false
 title: Document Accessibility with the AAACT Program - September 2025
 otherLanguageTitle: L 'Accessibilité des documents avec le programme AATIA - Septembre 2025
 tagline: "Make Every Word Count: Creating Accessible Documents for All"
-description: >-
-  Learn how to apply the basic principles of accessibility to produce accessible
-  content in various formats (ex. Word documents, PDF, PowerPoint). Hosted by
-  AAACT program staff, this workshop will:
-
-
-  * highlight the importance of accessibility
-
-  * enable participants to identify document accessibility issues
-
-  * demonstrate how participants can perform document accessibility checks and fix content
-
-  * include a combination of presentations, demonstrations, exercises and facilitated discussion
-
-  * how accessible documents are faster and easier to convert into other formats
+description: Learn how to create inclusive and accessible documents with
+  practical techniques and hands-on guidance from the Accessibility,
+  Accommodation and Adaptive Computer Technology (AAACT) team. This workshop
+  will equip Government of Canada employees and managers with the skills to
+  identify, fix, and improve document accessibility across various formats.
 introduction: ""
 eventDetails:
   eventDate: 2025-09-09
