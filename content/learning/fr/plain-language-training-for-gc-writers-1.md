@@ -1,7 +1,7 @@
 ---
 passportSection: false
 title: Participez à notre formation sur le langage clair destinée aux rédacteurs
-  juridiques en septembre 2025.
+  du GC en septembre 2025.
 otherLanguageTitle: Join Our September 2025 Plain Language Training for GC writers
 description: Formation gratuite en langage clair pour les rédacteurs du
   gouvernment du Canada. (Disponible en anglais seulement)
