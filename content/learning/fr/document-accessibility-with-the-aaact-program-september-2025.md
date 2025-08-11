@@ -1,7 +1,7 @@
 ---
 passportSection: false
-title: Document Accessibility with the AAACT Program - September 2025
-otherLanguageTitle: L 'Accessibilité des documents avec le programme AATIA - Septembre 2025
+title: L 'Accessibilité des documents avec le programme AATIA - Septembre 2025
+otherLanguageTitle: Document Accessibility with the AAACT Program - September 2025
 tagline: "Chaque mot compte : Créer des documents accessibles pour tous"
 description: Apprenez à créer des documents inclusifs et accessibles grâce aux
   techniques pratiques et aux conseils de l'équipe de l’Accessibilité,
