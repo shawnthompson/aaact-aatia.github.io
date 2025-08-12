@@ -13,15 +13,15 @@ eventDetails:
   eventDate: 2025-09-09
   en:
     date: 2025-09-09
-    startTime: 12 h 30
-    endTime: 15 h 30
+    startTime: 09:00 AM
+    endTime: 12:00 PM
     text: Join the workshop
     link: https://events.teams.microsoft.com/event/2d6d355f-7b76-4dac-b52c-8fa7cf221e09@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
     signLanguage: true
   fr:
     date: 2025-09-09
-    startTime: 9 h 30
-    endTime: 12 h 30
+    startTime: 01:00 PM
+    endTime: 04:00 PM
     text: Lien de l’atelier
     link: https://events.teams.microsoft.com/event/af2abb2b-62cb-435d-8eb0-abf8b05c35dd@d05bc194-94bf-4ad6-ae2e-1db0f2e38f5e
     signLanguage: true
