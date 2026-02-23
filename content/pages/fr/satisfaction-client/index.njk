@@ -9,7 +9,15 @@ customScript: "/js/case-number.js"
 <p>Numéro de dossier : <strong id="caseNumberDisplay">Loading...</strong></p>
 
 <div id="caseNumberMissing" hidden>
-  <p>Nous ne trouvons pas de numéro de dossier dans le lien utilisé. Retournez au lien envoyé par courriel afin que nous puissions relier votre rétroaction au bon dossier.</p>
+  <p>Nous ne trouvons pas de numéro de dossier dans le lien utilisé. Retournez au lien envoyé par courriel ou entrez votre numéro de dossier ci-dessous afin que nous puissions relier votre rétroaction au bon dossier.</p>
+
+  <form method="GET" action="/satisfaction-client/">
+    <div class="form-group">
+      <label for="manualCaseNumber">Entrez votre numéro de dossier (p. ex. ABC-123) :</label>
+      <input class="form-control" type="text" id="manualCaseNumber" name="case" required>
+    </div>
+    <button class="btn btn-primary" type="submit">Continuer</button>
+  </form>
 </div>
 
 <form

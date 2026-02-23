@@ -9,7 +9,15 @@ customScript: "/js/case-number.js"
 <p>Case number: <strong id="caseNumberDisplay">Loading...</strong></p>
 
 <div id="caseNumberMissing" hidden>
-  <p>We couldn’t find a case number in the link you used. Please return to the link in your email so we can associate your feedback with the right file.</p>
+  <p>We couldn't find a case number in the link you used. Please return to the link in your email or enter your case number below so we can associate your feedback with the right file.</p>
+
+  <form method="GET" action="/client-satisfaction/">
+    <div class="form-group">
+      <label for="manualCaseNumber">Enter your case number (e.g., ABC-123):</label>
+      <input class="form-control" type="text" id="manualCaseNumber" name="case" required>
+    </div>
+    <button class="btn btn-primary" type="submit">Continue</button>
+  </form>
 </div>
 
 <form
