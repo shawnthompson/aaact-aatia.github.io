@@ -7,6 +7,7 @@ customScript: "/js/case-number.js"
 ---
 
 <p>Case number: <strong id="caseNumberDisplay">Loading...</strong></p>
+<p>Your thoughts help us improve service for future clients.</p>
 
 <div id="caseNumberMissing" hidden>
   <p>We couldn't find a case number in the link you used. Please return to the link in your email or enter your case number below so we can associate your feedback with the right file.</p>
@@ -20,7 +21,6 @@ customScript: "/js/case-number.js"
   </form>
 </div>
 
-<div class="hidden-form">
 <form
   id="clientSatisfactionForm"
   name="client-satisfaction"
@@ -28,6 +28,7 @@ customScript: "/js/case-number.js"
   action="/client-satisfaction/thank-you/"
   data-netlify="true"
   data-netlify-honeypot="bot-field"
+  hidden
 >
   <input type="hidden" name="form-name" value="client-satisfaction">
   <p hidden>
@@ -37,13 +38,6 @@ customScript: "/js/case-number.js"
     </label>
   </p>
   <input type="hidden" id="subjectHidden" name="subject" value="Client satisfaction feedback">
-
-  <p>Your thoughts help us improve service for future clients.</p>
-
-  <div class="form-group">
-    <label for="caseNumberField">Case number (from your link)</label>
-    <input class="form-control" type="text" id="caseNumberField" name="caseNumber" readonly>
-  </div>
 
   <div class="form-group">
     <label for="overallSatisfaction">Overall, how satisfied are you with the service you received? (required)</label>
@@ -69,7 +63,6 @@ customScript: "/js/case-number.js"
 
   <button class="btn btn-primary" type="submit">Submit feedback</button>
 </form>
-</div>
 
 <noscript>
   JavaScript is needed to read the case number from your link so that we can connect your comments to the right file. Please go back to the link from your email and make sure scripting is enabled before submitting.

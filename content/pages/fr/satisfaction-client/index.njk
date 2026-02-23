@@ -7,7 +7,6 @@ customScript: "/js/case-number.js"
 ---
 
 <p>Numéro de dossier : <strong id="caseNumberDisplay">Loading...</strong></p>
-
 <p>Vos commentaires nous aident à mieux soutenir les personnes qui nous contactent.</p>
 
 <div id="caseNumberMissing" hidden>
@@ -22,7 +21,6 @@ customScript: "/js/case-number.js"
   </form>
 </div>
 
-<div class="hidden-form">
 <form
   id="clientSatisfactionForm"
   name="client-satisfaction"
@@ -30,6 +28,7 @@ customScript: "/js/case-number.js"
   action="/satisfaction-client/merci/"
   data-netlify="true"
   data-netlify-honeypot="bot-field"
+  hidden
 >
   <input type="hidden" name="form-name" value="client-satisfaction">
   <p hidden>
@@ -39,12 +38,6 @@ customScript: "/js/case-number.js"
     </label>
   </p>
   <input type="hidden" id="subjectHidden" name="subject" value="Rétroaction sur la satisfaction des clients">
-
-    <div class="form-group">
-      <label for="caseNumberField">Numéro de dossier (de votre lien)</label>
-      <input class="form-control" type="text" id="caseNumberField" name="caseNumber" readonly>
-    </div>
-
     <div class="form-group">
       <label for="overallSatisfaction">Comment décririez-vous votre expérience?</label>
       <select class="form-control" id="overallSatisfaction" name="overallSatisfaction" required>
@@ -69,7 +62,6 @@ customScript: "/js/case-number.js"
 
     <button class="btn btn-primary" type="submit">Envoyer ma rétroaction</button>
 </form>
-</div>
 
 <noscript>
   JavaScript est nécessaire pour récupérer le numéro de dossier du lien que vous avez reçu. Retournez au lien de votre courriel et activez JavaScript avant de soumettre votre rétroaction.

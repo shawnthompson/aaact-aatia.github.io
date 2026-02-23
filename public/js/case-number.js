@@ -39,11 +39,10 @@
   }
 
   if (form) {
-    var wrapper = form.parentElement;
     if (hasCaseNumber) {
-      wrapper.classList.remove('hidden-form');
+      form.removeAttribute('hidden');
     } else {
-      wrapper.classList.add('hidden-form');
+      form.setAttribute('hidden', '');
     }
   }
 

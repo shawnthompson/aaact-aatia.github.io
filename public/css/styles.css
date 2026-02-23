@@ -473,7 +473,3 @@ h1 small {
 	height: auto;
 }
 
-/* Form visibility toggle */
-#clientSatisfactionForm.hidden-form {
-	display: none;
-}
