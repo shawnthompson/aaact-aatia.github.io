@@ -1,0 +1,62 @@
+---
+title: "Client satisfaction"
+layout: "layouts/base.njk"
+permalink: "/en/client-satisfaction/"
+customScript: "/js/case-number.js"
+---
+
+<p>Case number: <strong id="caseNumberDisplay">Loading...</strong></p>
+
+<div id="caseNumberMissing" hidden>
+  <p>We couldn’t find a case number in the link you used. Please return to the link in your email so we can associate your feedback with the right file.</p>
+</div>
+
+<form
+  id="clientSatisfactionForm"
+  name="client-satisfaction"
+  method="POST"
+  action="/en/client-satisfaction/thank-you/"
+  data-netlify="true"
+  data-netlify-honeypot="bot-field"
+  hidden
+>
+  <input type="hidden" name="form-name" value="client-satisfaction">
+  <p hidden>
+    <label>
+      Don’t fill this out if you are human:
+      <input name="bot-field" autocomplete="off" />
+    </label>
+  </p>
+  <input type="hidden" id="caseNumberHidden" name="caseNumber" value="">
+  <input type="hidden" id="submissionIdHidden" name="submissionId" value="">
+
+  <p>Your thoughts help us improve service for future clients.</p>
+
+  <div class="form-group">
+    <label for="overallSatisfaction">Overall, how satisfied are you with the service you received? (required)</label>
+    <select class="form-control" id="overallSatisfaction" name="overallSatisfaction" required>
+      <option value="">Please choose an option</option>
+      <option value="extremely-satisfied">1 · Extremely satisfied</option>
+      <option value="very-satisfied">2 · Very satisfied</option>
+      <option value="quite-satisfied">3 · Quite satisfied</option>
+      <option value="somewhat-satisfied">4 · Somewhat satisfied</option>
+      <option value="slightly-satisfied">5 · Slightly satisfied</option>
+      <option value="neutral">6 · Neutral</option>
+      <option value="slightly-dissatisfied">7 · Slightly dissatisfied</option>
+      <option value="somewhat-dissatisfied">8 · Somewhat dissatisfied</option>
+      <option value="quite-dissatisfied">9 · Quite dissatisfied</option>
+      <option value="very-dissatisfied">10 · Very dissatisfied</option>
+    </select>
+  </div>
+
+  <div class="form-group">
+    <label for="comments">Why did you choose that rating? (optional)</label>
+    <textarea class="form-control" id="comments" name="comments" rows="4"></textarea>
+  </div>
+
+  <button class="btn btn-primary" type="submit">Submit feedback</button>
+</form>
+
+<noscript>
+  JavaScript is needed to read the case number from your link so that we can connect your comments to the right file. Please go back to the link from your email and make sure scripting is enabled before submitting.
+</noscript>
