@@ -20,6 +20,7 @@ customScript: "/js/case-number.js"
   </form>
 </div>
 
+<div class="hidden-form">
 <form
   id="clientSatisfactionForm"
   name="client-satisfaction"
@@ -27,7 +28,6 @@ customScript: "/js/case-number.js"
   action="/client-satisfaction/thank-you/"
   data-netlify="true"
   data-netlify-honeypot="bot-field"
-  hidden
 >
   <input type="hidden" name="form-name" value="client-satisfaction">
   <p hidden>
@@ -42,7 +42,7 @@ customScript: "/js/case-number.js"
 
   <div class="form-group">
     <label for="caseNumberField">Case number (from your link)</label>
-    <input class="form-control" type="text" id="caseNumberField" name="caseNumber" disabled>
+    <input class="form-control" type="text" id="caseNumberField" name="caseNumber" readonly>
   </div>
 
   <div class="form-group">
@@ -69,6 +69,7 @@ customScript: "/js/case-number.js"
 
   <button class="btn btn-primary" type="submit">Submit feedback</button>
 </form>
+</div>
 
 <noscript>
   JavaScript is needed to read the case number from your link so that we can connect your comments to the right file. Please go back to the link from your email and make sure scripting is enabled before submitting.

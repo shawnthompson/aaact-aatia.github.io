@@ -472,3 +472,8 @@ h1 small {
 	width: 50px;
 	height: auto;
 }
+
+/* Form visibility toggle */
+#clientSatisfactionForm.hidden-form {
+	display: none;
+}
