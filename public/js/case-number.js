@@ -21,8 +21,7 @@
   var caseNumber = readCaseNumber();
   var hasCaseNumber = caseNumber !== '';
   var display = document.getElementById('caseNumberDisplay');
-  var hidden = document.getElementById('caseNumberHidden');
-  var submissionId = document.getElementById('submissionIdHidden');
+  var subject = document.getElementById('subjectHidden');
   var form = document.getElementById('clientSatisfactionForm');
   var missingMessage = document.getElementById('caseNumberMissing');
 
@@ -30,12 +29,8 @@
     display.textContent = hasCaseNumber ? caseNumber : 'Not provided';
   }
 
-  if (hidden) {
-    hidden.value = hasCaseNumber ? caseNumber : '';
-  }
-
-  if (submissionId) {
-    submissionId.value = hasCaseNumber ? caseNumber : '';
+  if (subject) {
+    subject.value = hasCaseNumber ? 'Client satisfaction feedback - ' + caseNumber : 'Client satisfaction feedback';
   }
 
   if (form) {
