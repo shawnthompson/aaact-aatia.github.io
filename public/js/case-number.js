@@ -27,7 +27,7 @@
   var missingMessage = document.getElementById('caseNumberMissing');
 
   if (display) {
-    display.textContent = hasCaseNumber ? caseNumber : 'Not provided';
+    display.textContent = hasCaseNumber ? caseNumber : (display.getAttribute('data-missing-text') || 'Not provided');
   }
 
   if (field) {
