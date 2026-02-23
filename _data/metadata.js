@@ -7,6 +7,10 @@ module.exports = {
 		en: "Accessibility, Accommodation and Adaptive Computer Technology (AAACT)",
 		fr: "Accessibilité, adaptation et technologie informatique adaptée (AATIA)"
 	},
+	group: {
+		en: "Digital Accessibility & Inclusive Design (DAID)",
+		fr: "Accessibilité Numérique et Conception Inclusive (ANCI)"
+	},
 	url: "https://aaact-aatia.github.io/",
 	description: {
 		en: "The Government of Canada's Accessibility, Accommodation and Adaptive Computer Technology (AAACT) program aims to lead in creating inclusive, barrier-free workplaces and services by providing support, training, and resources to ensure accessible digital content and adaptive technologies for all public servants, including those with disabilities.",
