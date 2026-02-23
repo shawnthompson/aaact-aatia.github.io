@@ -6,6 +6,17 @@
 [functions]
   directory = "netlify/functions"
 
+# Cache control headers
+[[headers]]
+  for = "/client-satisfaction/thank-you/*"
+  [headers.values]
+    Cache-Control = "no-cache, no-store, must-revalidate"
+
+[[headers]]
+  for = "/satisfaction-client/merci/*"
+  [headers.values]
+    Cache-Control = "no-cache, no-store, must-revalidate"
+
 # Redirect root domains to correct homepages
 [[redirects]]
   from = "https://aaact.canada.ca/"
