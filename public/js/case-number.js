@@ -21,12 +21,17 @@
   var caseNumber = readCaseNumber();
   var hasCaseNumber = caseNumber !== '';
   var display = document.getElementById('caseNumberDisplay');
+  var field = document.getElementById('caseNumberField');
   var subject = document.getElementById('subjectHidden');
   var form = document.getElementById('clientSatisfactionForm');
   var missingMessage = document.getElementById('caseNumberMissing');
 
   if (display) {
     display.textContent = hasCaseNumber ? caseNumber : 'Not provided';
+  }
+
+  if (field) {
+    field.value = hasCaseNumber ? caseNumber : '';
   }
 
   if (subject) {
